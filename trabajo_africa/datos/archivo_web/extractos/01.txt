@@ -1,0 +1,386 @@
+FUENTE 01: Banco Mundial, trayectoria de las políticas económicas
+URL original: https://documents1.worldbank.org/curated/en/886221468048846460/pdf/779820WP0KENYA00Box377319B00PUBLIC0.pdf
+Fecha de captura: 2026-10-21
+Tipo: texto extraído por navegador; puede ser parcial. No es el HTML/PDF original.
+Estado: texto_recuperado
+
+World Bank Document (https://documents1.worldbank.org/curated/en/886221468048846460/pdf/779820WP0KENYA00Box377319B00PUBLIC0.pdf)
+  Crawled: 3 weeks ago; Content type: application/pdf; Number of pages: 159; Source: open({"ref_id":"https://documents1.worldbank.org/curated/en/886221468048846460/pdf/779820WP0KENYA00Box377319B00PUBLIC0.pdf","lineno":null}); Total lines: 5139
+L0@P0: Structural Implications of Economic
+L1@P0: Liberalization on Agriculture and Rural
+L2@P0: Development
+L3@P0: RuralStruc Program – Phase I
+L4@P0: January 2007
+L5@P0: Egerton University Tegemeo Institute
+L6@P0-1: Public Disclosure Authorized Public Disclosure Authorized Public Disclosure Authorized Public Disclosure AuthorizedThe RuralStruc Program on the ‘Structural Dimensions of Liberalization in Agriculture and
+L7@P1: Rural Development’ is a joint initiative of the World Bank, the French Cooperation (the French
+L8@P1: Development Agency, the Ministry of Agriculture and Fisheries, the Ministry of Foreign and
+L9@P1: European Affairs, the Agricultural Research Centre for International Development (CIRAD) and
+L10@P1: the International Fund for Agricultural Development). It is managed by the World Bank.
+L11@P1: With a duration of three years (2006-2009), its objective is to propose a renewed analysis of the
+L12@P1: processes of liberalization and economic integration – going beyond the only commercial
+L13@P1: dimension – and their impacts on agriculture and the rural sector of developing countries. It also
+L14@P1: has the mandate to bring an updated vision of the situation of rural economies in terms of levels
+L15@P1: of wealth and diversification. The results obtained will make it possible to improve the dialogue
+L16@P1: between national and international partners and to provide orientations for the agricultural and
+L17@P1: rural policy debates.
+L18@P1: The Program adopts a comparative approach across seven countries – Mexico, Nicaragua,
+L19@P1: Morocco, Senegal, Mali, Kenya and Madagascar – which correspond to different stages of the
+L20@P1: process of liberalization and economic integration. The Program’s work is conducted with teams
+L21@P1: of national experts and researchers. Two phases were implemented: a first phase providing an
+L22@P1: overview of each country’s dynamics (2006-2007), and a second phase comprising sectoral and
+L23@P1: regional case studies, supported by rural household surveys (2007-2009).
+L24@P1: http://www.worldbank.org/afr/ruralstruc
+L25@P1: The present study bears the names of its authors and national program manager, which must be
+L26@P1: used and cited appropriately. The findings, interpretations and conclusions expressed in this
+L27@P1: document are entirely those of the authors and do not necessarily reflect the view of the World
+L28@P1: Bank, its Executive Directors, or the countries they represent, nor of the other contributing donors
+L29@P1-2: involved in the Program. 2
+L30@P2: Structural Implications of Economic
+L31@P2: Liberalization on Agriculture and Rural
+L32@P2: Development
+L33@P2: RuralStruc Program – Phase I
+L34@P2-4: January 2007 i
+L35@P4: INDEX
+L36@P4: INDEX ....................................................................................................................................................I
+L37@P4: AUTHORS...........................................................................................................................................III
+L38@P4: EXECUTIVE SUMMARY ..................................................................................................................V
+L39@P4: INTRODUCTION .................................................................................................................................1
+L40@P4: PART I - PLACE AND ROLE OF AGRICULTURE IN THE NATIONAL CONFIGURATION3
+L41@P4: CHAPTER 1 - HISTORICAL BENCH MARKS: CHRONOLOGY OF EVENTS..............................................5
+L42@P4: 1. Political Changes in Kenya....................................................................................................5
+L43@P4: 2. Evolution of Agricultural Policies in Kenya...........................................................................6
+L44@P4: CHAPTER 2 - MAIN AGGREGATES AND EVOLUTION.........................................................................7
+L45@P4: 1. Demographic Characteristics ................................................................................................7
+L46@P4: 2. Place of Agriculture in the National Economy.....................................................................15
+L47@P4: 3. International Trade ..............................................................................................................22
+L48@P4: 4. Public Finance .....................................................................................................................30
+L49@P4: 5. Environmental and Natural Resources.................................................................................32
+L50@P4: CHAPTER 3 - CHARACTERISTICS AND STRUCTURES IN THE AGRICULTURAL SECTOR ...................35
+L51@P4: 1. Some Structural Characteristics...........................................................................................35
+L52@P4: 2. Agricultural Sectors .............................................................................................................36
+L53@P4: CHAPTER 4 - PUBLIC POLICIES ......................................................................................................45
+L54@P4: 1. General Characteristics and Periodization of Public Policies.............................................45
+L55@P4: 2. Agricultural and Rural Development Policies .....................................................................49
+L56@P4: PART II - THE STRUCTURE OF AGRICULTURAL AND AGRO-FOOD MARKETS AND
+L57@P4: THEIR EVOLUTION .........................................................................................................................57
+L58@P4: CHAPTER 5 - AGRO-FOOD MARKETS .............................................................................................59
+L59@P4: 1. Major Food Commodity Chains: An Overview ....................................................................59
+L60@P4: 2. Presentation of Significant Chains.......................................................................................61
+L61@P4: 3. The Factor Markets..............................................................................................................75
+L62@P4: 4. Evolution of Relative Prices .................................................................................................82
+L63@P4: PART III - SEGMENTATION PROCESS OF PRODUCTION STRUCTURES: TRENDS AND
+L64@P4: OBSERVED CONSEQUENCES........................................................................................................89
+L65@P4: CHAPTER 6 - SEGMENTATION PROCESS OF PRODUCTION STRUCTURES .....................91
+L66@P4: 1. Indicators of Change ............................................................................................................91
+L67@P4: 2. The Processes of Change and their Explanatory Factors ....................................................96
+L68@P4: 3. Structural Consequences....................................................................................................103
+L69@P4: PART IV - IDENTIFIABLE RISKS AND IMPASSES, POSSIBILITIES FOR AFDAPTATION
+L70@P4: AND RESTRUCTURING PROCESSES.........................................................................................109
+L71@P4: CHAPTER 7 - IDENTIFIED POSSIBLE RISKS AND IMPASSES AND EXISTING EXIT OPTIONS111
+L72@P4: 1. Vulnerable Social Groups and Places................................................................................111
+L73@P4: 2. Evolution of Rural Poverty.................................................................................................111
+L74@P4: 3. Characteristics of Vulnerable Farms .................................................................................112
+L75@P4: 4. Existing exit options: A Reality of Limited Options............................................................113
+L76@P4: CHAPTER 8 - RESHAPING RURAL ECONOMIES .............................................................................117
+L77@P4: 1. Reconstructing a Rapidly Changing Agricultural and Rural Economy .............................117
+L78@P4: 2. Manifestations of a New Configuration of Rural Economies .............................................117
+L79@P4-5: REFERENCES...................................................................................................................................123ii
+L80@P5: ACRONYMS......................................................................................................................................127
+L81@P5: LIST OF FIGURES ...........................................................................................................................131
+L82@P5: LIST OF TABLES .............................................................................................................................135
+L83@P5: ANNEXES ..........................................................................................................................................137
+L84@P5: ANNEX I .........................................................................................................................................139
+L85@P5: ANNEX II........................................................................................................................................140
+L86@P5-6: TABLE OF CONTENTS ..................................................................................................................143iii
+L87@P6: AUTHORS
+L88@P6: Main Authors:
+L89@P6:  Paul Gamba
+L90@P6-8:  Betty Kibaara ivv
+L91@P8: EXECUTIVE SUMMARY
+L92@P8: The colonial period agriculture and rural development policies favoured white settler
+L93@P8: agriculture. The indigenous populations were confined in reserve lands mainly providing
+L94@P8: labour to settlers. Land policies articulated during this time favoured the settler run largescale agriculture with commodity boards instituted to cater for marketing and regulating
+L95@P8: agricultural production. Towards independence (early 1960s) land subdivision consolidation,
+L96@P8: registration reallocation and relaxing restrictions on commercial enterprises through the
+L97@P8: Swynerton plan permitted the entry of indigenous population into hitherto exclusive and
+L98@P8: lucrative agricultural enterprise. The post-independence economic experience in Kenya can
+L99@P8: be viewed in three stages: pre-liberalization era (period before 1980), liberalization era
+L100@P8: (1980-2002) and post-liberalization era (2003 and the period after)
+L101@P8: On gaining independence, the new government inherited a colonial economic that
+L102@P8: emphasized import substitution policy propped with overvalued exchange rates. To achieve
+L103@P8: macroeconomic stabilization, the government imposed quantitative controls, high tariffs on
+L104@P8: competing imports, highly overvalued exchange rates, price and wage regulations, taxation
+L105@P8: of exports and requirement of ‘no objection certificates’ from domestic producers. The rapid
+L106@P8: economic growth realized during this time was attributed to the inward oriented policies and
+L107@P8: stable macroeconomic management. During this period agricultural funding and rural
+L108@P8: development was imbalanced with resources directed towards high potential areas and
+L109@P8: marginalization of low potential areas. The effects emanating from the first and second oil
+L110@P8: shocks and the coffee boom served to destabilize the economic trend.
+L111@P8: The introduction of Structural Adjustment Programs (SAPs) in 1980 marked the start of
+L112@P8: liberalization in Kenya. The aim of SAPs was to shift the economy from an inward
+L113@P8: orientation to externally oriented policies that subject economic agents to competition. The
+L114@P8: SAPs required the following
+L115@P8: • liberalization of prices and marketing systems
+L116@P8: • financial policy reforms
+L117@P8: • international trade reforms
+L118@P8: • government budget rationalization
+L119@P8: • divestiture and privatization
+L120@P8: • parastatals reforms, and
+L121@P8: • civil service reforms.
+L122@P8: The early 1980s were marked by government reluctance to implement the SAPs. By 1985
+L123@P8: the shortcomings of import substitution policy were evident leading to enactment of Session
+L124@P8: paper No. 1 of 1986 on Economic Management for Renewed Growth. This marked the
+L125@P8: turning point of economic policy from protectionism and import substitution policies to
+L126@P8-9: export promotion. This committed the government to movement away from import controls, vi
+L127@P9: gradual reduction in tariffs, tariff harmonization and tariffication of quantitative restrictions.
+L128@P9: The system of export incentives encouraged included Manufacturing under Bond (MUB),
+L129@P9: general import duty and VAT exemption scheme, government financed export credit
+L130@P9: guarantees and a proposal of a fully functioning Preferential Trade Area (PTA)
+L131@P9: Kenya was classified as an ‘open’ economy in 1993 by the World Bank (WB). The first
+L132@P9: wave of liberalization though not successful culminated into the second wave in which new
+L133@P9: export promotion strategies were instituted and unsuccessful ones abandoned. The whole
+L134@P9: period of SAPs implementation occurred at the backdrop of limited democratic space. The
+L135@P9: government implemented the reforms with little or no consultation from the private sector or
+L136@P9: stakeholders. The timing and sequencing of the reforms varied and the pace of
+L137@P9: implementation was uneven resulting into periods of progress and stagnation. The full
+L138@P9: opening of the economy in 1993 coincided with a rapidly changing political scene,
+L139@P9: embracing multiparty democracy and reduced external aid. Nevertheless, economic growth
+L140@P9: continued albeit in a declining manner. In 1995 the country signed onto the World Trade
+L141@P9: Organization agreement (WTO) in accession to General Agreement on Trade and Tariffs
+L142@P9: (GATT). Other pacts which followed later were the Common Market for Eastern and
+L143@P9: Southern Africa (COMESA), African Growth Opportunity Act (AGOA) and the reviewed
+L144@P9: African Caribbean Pacific-European Union (ACP-EU).
+L145@P9: The onset of the liberalization saw the economy grow at a slow pace with real GDP and real
+L146@P9: agricultural GDP (AgGDP) growth rates declining. Real GDP grew from 32 billion in 1980
+L147@P9: to 84 billion in 1990 and 103 billion in 2000. The annual average growth rate was estimated
+L148@P9: to be 17% and 2.2% in 1980/90 and 1990/00 respectively The country’s’ real GDP in 2005
+L149@P9: was estimated at 1172.1 million Kshs signifying a 5.8% increase from 2004 (CBS,
+L150@P9: 2006).The real GDP has been on increase since independence.. The later decline in
+L151@P9: economic growth is attributed to the opening up of the economy which saw the exposure to
+L152@P9: external competition.
+L153@P9: Agriculture and rural development
+L154@P9: Economic growth in Kenya is still strongly pegged on agricultural contribution with an
+L155@P9: estimated 1% growth in agriculture resulting to 1.6% growth in the overall GDP. Despite
+L156@P9: this role, over the last two decades agricultural contribution to overall economic growth has
+L157@P9: declined from 34.18% in 1980, 28.38% in 1992 and finally 26.4% in 2003. The sector
+L158@P9: declined from a growth of 4.4% in 1996 to 1.5% in 1999 to a negative of 2.4% in 2002 but
+L159@P9: showed a minimal growth of 0.7% in 2003.
+L160@P9: Agricultural and rural development cannot be divorced. Agriculture is the major livelihood
+L161@P9: source to the rural households in Kenya. About 80% of Kenya’s population live in the rural
+L162@P9: areas and derive their livelihood from agriculture through crop and livestock production,
+L163@P9: forestry and exploitation of other natural resources. This population constitute over 70% of
+L164@P9: the Kenyan population living below poverty line. The decline in agricultural growth
+L165@P9: coincides with economic liberalization that opened the economy agricultural imports and
+L166@P9: decline in governmental support to agriculture. Reduced government support led to increase
+L167@P9: in production costs which reduced the country’s comparative advantage by making the
+L168@P9: country’s agricultural products relatively more expensive.
+L169@P9: The effects of liberalization have been varied on different sub-sectors and economic agents.
+L170@P9-10: While some sectors of the economy have been casualties others have managed to perform vii
+L171@P10: well under similar economic conditions. Sub-sectors such as coffee and sugar have
+L172@P10: retrogressed under liberalization with declining crop area, output, productivities and low
+L173@P10: world prices. Despite the general increase in area under coffee, production fell from a high
+L174@P10: of 128.3 thousand tonnes in 1988 to a low of 45.2 thousand tonnes in 2005 while unroasted
+L175@P10: coffee exports declined from 126,498 tonnes in 1986 to as low as 50,951 tonnes in 2005.
+L176@P10: The poor trend in coffee exports is owed to the decline in world coffee prices. In contrast tea
+L177@P10: and horticulture have had an increase in area, output, productivity, and international returns
+L178@P10: during this period. The sector export value was estimated at 42.29 billion in 2005 up from
+L179@P10: 22.8 billion in 1997. The area and output in tea had also increased significantly. Tea sector
+L180@P10: development is mainly attributed to the KTDA which has been in the forefront of fostering
+L181@P10: small-holder tea growth and the efforts of TRF which has fostered research on high yielding
+L182@P10: tea varieties. On the other hand the development of the private sector dominated
+L183@P10: horticultural sector is attributed to little government interference. The sector exports were
+L184@P10: estimated at 13.75 billion in 1997 and 44.56 in 2005. Despite the setting of quality and
+L185@P10: safety standards in the EU market, the sector has performed well.
+L186@P10: Informal (off-farm) sector
+L187@P10: The exit option for the declining agricultural performance over the period has been the
+L188@P10: informal sector. The sector has developed since 1992 and has employed an estimated 6.12
+L189@P10: million directly and indirectly. This accounts for nearly a third of countries labour force.
+L190@P10: Most of the sector is rural based and with trade, service provision and manufacturing being
+L191@P10: significant sub-sectors. The springing up of the informal sector is largely attributed to the
+L192@P10: liberalisation of the communications sector and the cotton industry. The AGOA pact
+L193@P10: although attributed for the cotton industry losses, is also recognised as having created many
+L194@P10: jobs through sale of imported second hand clothes. Communications sector liberalisation
+L195@P10: opened the gates to the new communication technologies and service delivery.
+L196@P10: Migration, urban concentration and rural depopulation
+L197@P10: Both domestic and international migrations have taken place. Domestic migration has been
+L198@P10: mostly witnessed as rural-urban migration. Urban centres have increased simultaneously
+L199@P10: with the increase in urban populations. Urban population reached an estimated 5.4 million in
+L200@P10: 1999 up from 0.7 million in 1962. Urban centres increased from 34 in 1980 to 380 in 1999.
+L201@P10: The rate of rural-urban migration when taken as the rate of growth of annual successive
+L202@P10: urban population, sometimes surpassed the rural population growth rate hence resulting to
+L203@P10: rural depopulation and urban concentration. The rural urban migration has deprived the rural
+L204@P10: areas of agricultural labour force hence leaving rural areas with less skilled labour as it is
+L205@P10: hypothesized that the educated, skilled and productive are more inclined to migration.
+L206@P10: However, currently rural-urban migration trend is negative indicating that, either urban
+L207@P10: households are migrating back to the rural areas or the rural households have stopped
+L208@P10: migration to the urban areas. International migration declined since pre-independence period
+L209@P10: to the early 1990 when it was triggered by political agitation for multi-party system. This
+L210@P10: trend persisted to mid 1990s when it reversed. In 2005, estimates of international migrations
+L211@P10: indicate that majority of the Kenyans are in UK which accounted for 33%, and surprisingly
+L212@P10: Tanzania which accounted for 26% ahead of USA and the Southern America countries
+L213@P10: which accounted for 19%. The reasons of this observed international migration pattern is
+L214@P10: probably pegged on the stringency of entry rules and the anticipated job or educational
+L215@P10-11: opportunities. viii
+L216@P11: Remittances
+L217@P11: It is evident that migrants do not sever their relationship with rural areas. The transfer of
+L218@P11: funds between urban and rural inhabitants has been enhanced by reforms in the financial and
+L219@P11: communications services. Although, little information on the amounts remitted and it’s
+L220@P11: specific uses is available, evidence exists to show the increasing importance of remittances
+L221@P11: in agriculture and rural development. Currently the Kenyan government has started to
+L222@P11: recognize the significance of remittances from abroad and is assessing the possibility of
+L223@P11: these remittances being substitute to Foreign Direct Investment (FDI) by creating an
+L224@P11: investment environment. While there may be limitation to international data, domestic
+L225@P11: remittances have been shown to increase by 1.98% from 1997to 2004
+L226@P11: Trade
+L227@P11: Kenya has been importing more than its exports even in the import substitution period. The
+L228@P11: trend of imports and exports became more pronounced after the economy was opened up
+L229@P11: and the reforms had taken place. Exchange rate fluctuations also became more pronounced
+L230@P11: and dictated the import-export trends. Trade liberalization led to increase in trade volume
+L231@P11: with higher imports than exports. The cover ratio declined over the period indicating
+L232@P11: increasing imports. On the same trend agricultural imports are showing increase relative to
+L233@P11: exports indicating the declining competitive strength of agricultural production. The extent
+L234@P11: of these effects to the country’s comparative advantage however remains unknown.
+L235@P11: Poverty and inequality
+L236@P11: Under the economic reforms regime poverty prevalence has increased. Poverty increased
+L237@P11: from 48.8% in 1981/82 to 59.56% 2000 in within the rural areas, 29.3 in 1992 to 51.48 in
+L238@P11: 2000 and nationally it increased from 46.8 in 1981/82 to 56.78 in 2000. Economic reforms
+L239@P11: are clearly linked to poverty under the assumption that trade reforms reduce poverty and
+L240@P11: enhance human development through fostered economic growth. Trade reforms influence
+L241@P11: the enterprises, distribution channels and government expenditure thereby affecting poor
+L242@P11: households. The poor in Kenya are mainly found in rural and marginal areas where
+L243@P11: agriculture is the main livelihood source. Arable land resource is declining owing to the
+L244@P11: exploding population, labour force migration is leaving the rural areas depopulated and
+L245@P11: without human capital resource. Environmental degradation is pushing resources further
+L246@P11: away from the poor households reach trapping them in the environmental-poverty
+L247@P11: convolution. Decline in productivity occurred at the milieu of increasing population
+L248@P11: translating into increasing unemployment and consequently increasing poverty levels.
+L249@P11: Reduced revenue in agricultural sector especially in sugar and coffee planting areas has
+L250@P11: resulted into loss of livelihoods. It is evident that between 1997 and 2004 household income
+L251@P11: declined by 6%. The disparity in income changes witnessed in various agro-ecological zones
+L252@P11: is an indicator of the extent of income inequality. Further, the inequality gap has widened
+L253@P11: over the years as indicated by Gini coefficient of 0.52 in 1997 and 0.55 in 2000
+L254@P11: Structure and evolution of agricultural marketing chains
+L255@P11: Agricultural marketing in Kenya was dominated by boards which were responsible for
+L256@P11: controlling production and marketing of the output. Some of the boards were: Kenya Dairy
+L257@P11-12: Board (KDB) |Formed 1958, Maize and Produce Board 1950, later evolved to the National ix
+L258@P12: Cereals and Produce Board, Tea Board 1951 and the Coffee Marketing Board 1946. Upon
+L259@P12: liberalization the roles and functions of these boards were refocused to make them more
+L260@P12: efficient and competitive in service delivery. The liberalization of the market saw the entry
+L261@P12: and exit of marketing agents with concentration and integration along the chain taking place.
+L262@P12: The dairy sector, maize, coffee and tea sub-sectors witnessed the entry of new market agents
+L263@P12: while those incompetent withdrew from the market. The boards partly maintained regulatory
+L264@P12: roles mainly to maintain standards and quality of produce. There was also emergence of
+L265@P12: alternative marketing chains especially in maize and dairy were it is estimated that these
+L266@P12: alternative chains control a significant share of the market. For instance, in dairy it is
+L267@P12: estimated that the informal chain control over 80% of the marketed milk.
+L268@P12: Input supply chains such as those of maize seed and fertilizers were also liberalized.
+L269@P12: Increased use of these inputs is attributed to the extensive availability which was achieved
+L270@P12: after freeing the market.
+L271@P12: Segmentation in production structures
+L272@P12: Agricultural production in Kenya is characteristically regional. The country is segmented on
+L273@P12: the basis of climatic conditions each supporting a major agricultural production.
+L274@P12: Development segmentation was started during the colonial. This was perpetuated by post
+L275@P12: independence governments by that emphasised the development of the high potential regions
+L276@P12: at the expense of the rural arid areas. Economic reforms initiated in the early 1980s further
+L277@P12: segmented even the high potential areas triggering within region segmentation. Today,
+L278@P12: segmentation can be viewed in terms of agricultural production that is dictated by climatic
+L279@P12: conditions and public investment in infrastructue. Economic reforms has had different
+L280@P12: effects in different regions depending on the type of agricultural production in the area and
+L281@P12: resulting in economic imbalances, poverty and inequity.
+L282@P12: Liberalization appears to have reinforced differential development that was initiated during
+L283@P12: the colonial period through classification of regions on the basis of crop potential and
+L284@P12: subsequent resource allocation. Liberalization effects on large and small-scale farmers does
+L285@P12: not present a clear picture but can be discerned more clearly along commodity lines.
+L286@P12: While this study has identified structural changes that have taken place in the rural setting
+L287@P12: under the pre-liberalization, liberalization and post-liberalization eras, the analytical level
+L288@P12: cannot ascribe liberalization per se. Whereas it is feasible to match policy changes with
+L289@P12: changes in economic variables, the causality remains an empirical issue.
+L290@P12: Manifestations of economic reforms and reshaping of the
+L291@P12: rural economies
+L292@P12: While the vulnerable groups are these losing their livelihoods due to economic reforms, they
+L293@P12: are distributed within the country irrespective of the regions production potential. These are
+L294@P12: characterised by declining agricultural revenues that leads to declining education and health
+L295@P12: levels, declining food security and increasing poverty. It is shown that different regions
+L296@P12: exhibit varying levels of poverty that is consistent with the loss in agricultural income of the
+L297@P12-13: main agricultural products especially export crops.x
+L298@P13: The government has initiated several programs and policies to reverse these trends. These
+L299@P13: efforts include The Poverty Reduction Strategy Paper 2001 (PRSP) and the Economic
+L300@P13: Recovery Strategy for Wealth and Employment Creation (2003) that spells out strategies for
+L301@P13: rural economy reconstruction focusing on sectors that have a direct impact on the rural
+L302@P13: economy through industrialization, employment creation and decentralization of social
+L303@P13: infrastructure and services. Other strategies include The Ministry of Livestock and Fisheries
+L304@P13: Development Strategic Plan 2003 –2007, Strategy for Revitalizing Agriculture, 2004 – 2014,
+L305@P13: The National Development Plan (NDP), 2002-2008, and the Ministry of Agriculture
+L306@P13: Strategic Plan (2006-2010) that all seek to address the ailing agricultural sector.
+L307@P13: This study was carried to elicit the structural implications of economic liberalization on
+L308@P13: agriculture and rural development. Several outcomes and challenges were identified aside
+L309@P13: from tracing agricultural policy evolution.
+L310@P13: While economic growth declined, population increased over the reform period. Agricultural
+L311@P13: performance deteriorated and similarly did the household incomes as population increase
+L312@P13: continued to exert pressure on natural resources. Increasing urbanisation, internal and
+L313@P13: external migrations and the corresponding rural depopulation and human capital depletion
+L314@P13: pose new challenges.
+L315@P13: Liberalization of markets has stimulated the interest and encouraged entry of multiple
+L316@P13: players in the many channels. Whereas this is seen as enhancing market efficiency, the
+L317@P13: problem of enforcing food safety and maintenance of quality standards is creeping into the
+L318@P13: system. Exit of players from the channels has led to concentration in the market and requires
+L319@P13: the development of contract farming and adherence to business ethics. Structures for
+L320@P13: competitive and ethical behaviour of economic agents have to be developed.
+L321@P13: Segmentation initiated during the settler period has been perpetuated by the reforms. This
+L322@P13: can be witnessed in view of agricultural production that is shaped by regional climatic
+L323@P13: conditions and public infrastructure investments. New livelihood strategies, especially the
+L324@P13: non-farm activities have emerged due to declining farm revenue emanating from declining
+L325@P13: land and labour productivity, farm sizes and arable land per capita.
+L326@P13: Vulnerable groups are distributed all over the country and these livelihoods are at stake due
+L327@P13: to the economic changes. Loss of these livelihoods is perpetuated by decline in agricultural
+L328@P13: income triggered by increasing input prices and declining per unit output. This has forced
+L329@P13: rural households to venture into alternative agricultural and non-agricultural enterprises.
+L330@P13: Rural economies are currently reshaping under the thrust of migration, remittances and the
+L331@P13: development of non-farm activities with the new configuration being dictated by
+L332@P13: government expenditure on agriculture and investment choices for domestic and
+L333@P13-14: international remittances. 1
+L334@P14: INTRODUCTION
+L335@P14: The evolution of economic policies in Kenya dates back to the colonial era (period preceding 1954)
+L336@P14: that was characterized by settler targeted government assistance and exclusion of indigenous
+L337@P14: populations from commercial agriculture. This was followed by the period spanning 1955-62 under
+L338@P14: which the Swynnerton Plan was implemented. This plan involved the first land reforms and opened
+L339@P14: up commercial farming to the indigenous Kenyan farmers. The period 1963 to 1982 or the early
+L340@P14: independence period saw the emergence of small-holder farmers and heavy government involvement
+L341@P14: resulting in the rapid growth of agriculture and rural sector. The liberalization era come into being in
+L342@P14: 1982 and continued to 2002. This was characterized by government withdrawal from service
+L343@P14: provision, deregulation of markets and increased private sector involvement. The post liberalization
+L344@P14: era began in 2003 under which the Economic Recovery Strategy for Wealth and Employment
+L345@P14: Creation (ERS-WEC), Strategy for Revitalizing Agriculture (SRA) are being implemented
+L346@P14: The post-independence economic experience in Kenya can be categorised into three distinct stages:
+L347@P14: • The pre-liberalization era (period before 1980)
+L348@P14: • The liberalization era (1980-2002)
+L349@P14: • The post-liberalization era (2003 and the period after)
+L350@P14: The liberalization era can further be viewed in two stages: the early 80’s to early 90’s when the
+L351@P14: country’s was in transition (transition period) and the period 1992 to 2002 when the country was
+L352@P14: viewed as having liberalised economy (liberalized economy). The transition period was typified by
+L353@P14: slow economic growth and rising poverty. The turbulent transition period was characterized by
+L354@P14: several events which either threatened or facilitated the course of liberalization. Among these were
+L355@P14: the introduction of the Structural Adjustment Programs (SAPs), the attempted 1982 coup, the world
+L356@P14: oil price drop in 1983, the 1984 drought and the mini-coffee boom of 1986. The government was also
+L357@P14: faced with the major challenge of capital formation to lay the foundation for structures that would
+L358@P14: support liberalization.
+L359@P14: Trade liberalization was initiated through the Structural Adjustment Programs of the transition period.
+L360@P14: These consisted of a set of policies designed to make production and resource allocation more
+L361@P14: efficient. The broad aim was to shift the economy from the inward oriented import substitution policy
+L362@P14: to a more open outward orientated policy which would encourage exports and imports of goods and
+L363@P14: services. Another aim of the SAPs was to encourage privatization, public sector reforms and the
+L364@P14: support of the private sector. The beginning of SAPs in the country was marked by the signing of the
+L365@P14: Structural Adjustment Loan (SAL) in 1980. The emphasis of SAPs was on the promotion of the non
+L366@P14: traditional exports and market liberalization.
+L367@P14: At the same time government embarked on vigorous export promotion strategy so as to increase
+L368@P14: returns from exports. This entailed reduction and restructuring of tariff, abolition of export duties,
+L369@P14: introduction of export retention schemes and Export Credit Guarantee Corporation. Incentives such as
+L370@P14-16: the Manufacture under Bond (MUB), green Channel and export compensation were also introduced 23
+L371@P16: PART I -
+L372@P16: PLACE AND ROLE OF AGRICULTURE IN THE
+L373@P16-18: NATIONAL CONFIGURATION 45
+L374@P18: CHAPTER 1 - HISTORICAL BENCH MARKS:
+L375@P18: CHRONOLOGY OF EVENTS
+L376@P18: Agriculture plays a pivotal role in the Kenyan economy contributing slightly over a quarter of overall
+L377@P18: GDP (Strategic Plan 2006-2010). The sector is currently estimated to employ more than 70% of the

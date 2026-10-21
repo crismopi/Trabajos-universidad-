@@ -1,0 +1,9 @@
+FUENTE 38: CAHF, Pipeline Deep Dive
+URL original: https://housingfinanceafrica.org/project/pipeline-deep-dive/
+Fecha de captura: 2026-10-21
+Tipo: texto extraído por navegador; puede ser parcial. No es el HTML/PDF original.
+Estado: apertura_fallida
+
+Internal Error ()
+  Source: open({"ref_id":"https://housingfinanceafrica.org/project/pipeline-deep-dive/","lineno":null}); Total lines: 1
+L0: Failed to fetch https://housingfinanceafrica.org/project/pipeline-deep-dive/: (400) Timeout fetching

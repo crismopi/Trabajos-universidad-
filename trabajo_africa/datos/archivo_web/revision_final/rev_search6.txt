@@ -1,0 +1,272 @@
+Fecha de captura: 2026-10-21
+Método: navegación y/o resultados indexados. Texto posiblemente parcial; no es el documento original. Los lotes pueden contener resultados no pertinentes. Comprobar URL y registro de verificación antes de utilizar datos.
+
+REPUBLIC OF KENYA (https://www.treasury.go.ke/wp-content/uploads/2025/10/2025-Budget-Review-and-Outlook-Paper.pdf)
+ [wordlim: 200] Published: last year; Table 17: Government Fiscal Projections, KSh Billion | FY 2023/24  | FY 2024/25  |  | FY 2025/26  | FY 2026/27  |  | FY 2027/28  |  | FY 2028/29  |  | FY 2029/30  | ... 68.8%  | 3,321.7 ... Nominal GDP (Ksh billion)  | 15,666.6  | 17,434.5  | 17,157.3  | 19,006.2  | 21,285.6  | 20,953.6  | 23,529.5  | 23,126.1  | 26,018.8  | 25,527.4  | 28,158.0  |Source of Data: National Treasury ... FY 2026/27 and Medium-Term Budget Framework ... and Foreign Policy and Regional Integration.
+Table 17: Government Fiscal Projections, KSh Billion 
+ | FY 2023/24  | FY 2024/25  |  | FY 2025/26  | FY 2026/27  |  | FY 2027/28  |  | FY 2028/29  |  | FY 2029/30  | 
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ | Actual  | Supp Est. III  | Prel. Act  | Approved
+Budget  | BPS'25  | BROP'25  | BPS'25  | BROP'25  | BPS'25  | BROP'25  | BROP'25  | 
+ | KSh Billion  |  |  |  |  |  |  |  |  |  |  | 
+TOTAL REVENUE
+Total Revenue as a % of GDP
+Ordinary revenue
+Ordinary Revenue as a % of GDP
+Tax Revenue
+Non-Tax Revenue
+AIA
+Total Expenditure
+Expenditure as a % of GDP
+Recurrent
+Development
+Equalization Fund
+County Transfer ( Equitable share only)
+Contingencies
+Budget Balance (Deficit (-) excl Grants
+Deficit as % of GDP
+Grants
+Adjustment to cash basis
+Balance Incl.Grants (cash basis)
+Deficit as % of GDP
+Net Foreign Financing
+Net Foreign Financing % of GDP
+Domestic Borrowing (net)
+Domestic Borrowing % of GDP
+Gross Public Debt
+Gross Public Debt to GDP  | 2,702.7
+17.3%
+2,288.9
+14.6%
+2,098.9
+190.0
+413.7
+3,605.2
+23.0%
+2,678.4
+572.2
+-
+354.6
+-
+(902.5)
+-5.8%
+22.0
+45.4
+(835.1)
+-5.3%
+222.7
+1.4%
+595.6
+3.8%
+10,582.0
+67.5%  | 2,985.6
+17.1%
+2,496.2
+14.3%
+2,236.2
+260.0
+489.4
+4,045.1
+23.2%
+2,994.2
+630.2
+2.5
+418.3
+-
+(1,059.5)
+-6.1%
+47.2
+-
+( 1,012.3)
+-5.8%
+186.5
+1.1%
+825.8
+4.7%
+11,573.4
+66.4%  | 2,923.6
+17.0%
+2,420.2
+14.1%
+2,203.3
+216.8
+503.4
+3,975.9
+23.2%
+2,953.5
+604.1
+-
+418.3
+-
+(1,052.4)
+-6.1%
+33.3
+-
+( 1,019.1)
+-5.9%
+179.7
+1.0%
+854.5
+5.0%
+11,810.8
+68.8%  | 3,321.7
+17.5%
+2 ,754.7
+14.5%
+2 ,554.9
+199.8
+566.9
+4,269.9
+22.5%
+3 ,142.0
+700.2
+10.6
+415.0
+2 .0
+(948.2)
+-5.0%
+47.2
+-
+(901.0)
+-4.7%
+287.4
+1.5%
+613.5
+3.2%
+12,711.8
+66.9%  | 3,758.7
+17.7%
+3,176.5
+14.9%
+2,938.2
+238.2
+582.3
+4,574.1
+21.5%
+3,256.2
+885.4
+10.6
+417.0
+5.0
+(815.4)
+-3.8%
+63.6
+-
+(751.7)
+-3.5%
+107.5
+0.5%
+644.3
+3.0%
+13,222.0
+62.1%  | 3,583.4
+17.1%
+2,998.3
+14.3%
+2,606.2
+392.1
+585.1
+4,649.8
+22.2%
+3,437.2
+772.4
+15.2
+420.0
+5.0
+(1,066.4)
+-5.1%
+48.8
+-
+( 1,017.6)
+--------------------------------------------------------------------------------
+Environmental and Social Impact Assessment STUDY REPORT for the Proposed RIRUTA KEZA IHS Housing Developments Located in L.R No.  DAGORETTI/RIRUTA/6004 (NAIROBI BLOCK 66/6004) ALONG NDWARU ROAD, OFF NAIVASHA ROAD IN RIRUTA, DAGORETTI SOUTH SUB-COUNTY, NAIROBI COUNTY (https://nema.go.ke/wp-content/uploads/2025/12/IHS-Riruta-Housing_00288-min.pdf)
+ [wordlim: 200] Published: 10 months ago; IHS HOUSING PROJECT                                                                 ESIA STUDY REPORT - 2025 ... The project is well-served by the existing transport network and does not require major off-site road upgrading beyond localized frontage improvements and safety features. ... The Traffic Impact Assessment conducted on September 2025² for the Keza–Riruta corridor, which comprising the Riruta IHS site, provides the baseline and forecast traffic conditions applicable to the proposed development. ... ³ Standards followed; Highway Capacity Manual (HCM 2016) and Institute of Transportation Engineers (ITE) Trip Generation Manual (9th Edition)
+IHS HOUSING PROJECT                                                                 ESIA STUDY REPORT - 2025
+
+### 4.7.2 Site Access
+
+The project site will be accessed via a single main gate opening directly onto Ndwaru Road. This access point is strategically positioned to ensure safe visibility and turning radius for both inbound and outbound vehicles. The main entry and exit lanes will be clearly demarcated and surfaced with cabro paving, allowing for the segregation of vehicular and pedestrian movements.
+
+The access design incorporates:
+
+- Acceleration and deceleration lanes along the frontage to reduce vehicular conflict during entry and exit;
+- Security gatehouse and control barrier to manage traffic flow and enhance safety;
+- Pedestrian walkway integrated along the frontage, connecting to the adjacent developments; and
+- Raised zebra crossing and rumble strips recommended across Ndwaru Road at the entrance to slow approaching traffic and safeguard pedestrians.
+
+The project is well-served by the existing transport network and does not require major off-site road upgrading beyond localized frontage improvements and safety features. Coordination with KURA will be undertaken to implement minor access realignments and install signage consistent with urban traffic safety standards.
+
+### 4.7.3 Traffic Assessment
+
+The Traffic Impact Assessment conducted on September 2025² for the Keza–Riruta corridor, which comprising the Riruta IHS site, provides the baseline and forecast traffic conditions applicable to the proposed development. The study was undertaken in accordance with the applicable standards³, adjusted to reflect Nairobi’s urban mobility context and local vehicle ownership patterns.
+
+**a) Baseline Traffic Conditions**
+
+Traffic surveys were carried out at key intersections along Ndwaru and Naivasha Roads during weekday (Friday and Monday) and weekend (Saturday) peak periods. The data covered morning (6:00–9:00 a.m.), midday (12:00–3:00 p.m.), and evening (4:00–7:00 p.m.) peaks.
+
+Findings indicated that:
+
+- Current traffic operations along Ndwaru Road and the immediate access points function at acceptable Levels of Service during all peak periods.
+- The Naivasha Road–Ndwaru Road junction experiences moderate congestion during the morning peak, attributed to turning movements from Naivasha Road northbound traffic.
+- Pedestrian activity along Ndwaru Road is high, though sidewalks are narrow and occasionally encroached, forcing pedestrians to share the carriageway with vehicles.
+- Existing speeds are occasionally excessive, necessitating traffic calming and enhanced signage for pedestrian safety.
+
+These baseline findings confirm that Ndwaru Road currently operates within capacity, with adequate provision for motorized and non-motorized users, though localized safety and pedestrian infrastructure improvements are warranted.
+
+**b) Future Traffic Projections and Trip Generation**
+
+The TIA projected traffic growth to Year 2027, factoring in both background traffic increase of 5% annual growth rate, and additional trips generated by the proposed development. Using the ITE Land Use Code 221 for Multifamily Housing – Mid-Rise; the study estimated that the combined developments within
+
+² Done /TEC Engineering Ltd  
+³ Standards followed; Highway Capacity Manual (HCM 2016) and Institute of Transportation Engineers (ITE) Trip Generation Manual (9th Edition)
+
+Centric Africa Ltd                                                                 7--------------------------------------------------------------------------------
+REPUBLIC OF KENYA (https://newsite.treasury.go.ke/sites/default/files/pressrelease/DRAFT-2021-BUDGET-REVIEW-AND-OUTLOOK-PAPER-FOR-COMMENTS_0.pdf)
+ [wordlim: 200] Published: 5.2 years ago;  grants) | 2020/21 -9.4 | -8.6 | 2021/22 -7.9 | -8.0 | -8.0 | 2022/23 -6.0 | -6.0 | 2023/24 -4.6 | -4.8 | 2024/25 -3.9 | -4.3 | 2025/26 -4.1 | 2020/21 | | 2021/22 | | | 2022/23 | | 2023/24 | | 2024/25 | | 2025/26 Grants | 2020/21 0.7 | 0.3 | 2021/22 0.4 | 0.5 | 0.5 | 2022/23 0.3 | 0.3 | 2023/24 0.3 | 0.3 | 2024/25 0.3 | 0.3 | 2025/26 0.3 Fiscal Balance (incl. grants) | 2020/21 -8.8 | -8.4 | 2021/22 -7.5 | -7.5 | -7.5 | 2022/23 -5.6 | -5.6 | 2023/24 -4.2 | -4.5 | 2024/25 -3.6 | -4.0 | 2025/26 -3.8 Adjustment to Cash Basis | 2020/21 0.0 | 0.0 | 2021/22 0.0 | 0.0 | 0.0 | 2022/23 0.0 | 0.0 | 2023/24 0.0 | 0.0 | 2024/25 0.0 | 0.0 | 2025/26 0.0 Fiscal Balance (incl. grants) Cash Basis | 2020/21 -8.8 | -8.3 | 2021/22 -7.5 | -7.5 | -7.5 | 2022/23 -5.6 | -5.6 | 2023/24 -4.2 | -4.5 | 2024/25 -3.6 | -4.0 | 2025/26 -3.8 Statistical discrepancy | 2020/21 0.0 | 0.2 | 2021/22 0.0 | 0.0 | 0.0 | 2022/23 0.0 | 0.0 | 2023/24 0.0 | 0.0 | 2024/25 0.0 | 0.0 | 2025/26 0.0 | 2020/21 | | 2021/22 | | | 2022/23 | | 2023/24 | | 2024/25 | | 2025/26 TOTAL FINANCING | 2020/21 8.8 | 8.5 | 2021/22 7.5 | 7.5 | 7.5 | 2022/23 5.6 | 5.6 | 2023/24 4.2 | 4.5 | 2024/25 3.6 | 4.0 | 2025/26 3.8 | 2020/21 | | 2021/22 | | | 2022/23 | | 2023/24 | | 2024/25 | | 2025/26 Net Foreign Financing | 2020/21 3.7 | 2.9 | 2021/22 2.2 | 2.2 | 2.3 | 2022/23 2.4 | 2.7 | 2023/24 1.5 | 1.2 | 2024/25 0.9 | 0.5 | 2025/26 0.6 Disbuserments | 2020/21 6.9 | 4.0 | 2021/22 7.1 | 7.2 | 7.2 | 2022/23 4.4 | 4.5 | 2023/24 3.4 | 4.4 | 2024/25 2.2 | 2.2 | 2025/26 2.2 Commercial Financing | 2020/21 3.1 | 1.0 | 2021/22 3.8 | 3.8 | 3.8 | 2022/23 0.0 | 0.8 | 2023/24 0.0 | 1.8 | 2024/25 0.0 | 0.0 | 2025/26 0.0 O/W Export Credt | 2020/21 0.1 | 0.1 | 2021/22 0.0 | 0.0 | 0.0 | 2022/23 0.0 | 0.0 | 2023/24 0.0 | 0.0 | 2024/25 0.0 | 0.0 | 2025/26 0.0 Sovereign Bond | 2020/21 1.1 | 1.0 | 2021/22 1.0 | 1.0 | 1.0 | 2022/23 0.0 | 0.8 | 2023/24 0.0 | 1.8 | 2024/25 0.0 | 0.0 | 2025/26 0.0 External Debt Operations - Refinancing | 2020/21 2.0 | 0.0 | 2021/22 2.8 | 2.8 | 2.8 | 2022/23 0.0 | 0.0 | 2023/24 0.0 | 0.0 | 2024/25 0.0 | 0.0 | 2025/26 0.0 Semi consessional Loans | 2020/21 0.0 | 0.0 | 2021/22 0.0 | 0.0 | 0.0 | 2022/23 0.8 | 0.0 | 2023/24 0.7 | 0.0 | 2024/25 0.0 | 0.0 | 2025/26 0.0 Total Project loans (AIA + Revenue) | 2020/21 2.1 | 1.5 | 2021/22 2.2 | 2.2 | 2.2 | 2022/23 2.2 | 2.2 | 2023/24 2.2 | 2.2 | 2024/25 2.2 | 2.2 | 2025/26 2.2 O/W Project Loans AIA | 2020/21 1.2 | 0.9 | 2021/22 1.5 | 1.4 | 1.4 | 2022/23 1.5 | 1.5 | 2023/24 1.6 | 1.6 | 2024/25 1.5 | 1.5 | 2025/26 1.5 Project Loans Revenue | 2020/21 0.8 | 0.5 | 2021/22 0.7 | 0.8 | 0.8 | 2022/23 0.7 | 0.7 | 2023/24 0.6 | 0.6 | 2024/25 0.7 | 0.7 | 2025/26 0.7 Project Loans SGR _Phase I_ AIA | 2020/21 0.0 | 0.0 | 2021/22 0.0 | 0.0 | 0.0 | 2022/23 0.0 | 0.0 | 2023/24 0.0 | 0.0 | 2024/25 0.0 | 0.0 | 2025/26 0.0 Project Loans SGR _ Phase 2A_AIA | 2020/21 0.1 | 0.1 | 2021/22 0.0 | 0.0 | 0.0 | 2022/23 0.0 | 0.0 | 2023/24 0.0 | 0.0 | 2024/25 0.0 | 0.0 | 2025/26 0.0 Programme Loans | 2020/21 1.7 | 1.5 | 2021/22 1.1 | 1.1 | 1.2 | 2022/23 1.4 | 1.5 | 2023/24 0.4 | 0.4 | 2024/25 0.0 | 0.0 | 2025/26 0.0 Debt repayment - Principal | 2020/21 -3.2 | -1.1 | 2021/22 -4.9 | -5.0 | -4.9 | 2022/23 -2.0 | -1.8 | 2023/24 -1.8 | -3.2 | 2024/25 -1.3 | -1.7 | 2025/26 -1.6 of which: External Debt Operations - Refinancing | 2020/21 0.0 | 0.0 | 2021/22 -2.8 | -2.8 | -2.8 | 2022/23 0.0 | 0.0 | 2023/24 0.0 | 0.0 | 2024/25 0.0 | 0.0 | 2025/26 0.0 Net Domestic Financing | 2020/21 5.0 | 5.6 | 2021/22 5.4 | 5.3 | 5.2 | 2022/23 3.2 | 3.0 | 2023/24 2.7 | 3.3 | 2024/25 2.7 | 3.5 | 2025/26 3.2 | 2020/21 | | 2021/22 | | | 2022/23 | | 2023/24 | | 2024/25 | | 2025/26 Memo items | 2020/21 | | 2021/22 | | | 2022/23 | | 2023/24 | | 2024/25 | | 2025/26 Gross Debt (Stock) | 2020/21 68.8 | 69.1 | 2021/22 69.3 | 69.5 | 69.8 | 2022/23 68.1 | 68.5 | 2023/24 65.2 | 65.7 | 2024/25 62.1 | 63.0 | 2025/26 59.1 External Debt | 2020/21 35.4 | 36.0 | 2021/22 34.0 | 34.0 | 34.7 | 2022/23 32.5 | 33.9 | 2023/24 30.2 | 31.5 | 2024/25 28.0 | 28.8 | 2025/26 23.7 Domestic Debt (gross) | 2020/21 33.4 | 33.1 | 2021/22 35.4 | 35.5 | 35.1 | 2022/23 35.6 | 34.5 | 2023/24 35.0 | 34.2 | 2024/25 34.1 | 34.2 | 2025/26 35.4 Domestic Debt (net) | 2020/21 28.9 | 28.1 | 2021/22 31.3 | 31.4 | 30.5 | 2022/23 31.9 | 30.5 | 2023/24 31.7 | 30.5 | 2024/25 31.1 | 30.9 | 2025/26 32.4 | 2020/21 | | 2021/22 | | | 2022/23 | | 2023/24 | | 2024/25 | | 2025/26 Financing gap | 2020/21 0.0 | 0.1 | 2021/22 0.0 | 0.0 | 0.0 | 2022/23 0.0 | 0.0 | 2023/24 0.0 | 0.0 | 2024/25 0.0 | 0.0 | 2025/26 0.0 | 2020/21 | | 2021/22 | | | 2022/23 | | 2023/24 | | 2024/25 | | 2025/26 Nominal GDP | 2020/21 100.0 | 100.0 | 2021/22 100.0 | 100.0 | 100.0 | 2022/23 100.0 | 100.0 | 2023/24 100.0 | 100.0 | 2024/25 100.0 | 100.0 | 2025/26 100.0
+--------------------------------------------------------------------------------
+Kenya 2025 Budget Review Outlook | PDF | Cost Of Living | Government Spending (https://www.scribd.com/document/959160639/2025-Budget-Review-and-Outlook-Paper-1)
+ [wordlim: 200] Published: 1.1 years ago; Crawled: 10 months ago; Sector ceilings in the 2025 BROP are aligned to the priorities of the Government that enhance ... *Provisional ... 050 Education Gross 29,779.7 30,113.0 35,065.5 43,841.9 ... In FY 2025/26, total revenue is expected to grow Government will pursue a balanced mix of tax policy ... 87 percent of the approved budget of KSh 2.38 trillion. revenues; consequently, revenue shortfalls relative to
+--------------------------------------------------------------------------------
+Environment Impact Assessment (EIA) - National Environment Management Authority (NEMA) (https://nema.go.ke/services/environment-impact-assessment-eia/)
+ [wordlim: 200] Crawled: 2 days ago; Transportation including – ... c)   railway lines; ... f)    water transport.
+--------------------------------------------------------------------------------
+Why Global Capital Is Choosing Kenya: The Strategy Behind Kenya’s Rising Investment Story (https://acesso.kissmyscore.com/?_=%2Fpulse%2Fwhy-global-capital-choosing-kenya-strategy-behind-story-tanui-cbs-onh0f%23xybe3UUSZzbs022gEii2Pso2w8MYSyd0)
+ [wordlim: 200] Published: 3 months ago; Crawled: last month; The UNCTAD World Investment Report 2026 https://unctad.org/system/files/official-document/wir2026_en.pdf reinforces this reality, showing that Kenya is no longer simply participating in Africa’s investment story—it is helping shape it.
+--------------------------------------------------------------------------------
+KEMENTERIAN EKONOMI (https://v2.dosm.gov.my/portal-main/release-document-log?release_document_id=18797)
+ [wordlim: 200] Published: 7 months ago; Aktiviti Ekonomi 2022 2023 2024 2025p Economic Activity Jumlah 1 97.8 97.9 97.9 97.8 Total Mahir 1.1 97.8 97.8 97.9 97.9 Skilled Separuh Mahir 1.2 98.1 98.1 98.1 98.1 Semi-skilled Berkemahiran Rendah 1.3 96.6 96.7 96.7 96.7 Low-skilled Pertanian 2 93.4 93.7 93.6 93.6 Agriculture Mahir 2.1 84.8 84.6 84.5 84.7 Skilled Separuh Mahir 2.2 95.1 95.3 95.2 95.2 Semi-skilled Berkemahiran Rendah 2.3 76.1 78.4 78.3 78.3 Low-skilled Perlombongan & Pengkuarian 3 99.5 99.3 99.3 99.3 Mining & Quarrying Mahir 3.1 99.5 99.5 99.5 99.4 Skilled Separuh Mahir 3.2 99.5 99.3 99.3 99.3 Semi-skilled Berkemahiran Rendah 3.3 99.2 98.9 99.0 99.1 Low-skilled Pembuatan 4 95.5 95.6 95.6 95.4 Manufacturing Mahir 4.1 94.2 94.4 94.4 94.2 Skilled Separuh Mahir 4.2 96.5 96.5 96.5 96.4 Semi-skilled Berkemahiran Rendah 4.3 88.9 89.2 89.0 88.8 Low-skilled Prosesan makanan, minuman & produk tembakau 4.1 95.7 95.9 95.9 95.8 Food processing, beverages & tobacco products Mahir 4.1.1 94.4 94.7 94.9 94.7 Skilled Separuh Mahir 4.1.2 96.9 97.1 97.0 96.9 Semi-skilled Berkemahiran Rendah 4.1.3 88.8 89.4 89.4 89.2 Low-skilled Produk tekstil, pakaian & kulit 4.2 96.3 96.6 96.5 96.5 Textiles, wearing apparel & leather products Mahir 4.2.1 94.1 94.5 94.5 94.5 Skilled Separuh Mahir 4.2.2 97.4 97.6 97.5 97.6 Semi-skilled Berkemahiran Rendah 4.2.3 87.1 87.2 87.1 87.0 Low-skilled Statistik Guna Tenaga Suku Tahun Keempat 2025 p Awalan/Provisional 74 Employment Statistics Fourth Quarter 2025 None | Aktiviti Ekonomi Economic Activity 1 | Jumlah Total |  | 2022 97.8 | 2023 97.9 | 2024 97.9 | 2025p 97.8
+--------------------------------------------------------------------------------
+Kenya Shows Economic Resilience, But Sustained Progress Depends on Accelerating Procompetitive Reforms (https://www.worldbank.org/en/news/press-release/2025/11/24/kenya-shows-economic-resilience-sustained-progress-depends-on-procompetitive-reforms)
+ [wordlim: 200] Published: 11 months ago; Crawled: last month; This positive economic momentum notwithstanding, fiscal pressures remain elevated with the 2024/25 deficit widening to 5.9% of GDP, above the initial 4.3% target in Supplementary Budget I, driven mostly by revenue shortfalls and increasingly rigid expenditure structures.Kenya’s public debt rose during the fiscal year and reached 68.8% of GDP. ... Domestic borrowing has increased, with a notable shift toward short-term treasury bills, heightening rollover risks.
+--------------------------------------------------------------------------------
+World Investment Report 2026 | United Nations iLibrary (https://doi.org/10.18356/9789211599435)
+ [wordlim: 200] Published: 3 months ago; Crawled: last week; # World Investment Report 2026 ...   * Periodical: United Nations Conference on Trade and Development (UNCTAD) World Investment Report (WIR) ...   *   * Format(s): PDF
+--------------------------------------------------------------------------------
+UES4476-1 (https://www.revisor.mn.gov/bills/94/2026/0/SF/4476/versions/ue/1/pdf/)
+ [wordlim: 200] Published: 5 months ago; Provisional license. (a) Beginning January 1, 2026, the commissioner shall​ ... 87.5 ... Minnesota Statutes 2025 Supplement, section 245A.242, subdivision 2, is amended​
+--------------------------------------------------------------------------------
+2 0 2 4
+Budget
+Review (https://bitcoinke.io/wp-content/uploads/2024/02/2024-SOUTH-AFRICA-FINANCIAL-SECTOR-UPDATE.pdf?x54595=)
+ [wordlim: 200] Published: 7 months ago; End of period Less: National Revenue Fund | 2022/23 -249.2 | 2023/24 -150.7 | 2024/25 -89.9 -68.8 -74.5 | 2025/26 None | 2026/27 None ... Estimates include revaluation based Source: National Treasury | 2022/23 10 of the statistical annexure at the back of the Budget Review | 2023/24 None | 2024/25 None | 2025/26 None | 2026/27 NoneEnd of period None | 2022/23 on National Treasury's projections of inflation and exchange rates | 2023/24 None | 2024/25 None | 2025/26 None | 2026/27 None
+--------------------------------------------------------------------------------
+SEA/SESA Reports - National Environment Management Authority (NEMA) (https://nema.go.ke/media-centre/sea-sesa-reports/)
+ [wordlim: 200] Crawled: 2 days ago; SEA-073 Integrated National Transport Policy-min  | pdf  | Download
+--------------------------------------------------------------------------------
+Kenya’s Business Environment — Economic Survey2026 Explainer (https://www.linkedin.com/pulse/kenyas-business-environment-trade-credit-economic-pressure-mwangi-tuonc)
+ [wordlim: 200] Published: 5 months ago; Crawled: 2 months ago;   * continued dependence on informal employment ... The report also notes that the informal sector accounted for 87.2% of all new jobs created in 2025.
+--------------------------------------------------------------------------------
+Country Navigator | UNCTAD Investment Policy Hub (https://investmentpolicy.unctad.org/country-navigator/111/kenya)
+ [wordlim: 200] Crawled: 2 months ago; ### Kenya ... The Country Navigator is the entry point for all country specific investment policy data collected or created by UNCTAD. ... The information and texts included in the database serve a purely informative purpose and have no official or legal status.
+--------------------------------------------------------------------------------
+The Star 2025 12 22 | PDF | Cost Of Living | Macroeconomics (https://www.scribd.com/document/1009848328/the-star-2025-12-22)
+ [wordlim: 200] Published: 10 months ago; Crawled: 7 months ago; ## Popo Road, Off Mombasa Road, P O BOX 67839-00200, Nairobi, Kenya. ... ENVIRONMENTAL IMPACT ASSESSMENT STUDY REPORT FOR THE PROPOSED RIRUTA KEZA IHS HOUSING ... Management Authority (NEMA) has received an Environmental Impact Assessment Study Report for the above proposed
+--------------------------------------------------------------------------------
+Non-Official Documents (https://unctad.org/unctad-nonofficial-documents?page=76)
+ [wordlim: 200] Crawled: last month; # Non-Official DocumentsWIR 2026 - Country fact sheet: South Africa
+--------------------------------------------------------------------------------
+National Environment Management Authority (NEMA) - Tenders (https://www.nema.go.ke/index.php?Itemid=210&id=125&option=com_content&view=article)
+ [wordlim: 200] Published: 1.4 years ago; Crawled: 1.2 years ago; NEMA-T-12-2024-2025 PROVISION OF ANNUAL FIREWALL LICENCE RENEWAL SERVICE - READVERTISEMENT ... NEMA-REOI-002-2024-2025 Gender Expert Readvertisement
+--------------------------------------------------------------------------------
+National Environment Management Authority (NEMA) - Environmental Reporting (https://www.nema.go.ke/index.php?Itemid=161&id=2&option=com_content&view=category)
+ [wordlim: 200] Crawled: 1.3 years ago; Application to transport sandNEMA USSD Direct Paybill Instruction - Sand Harvesting ... + - The Sustainable Waste Management (Extended Producer Responsibility) Regulations, 2024 Legal Notice 176/2024 Click to collapse

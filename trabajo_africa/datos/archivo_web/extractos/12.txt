@@ -1,0 +1,42 @@
+FUENTE 12: Acorn, estrategia corporativa
+URL original: https://acornholdingsafrica.com/overview/
+Fecha de captura: 2026-10-21
+Tipo: texto extraído por navegador; puede ser parcial. No es el HTML/PDF original.
+Estado: texto_recuperado
+
+overview - Acorn Holdings Africa (https://acornholdingsafrica.com/overview/)
+  Crawled: today; Content type: text/html; Source: open({"ref_id":"https://acornholdingsafrica.com/overview/","lineno":null}); Total lines: 81
+L0:  L1: ##
+L2: 
+L3:   *  L4:   * About Acorn
+L5:     *  L6:     *  L7:     *  L8:     *  L9:   * Integrated Real Estate
+L10:     *  L11:     *  L12:     *  L13:     *  L14:     *  L15:   * Investor Relations
+L16:     *  L17:     *  L18:     *  L19:     *  L20:   *  L21:   * Careers
+L22:     *  L23:     *  L24:     *  L25:   *  L26:  Acorn Holdings Limited
+L27: # Overview
+L28: 
+L29: We are the premier developer, operator and asset manager of rental housing in Sub-Saharan Africa. We have been an established developer and manager of real estate for two decades and today we have become the largest institutional investor in rental housing in East Africa.
+L30: The kind of rental housing assets we develop create like-minded communities within the city and therefore, you can expect that these rental yielding assets, will be there for generations, will stand the test of time and continue to pay dividends. As the city grows and as the economy of the country grows, rents can be expected to grow making the value of the assets grow over time.
+L31: As a result, there are many investors looking at residential rental housing including the Purpose-Built Student Accommodation (PBSA) and Private Rental Sector (PRS) sub-asset classes than ever before and the reason why they are attracted is because you get predictable cash flow, you get a good cash yield, and you get all the characteristics of rental housing from a downside protection perspective.
+L32: 
+L33:   *  L34:   *  L35:   *  L36: Today, we have a pipeline of 17,000 PBSA beds across 17 properties, and 6,000 fully operational beds across 9 properties. Our current focus is in the Nairobi Metropolitan Area which covers Nairobi County and the adjoining counties.
+L37: 
+L38: Whilst we started in student accommodation, the next phase of our business growth is PRS where we will provide rental housing for young professionals and eventually young families.
+L39: Our investment model is based on holding these assets in Real Estate Investment Trusts (REITs) which allow us to aggregate our own capital with that of third-party investors.
+L40: 
+L41:  L42: 
+L43: We are not passive financial investors. We are very active owner-operators, and we very much have an owner/operator mindset.
+L44: In order to achieve higher returns, we have a business plan and an operational plan to drive improvements in the business and that is where we use our expertise, experience and operating assets to find those levers that we can pull to generate even more value.
+L45: 
+L46:  L47: The future for rental housing in sub-Saharan African cities is extremely strong, especially housing for young people. This is driven by demographics and urbanization. Kenya alone will add about 30 million people into Urban Centers by 2050. We see millions of dollars being required to invest in rental housing over the next 30 years.
+L48: It is a space that is underserved and is growing, and it is a space which needs buildings that are fit for purpose. Presently, there are hardly any other players in Kenya who have the capabilities that we have assembled, the experience we have and the reputation to undertake this type of investment.
+L49: With our successful track record and our approach as owners and operators, we have consistently been able to find the right opportunities, execute their development and profitably manage the assets. Therefore, we believe that there is a very long future ahead for continuing to invest in this asset class.
+L50: 
+L51:  L52: 
+L53:   *  L54:   *  L55: 
+L56: Copyright © 2026
+L57:   *  L58:   * About Acorn
+L59:     *  L60:     *  L61:     *  L62:     *  L63:   * Integrated Real Estate
+L64:     *  L65:     *  L66:     *  L67:     *  L68:     *  L69:   * Investor Relations
+L70:     *  L71:     *  L72:     *  L73:     *  L74:   *  L75:   * Careers
+L76:     *  L77:     *  L78:     *  L79:   *  L80: [Input: Type here] [Input] [Input]

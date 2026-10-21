@@ -1,0 +1,9 @@
+FUENTE 24: Nairobi City County, wards y proyectos
+URL original: https://husikanai.nairobi.go.ke/budgets/2/results?heading_id=130
+Fecha de captura: 2026-10-21
+Tipo: texto extraído por navegador; puede ser parcial. No es el HTML/PDF original.
+Estado: apertura_fallida
+
+Internal Error ()
+  Source: open({"ref_id":"https://husikanai.nairobi.go.ke/budgets/2/results?heading_id=130","lineno":null}); Total lines: 1
+L0: Failed to fetch https://husikanai.nairobi.go.ke/budgets/2/results?heading_id=130: Cache miss

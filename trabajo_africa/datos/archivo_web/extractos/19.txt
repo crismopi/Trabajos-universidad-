@@ -1,0 +1,92 @@
+FUENTE 19: TSAVO Lifestyle, cartera
+URL original: https://tsavo.lifestyle.ke/properties
+Fecha de captura: 2026-10-21
+Tipo: texto extraído por navegador; puede ser parcial. No es el HTML/PDF original.
+Estado: texto_recuperado
+
+Properties | Lifestyle (https://tsavo.lifestyle.ke/properties)
+  Crawled: 3 days ago; Content type: text/html; Source: open({"ref_id":"https://tsavo.lifestyle.ke/properties","lineno":null}); Total lines: 103
+L0:    L1: 
+L2: ## Affordable Amazing Apartments
+L3: 
+L4: Clean designs, cool spaces, and prices that make sense. Whether you’re starting out or leveling up, these homes are made for your hustle and your vibe.
+L5: 
+L6:  L7: 
+L8: ##### TSAVO Sunset 2
+L9: 
+L10: #### Kiambu Rd
+L11: 
+L12:  L13: 
+L14:  L15: 
+L16: ##### Royal City by TSAVO
+L17: 
+L18: #### Thika Road - Roysambu
+L19: 
+L20:  L21: 
+L22:  L23: 
+L24: ##### TSAVO Stanley
+L25: 
+L26: #### Kiambu Town
+L27: 
+L28:  L29: 
+L30:  L31: ##### TSAVO Sunset
+L32: 
+L33: #### Kiambu Rd- Thindigua
+L34: 
+L35:  L36: 
+L37:  L38: 
+L39: ##### Coral Bells by TSAVO
+L40: 
+L41: #### Kiambu Rd - Thindigua
+L42: 
+L43: View Property
+L44: 
+L45:  L46: 
+L47: ##### TSAVO Step Up
+L48: 
+L49: #### Naivasha Rd- Riruta
+L50: 
+L51: View Property
+L52: 
+L53:  L54: 
+L55: ##### Laiser Place by TSAVO
+L56: 
+L57: #### Ongata Rongai
+L58: 
+L59: View Property
+L60: 
+L61:  L62: 
+L63: ##### TSAVO Studios
+L64: 
+L65: #### Embakasi - Fedha
+L66: 
+L67: View Property
+L68: 
+L69:  L70: 
+L71: ##### 90 Degrees by TSAVO
+L72: 
+L73: #### Embakasi - Fedha
+L74: 
+L75: View Property
+L76: 
+L77:  L78: 
+L79: ##### TSAVO Sentinel
+L80: #### Ongata Rongai
+L81: 
+L82: View Property
+L83: 
+L84:  L85: 
+L86: ##### TSAVO Skywalk
+L87: 
+L88: #### Ngong Rd - Wanyee
+L89: 
+L90: View Property
+L91: 
+L92:  L93: 
+L94: ##### TSAVO Fedha
+L95: 
+L96: #### Embakasi - Fedha
+L97: 
+L98:  L99: 
+L100:  L101: 
+L102:  

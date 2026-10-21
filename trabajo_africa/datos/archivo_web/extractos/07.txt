@@ -1,0 +1,240 @@
+FUENTE 07: Banco Mundial, actualización de diciembre de 2024
+URL original: https://www.worldbank.org/en/news/press-release/2024/12/10/reforms-are-needed-to-stem-a-slow-down-in-afe-kenya-s-economic-growth
+Fecha de captura: 2026-10-21
+Tipo: texto extraído por navegador; puede ser parcial. No es el HTML/PDF original.
+Estado: texto_recuperado
+
+Reforms are Needed to Stem a Slow-down in Kenya’s Economic Growth (https://www.worldbank.org/en/news/press-release/2024/12/10/reforms-are-needed-to-stem-a-slow-down-in-afe-kenya-s-economic-growth)
+  Crawled: last week; Content type: text/html; Source: open({"ref_id":"https://www.worldbank.org/en/news/press-release/2024/12/10/reforms-are-needed-to-stem-a-slow-down-in-afe-kenya-s-economic-growth","lineno":null}); Total lines: 237
+L0: col-xs-12
+L1: 
+L2: col-sm-12
+L3: 
+L4: col-md-1
+L5: 
+L6: col-lg-1
+L7: 
+L8: col-xs-12
+L9: 
+L10: col-sm-12
+L11: 
+L12: col-md-8
+L13: 
+L14: col-lg-8
+L15: 
+L16: jcrtitle
+L17: # Reforms are Needed to Stem a Slow-down in Kenya’s Economic Growth
+L18: 
+L19: jcrpagetitle
+L20: 
+L21: Reforms are Needed to Stem a Slow-down in Kenya’s Economic Growth
+L22: 
+L23: jcrnavtitle
+L24: 
+L25: Reforms are Needed to Stem a Slow-down in Kenya’s Economic Growth
+L26: 
+L27: jcrdescription
+L28: NAIROBI, December 10, 2024 — Kenya’s GDP is projected to grow at 4.7% in 2024, slower when compared to 5.6% in 2023 and closer to the country’s pre-pandemic average of 4.6% per year between 2011-2019, according to the latest Kenya Economic Update, launched today. Kenya’s real GDP is envisioned to gradually pick up in the medium term, but structural imbalances are hindering Kenya’s goal of faster, sustained, and more inclusive growth.
+L29: 
+L30: jcrtags
+L31: 
+L32:   * wbg:country/kenya
+L33:   * wbg:regions/sub-saharan-africa
+L34: jcrimage
+L35: 
+L36:  L37: 
+L38: content-type
+L39: 
+L40: Press Release
+L41: 
+L42: writer
+L43: 
+L44: 000247767
+L45: 
+L46: first-appeared-in
+L47: 
+L48: 2024-12-10
+L49: 
+L50: expert-id
+L51: 
+L52: 000247767
+L53: 
+L54: press-release-no
+L55: 
+L56: 2025/034/AFE
+L57: 
+L58: country
+L59: 
+L60: Kenya
+L61: 
+L62: keyframe-img
+L63:  L64: 
+L65: result
+L66: 
+L67: false
+L68: 
+L69: content-date
+L70: 
+L71: December 10, 2024
+L72: 
+L73: col-xs-12
+L74: 
+L75: col-sm-12
+L76: 
+L77: col-md-3
+L78: 
+L79: col-lg-3
+L80: 
+L81: sec-spacing
+L82: 
+L83: section-none
+L84: 
+L85: sec-spacing-bottom
+L86: 
+L87: section-xlarge
+L88: 
+L89: style
+L90: 
+L91: default
+L92: 
+L93: col-xs-12
+L94: 
+L95: col-sm-12
+L96: 
+L97: col-md-1
+L98: 
+L99: col-lg-1
+L100: 
+L101: col-xs-12
+L102: 
+L103: col-sm-12
+L104: 
+L105: col-md-7
+L106: 
+L107: col-lg-7
+L108: 
+L109:   * add-style
+L110:   * font-medium
+L111:   * lp-body-content
+L112: NAIROBI, December 10, 2024 — Kenya’s GDP is projected to grow at 4.7% in 2024, slower when compared to 5.6% in 2023 and closer to the country’s pre-pandemic average of 4.6% per year between 2011-2019, according to the latest Kenya Economic Update, launched today. Kenya’s real GDP is envisioned to gradually pick up in the medium term, but structural imbalances are hindering Kenya’s goal of faster, sustained, and more inclusive growth.
+L113: The  notes that while the agricultural and services sectors remain resilient, they are slowing and there are risks of further deceleration. In the short term, this slowdown has been driven by various factors such as a tighter macroeconomic policy framework. Another driver has been the subdued business confidence as sentiment in the private sector has been declining, even before the June protests.
+L114: The update further notes that the April 2024 floods severely affected the livelihood of households, mostly in urban areas, limiting growth in private consumption. Industry has been losing momentum, with weaker housing demand amid high interest rates slowing the construction sector.
+L115: “A slowdown in economic growth would negatively affect job creation and poverty reduction,” said Qimiao Fan, World Bank Country Director for Kenya, Rwanda, Somalia, and Uganda. “We remain strongly committed to supporting the people and Government of Kenya to improve the economic environment and create more and better jobs. This can be done by addressing corruption and overall governance, tackling the high fiscal vulnerabilities, and improving the business environment.”
+L116: Accelerating the structural reform agenda is particularly important considering Kenya’s fiscal constraints. There is limited room for external borrowing and domestic government borrowing has increased, pushing interest rates up and crowding out private sector borrowing. Despite a projected primary surplus in FY24/25, higher interest payments have kept net financing needs at elevated levels. Interest payment reached 5.3% of GDP accounting for almost a third of total revenues and grants.
+L117: Reducing the primary deficit will help limit debt accumulation while concessional borrowing will help lower debt service costs.
+L118: To manage its high risk of debt distress, fiscal consolidation remains important for Kenya. But fiscal consolidation must be equitable. It requires more efficient, transparent and equitable expenditures that support better service delivery, protect the poor and vulnerable, contain the wage bill, and reduce waste and leakages.
+L119: “While the fiscal deficit remains high, its steady decline offers a key opportunity to further reduce debt vulnerabilities through strategic revenue mobilization, fiscal discipline, and growth-oriented policies,” saidNaomi Mathenge, World Bank Senior Economist.
+L120: The reform agenda requires a focus on economic growth that includes all Kenyans in the productive economy. The report’s special focus section, Women’s Economic Empowerment, thus underscores the importance of broadening economic participation through women’s economic empowerment as essential for easing Kenya’s socioeconomic pressures.
+L121: Empowering women—enabling them to actively participate in, control, and benefit from income-generating activities, while also building their voice and agency—presents a powerful opportunity to boost productivity, foster inclusive growth, and create more and better jobs.
+L122: Contacts
+L123: ### Vera Rosauer
+L124: 
+L125: vrosauer@worldbank.org
+L126: 
+L127: +254202936811
+L128: 
+L129: In Nairobi
+L130: 
+L131: ### Daniella van Leggelo-Padilla
+L132: 
+L133: dvanleggelo@worldbank.org
+L134: 
+L135: (202) 473-4989
+L136: 
+L137: In Washington
+L138: ## About The World Bank
+L139: 
+L140: The World Bank Group has a bold vision: to create a world free of poverty on a livable planet. In more than 100 countries, the World Bank Group provides financing, advice, and innovative solutions that improve lives by creating jobs, strengthening economic growth, and confronting the most urgent global challenges. For more information, please visit  ,  , and  .
+L141: 
+L142: col-xs-12
+L143: 
+L144: col-sm-12
+L145: 
+L146: col-md-1
+L147: 
+L148: col-lg-1
+L149: col-xs-12
+L150: 
+L151: col-sm-12
+L152: 
+L153: col-md-3
+L154: 
+L155: col-lg-3
+L156: 
+L157:   * add-style
+L158: ## RELATED
+L159: 
+L160: lp-heading-bottom-medium
+L161: 
+L162: sec-spacing
+L163: 
+L164: section-none
+L165: 
+L166: sec-spacing-bottom
+L167: 
+L168: section-padding-between
+L169: 
+L170: style
+L171: 
+L172: default
+L173: ## OMBC
+L174: 
+L175: Online Media Briefing Center (OMBC) news for accredited journalists
+L176: 
+L177: Sign In
+L178: 
+L179:  L180: 
+L181: Register
+L182: 
+L183:  L184: 
+L185: secondary
+L186: 
+L187: white-btn
+L188: 
+L189: sec-spacing
+L190: 
+L191: section-none
+L192: 
+L193: sec-spacing-bottom
+L194: 
+L195: section-padding-between
+L196: 
+L197: sec-swoosh
+L198: 
+L199: sec-swoosh-type12
+L200: 
+L201: style
+L202: 
+L203: default, lp-signup-wrapper, border-radius-medium, bg-primary-blue-80, heading-v1
+L204: 
+L205: sec-inside-container
+L206: 
+L207: true
+L208: 
+L209: everything
+L210:  L211: 
+L212: true
+L213: 
+L214: {"facets":[],"orderby":"contentDate desc","select":"*","searchFields":"*","search":"*","filter":"contentType eq 'Press Release'","top":20,"skip":0}
+L215: 
+L216: 3
+L217: 
+L218: no
+L219: 
+L220: yes
+L221: 
+L222: no
+L223: 
+L224: whats_news
+L225: 
+L226: sec-spacing
+L227: 
+L228: section-none
+L229: 
+L230: sec-spacing-bottom
+L231: 
+L232: section-padding-between
+L233: 
+L234: style
+L235: 
+L236: default, bg-neutrals-15-gradient

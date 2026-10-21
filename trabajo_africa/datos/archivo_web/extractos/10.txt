@@ -1,0 +1,357 @@
+FUENTE 10: BEI, IHS Kenya Energy Efficient Housing
+URL original: https://www.eib.org/en/projects/all/20190915
+Fecha de captura: 2026-10-21
+Tipo: texto extraído por navegador; puede ser parcial. No es el HTML/PDF original.
+Estado: texto_recuperado
+
+IHS KENYA ENERGY EFFICIENT HOUSING (https://www.eib.org/en/projects/all/20190915)
+  Crawled: 6 days ago; Content type: text/html; Source: open({"ref_id":"https://www.eib.org/en/projects/all/20190915","lineno":null}); Total lines: 530
+L0: Search EN
+L1:     *  L2:     *  L3: menu  L4: 
+L5: Close  L6: 
+L7: Search
+L8: 
+L9: [Input: Search]  L10: 
+L11:     * Who we are
+L12: 
+L13: back
+L14: 
+L15:       *  L16: 
+L17:       *  L18: 
+L19:       *  L20: 
+L21:       * EIB Group at a glance
+L22: 
+L23: back
+L24:         *  L25:         *  L26:         *  L27:         *  L28: 
+L29:       *  L30: 
+L31:       * Our results
+L32: back
+L33:         *  L34:         *  L35: 
+L36:       * Governance and structure
+L37: 
+L38: back
+L39:         *  L40:         *  L41:         *  L42:         *  L43:         *  L44: 
+L45:       * Corporate responsibility
+L46: back
+L47:         *  L48:         *  L49:         *  L50:         *  L51:         *  L52:         *  L53:         *  L54: 
+L55:       * Transparency, accountability and access to information
+L56: back
+L57:         *  L58:         *  L59:         *  L60:         *  L61:         *  L62:         *  L63:         *  L64:         *  L65: 
+L66:       *  L67: 
+L68:       *  L69: 
+L70:     * What we offer
+L71: 
+L72: back
+L73: 
+L74:       *  L75: 
+L76:       * Loans
+L77: back
+L78:         *  L79:         *  L80:         *  L81:         *  L82:         *  L83:         *  L84: 
+L85:       * Equity
+L86: back
+L87:         *  L88:         *  L89:         *  L90:         *  L91:         *  L92:         *  L93: 
+L94:       * Guarantees
+L95: 
+L96: back
+L97:         *  L98:         *  L99:         *  L100: 
+L101:       *  L102: 
+L103:       * Mandates and partnerships
+L104: back
+L105:         *  L106:         *  L107:         *  L108:         *  L109:         *  L110:         *  L111:         *  L112:         *  L113:         *  L114:         *  L115:         *  L116: 
+L117:       * One-stop shop
+L118: back
+L119:         *  L120:         *  L121:         *  L122: 
+L123:     * Our work
+L124: 
+L125: back
+L126: 
+L127:       *  L128: 
+L129:       * Our projects
+L130: 
+L131: back
+L132:         *  L133:         *  L134:         *  L135: 
+L136:       * Our priorities
+L137: back
+L138:         *  L139:         *  L140:         *  L141:         *  L142:         *  L143:         *  L144:         *  L145:         *  L146:         *  L147: 
+L148:       * Our regions of activity
+L149: back
+L150:         *  L151:         *  L152:         *  L153:         *  L154:         *  L155:         *  L156:         *  L157:         *  L158:         *  L159:         *  L160:         *  L161: 
+L162:       *  L163: 
+L164:       *  L165: 
+L166:       *  L167: 
+L168:     * Media centre
+L169: 
+L170: back
+L171: 
+L172:       *  L173:       * Newsroom
+L174: 
+L175: back
+L176:         *  L177:         *  L178:         *  L179: 
+L180:       * Stories and podcasts
+L181: 
+L182: back
+L183:         *  L184:         *  L185:         *  L186: 
+L187:       *  L188: 
+L189:       *  L190: 
+L191:       *  L192: 
+L193:       *  L194: 
+L195:       * EIB surveys
+L196: 
+L197: back
+L198:         *  L199:         *  L200: 
+L201:       * EIB Group picture library
+L202: 
+L203: back
+L204:         *  L205: 
+L206:       *  L207:       *  L208: 
+L209:     * Publications and research
+L210: 
+L211: back
+L212: 
+L213:       *  L214: 
+L215:       * Publications
+L216: 
+L217: back
+L218:         *  L219: 
+L220:       * Our research
+L221: 
+L222: back
+L223:         *  L224:         *  L225:         *  L226:         *  L227:         *  L228:         *  L229: 
+L230:       *  L231: 
+L232:       *  L233: 
+L234:     * Work with us
+L235: 
+L236: back
+L237: 
+L238:       *  L239:       *  L240: 
+L241:       * Careers
+L242: 
+L243: back
+L244:         *  L245:         *  L246:         *  L247:         *  L248:         *  L249: 
+L250:       * Investor relations
+L251: back
+L252:         *  L253:         *  L254:         *  L255:         *  L256:         *  L257:         *  L258:         *  L259:         *  L260:         *  L261: 
+L262:       *  L263: 
+L264:       *  L265: 
+L266:       *  L267:     * Easy-to-read
+L268: 
+L269: back
+L270: 
+L271:       *  L272: 
+L273:       *  L274: 
+L275:       *  L276: 
+L277:       *  L278: 
+L279:       *  L280: 
+L281: Results
+L282: Top 5 search results   L283: 
+L284: Top searches
+L285: 
+L286: Most visited pages
+L287: # IHS KENYA ENERGY EFFICIENT HOUSING
+L288: 
+L289:   *  L290:   *  L291:   *  L292:   *  L293: ## Signature(s)
+L294: 
+L295: Amount
+L296: 
+L297: € 36,000,000
+L298: 
+L299: Countries
+L300: 
+L301: Sector(s)
+L302: 
+L303:  : € 36,000,000
+L304: 
+L305:  : € 36,000,000
+L306: 
+L307: Signature date(s)
+L308: 
+L309: 14/12/2020 : € 36,000,000
+L310: 
+L311: Other links
+L312: 
+L313: Related public register
+L314: 
+L315:  L316: 
+L317: Related press
+L318: 
+L319:  L320: ## Summary sheet
+L321: 
+L322: Release date
+L323: 
+L324: 5 May 2020
+L325: 
+L326: Status
+L327: 
+L328: Reference
+L329: 
+L330: Signed | 14/12/2020
+L331: 
+L332: 20190915
+L333: 
+L334: Project name
+L335: 
+L336: Promoter - financial intermediary
+L337: 
+L338: IHS KENYA ENERGY EFFICIENT HOUSING
+L339: 
+L340: INTERNATIONAL HOUSING SOLUTIONS (RF) (PTY) LTD,IQ EQ FUND MANAGEMENT (LUXEMBOURG) SA
+L341: 
+L342: Proposed EIB finance (Approximate amount)
+L343: 
+L344: Total cost (Approximate amount)
+L345: 
+L346: EUR 36 million
+L347: 
+L348: EUR 180 million
+L349: 
+L350: Location
+L351: 
+L352: Sector(s)
+L353: 
+L354:   *  L355: 
+L356:   *  - Construction
+L357: 
+L358: Description
+L359: 
+L360: Objectives
+L361: The project consists in an investment programme into a Luxembourg equity fund, promoted by the International Housing Solutions Group, which will operate with local property developers in Kenya.
+L362: 
+L363: The Fund will develop multi-family energy efficient and affordable housing in urban areas, especially in Nairobi.
+L364: 
+L365: Environmental aspects
+L366: 
+L367: Procurement
+L368: The projects will bring a positive impact on the environment as they will be developed according to the EDGE resource and energy efficient green housing standards. An innovation of the International Finance Corporation (IFC), a member of the World Bank Group, EDGE empowers emerging markets to scale up resource-efficient buildings in a fast, easy, and affordable way.
+L369: EDGE enables developers and builders to quickly identify the most cost-effective ways to reduce energy use, water use and embodied energy in materials. The EIB will require that each investment meets all local and EIB environmental requirements and that the promoter ensure though appropriate measures that all EIB's Environmental and Social Standards (E&S) risks during construction and operation will be mitigated.
+L370: Details will be reviewed during appraisal on the promoter's environmental and social due diligence procedures for ensuring compliance with relevant EU and national regulation and the E&S, as well as the capacity of the promoter to assess and monitor environmental and social risks and impacts.
+L371: It is anticipated that most operations will be private investment operations subject to a private procurement regime in line with the EIB's Guide to Procurement. If operations were to finance state-sponsored entities, they would have to follow public procurement as set forth in the EIB guide to procurement.
+L372: 
+L373: Related documents
+L374: 
+L375:  L376: 
+L377: Other links
+L378: 
+L379: Related press
+L380:  L381: ### Disclaimer
+L382: 
+L383: Before financing approval by the Board of Directors, and before loan signature, projects are under appraisal and negotiation. The information and data provided on this page are therefore indicative.
+L384: They are provided for transparency purposes only and cannot be considered to represent official EIB policy (see also the  ).
+L385: ## Documents
+L386: 
+L387:  L388: 
+L389: Publication Date
+L390: 
+L391: 21 Jul 2020
+L392: 
+L393: Document language
+L394: 
+L395:  L396: 
+L397: Main Topic
+L398: 
+L399: Lending
+L400: 
+L401: Document Number
+L402: 
+L403: 130122514
+L404: 
+L405: Document Focus
+L406: 
+L407: Environmental Information
+L408: 
+L409: Document Type
+L410: 
+L411:  L412: 
+L413: Project Number
+L414: 
+L415: 20190915
+L416: 
+L417: Sector(s)
+L418: 
+L419:  L420: 
+L421: Regions
+L422: 
+L423:  L424: 
+L425: Countries
+L426: 
+L427:  L428: 
+L429: Publicly available
+L430: 
+L431:  L432: or  L433: 
+L434: Link to source
+L435: 
+L436: Related public register
+L437: 
+L438:  L439: 
+L440: Other links
+L441: 
+L442: Summary sheet
+L443: 
+L444:  L445: 
+L446: Data sheet
+L447: 
+L448:  L449: 
+L450: Related press
+L451: 
+L452:  L453: ## News & Stories
+L454: 
+L455: Link to source
+L456: 
+L457: Related press
+L458: 
+L459:  L460: 
+L461: Other links
+L462: 
+L463: Related public register
+L464: 
+L465:  L466: ## General enquiries and comments
+L467: The EIB is committed to open communication and encourages constructive stakeholder input regarding its activities.
+L468: Enquiries and comments concerning the EIB’s involvement in a project or the financing facilities, activities, organisation and objectives of the EIB, can be sent to the  .
+L469: Alternatively, the EIB can be contacted through its  .
+L470: Queries regarding details of a specific project, in particular when it is under appraisal by the EIB, should preferably be addressed directly to project promoters.
+L471: ## Media enquiries
+L472: 
+L473: Media-related enquiries can be addressed to the  . Please also visit our  .
+L474: 
+L475: ## Complaints mechanism
+L476: 
+L477: Any complaint regarding alleged maladministration can be lodged  . The  acts as an independent external accountability mechanism of the EIB.
+L478: ## Zero tolerance against fraud and corruption
+L479: 
+L480: The EIB has a zero tolerance policy on fraud or corruption. To report allegations of fraud and corruption relating to EIB-financed projects, please contact the  . All reports will be treated as strictly confidential and handled in line with  and the EIB Group  L481: ## Related publications
+L482: 
+L483:   *  L484:   *  L485:   *  L486: 
+L487:  L488: 
+L489:  |  L490: 
+L491: Information
+L492: 
+L493:   *  L494:   *  L495:   *  L496:   *  L497:   *  L498:   *  L499: 
+L500: GET OUR NEWSLETTER
+L501: Receive updates of the EIB Group’s activities in Europe and around the world.
+L502: 
+L503: [Input: Email Address]
+L504: 
+L505: Next
+L506: 
+L507: [Select]Send Done
+L508: 
+L509: 
+L510: 
+L511: 
+L512: 
+L513: Please use a valid email address
+L514: 
+L515: Thank you for subscribing to the European Investment Bank’s monthly newsletter.
+L516: 
+L517: This form is protected by reCAPTCHA and the Google  and  apply.
+L518: 
+L519: © European Investment Bank 2025
+L520: Our website uses anonymised cookies to give you the best browser experience and to collect aggregated statistics. This does not include online advertising cookies.
+L521: 
+L522:   Accept all cookies  Refuse non essential cookies
+L523: ### Cookies on our Careers Section
+L524: 
+L525: Our website uses anonymised cookies to give you the best browser experience and to collect aggregated statistics. If you agree, this website section will also include third-party cookies used in online advertising.
+L526: 
+L527: 
+L528: 
+L529:  

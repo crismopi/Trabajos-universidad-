@@ -1,0 +1,211 @@
+FUENTE 36: Reall, proyecto Kwangware
+URL original: https://reall.net/data-dashboard/kenya/kwangware/
+Fecha de captura: 2026-10-21
+Tipo: texto extraído por navegador; puede ser parcial. No es el HTML/PDF original.
+Estado: texto_recuperado
+
+Kwangware - Reall (https://reall.net/data-dashboard/kenya/kwangware/)
+  Crawled: 2 months ago; Content type: text/html; Source: open({"ref_id":"https://reall.net/data-dashboard/kenya/kwangware/","lineno":null}); Total lines: 320
+L0:     *  L1: 
+L2:       *  L3: 
+L4:         *  L5: 
+L6:         *  L7: 
+L8:         *  L9: 
+L10:         *  L11: 
+L12:         *  L13: 
+L14:       *  L15: 
+L16:       *  L17: 
+L18:       *  L19: 
+L20:       *  L21: 
+L22:       *  L23: 
+L24:     *  L25: 
+L26:       *  L27: 
+L28:         *  L29: 
+L30:       *  L31:       *  L32: 
+L33:       *  L34: 
+L35:     * Housing Knowledge Portal
+L36: 
+L37:       *  L38: 
+L39:       *  L40: 
+L41:       *  L42: 
+L43:       *  L44: 
+L45:         *  L46: 
+L47:         *  L48: 
+L49:         *  L50: 
+L51:     *  L52: 
+L53:       *  L54: 
+L55:       *  L56: 
+L57:       *  L58: 
+L59:       *  L60: 
+L61:       *  L62:       *  L63: 
+L64:     *  L65: 
+L66:       *  L67: 
+L68:       *  L69: 
+L70:       *  L71: 
+L72:         *  L73: 
+L74:         *  L75:     *  L76:       *  L77:         *  L78:         *  L79:         *  L80:         *  L81:         *  L82:       *  L83:       *  L84:       *  L85:       *  L86:       *  L87:     *  L88:       *  L89:         *  L90:       *  L91:       *  L92:       *  L93:     * Housing Knowledge Portal
+L94:       *  L95:       *  L96:       *  L97:       *  L98:         *  L99:         *  L100:         *  L101:     *  L102:       *  L103:       *  L104:       *  L105:       *  L106:       *  L107:       *  L108:     *  L109:       *  L110:       *  L111:       *  L112:         *  L113:         *  L114: [Input: Search]
+L115: 
+L116: Navigation: |
+L117: 
+L118:   L119: # Kwangware
+L120: 
+L121:   * Status: Complete
+L122:   * Country: Kenya
+L123:   * City: Nairobi
+L124:   * Partner: KKL
+L125:   * Year Approved: 2021
+L126: 
+L127: [Button: KES Ksh] [Button: USD $]
+L128: 
+L129: Total Invested
+L130: 
+L131: KES 5,733,809
+L132: 
+L133: Average Completion Cost
+L134: 
+L135: KES 640,000
+L136: 
+L137: Total Invested
+L138: 
+L139: $44,094
+L140: 
+L141: Delivery of Homes
+L142: 
+L143: Total Financed
+L144: 
+L145: Completed
+L146: 
+L147:  L148: 
+L149: Rental
+L150: 
+L151: 16
+L152: 
+L153: 16
+L154: 
+L155: Project Overview
+L156: As Reall’s first rental project in Kenya, this project provides housing units for affordable landlords in an area of Nairobi called Kwangware, where are number of factories are located. The majority of workers living in the area currently reside in sub-standard rental housing, and this project will meet a demand for affordable, good quality rental homes, while demonstrating the viability of landlords providing high quality rental units in Nairobi without the need for large capital investment.
+L157: The project will build 16, 18 squared metre bedsits, each equipped with a bathroom and electricity.
+L158: KKL’s modular system and technology allows for rapid construction whilst also providing a secure home that is resistant to fire, vandalism, burglary and weather events. The thin panel system uses less carbon than conventional building techniques, whilst allowing for a denser build in very tight locations by minimising wall widths.
+L159: 
+L160: 16
+L161: 
+L162: Homes Completed
+L163: 
+L164: 16
+L165: 
+L166: Connected to Water and Sanitation
+L167: 
+L168:  L169: 
+L170: Housing Information
+L171:  L172: Description  | Type  | Number Expected  | Number Completed  | Unit Size (m^{2})  | Completion Cost
+L173: (Local Currency)
+L174: --- | --- | --- | --- | --- | ---
+L175: 18m2 bedsit with bathroom and sink  | Rental  | 16  | 16  | 18  | 640000
+L176: 
+L177: Finance Description  | Finance Source
+L178: --- | ---
+L179: 18m2 bedsit with bathroom and sink  | Rental
+L180: ## Project Finances
+L181: 
+L182: Displayed In [Button: KES Ksh] [Button: USD $]
+L183: 
+L184: ### Investments — Reall to Affordable Housing Partners
+L185: 
+L186:  L187: 
+L188: Total Project Investments
+L189: 
+L190: KES 5,733,809
+L191: 
+L192: $ 44,094
+L193: 
+L194:  L195: 
+L196: Grants
+L197: 
+L198: KES 5,733,809
+L199: 
+L200: $ 44,094
+L201: 
+L202: Based on exchange rate on 30/09/2024
+L203: ## Browse Projects in Kenya
+L204: 
+L205:  L206: 
+L207:  L208: 
+L209:  L210: 
+L211:  L212: 
+L213:  L214: 
+L215:  L216: 
+L217:  L218: 
+L219:  L220: 
+L221:  L222: 
+L223:  L224: 
+L225:  L226: 
+L227:  L228: 
+L229:  L230: 
+L231:  L232: 
+L233:  L234:  L235: 
+L236:  L237: 
+L238:  L239: 
+L240:  L241: 
+L242:  L243: 
+L244:  L245: 
+L246:  L247: 
+L248:  L249: 
+L250:  L251: # Want the latest data?
+L252: 
+L253: Be notified each time our data is updated by joining our mailing list.
+L254: 
+L255: Want to download this data?  to access our data explorer.
+L256: 
+L257: [Input] [Input] [Input]
+L258: 
+L259: Sign up to data notifications
+L260: 
+L261: [Input: Name]
+L262: 
+L263: [Input: Email]
+L264: 
+L265: [Input] I Agree to the
+L266: 
+L267:  and  L268: 
+L269: [Button: Sign Up ]
+L270: 
+L271: Data last updated on 21/10/2025
+L272: 
+L273: ## Fill in your details.
+L274: Click sign up.
+L275: Change the world.
+L276: #### Let's start a conversation
+L277: 
+L278: Name
+L279: 
+L280: [Input]
+L281: 
+L282: Email(Required)
+L283: 
+L284: [Input]
+L285: 
+L286: Organisation
+L287: 
+L288: [Input]
+L289: 
+L290: Enquiry Type(Required)
+L291: 
+L292: [Select]
+L293: 
+L294: We will never share your data with other companies. See our  for more information.
+L295: 
+L296: [Button: Submit] [Input] [Input] [Input] [Input] [Input] [Input] [Input] [Input] [Input] [Input] [Input]
+L297: 
+L298:  L299: 
+L300:  L301: 
+L302: T: +44 (0)24 7509 3340
+L303: 
+L304:  L305:  L306: 
+L307:  L308: 
+L309: With thanks for the support from
+L310: 
+L311:  L312: 
+L313:  L314: 
+L315:     *  L316:     *  L317:     *  L318: Reall Limited is a Company Limited by Guarantee No. 2713841 | Registered Charity in England and Wales (1017255) | VAT Registration No: 502390134
+L319:  | Copyright © 2026 Reall Limited

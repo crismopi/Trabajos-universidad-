@@ -1,0 +1,9 @@
+FUENTE 30: KNBS, Economic Survey 2026, apartado 3.5
+URL original: https://www.knbs.or.ke/wp-content/uploads/2026/04/2026-Economic-Survey.pdf
+Fecha de captura: 2026-10-21
+Tipo: texto extraído por navegador; puede ser parcial. No es el HTML/PDF original.
+Estado: apertura_fallida
+
+Internal Error ()
+  Source: open({"ref_id":"https://www.knbs.or.ke/wp-content/uploads/2026/04/2026-Economic-Survey.pdf","lineno":null}); Total lines: 1
+L0: Failed to fetch https://www.knbs.or.ke/wp-content/uploads/2026/04/2026-Economic-Survey.pdf: (400) Timeout fetching

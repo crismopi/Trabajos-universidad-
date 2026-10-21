@@ -1,0 +1,278 @@
+FUENTE 18: Craiova Realtors, anuncio de estudios
+URL original: https://craiovarealtors.com/property/studio-apartments-on-naivasha-road/
+Fecha de captura: 2026-10-21
+Tipo: texto extraído por navegador; puede ser parcial. No es el HTML/PDF original.
+Estado: texto_recuperado
+
+Studio Apartments On Naivasha road - Craiova Realtors (https://craiovarealtors.com/property/studio-apartments-on-naivasha-road/)
+  Crawled: yesterday; Content type: text/html; Source: open({"ref_id":"https://craiovarealtors.com/property/studio-apartments-on-naivasha-road/","lineno":null}); Total lines: 336
+L0:  L1: 
+L2:   *  L3: 
+L4: Call Us : 0720004631
+L5: 
+L6:   *   * # Studio Apartments On Naivasha road
+L7: 
+L8:   * Ksh 19,000
+L9: 
+L10:   L11: 
+L12: Riruta
+L13: 
+L14:   *   *   L15: 
+L16: # Studio Apartments On Naivasha road
+L17: 
+L18: Riruta
+L19: 
+L20:   * Ksh 19,000
+L21: 
+L22: ## Overview
+L23: 
+L24:   * Apartments, Studio
+L25:   * Property Type
+L26: 
+L27:   * 1
+L28:   * Bedroom
+L29: 
+L30:   * 1
+L31:   * Bathroom
+L32: 
+L33:   * 1
+L34:   * Garage
+L35: 
+L36:   * 23
+L37:   * sqm
+L38: ## Description
+L39: 
+L40: UNFURNISHED
+L41: Located off Naivasha road, Riruta
+L42: Comprises of Studios of different sizes and floors
+L43: The rent ranges from 19,000/= to 25,000/=
+L44: TERMS: 1 month deposit , One month rent
+L45: The complex comes with the following amenities:
+L46: 
+L47:   * High-speed lifts
+L48:   * Shopping Annex
+L49:   * Restaurant at the rooftop
+L50:   * Smart metering
+L51:   * Property management
+L52:   * Borehole water
+L53:   * 24 hrs CCTV Surveillance
+L54: ## Details
+L55: 
+L56: Updated on July 7, 2025 at 9:26 am
+L57: 
+L58:   * Price: Ksh 19,000
+L59:   * Property Size: 23 sqm
+L60:   * Bedroom: 1
+L61:   * Bathroom: 1
+L62:   * Garage: 1
+L63:   * Property Type: Apartments, Studio
+L64:   * Property Status: For Rent, Ready For Occupation
+L65: 
+L66: ## Contact Information
+L67: 
+L68:  L69: 
+L70:   * craiova realtors
+L71:   * +254 720 004 631 L72: ### Enquire About This Property
+L73: 
+L74: Name [Input: Enter your name]
+L75: 
+L76: Phone [Input: Enter your Phone]
+L77: 
+L78: Email [Input: Enter your email]
+L79: 
+L80: I'm a [Select]
+L81: 
+L82: Message Hello, I am interested in [Studio Apartments On Naivasha road]
+L83: 
+L84: [Input]By submitting this form I agree to  L85: 
+L86: [Input] [Input] [Input] [Input] [Input] [Input] [Input] [Input] [Input] [Input] [Input]
+L87: 
+L88: Request Information
+L89: ## Similar Listings
+L90: 
+L91:   L92: 
+L93:   * Ksh 5,200,000
+L94: 
+L95:   *   *   *   L96: 
+L97: ##  L98: 
+L99:   * Ksh 5,200,000
+L100: Athi River
+L101: 
+L102:   * Bed: 1
+L103:   * Bath: 1
+L104:   * Garage: 1
+L105:   * 65 sqm
+L106:   * Apartments, under construction
+L107:  L108: 
+L109:  L110: 
+L111: 5 hours ago
+L112: 
+L113:  L114: 
+L115: 5 hours ago
+L116: 
+L117:   L118: 
+L119:   * Ksh 6,200,000
+L120: 
+L121:   *   *   *   L122: ##  L123: 
+L124:   * Ksh 6,200,000
+L125: Athi River
+L126: 
+L127:   * Beds: 2
+L128:   * Baths: 2
+L129:   * Garage: 1
+L130:   * 86 sqm
+L131:   * Apartments, under construction
+L132:  L133: 
+L134:  L135: 
+L136: 5 hours ago
+L137: 
+L138:  L139: 
+L140: 5 hours ago
+L141: 
+L142:   L143: 
+L144:   * Ksh 3,500,000
+L145: 
+L146:   *   *   *   L147: ##  L148: 
+L149:   * Ksh 3,500,000
+L150: Athi River
+L151: 
+L152:   * Bed: 1
+L153:   * Bath: 1
+L154:   * Garage: 1
+L155:   * 41 sqm
+L156:   * Apartments, Studio, under construction
+L157:  L158: 
+L159:  L160: 
+L161: 5 hours ago
+L162: 
+L163:  L164: 
+L165: 5 hours ago
+L166: 
+L167:   L168: 
+L169:   * Ksh 5,500,000
+L170: 
+L171:   *   *   *   L172: ##  L173: 
+L174:   * Ksh 5,500,000
+L175: Westlands
+L176: 
+L177:   * Bed: 1
+L178:   * Bath: 1
+L179:   * Garage: 1
+L180:   * 36 sqm
+L181:   * Apartments, Studio, under construction
+L182:  L183: 
+L184:  L185: 
+L186: 1 day ago
+L187: 
+L188:  L189: 
+L190: 1 day ago
+L191: 
+L192:  L193: 
+L194:   * craiova realtors
+L195:   *  L196: 
+L197: [Input: Name]
+L198: 
+L199: [Input: Phone]
+L200: 
+L201: [Input: Email]
+L202: 
+L203: Hello, I am interested in [Studio Apartments On Naivasha road]
+L204: 
+L205: [Select]
+L206: [Input]By submitting this form I agree to  L207: 
+L208: [Input] [Input] [Input] [Input] [Input] [Input] [Input] [Input] [Input] [Input]
+L209: 
+L210: Send Message Call +254 720 004 631  L211: ### Recent View Properties
+L212: 
+L213: ##  L214: 
+L215:   * Ksh 19,000
+L216: 
+L217: ##  L218: 
+L219:   * Ksh 68,000,000
+L220: 
+L221: ### Contact Info
+L222: 
+L223:   * Nairobi, kenya
+L224:   * +254 720 004 631 / +254 776 007 048
+L225:   * info@craiovarealtors.com
+L226: 
+L227: ### Quick Links
+L228: 
+L229:   *  L230:   *  L231:   *  L232:   *  L233:   *  L234: ### Type of properties
+L235: 
+L236:   *  L237:   *  L238:   *  L239:   *  L240:   *  L241: 
+L242: © Craiova Realtors 2025 - All rights reserved
+L243: 
+L244: Compare listings
+L245: 
+L246: Compare [Button: Close]
+L247: 
+L248: [Input: Username or Email]
+L249: 
+L250: [Input: Password]
+L251: 
+L252: [Input]Remember me  L253: 
+L254: [Input][Input] [Input] [Input] Login
+L255: 
+L256: User registration is disabled for demo purpose.
+L257: ##### Reset Password
+L258: 
+L259: Please enter your username or email address. You will receive a link to create a new password via email.
+L260: 
+L261: [Input: Enter your username or email]
+L262: 
+L263: [Input][Input] Get new password
+L264: 
+L265:  L266: 
+L267:   * craiova realtors
+L268: 
+L269:  L270: 
+L271:   * craiova realtors
+L272:   *  L273: 
+L274: [Input: Name]
+L275: 
+L276: [Input: Phone]
+L277: 
+L278: [Input: Email]
+L279: 
+L280: Hello, I am interested in [Studio Apartments On Naivasha road]
+L281: 
+L282: [Select]
+L283: 
+L284: [Input]By submitting this form I agree to  L285: [Input] [Input] [Input] [Input] [Input] [Input] [Input] [Input] [Input] [Input]
+L286: 
+L287: Send Message Call +254 720 004 631  L288: 
+L289:   *  L290:   *  L291: 
+L292:  L293: 
+L294:  L295: 
+L296:  L297: 
+L298:  L299: 
+L300:  L301: 
+L302:  L303: 
+L304:  L305:  L306: 
+L307:   * craiova realtors
+L308:   *  L309: 
+L310: [Input: Name]
+L311: 
+L312: [Input: Phone]
+L313: 
+L314: [Input: Email]
+L315: 
+L316: Hello, I am interested in [Studio Apartments On Naivasha road]
+L317: 
+L318: [Select]
+L319: 
+L320: [Input]By submitting this form I agree to  L321: 
+L322: [Input] [Input] [Input] [Input] [Input] [Input] [Input] [Input] [Input] [Input]
+L323: 
+L324: Send Message Call +254 720 004 631  L325: 
+L326: 🏡
+L327: 
+L328: Craiova Realtors
+L329: 
+L330: Online · Replies instantly
+L331: 
+L332: [Button: 🗑] [Button: ✕]
+L333: 
+L334: [Input: Type a message…]
+L335: Powered by  

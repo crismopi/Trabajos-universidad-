@@ -1,0 +1,53 @@
+FUENTE 27: Departamento de Comercio, julio de 2026
+URL original: https://www.trade.go.ke/index.php/kenya-hosts-afcfta-mission-fast-track-ratification-phase-ii-trade-protocols
+Fecha de captura: 2026-10-21
+Tipo: texto extraído por navegador; puede ser parcial. No es el HTML/PDF original.
+Estado: texto_recuperado
+
+Kenya Hosts AfCFTA Mission to Fast-Track Ratification of Phase II Trade Protocols | State Department for Trade (https://www.trade.go.ke/index.php/kenya-hosts-afcfta-mission-fast-track-ratification-phase-ii-trade-protocols)
+  Crawled: 3 weeks ago; Content type: text/html; Source: open({"ref_id":"https://www.trade.go.ke/index.php/kenya-hosts-afcfta-mission-fast-track-ratification-phase-ii-trade-protocols","lineno":null}); Total lines: 92
+L0: Please wait...
+L1: 
+L2:   * ps.trade@trade.go.ke
+L3:   *  L4:   *  L5:     *  L6:     *  L7:     *  L8:     *  L9:     *  L10:     *  L11:     *  L12:     *  L13:   *  L14:     *  L15:     *  L16:     *  L17:     *  L18:   *  L19:   * Resources
+L20:     *  L21:     *  L22:     *  L23:     *  L24:     *  L25:     *  L26:   *  L27:     *  L28:     *  L29:     *  L30:     *  L31:     *  L32:   * Tenders
+L33:     *  L34:     *  L35:     *  L36:   *  L37: [Input]
+L38: 
+L39: [Input]
+L40: 
+L41:  L42: # Kenya Hosts AfCFTA Mission to Fast-Track Ratification of Phase II Trade Protocols
+L43: 
+L44:  / Mon, 07/27/2026 - 11:02
+L45: 
+L46: The State Department for Trade hosted the African Continental Free Trade Area (AfCFTA) Secretariat’s Ratification Advocacy Mission in Nairobi.
+L47: The consultative mission sought to advance the ratification of the five Phase II Protocols to the agreement establishing the AfCFTA, in line with the Assembly of Heads of State and Government’s decision calling on all State Parties to ratify the Protocols by 31st December 2026.
+L48: The Phase II Protocols comprise the Protocols on Investment, Competition Policy and Intellectual Property Rights, as well as the Protocols on Digital Trade and Women and Youth in Trade, which were adopted in 2023 and 2024 respectively.
+L49: Collectively, these Protocols are designed to deepen continental economic integration by expanding market access, protecting innovation, promoting fair competition, advancing digital trade and ensuring that women, youth and micro, small and medium-sized enterprises (MSMEs) benefit meaningfully from opportunities created by the continental market.
+L50: The mission brought together senior government officials from key public institutions and the State Department  to build momentum towards the timely ratification and effective implementation of the Protocols.
+L51: Kenya was selected as the second country to host the advocacy mission, following its inaugural engagement in Ghana, in recognition of its strategic leadership in advancing the AfCFTA agenda. The country is a member of the Committee of Heads of State and Government on the Implementation of the AfCFTA, currently chaired by H.E. President William Ruto and was among the first countries to participate in trading under the AfCFTA Guided Trade Initiative.
+L52: Kenya’s influential role within the East African Community (EAC) further positions it to champion the ratification and implementation of the Protocols both nationally and across the region.
+L53: 
+L54: During the mission, delegates from the AfCFTA Secretariat and Kenya reaffirmed the importance of strengthening collaboration to facilitate the timely ratification of the Protocols in support of effective AfCFTA implementation and deeper continental economic integration
+L55: 
+L56: Tags
+L57: 
+L58:  L59: ## State Corporations
+L60: 
+L61:   *  L62:   *  L63:   *  L64:   *  L65:   *  L66:   *  L67: ## Related Links
+L68: 
+L69:   *  L70:   * State Department for Investment Promotion
+L71:   *  L72:   *  L73:   *  L74:   *  L75: 
+L76: ## Quick Links
+L77: 
+L78:  L79: 
+L80:  L81: ## Contact info
+L82: 
+L83:   * State Department for Trade
+L84:   * P.O. Box 30430-00100 GPO,        Nairobi
+L85:   * 18th Floor, Telposta Towers, Kenyatta Avenue,Nairobi.
+L86:   * Tel: +254 20 2242829
+L87:   * ps.trade@trade.go.ke
+L88:   * complaints@trade.go.ke
+L89:   * Mon-Fri 8:00 AM-5:00 PM
+L90: 
+L91: © Copyright 2026 |  | All Rights Reserved.

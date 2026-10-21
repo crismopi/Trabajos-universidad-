@@ -1,0 +1,82 @@
+FUENTE 04: Banco Mundial, Country Economic Memorandum 2016
+URL original: https://www.worldbank.org/en/country/kenya/publication/kenya-economic-memorandum-from-economic-growth-jobs-shared-prosperity
+Fecha de captura: 2026-10-21
+Tipo: texto extraído por navegador; puede ser parcial. No es el HTML/PDF original.
+Estado: texto_recuperado
+
+Economic Memorandum: Kenya’s Growth Story: Past, Present and Future (https://www.worldbank.org/en/country/kenya/publication/kenya-economic-memorandum-from-economic-growth-jobs-shared-prosperity)
+  Crawled: 6 days ago; Content type: text/html; Source: open({"ref_id":"https://www.worldbank.org/en/country/kenya/publication/kenya-economic-memorandum-from-economic-growth-jobs-shared-prosperity","lineno":null}); Total lines: 75
+L0: publication
+L1: 
+L2: # Economic Memorandum: Kenya’s Growth Story: Past, Present and Future
+L3: 
+L4: Latest Issue:
+L5: 
+L6:   * March 2016
+L7: 
+L8: * * *
+L9: 
+L10:  L11: 
+L12: © The World Bank Group
+L13: 
+L14: * * *
+L15: ###### STORY HIGHLIGHTS
+L16: 
+L17:   * Kenya’s economic performance has improved significantly in the past decade, according to the latest country economic memorandum
+L18: 
+L19:   * The report identifies services as main engine behind the acceleration of the country’s growth
+L20: 
+L21:   * The discovery of oil opens new opportunities for raising Kenya’s growth
+L22: 
+L23: * * *
+L24: NAIROBI, March 8, 2015 — Driven by modern services, Kenya’s economic performance has improved significantly over the past decade, according to a new World Bank report released today.
+L25: 
+L26: The 2016  , takes a bird’s-eye view of Kenya’s economy, zooms in on some of the key bottlenecks, and proposes some “how-to” ideas.
+L27: Between 2006 and 2013, 72% of the increase in gross domestic product (GDP) came from services, the report notes. Expansion in services such as financial intermediation and mobile communications have also stimulated demand for other services, such as trade, according to the report.
+L28: The report also shows that agriculture, the mainstay of Kenya’s economy, and manufacturing have stagnated and  have not created enough jobs for Kenya’s growing working age population. Most of the jobs are created by the informal economy and are concentrated in low-productivity areas such as trade, hospitality, and jua kali, entrepreneurs who can be hired to do just about any task.
+L29: “Improving the ease of doing business is vital for job creation and higher productivity. However, there is still a need for creating job opportunities for the rural poor, for poverty reduction and achieving shared prosperity,” said Apurva Sanghi, World Bank lead economist and program leader for Kenya. “Reviving agriculture, in particular, remains the pathway for poverty reduction.”
+L30: According to the report, accelerating growth to meet Kenya’s development goals requires technological advances and innovation that raise firms’ productivity, as only a few Kenyan firms have come up with products that are actually new to the domestic market. It will also require macroeconomic stability to boost investment and savings, the report adds.
+L31: As the government strives to build its energy and transport infrastructure, the report recommends improvements in the public investment management process and better execution.
+L32: The report also highlights the recent discovery of oil as an opportunity for raising Kenya’s growth. If used prudently, it can contribute to achieving the country’s Vision 2030 goals, and with appropriate management of resource revenues, it can generate resources that could be used to raise public investment, human capital, and productivity in the non-resource sectors of the economy.
+L33: The Country Economic Memorandum is a strategic World Bank product that analyzes key aspects of the country’s economic development, with the main aim of providing an integrated and long-term perspective of the country’s development priorities. This particular edition of the Kenya CEM has benefitted from extensive review from various stakeholders, including the government, academia and private sector.
+L34: 
+L35: * * *
+L36: 
+L37: * * *
+L38: ###### Contacts
+L39: 
+L40: Kenya
+L41: Keziah Muthembwa
+L42: Email (kmuthembwa@worldbank.org)
+L43: 
+L44: Washington
+L45: Aby Toure
+L46: Email (akonate@worldbank.org)
+L47: 
+L48: * * *
+L49: 
+L50: * * *
+L51: 
+L52: You have clicked on a link to a page that is not part of the beta version of the new worldbank.org. Before you leave, we’d love to get your feedback on your experience while you were here. Will you take two minutes to complete a brief survey that will help us to improve our website?
+L53: 
+L54: [Button: Cancel] [Button: No Thanks] [Button: Yes, I'll provide feedback]
+L55: ## Feedback Survey
+L56: 
+L57: Thank you for agreeing to provide feedback on the new version of worldbank.org; your response will help us to improve our website.
+L58: 
+L59: What was the purpose of your visit to worldbank.org today? [Input]
+L60: 
+L61: Did the layout and navigation of the new site help you locate what you were looking for?
+L62: [Input]Yes [Input]No
+L63: 
+L64: Do you have any other feedback on the new version of our website? (Optional) [Input]
+L65: If you are willing to be contacted in the future to help us improve our website, please leave your email address below. [Input]
+L66: 
+L67: Which of the following best describes your career field or organization?
+L68: [Input]Student [Input]Academic/Professor [Input]Government Employee [Input]Media Organization [Input]Multilateral Organization [Input]NGO or Nonprofit [Input]Private Sector Firm [Input]World Bank Group [Input]Other
+L69: How often do you visit the World Bank website?
+L70: [Input]This is my first time [Input]Daily [Input]About once a week [Input]About once a month [Input]Every six months or less often
+L71: 
+L72: [Input] [Input] [Input] [Button: SUBMIT]
+L73: 
+L74: Thank you for participating in this survey! Your feedback is very helpful to us as we work to improve the site functionality on worldbank.org.

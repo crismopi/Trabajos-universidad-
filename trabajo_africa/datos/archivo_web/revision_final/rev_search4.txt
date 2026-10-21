@@ -1,0 +1,235 @@
+Fecha de captura: 2026-10-21
+Método: navegación y/o resultados indexados. Texto posiblemente parcial; no es el documento original. Los lotes pueden contener resultados no pertinentes. Comprobar URL y registro de verificación antes de utilizar datos.
+
+Global economic growth outlook: (https://www.centralbank.go.ke/uploads/presentations/2005474214_Monetary%20Policy%20Committee%20Meeting%20Background%20Data%20August%202026.pdf)
+ [wordlim: 200] Published: 2 months ago; Crawled: 2 months ago; Global growth is projected to moderate to 3.0 percent in 2026 from 3.5 percent in 2025, due to higher energy prices as a result of the conflict in the Middle East. ... <td>1.9</td><td>-3.9</td><td>6.0</td><td>3.0</td><td>1.7</td><td>1.9</td><td>1.9</td> ... WWW.CENTRALBANK.GO.KE
+Global economic growth outlook:  
+Global growth is projected to moderate to 3.0 percent in 2026 from 3.5 percent in 2025, due to higher energy prices as a result of the conflict in the Middle East.
+
+Global and selected countries’ real GDP growth (y/y, percent)
+
+<table id="e1">
+<tr>
+<th></th>
+<th>2019 Act.</th>
+<th>2020 Act.</th>
+<th>2021 Act.</th>
+<th>2022 Act.</th>
+<th>2023 Act.</th>
+<th>2024 Act.</th>
+<th>2025 Act.</th>
+<th colspan="2">2026 Proj.</th>
+<th colspan="2">2027 Proj.</th>
+</tr>
+<tr>
+<th></th>
+<th></th><th></th><th></th><th></th><th></th><th></th><th></th>
+<th>Jul. 2026 WEO</th>
+<th>Difference from Jan. 2026 WEO</th>
+<th>Jul. 2026 WEO</th>
+<th>Difference from Jan. 2026 WEO</th>
+</tr>
+<tr>
+<td>World</td>
+<td>3.0</td><td>-2.7</td><td>6.6</td><td>3.8</td><td>3.5</td><td>3.5</td><td>3.5</td>
+<td>3.0</td><td>-0.1</td><td>3.4</td><td>0.2</td>
+</tr>
+<tr>
+<td>Advanced Economies</td>
+<td>1.9</td><td>-3.9</td><td>6.0</td><td>3.0</td><td>1.7</td><td>1.9</td><td>1.9</td>
+<td>1.7</td><td>-0.1</td><td>1.8</td><td>0.1</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;United States</td>
+<td>2.6</td><td>-2.1</td><td>6.2</td><td>2.5</td><td>2.9</td><td>2.8</td><td>2.1</td>
+<td>1.1</td><td>0.0</td><td>1.1</td><td>0.0</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;Saudi Arabia</td>
+<td>1.7</td><td>-3.8</td><td>6.5</td><td>12.0</td><td>0.5</td><td>2.6</td><td>4.6</td>
+<td>1.7</td><td>-1.4</td><td>5.5</td><td>1.0</td>
+</tr>
+<tr>
+<td>Sub-Saharan Africa (SSA)</td>
+<td>3.1</td><td>-3.1</td><td>3.8</td><td>4.4</td><td>3.7</td><td>4.2</td><td>4.5</td>
+<td>4.3</td><td>0.0</td><td>4.5</td><td>0.1</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;South Africa</td>
+<td>0.3</td><td>-6.2</td><td>4.9</td><td>2.1</td><td>0.8</td><td>0.5</td><td>1.1</td>
+<td>1.1</td><td>0.1</td><td>1.3</td><td>0.0</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;Nigeria</td>
+<td>2.2</td><td>-6.4</td><td>1.1</td><td>4.3</td><td>3.3</td><td>4.1</td><td>4.0</td>
+<td>4.1</td><td>0.0</td><td>4.3</td><td>0.0</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;Kenya</td>
+<td>5.1</td><td>-0.3</td><td>7.6</td><td>4.9</td><td>5.7</td><td>4.7</td><td>4.6</td>
+Source: IMF World Economic Outlook, July 2026
+
+• The downward revisions to 2026 growth in the Euro area and Saudi Arabia have implications on demand for Kenya’s exports, diaspora remittances inflows, and tourist arrivals. The expected steady USA growth and upward revision to UK growth are expected to support exports demand.  
+• Other key risks to global growth relate to elevated trade policy uncertainty and the Russia-Ukraine conflict.  
+• Kenya’s growth is expected to remain above the global, Emerging Market and Developing Economies, and SSA averages, mainly reflecting the resilience and diversified nature of the economy.
+
+WWW.CENTRALBANK.GO.KE--------------------------------------------------------------------------------
+Kenya: Fifth Reviews Under the Extended Fund Facility and Extended Credit Facility Arrangements and Request for a 20-month Arrangement Under the Resilience and Sustainability Facility; Requests for Extension, Rephasing, and Augmentation of Access, Modification of a Performance Criterion, Waiver of Applicability for Performance Criteria and Waiver of Nonobservance for a Performance Criterion, and Monetary Policy Consultation Clause––Debt Sustainability Analysis (https://doi.org/10.5089/9798400250101.002.A002)
+ [wordlim: 200] Published: 3.3 years ago; Crawled: last month;  | 2021  | 2022  | 2023  | 2024  | 2025  | 2026  | 2027  | 2028
+
+[Button: View Table ]
+
+^{Text Table 5.}
+
+Kenya: Selected Macroeconomic Indicators, 2021–28
+
+ | 2021  | 2022  | 2023  | 2024  | 2025  | 2026  | 2027  | 2028
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+ | Projections
+--- | ---
+Real GDP growth (percent)  | 7.6  | 4.8  | 5.0  | 5.3  | 5.3  | 5.4  | 5.4  | 5.4
+CPI inflation, average (percent)  | 6.1  | 7.6  | 7.8  | 6.6  | 5.4  | 5.4  | 5.0  | 5.0
+Overall fiscal balance (percent of GDP) ^{^{1}}  | -7.7  | -6.5  | -5.4  | -4.4  | -3.9  | -3.8  | -3.9  | -3.9
+Primary balance (percent of GDP)^{^{1}}  | -4.0  | -1.3  | -1.1  | 0.7  | 0.9  | 1.1  | 1.0  | 1.0
+Current account balance (percent of GDP)  | -5.2  | -5.1  | -4.8  | -5.0  | -5.0  | -5.0  | -5.0  | -4.8
+Exports of goods and services (US$ billion)  | 11.8  | 13.9  | 15.1  | 16.6  | 18.3  | 20.0  | 21.8  | 23.8
+Exports of goods and services (growth; percent)  | 21.8  | 17.2  | 9.1  | 10.0  | 10.2  | 9.2  | 9.2  | 8.9
+Gross international reserves (US$ billion)  | 9.5  | 8.0  | 7.3  | 8.5  | 9.7  | 10.5  | 11.6  | 12.2
+Sources: Kenyan authorities and IMF staff estimates and projections.
+
+--------------------------------------------------------------------------------
+MONETARY POLICY (https://www.centralbank.go.ke/uploads/presentations/1405742204_Monetary%20Policy%20Committee%20Meeting%20Background%20Data%20February%202025.pdf)
+ [wordlim: 200] Published: 1.5 years ago; |  | 2026 Proj. ... Russia  | 2.2  | -2.7  | 6.0  | -1.2  | 3.6  | 3.8  | 1.4  | 0.1  | 1.2  | 0.0
+7.
+Global economic outlook:
+Global growth is projected to improve in 2025, supported by strong growth in the United 
+States and India, and improved prospects for growth in the United Kingdom and Japan
+Global and selected countries’ real GDP growth (y/y, percent)  |  |  |  |  |  |  |  |  |  | 
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ | 2019
+Act.  | 2020
+Act.  | 2021
+Act.  | 2022
+Act.  | 2023
+Act.  | 2024
+Est.  | 2025 Proj.  |  | 2026 Proj.  | 
+ |  |  |  |  |  |  | Jan. 2025
+WEO  | Difference
+from Oct.
+2024 WEO  | Jan. 2025
+WEO  | Difference
+from Oct.
+2024 WEO
+World  | 2.8  | -2.7  | 6.5  | 3.5  | 3.3  | 3.2  | 3.3  | 0.1  | 3.3  | 0.0
+Advanced Economies  | 1.8  | -3.9  | 5.7  | 2.6  | 1.7  | 1.7  | 1.9  | 0.1  | 1.8  | 0.0
+United States  | 2.5  | -2.2  | 5.8  | 1.9  | 2.9  | 2.8  | 2.7  | 0.5  | 2.1  | 0.1
+United Kingdom  | 1.6  | -10.4  | 8.7  | 4.3  | 0.3  | 0.9  | 1.6  | 0.1  | 1.5  | 0.0
+Japan  | -0.4  | -4.1  | 2.6  | 1.0  | 1.5  | -0.2  | 1.1  | 0.0  | 0.8  | 0.0
+Euro area  | 1.6  | -6.1  | 5.9  | 3.4  | 0.4  | 0.8  | 1.0  | -0.2  | 1.4  | -0.1
+Germany  | 1.1  | -3.8  | 3.2  | 1.8  | -0.3  | -0.2  | 0.3  | -0.5  | 1.1  | -0.3
+France  | 1.8  | -7.5  | 6.3  | 2.6  | 1.1  | 1.1  | 0.8  | -0.3  | 1.1  | -0.2
+Italy  | 0.5  | -9.0  | 8.3  | 4.0  | 0.7  | 0.6  | 0.7  | -0.1  | 0.9  | 0.2
+Emerging Market and Developing
+Economies  | 3.6  | -1.8  | 7.0  | 4.1  | 4.4  | 4.2  | 4.2  | 0.0  | 4.3  | 0.1
+China  | 6.0  | 2.2  | 8.5  | 3.0  | 5.2  | 4.8  | 4.6  | 0.1  | 4.5  | 0.4
+India  | 3.9  | -1.8  | 9.7  | 7.0  | 8.2  | 6.5  | 6.5  | 0.0  | 6.5  | 0.0
+Russia  | 2.2  | -2.7  | 6.0  | -1.2  | 3.6  | 3.8  | 1.4  | 0.1  | 1.2  | 0.0
+Saudi Arabia  | 1.1  | -3.6  | 5.1  | 7.5  | -0.8  | 1.4  | 3.3  | -1.3  | 4.1  | -0.3
+Sub-Saharan Africa (SSA)  | 3.2  | -1.6  | 4.7  | 4.0  | 3.6  | 3.8  | 4.2  | 0.0  | 4.2  | -0.2
+South Africa  | 0.3  | -6.0  | 4.7  | 1.9  | 0.7  | 0.8  | 1.5  | 0.0  | 1.6  | 0.1
+Nigeria  | 2.2  | -1.8  | 3.6  | 3.3  | 2.9  | 3.1  | 3.2  | 0.0  | 3.0  | 0.0
+Kenya  | 5.7  | -0.3  | 7.6  | 4.9  | 5.6  | 5.0  | 5.0  | 0.0  | 5.0  | 0.0•
+The stronger growth outlooks in the USA, Saudi Arabia, and UK in 2025,  provides scope for higher diaspora remittances 
+inflows and tourist arrivals to Kenya.
+•
+The projected pick up in growth for the Euro area and Sub-Saharan Africa in 2025, is expected to benefit Kenya’s 
+exports to Europe and Africa.
+Source: IMF World Economic Outlook (WEO)
+C2: CBK - Official--------------------------------------------------------------------------------
+HOUSING FINANCE IN AFRICA (https://housingfinanceafrica.org/app/uploads/2023/10/2023-CAHF-Yb_Compressed-14.11.2023.pdf)
+ [wordlim: 200] Published: 2.1 years ago; Availability of data on housing finance ... Kikuyu-Naivasha Road Junction in Riruta, Kiambu County.In Kenya, crucial data on housing finance is collected and shared by
+Examples of innovation: KEZA by Mi Vida Homes 
+Availability of data on housing finance
+The KEZA project is developed by Mi Vida, a residential developer
+created through a joint venture between Actis and Shapoorji Pallonji
+Real Estate (SPRE).  It is strategically situated about 100m from the
+Kikuyu-Naivasha Road Junction in Riruta, Kiambu County. 
+In Kenya, crucial data on housing finance is collected and shared by
+various entities, including the Central Bank of Kenya, Kenya National
+Bureau of Statistics (KNBS), Financial Sector Deepening – Kenya, Kenya
+Institute of Public Policy Research & Analysis, and Kenya Bankers
+Association.  These organizations provide data on mortgage lending
+statistics, housing affordability indices, economic conditions, housing
+conditions, poverty statistics and property transactions.  KNBS conducts
+a national census every ten years, while mortgage, economic conditions,
+housing survey, and real estate data are available annually from CBK,
+KNBS and FSD Kenya.  Some data is publicly accessible online, while
+detailed reports may require subscription or purchase. 
+KEZA offers a diverse range of housing options, including studio,
+premium studio, one-bedroom apartments, and two-bedroom
+apartments priced at Ksh1.98m (US$14 079), Ksh2.37m (US$16 852),
+Ksh3.96m (US$28 159), and Ksh6.14m (US$43 661) respectively.  The
+pricing structure is designed to accommodate different financing
+preferences, with options for cash purchases, rent-to-own agreements,
+and mortgage plans spanning up to 20 years.
+Data challenges include limited coverage of informal settlements,
+incomplete property ownership records, and inconsistent tracking of
+housing subsidies.  Data gaps exist in tracking rental housing costs and
+housing quality indicators, hampering comprehensive analysis.  The
+situation is made worse by the inability to quantify the revenues, cash
+flow patterns, spending patterns, and payment histories of the low- and
+middle-income segment. 
+With respect to green technology and sustainability, notable innovation
+is the incorporation of cutting-edge green technologies.  The project has
+received IFC certification and is designed to minimize energy
+consumption aligning with global efforts to promote sustainable
+construction practices and reduce environmental impact.  KEZA's
+innovative approach also lies in its blend of flexible financing options,
+integration of green technologies, and strategic location near Riruta/
+--------------------------------------------------------------------------------
+REPUBLIC OF KENYA (https://repository.kippra.or.ke/server/api/core/bitstreams/580e8d40-1821-4034-9747-11e7f669ba83/content)
+ [wordlim: 200] Published: 1.7 years ago; Real GDP growth, at constant market prices | 2021 7.6 | 2022 4.9 | 2023 5.6 | 2024 f 5.0 | 2025 f 5.3 | 2026 f 5.3 --- | --- | --- | --- | --- | --- | --- Private consumption | 2021 6.2 | 2022 3.1 | 2023 6.1 | 2024 f 4.9 | 2025 f 5.3 | 2026 f 5.4 Government consumption | 2021 6.0 | 2022 8.1 | 2023 3.5 | 2024 f 1.6 | 2025 f 0.8 | 2026 f 1.1 Gross fixed capital investment | 2021 10.8 | 2022 -0.8 | 2023 1.9 | 2024 f 5.3 | 2025 f 7.8 | 2026 f 7.8 Exports, goods, and services | 2021 15.3 | 2022 11.9 | 2023 -4.5 | 2024 f 8.7 | 2025 f 9.6 | 2026 f 9.9 Imports, goods, and services | 2021 22.2 | 2022 4.6 | 2023 -3.1 | 2024 f 3.0 | 2025 f 5.5 | 2026 f 6.4 Real GDP growth, at constant factor prices | 2021 7.2 | 2022 4.7 | 2023 5.9 | 2024 f 5.0 | 2025 f 5.3 | 2026 f 5.3 Agriculture | 2021 -0.4 | 2022 -1.5 | 2023 6.5 | 2024 f 4.1 | 2025 f 4.4 | 2026 f 4.5 Industry | 2021 7.5 | 2022 3.9 | 2023 1.9 | 2024 f 4.0 | 2025 f 4.1 | 2026 f 4.3 Services | 2021 9.6 | 2022 6.6 | 2023 6.8 | 2024 f 5.6 | 2025 f 5.9 | 2026 f 5.9 Inflation (consumer price index) | 2021 6.1 | 2022 7.7 | 2023 7.7 | 2024 f 7.0 | 2025 f 5.0 | 2026 f 5.0 Current account balance (% of GDP) | 2021 -5.1 | 2022 -5.1 | 2023 -4.0 | 2024 f -3.9 | 2025 f -4.0 | 2026 f -4.1 Foreign direct investment inflow (% of GDP) | 2021 0.4 | 2022 0.7 | 2023 0.7 | 2024 f 0.6 | 2025 f 0.7 | 2026 f 0.8 Fiscal balance (% of GDP) * | 2021 -8.2 | 2022 -6.2 | 2023 -5.6 | 2024 f -5.5 | 2025 f -3.9 | 2026 f -3.3 Revenues (% of GDP) | 2021 16.1 | 2022 17.5 | 2023 16.7 | 2024 f 19.2 | 2025 f 19.3 | 2026 f 19.4 Debt (% of GDP) | 2021 67.7 | 2022 67.8 | 2023 72.0 | 2024 f 68.0 | 2025 f 64.8 | 2026 f 61.7 Primary balance (% of GDP) | 2021 -3.8 | 2022 -1.6 | 2023 -0.8 | 2024 f 0.2 | 2025 f 1.7 | 2026 f 1.846.
+--------------------------------------------------------------------------------
+Kenya – Page 22 – CAHF | Centre for Affordable Housing Finance Africa (https://housingfinanceafrica.org/country/kenya/page/22/)
+ [wordlim: 200] Published: 4.3 years ago; Crawled: 4 months ago; ## Kenya: Mi Vida Homes plans to build 800 houses in Riruta ... ## Kenya: Jenga Green Library: Promoting climate smart housing
+--------------------------------------------------------------------------------
+KENYA 
+  
+CONTEXT—SECURING MACROECONOMIC STABILITY (https://www.elibrary.imf.org/downloadpdf/view/journals/002/2024/013/article-A001-en.pdf)
+ [wordlim: 200] Published: 1.4 years ago; 2026 ... 7.1 ... Central government budget 1
+--------------------------------------------------------------------------------
+KNBS 2026 Economic Survey | PDF | Gross Domestic Product | Banks (https://www.scribd.com/document/1037517962/KNBS-2026-Economic-Survey)
+ [wordlim: 200] Published: 9 months ago; Crawled: 5 months ago; Central Bank Rate 7.00 8.75 12.50 11.25 10.75 9.75 9.50 9.00 ... 2021 6.50 5.73 0.77
+--------------------------------------------------------------------------------
+Kenya Economy Grows 4.6% With 4.9% Growth Forecast (https://ec2-18-135-160-37.eu-west-2.compute.amazonaws.com/2026/04/29/kenya-gdp-growth-2025-economic-survey/)
+ [wordlim: 200] Published: 5 months ago; Crawled: last month; ## GDP Growth Rates, 2021 to 2025 ... GDP Growth (%)  | 7.6%  | 4.9%  | 5.7%  | 4.7%2025  | 4.6%  |  |  |
+--------------------------------------------------------------------------------
+Annual GDP - Nominal, Real & Growth, Kenya (https://leadafrik.com/data/explore/knbs-annual-gdp)
+ [wordlim: 200] Crawled: 2 days ago; 2021  | 12027662  | 7.6  | 9395942
+--------------------------------------------------------------------------------
+<table id="e1"> (https://nairobiassembly.go.ke/ncca/wp-content/uploads/paperlaid/2025/NAIROBI-CITY-COUNTY-SUPPLEMENTARY-II-EXPENDITURE-AND-REVENUE-ESTIMATES-FOR-FY-2024-2025.pdf)
+ [wordlim: 200] Published: 1.3 years ago; <td>Construction, rehabilitation and maintenance of public transport facilities at Setalite Terminus, Riruta</td>
+--------------------------------------------------------------------------------
+Kenya Central Bank Releases Treasury Bond Auction Results | Edwin H. Dande posted on the topic | LinkedIn (https://www.linkedin.com/posts/edwin-dande_during-the-week-the-central-bank-of-kenya-activity-7457840339840757760--2kh)
+ [wordlim: 200] Crawled: 2 months ago; During the week, the Central Bank of Kenya released the auction results for the reopened treasury bonds FXD1/2012/020, FXD1/2019/020 and FXD1/2021/025 with tenors to maturities of 7.6 years,13.2 years and 20.0 years, respectively and fixed coupon rates of 12.0%, 12.9%, and 13.9%, respectively.
+--------------------------------------------------------------------------------
+Kenya's GDP growth rate: 2019 - 2026 (https://staging.the-star.co.ke/news/infographics/2026-02-20-kenyas-gdp-growth-rate-2019-2026)
+ [wordlim: 200] Published: 8 months ago; Crawled: today; This downturn was swiftly countered by a remarkable surge in 2021, where the growth rate peaked at 7.6%, marking a significant rebound for the nation.
+--------------------------------------------------------------------------------
+Progress Review of the Affordable Housing Program & Cytonn Weekly #07/2026 (https://cytonnreport.com/research/progress-review-of)
+ [wordlim: 200] Published: 8 months ago; Crawled: 2 days ago;    | 2018  | 2019  | 2021  | 2024 ... 2-Jan-26  | 6.1%  | 8.8%  | 7.2%  | 7.8%  | 7.1% ... Source: Central Bank of Kenya (CBK) and National Treasury
+--------------------------------------------------------------------------------
+Kenya Economic Survey 2025 Insights | PDF | Gross Domestic Product | Banks (https://www.scribd.com/document/859112137/2025-Economic-Survey)
+ [wordlim: 200] Published: 1.8 years ago; Crawled: 1.5 years ago; Table 5.1: Statement of National Government Operations, 2020/21-2024/25 117 ... Table 13.6(a): Reported Road Traffic Accidents and Persons Killed or Injured, 2020 – 2024 313 ... 2023 1 879,387 27,049 283,956 69,039 248,089 317,027 45,587 474,464 82,454 260,772
+--------------------------------------------------------------------------------
+Riruta - Lenana - Ngong Railway Line - 2024#The Kenya National Government budgeted Kshs. 3,715,000,000 to Riruta - Lenana - Ngong Railway Line in the 2024 financial year to be used for Rail Transport services. (https://openbudget.or.ke/project/1092108900_Riruta_Lenana_Ngong_Railway_Line/2024)
+ [wordlim: 200] Crawled: 1.3 years ago; Riruta - Lenana - Ngong Railway Line - 2024 ... State Department  | State Department for Transport
+--------------------------------------------------------------------------------
+Discover Riruta - Reemio Listings (https://listings.reemioltd.com/discover/3a491c42-ec54-4fcd-80bf-0baacd594e98)
+ [wordlim: 200] Crawled: last month; ### Transport Guide for Riruta
+--------------------------------------------------------------------------------
+KEZA (https://keza.ke/)
+ [wordlim: 200] Crawled: 2 days ago; Mi Vida Homes is a leading institutional real estate developer focused on delivering quality middle-income and affordable housing in Sub-Saharan Africa. ... 100m off the Ndwaru Naivasha Road Junction, Riruta
+--------------------------------------------------------------------------------
+STARTING LIFE (https://www.reddit.com/r/Kenya/comments/1ngz7ng)
+ [wordlim: 200] Published: 1.1 years ago; Crawled: 1.1 years ago; Riruta and dagoretti are your best bet. ... 1. closer to muthaiga (not more than 50ksh fare on public transport)

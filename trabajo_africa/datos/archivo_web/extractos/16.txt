@@ -1,0 +1,9 @@
+FUENTE 16: Fusion Capital, presentación corporativa
+URL original: https://fusioncapitalafrica.com/
+Fecha de captura: 2026-10-21
+Tipo: texto extraído por navegador; puede ser parcial. No es el HTML/PDF original.
+Estado: apertura_fallida
+
+Internal Error ()
+  Source: open({"ref_id":"https://fusioncapitalafrica.com/","lineno":null}); Total lines: 1
+L0: Failed to fetch https://fusioncapitalafrica.com/: (400) Timeout fetching

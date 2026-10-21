@@ -1,0 +1,66 @@
+FUENTE 03: Banco Mundial, archivo de marzo de 1980
+URL original: https://timeline.worldbank.org/en/timeline/eventdetail/3051
+Fecha de captura: 2026-10-21
+Tipo: texto extraído por navegador; puede ser parcial. No es el HTML/PDF original.
+Estado: texto_recuperado
+
+Home (https://timeline.worldbank.org/en/timeline/eventdetail/3051)
+  Crawled: yesterday; Content type: text/html; Source: open({"ref_id":"https://timeline.worldbank.org/en/timeline/eventdetail/3051","lineno":null}); Total lines: 76
+L0:   *  L1:   *  L2:   *  L3:   *  L4:   *  L5: 
+L6: [Input]
+L7: 
+L8: # World Bank Group Timeline
+L9: 
+L10: [Select]
+L11: 
+L12: [Select]
+L13: 
+L14: [Input: Search Timeline]
+L15: 
+L16: Reset search
+L17: 
+L18:  L19: 
+L20: March 25, 1980
+L21: ## First IDA credit for structural adjustment approved
+L22: In order to improve the effectiveness of project lending, the World Bank Group began, in the 1980s, to deal more explicitly with macroeconomic reforms by offering members structural adjustment loans (SALs) and credits. The first SAL credit approved by IDA is for $55 million to Kenya. The credit will provide for a program of economic measures in the areas of foreign trade policy, external debt management, and interest rates and medium-term budgeting.
+L23: Meanwhile, foreign exchange will be used for essential imports.
+L24: ## Resource Gallery
+L25: 
+L26:  L27: 
+L28: Report
+L29: 
+L30: ##  L31: 
+L32: Document date: Feb. 10, 1984
+L33: The report summarizes and evaluates the project's outcomes.
+L34: 
+L35:  L36: 
+L37: Report
+L38: ##  L39: 
+L40: Document date: Feb. 11, 1980
+L41: The report includes the background, description, and justification for the project.
+L42: 
+L43:  L44: 
+L45: Oral History
+L46: ##  L47: 
+L48: Interview date: Jan. 25, 1988
+L49: Westebbe explains structural adjustment lending on page 23 and discusses the first structural adjustment credit on page 27.
+L50: 
+L51:  L52: 
+L53: Project Profile
+L54: ##  L55: 
+L56: P001274: Approved March 25, 1980
+L57: The profile contains project and financial information, and lists of project documents and archival records.
+L58: 
+L59:  L60: 
+L61: Archival Record
+L62: ##  L63: 
+L64: March 25, 1980
+L65: The wire informs the Vice President that the structural adjustment credit and two other projects were approved by the Executive Directors (30299328).
+L66: 
+L67:  L68: 
+L69: Archival Record
+L70: ##  L71: 
+L72: April 8, 1980
+L73: The memo provides a brief description of the structural adjustment credits and the industrial development bank loan, and provides information on signing arrangements (30299328).
+L74: 
+L75:  

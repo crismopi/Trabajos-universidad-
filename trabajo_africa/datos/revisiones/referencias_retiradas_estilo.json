@@ -1,0 +1,110 @@
+[
+  {
+    "id": 5,
+    "label": "CBK, Monetary Policy Statement, junio de 2026",
+    "url": "https://www.centralbank.go.ke/uploads/monetary_policy_statements/366885193_58th%20Monetary%20Policy%20Statement%2C%20June%202026.pdf",
+    "autor": "Central Bank of Kenya (CBK)",
+    "fecha_publicacion": "2026",
+    "titulo": "58th Monetary Policy Statement, June 2026",
+    "motivo": "Referencia secundaria o duplicada; véase revision_estilo_academico.md para la decisión aplicada"
+  },
+  {
+    "id": 7,
+    "label": "KNBS, Economic Survey 2026, apartado 3.5",
+    "url": "https://www.knbs.or.ke/wp-content/uploads/2026/04/2026-Economic-Survey.pdf",
+    "autor": "Kenya National Bureau of Statistics (KNBS)",
+    "fecha_publicacion": "2026",
+    "titulo": "Economic Survey 2026. Tablas de resumen y empleo",
+    "motivo": "Referencia secundaria o duplicada; véase revision_estilo_academico.md para la decisión aplicada"
+  },
+  {
+    "id": 9,
+    "label": "Unión Africana, Estados miembros",
+    "url": "https://www.au.int/en/member_states/countryprofiles2",
+    "autor": "Unión Africana",
+    "fecha_publicacion": "s. f.",
+    "titulo": "Member States",
+    "motivo": "Referencia secundaria o duplicada; véase revision_estilo_academico.md para la decisión aplicada"
+  },
+  {
+    "id": 12,
+    "label": "Departamento de Comercio, julio de 2026",
+    "url": "https://www.trade.go.ke/index.php/kenya-hosts-afcfta-mission-fast-track-ratification-phase-ii-trade-protocols",
+    "autor": "State Department for Trade, Kenia",
+    "fecha_publicacion": "2026, 27 de julio",
+    "titulo": "Kenya Hosts AfCFTA Mission to Fast-Track Ratification of Phase II Trade Protocols",
+    "motivo": "Referencia secundaria o duplicada; véase revision_estilo_academico.md para la decisión aplicada"
+  },
+  {
+    "id": 13,
+    "label": "Safaricom, historia del lanzamiento",
+    "url": "https://newsroom.safaricom.co.ke/innovation/m-pesa-17-years-of-transforming-lives/",
+    "autor": "Safaricom",
+    "fecha_publicacion": "2024",
+    "titulo": "M-PESA: 17 years of transforming lives",
+    "motivo": "Referencia secundaria o duplicada; véase revision_estilo_academico.md para la decisión aplicada"
+  },
+  {
+    "id": 14,
+    "label": "BEI, IHS Kenya Energy Efficient Housing",
+    "url": "https://www.eib.org/en/projects/all/20190915",
+    "autor": "Banco Europeo de Inversiones",
+    "fecha_publicacion": "2020",
+    "titulo": "IHS Kenya Energy Efficient Housing. Proyecto 20190915",
+    "motivo": "Referencia secundaria o duplicada; véase revision_estilo_academico.md para la decisión aplicada"
+  },
+  {
+    "id": 20,
+    "label": "Banco Mundial, archivo de marzo de 1980",
+    "url": "https://timeline.worldbank.org/en/timeline/eventdetail/3051",
+    "autor": "Banco Mundial",
+    "fecha_publicacion": "1980, 25 de marzo",
+    "titulo": "First IDA credit for structural adjustment approved. Archivo histórico",
+    "motivo": "Referencia secundaria o duplicada; véase revision_estilo_academico.md para la decisión aplicada"
+  },
+  {
+    "id": 21,
+    "label": "FMI, historial de acuerdos",
+    "url": "https://www.imf.org/external/np/fin/Tad/extarr2.aspx?date1key=1997-12-31&memberKey1=540",
+    "autor": "Fondo Monetario Internacional",
+    "fecha_publicacion": "1997, fecha de corte de la consulta",
+    "titulo": "Kenya: History of Lending Commitments",
+    "motivo": "Referencia secundaria o duplicada; véase revision_estilo_academico.md para la decisión aplicada"
+  },
+  {
+    "id": 23,
+    "label": "Banco Mundial, Country Economic Memorandum 2016",
+    "url": "https://www.worldbank.org/en/country/kenya/publication/kenya-economic-memorandum-from-economic-growth-jobs-shared-prosperity",
+    "autor": "Banco Mundial",
+    "fecha_publicacion": "2016",
+    "titulo": "Economic Memorandum: Kenya’s Growth Story: Past, Present and Future",
+    "motivo": "Referencia secundaria o duplicada; véase revision_estilo_academico.md para la decisión aplicada"
+  },
+  {
+    "id": 29,
+    "label": "NGCDF, Dagoretti South",
+    "url": "https://dagoretti-south.ngcdf.go.ke/",
+    "autor": "National Government Constituencies Development Fund, Dagoretti South",
+    "fecha_publicacion": "s. f.",
+    "titulo": "About Dagoretti-South Constituency",
+    "motivo": "Referencia secundaria o duplicada; véase revision_estilo_academico.md para la decisión aplicada"
+  },
+  {
+    "id": 30,
+    "label": "Craiova, oferta en Riruta",
+    "url": "https://craiovarealtors.com/property/studio-apartments-on-naivasha-road/",
+    "autor": "Craiova Realtors",
+    "fecha_publicacion": "2025, 7 de julio",
+    "titulo": "Studio Apartments On Naivasha Road. Anuncio inmobiliario",
+    "motivo": "Referencia secundaria o duplicada; véase revision_estilo_academico.md para la decisión aplicada"
+  },
+  {
+    "id": 31,
+    "label": "CityDwelling, TSAVO Stepup",
+    "url": "https://citydwelling.co/properties/Tsavo%20Stepup-690105136179005cd5190220",
+    "autor": "CityDwelling",
+    "fecha_publicacion": "s. f.",
+    "titulo": "Tsavo Stepup. Ficha de oferta residencial",
+    "motivo": "Referencia secundaria o duplicada; véase revision_estilo_academico.md para la decisión aplicada"
+  }
+]

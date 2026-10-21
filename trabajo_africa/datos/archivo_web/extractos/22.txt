@@ -1,0 +1,9 @@
+FUENTE 22: Constitución, artículo 65, texto de la KLRC
+URL original: https://www.klrc.go.ke/index.php/constitution-of-kenya/116-chapter-five-land-and-environment/117-part-1-land/232-65-landholding-by-non-citizens
+Fecha de captura: 2026-10-21
+Tipo: texto extraído por navegador; puede ser parcial. No es el HTML/PDF original.
+Estado: apertura_fallida
+
+Internal Error ()
+  Source: open({"ref_id":"https://www.klrc.go.ke/index.php/constitution-of-kenya/116-chapter-five-land-and-environment/117-part-1-land/232-65-landholding-by-non-citizens","lineno":null}); Total lines: 1
+L0: Failed to fetch https://www.klrc.go.ke/index.php/constitution-of-kenya/116-chapter-five-land-and-environment/117-part-1-land/232-65-landholding-by-non-citizens: (429) Too Many Requests

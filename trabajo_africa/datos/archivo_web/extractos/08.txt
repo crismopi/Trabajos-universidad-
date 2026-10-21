@@ -1,0 +1,230 @@
+FUENTE 08: Banco Mundial, actualización de noviembre de 2025
+URL original: https://www.worldbank.org/en/news/press-release/2025/11/24/kenya-shows-economic-resilience-sustained-progress-depends-on-procompetitive-reforms
+Fecha de captura: 2026-10-21
+Tipo: texto extraído por navegador; puede ser parcial. No es el HTML/PDF original.
+Estado: texto_recuperado
+
+Kenya Shows Economic Resilience, But Sustained Progress Depends on Accelerating Procompetitive Reforms (https://www.worldbank.org/en/news/press-release/2025/11/24/kenya-shows-economic-resilience-sustained-progress-depends-on-procompetitive-reforms)
+  Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.worldbank.org/en/news/press-release/2025/11/24/kenya-shows-economic-resilience-sustained-progress-depends-on-procompetitive-reforms","lineno":null}); Total lines: 227
+L0: col-xs-12
+L1: 
+L2: col-sm-12
+L3: 
+L4: col-md-1
+L5: 
+L6: col-lg-1
+L7: 
+L8: col-xs-12
+L9: 
+L10: col-sm-12
+L11: 
+L12: col-md-8
+L13: 
+L14: col-lg-8
+L15: 
+L16: jcrtitle
+L17: # Kenya Shows Economic Resilience, But Sustained Progress Depends on Accelerating Procompetitive Reforms
+L18: 
+L19: jcrpagetitle
+L20: 
+L21: Kenya Shows Economic Resilience, But Sustained Progress Depends on Accelerating Procompetitive Reforms
+L22: 
+L23: jcrnavtitle
+L24: 
+L25: Kenya Shows Economic Resilience, But Sustained Progress Depends on Accelerating Procompetitive Reforms
+L26: 
+L27: jcrdescription
+L28: Kenya’s economy is projected to grow by an average 4.9% between 2025 and 2027, an increase from previous estimate. However, fiscal pressures are intensifying, with the FY2024/25 deficit widening to 5.9% of GDP—above the original 4.3% target—driven mostly by revenue shortfalls and increasingly rigid expenditure structures. Risks of fiscal slippage persist.
+L29: 
+L30: jcrtags
+L31: 
+L32:   * wbg:regions/sub-saharan-africa
+L33:   * wbg:country/kenya
+L34: 
+L35: jcrimage
+L36:  L37: 
+L38: content-type
+L39: 
+L40: Press Release
+L41: 
+L42: writer
+L43: 
+L44: 000134044
+L45: 
+L46: first-appeared-in
+L47: 
+L48: 2025-11-24
+L49: 
+L50: expert-id
+L51: 
+L52: 000134044
+L53: 
+L54: country
+L55: 
+L56: Kenya
+L57: 
+L58: keyframe-img
+L59: 
+L60:  L61: 
+L62: result
+L63: 
+L64: false
+L65: content-date
+L66: 
+L67: November 24, 2025
+L68: 
+L69: col-xs-12
+L70: 
+L71: col-sm-12
+L72: 
+L73: col-md-3
+L74: 
+L75: col-lg-3
+L76: 
+L77: sec-spacing
+L78: 
+L79: section-none
+L80: 
+L81: sec-spacing-bottom
+L82: 
+L83: section-xlarge
+L84: 
+L85: style
+L86: 
+L87: default
+L88: 
+L89: col-xs-12
+L90: 
+L91: col-sm-12
+L92: 
+L93: col-md-1
+L94: 
+L95: col-lg-1
+L96: 
+L97: col-xs-12
+L98: 
+L99: col-sm-12
+L100: 
+L101: col-md-7
+L102: 
+L103: col-lg-7
+L104: 
+L105:   * add-style
+L106:   * font-medium
+L107:   * lp-body-content
+L108: NAIROBI, November 24, 2025 — Kenya’s economy is projected to grow by an average 4.9% between 2025 and 2027, an increase from previous estimate. However, fiscal pressures are intensifying, with the FY2024/25 deficit widening to 5.9% of GDP—above the original 4.3% target—driven mostly by revenue shortfalls and increasingly rigid expenditure structures. Risks of fiscal slippage persist.
+L109: According to the latest  , several macroeconomic indicators continue to show strength with inflation within target, a stable exchange rate, and foreign exchange reserves at record highs. Private sector credit is rebounding, growing 5% year-on-year by September 2025, supported by lower lending rates and an accommodative monetary stance.
+L110: Economic growth is gaining momentum, with GDP having expanded by 4.9% in Q1-2025 and 5.0% in Q2-2025, supported by easing monetary policy and rebound in the construction sector.
+L111: “Economic growth momentum could be further sustained by addressing key barriers to competition, which would also lead to more and better paying jobs, and lower prices to consumers,” said Qimiao Fan, World Bank Division Director for Kenya, Rwanda, Somalia, and Uganda.
+L112: This positive economic momentum notwithstanding, fiscal pressures remain elevated with the 2024/25 deficit widening to 5.9% of GDP, above the initial 4.3% target in Supplementary Budget I, driven mostly by revenue shortfalls and increasingly rigid expenditure structures. Kenya’s public debt rose during the fiscal year and reached 68.8% of GDP. The country remains at high risk of debt distress, underscoring the urgency of credible fiscal consolidation.
+L113: Domestic borrowing has increased, with a notable shift toward short-term treasury bills, heightening rollover risks.
+L114: “Many key macroeconomic indicators continue to show strength; however, the fiscal outlook remains subject to downside risks that could threaten sustained and inclusive economic growth,” said Jorge Tudela Pye, World Bank Country Economist for Kenya.
+L115: 
+L116: Labor market weaknesses persist, with formal employment remaining at 15% of total jobs and real wages falling, reflecting structural weaknesses in productivity growth and job creation.
+L117: The Report “ ” provides analysis into the urgent need for procompetitive reforms in Kenya as the country looks to raise productivity and ramp up the creation of decent jobs.
+L118: 
+L119: Kenya’s Product Market Regulation score of 2.92—the highest among peers—indicates that there exists significant room to loosen regulatory restrictions on competition in the country.
+L120: Interventions such as limiting exchequer transfers to commercial state-owned enterprises (SOEs) and adoption of performance-based transfers for public service obligations will go a long way in creating a level playing field between private firms and the over 200 SOEs in the country.
+L121: Sector specific interventions include enabling further private investment in electricity through competitive processes and open access to infrastructure in electricity transmission and distribution, more robust regulations and enforcement mechanisms to further boost competition in telecommunications and making fertilizer subsidy distribution more competitive.
+L122: Structural reforms to boost competition are critical for unlocking private investment. The above-mentioned macroeconomic and labor market outcomes reflect deeper structural challenges. Robust competition is a key enabler of private sector growth, jobs, and investment, as well as consumer welfare.
+L123: These reforms could raise Kenya’s GDP growth by up to 1.35 percentage points and increase the growth of labor compensation by up to 2.0 percentage points, which is equivalent to 400,000 jobs annually at average wage levels.
+L124: 
+L125: Contacts:
+L126: 
+L127: In Nairobi: Vera Rosauer, +254202936811, vrosauer@worldbank.org
+L128: ## About The World Bank
+L129: 
+L130: The World Bank Group has a bold vision: to create a world free of poverty on a livable planet. In more than 100 countries, the World Bank Group provides financing, advice, and innovative solutions that improve lives by creating jobs, strengthening economic growth, and confronting the most urgent global challenges. For more information, please visit  ,  , and  .
+L131: 
+L132: col-xs-12
+L133: 
+L134: col-sm-12
+L135: 
+L136: col-md-1
+L137: 
+L138: col-lg-1
+L139: col-xs-12
+L140: 
+L141: col-sm-12
+L142: 
+L143: col-md-3
+L144: 
+L145: col-lg-3
+L146: 
+L147:   * add-style
+L148: ## RELATED
+L149: 
+L150: lp-heading-bottom-medium
+L151: 
+L152: sec-spacing
+L153: 
+L154: section-none
+L155: 
+L156: sec-spacing-bottom
+L157: 
+L158: section-padding-between
+L159: 
+L160: style
+L161: 
+L162: default
+L163: ## OMBC
+L164: 
+L165: Online Media Briefing Center (OMBC) news for accredited journalists
+L166: 
+L167: Sign In
+L168: 
+L169:  L170: 
+L171: Register
+L172: 
+L173:  L174: 
+L175: secondary
+L176: 
+L177: white-btn
+L178: 
+L179: sec-spacing
+L180: 
+L181: section-none
+L182: 
+L183: sec-spacing-bottom
+L184: 
+L185: section-padding-between
+L186: 
+L187: sec-swoosh
+L188: 
+L189: sec-swoosh-type12
+L190: 
+L191: style
+L192: 
+L193: default, lp-signup-wrapper, border-radius-medium, bg-primary-blue-80, heading-v1
+L194: 
+L195: sec-inside-container
+L196: 
+L197: true
+L198: 
+L199: everything
+L200:  L201: 
+L202: true
+L203: 
+L204: {"facets":[],"orderby":"contentDate desc","select":"*","searchFields":"*","search":"*","filter":"contentType eq 'Press Release'","top":20,"skip":0}
+L205: 
+L206: 3
+L207: 
+L208: no
+L209: 
+L210: yes
+L211: 
+L212: no
+L213: 
+L214: whats_news
+L215: 
+L216: sec-spacing
+L217: 
+L218: section-none
+L219: 
+L220: sec-spacing-bottom
+L221: 
+L222: section-padding-between
+L223: 
+L224: style
+L225: 
+L226: default, bg-neutrals-15-gradient

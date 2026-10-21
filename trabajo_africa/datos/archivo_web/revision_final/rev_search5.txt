@@ -1,0 +1,660 @@
+Fecha de captura: 2026-10-21
+Método: navegación y/o resultados indexados. Texto posiblemente parcial; no es el documento original. Los lotes pueden contener resultados no pertinentes. Comprobar URL y registro de verificación antes de utilizar datos.
+
+<table id="e1"> (https://www.iebc.or.ke/uploads/resources/siEABKREDq.pdf)
+ [wordlim: 200] Published: 6.4 years ago; <td>DAGORETTI SOUTH</td> ... <td>RIRUTA</td>
+<table id="e1">
+<tr>
+<th>NO</th>
+<th>SURNAME</th>
+<th>OTHER NAMES</th>
+<th>COUNTY CODE</th>
+<th>COUNTY NAME</th>
+<th>CONST CODE</th>
+<th>CONSTITUENCY NAME</th>
+<th>WARD CODE</th>
+<th>WARD NAME</th>
+<th>PARTY CODE</th>
+<th>POLITICAL PARTY NAME</th>
+<th>ABBRV</th>
+<th>VOTES GARNERED</th>
+</tr>
+<tr>
+<td>11100</td>
+<td>NJANE</td>
+<td>PETER KAMAU</td>
+<td>047</td>
+<td>NAIROBI CITY</td>
+<td>276</td>
+<td>DAGORETTI SOUTH</td>
+<td>1376</td>
+<td>MUTU-INI</td>
+<td>021</td>
+<td>ORANGE DEMOCRATIC MOVEMENT</td>
+<td>ODM</td>
+<td>237</td>
+</tr>
+<tr>
+<td>11101</td>
+<td>WAITHAKA</td>
+<td>JOSEPH KANGARI</td>
+<td>047</td>
+<td>NAIROBI CITY</td>
+<td>276</td>
+<td>DAGORETTI SOUTH</td>
+<td>1376</td>
+<td>MUTU-INI</td>
+<td>IND</td>
+<td>INDEPENDENT</td>
+<td>IND</td>
+<td>112</td>
+</tr>
+<tr>
+<td>11102</td>
+<td>ATONI</td>
+<td>LEONARD OMARIBA</td>
+<td>047</td>
+<td>NAIROBI CITY</td>
+<td>276</td>
+<td>DAGORETTI SOUTH</td>
+<td>1377</td>
+<td>NGANDO</td>
+<td>012</td>
+<td>WIPER DEMOCRATIC MOVEMENT-KENYA</td>
+<td>WDM-K</td>
+<td>384</td>
+</tr>
+<tr>
+<td>11103</td>
+<td>KAMAU</td>
+<td>PETER KIIRU</td>
+<td>047</td>
+<td>NAIROBI CITY</td>
+<td>276</td>
+<td>DAGORETTI SOUTH</td>
+<td>1377</td>
+<td>NGANDO</td>
+<td>014</td>
+<td>PARTY OF NATIONAL UNITY</td>
+<td>PNU</td>
+<td>280</td>
+</tr>
+<tr>
+<td>11104</td>
+<td>KARIUKI</td>
+<td>SHEM GICHIMU</td>
+<td>047</td>
+<td>NAIROBI CITY</td>
+<td>276</td>
+<td>DAGORETTI SOUTH</td>
+<td>1377</td>
+<td>NGANDO</td>
+<td>IND</td>
+<td>INDEPENDENT</td>
+<td>IND</td>
+<td>397</td>
+</tr>
+<tr>
+<td>11105</td>
+<td>KIMUHU</td>
+<td>PETER WAHINYA</td>
+<td>047</td>
+<td>NAIROBI CITY</td>
+<td>276</td>
+<td>DAGORETTI SOUTH</td>
+<td>1377</td>
+<td>NGANDO</td>
+<td>027</td>
+<td>JUBILEE PARTY</td>
+<td>JP</td>
+<td>7,090</td>
+</tr>
+<tr>
+<td>11106</td>
+<td>MBOGORI</td>
+<td>MAGDALENE MWENDWA</td>
+<td>047</td>
+<td>NAIROBI CITY</td>
+<td>276</td>
+<td>DAGORETTI SOUTH</td>
+<td>1377</td>
+<td>NGANDO</td>
+<td>021</td>
+<td>ORANGE DEMOCRATIC MOVEMENT</td>
+<td>ODM</td>
+<td>6,736</td>
+</tr>
+<tr>
+<td>11107</td>
+<td>MUBEA</td>
+<td>CYRUS MUGO</td>
+<td>047</td>
+<td>NAIROBI CITY</td>
+<td>276</td>
+<td>DAGORETTI SOUTH</td>
+<td>1377</td>
+<td>NGANDO</td>
+<td>IND</td>
+<td>INDEPENDENT</td>
+<td>IND</td>
+<td>444</td>
+</tr>
+<tr>
+<td>11108</td>
+<td>NDUNGU</td>
+<td>JOHN GITHINJI</td>
+<td>047</td>
+<td>NAIROBI CITY</td>
+<td>276</td>
+<td>DAGORETTI SOUTH</td>
+<td>1377</td>
+<td>NGANDO</td>
+<td>067</td>
+<td>MAENDELEO CHAP CHAP PARTY</td>
+<td>MCCP</td>
+<td>76</td>
+</tr>
+<tr>
+<td>11109</td>
+<td>NYAGIATEKO</td>
+<td>ABEL SIRO</td>
+<td>047</td>
+<td>NAIROBI CITY</td>
+<td>276</td>
+<td>DAGORETTI SOUTH</td>
+<td>1377</td>
+<td>NGANDO</td>
+<td>041</td>
+<td>UNITED DEMOCRATIC MOVEMENT</td>
+<td>UDM</td>
+<td>51</td>
+</tr>
+<tr>
+<td>11110</td>
+<td>NYAMBEGA</td>
+<td>SAMWEL MORURI</td>
+<td>047</td>
+<td>NAIROBI CITY</td>
+<td>276</td>
+<td>DAGORETTI SOUTH</td>
+<td>1377</td>
+<td>NGANDO</td>
+<td>071</td>
+<td>NATIONAL LIBERAL PARTY</td>
+<td>NLP</td>
+<td>52</td>
+</tr>
+<tr>
+<td>11111</td>
+<td>NYARANGI</td>
+<td>JOSEPH OTISO</td>
+<td>047</td>
+<td>NAIROBI CITY</td>
+<td>276</td>
+<td>DAGORETTI SOUTH</td>
+<td>1377</td>
+<td>NGANDO</td>
+<td>066</td>
+<td>PEOPLES TRUST PARTY</td>
+<td>PTP</td>
+<td>175</td>
+</tr>
+<tr>
+<td>11112</td>
+<td>OOKO</td>
+<td>GODWIN ODHIAMBO</td>
+<td>047</td>
+<td>NAIROBI CITY</td>
+<td>276</td>
+<td>DAGORETTI SOUTH</td>
+<td>1377</td>
+<td>NGANDO</td>
+<td>IND</td>
+<td>INDEPENDENT</td>
+<td>IND</td>
+<td>137</td>
+</tr>
+<tr>
+<td>11113</td>
+<td>WAIHARO</td>
+<td>ATANAS NOROGE</td>
+<td>047</td>
+<td>NAIROBI CITY</td>
+<td>276</td>
+<td>DAGORETTI SOUTH</td>
+<td>1377</td>
+<td>NGANDO</td>
+<td>IND</td>
+<td>INDEPENDENT</td>
+<td>IND</td>
+<td>259</td>
+</tr>
+<tr>
+<td>11114</td>
+<td>GITHUI</td>
+<td>SWALEH NDOGE</td>
+<td>047</td>
+<td>NAIROBI CITY</td>
+<td>276</td>
+<td>DAGORETTI SOUTH</td>
+<td>1378</td>
+<td>RIRUTA</td>
+<td>IND</td>
+<td>INDEPENDENT</td>
+<td>IND</td>
+<td>66</td>
+</tr>
+<tr>
+<td>11115</td>
+<td>KARANJA</td>
+<td>JAMES GITAU</td>
+<td>047</td>
+<td>NAIROBI CITY</td>
+<td>276</td>
+<td>DAGORETTI SOUTH</td>
+<td>1378</td>
+<td>RIRUTA</td>
+<td>067</td>
+<td>MAENDELEO CHAP CHAP PARTY</td>
+<td>MCCP</td>
+<td>182</td>
+</tr>
+<tr>
+<td>11116</td>
+<td>KARIUKI</td>
+<td>JAMES KIRIBA</td>
+<td>047</td>
+<td>NAIROBI CITY</td>
+<td>276</td>
+<td>DAGORETTI SOUTH</td>
+<td>1378</td>
+<td>RIRUTA</td>
+<td>027</td>
+<td>JUBILEE PARTY</td>
+<td>JP</td>
+<td>14,250</td>
+</tr>
+<tr>
+<td>11117</td>
+<td>LUSABA</td>
+<td>ABRAHAM KUNYALI</td>
+<td>047</td>
+<td>NAIROBI CITY</td>
+<td>276</td>
+<td>DAGORETTI SOUTH</td>
+<td>1378</td>
+<td>RIRUTA</td>
+<td>062</td>
+<td>AMANI NATIONAL CONGRESS</td>
+<td>ANC</td>
+<td>502</td>
+</tr>
+<tr>
+<td>11118</td>
+<td>MUCHUKA</td>
+<td>JOHN THUO</td>
+<td>047</td>
+<td>NAIROBI CITY</td>
+<td>276</td>
+<td>DAGORETTI SOUTH</td>
+<td>1378</td>
+<td>RIRUTA</td>
+<td>IND</td>
+<td>INDEPENDENT</td>
+<td>IND</td>
+<td>3,178</td>
+</tr>
+</table>
+
+--------------------------------------------------------------------------------
+Riruta Ward, Dagoretti South: Polling Stations | VotePulse (https://votepulse.co.ke/kenya-elections/counties/nairobi/dagoretti-south/riruta)
+ [wordlim: 200] Crawled: 2 weeks ago; Riruta (IEBC ward code 1378) is a county assembly ward in Dagoretti South Constituency, Nairobi City County.
+
+Dagoretti South · Nairobi City County
+
+# Riruta Ward: polling stations
+
+Riruta (IEBC ward code 1378) is a county assembly ward in Dagoretti South Constituency, Nairobi City County. In the IEBC's 2022 register it had 56 polling stations at 5 registration centres, with 37,766 registered voters.
+
+Updated 30 September 2026 By the VotePulse team
+
+Riruta elects one Member of County Assembly at the general election on 10 August 2027. Its voters also elect the MP for Dagoretti South, Nairobi City County's governor, senator and woman representative, and vote for President.
+
+IEBC ward code
+    1378
+
+Registration centres
+    5
+
+Polling stations
+    56
+
+Registered voters
+    37,766
+
+2022 figures. Average of 674 registered voters per polling station. The largest registration centre was NDURARUA PRIMARY SCHOOL, with 10,289 voters across 15 polling stations.
+
+## How Riruta compares
+
+  * By registered voters, Riruta was the largest of the 5 wards in Dagoretti South, with 32.9% of the constituency’s voters.
+  * Across Nairobi City County it ranked 14th of 85 wards and held 1.6% of the county’s registered voters.
+  * Its polling stations averaged 674 registered voters each — more than the Dagoretti South average of 657 and more than the Nairobi City County average of 663.
+  * The largest polling station was RIRUTA SATELLITE PRIMARY SCHOOL with 695 registered voters; the smallest was ACK RIRUTA WEST(NDUARU RD) with 615.
+  * 5 of its 5 registration centres had more than one polling station (stream).
+
+## Registration centres and polling stations in Riruta
+
+A registration centre often has several polling stations (streams). Names are as listed in the IEBC register, which shortens long names.
+
+Riruta Ward, IEBC register of voters per polling station for the 2022 General Election.
+Registration centre  | Polling stations  | Registered voters
+--- | --- | ---
+RIRUTA SATELLITE PRIMARY SCHOOL  | 12  | 8,338
+KINYANJUI ROAD PRIMARY SCHOOL  | 13  | 9,016
+KIVULI CENTER  | 11  | 7,044
+ACK RIRUTA WEST(NDUARU RD)  | 5  | 3,079
+NDURARUA PRIMARY SCHOOL  | 15  | 10,289
+Total  | 56  | 37,766
+
+## Finding your polling station
+
+This list is from the register used for the 9 August 2022 General Election. Registration centres and polling stations can change before 2027, and new voters are registered between elections. Always confirm your registration and polling station with the IEBC.
+
+Organising polling agents here? Read the polling agent guide.
+
+## Planning a campaign in Riruta
+
+  * 56 polling agents to have one at every polling station, plus reserves.
+  * 5 registration centres to cover — a supervisor at each is a common arrangement.
+  * Form 36A is the polling-station result form for the MCA race. The same stations count the ballots for all six offices.
+
+## Sources
+
+  1. IEBC — Registered Voters per Polling Station for the 2022 General Election (3 August 2022) Independent Electoral and Boundaries Commission (IEBC) · checked 30 September 2026
+  2. Constitution of Kenya, 2010 — Article 177: Membership of county assembly Kenya Law · checked 30 September 2026
+  3. IEBC — official website Independent Electoral and Boundaries Commission (IEBC) · checked 30 June 2026
+
+VotePulse is an independent campaign technology company. It is not the Independent Electoral and Boundaries Commission (IEBC) and does not publish official results or notices. Always confirm official election information with the IEBC or the cited authority.--------------------------------------------------------------------------------
+Riruta Ward MCA Campaign Spending Limit 2027 — IEBC — TransTally (https://transtally.co.ke/campaign-spending-limits/nairobi-city/dagoretti-south/riruta)
+ [wordlim: 200] Crawled: 3 weeks ago; A Member of County Assembly candidate in Riruta Ward (Dagoretti South, Nairobi City County) may spend up to KSh 7,318,282 during the expenditure period for the 2027 General Election. ... Spending and contribution limits are the campaign spending and contribution limits gazetted by the IEBC for the 2027 General Election (the IEBC gazette notice).
+
+  1. Home /
+  2. Campaign spending limits /
+  3. Nairobi City /
+  4. Dagoretti South /
+  5. Riruta
+
+Ward · Spending limits 2027
+
+# Riruta Ward spending limit
+
+A Member of County Assembly candidate in Riruta Ward (Dagoretti South, Nairobi City County) may spend up to KSh 7,318,282 during the expenditure period for the 2027 General Election.
+
+Population Population shown
+
+Spending limit per candidate
+
+KSh 7,318,282
+
+The most a candidate for Member of County Assembly in Riruta Ward may spend during the expenditure period.
+
+Max total contributions
+    KSh 7,318,282
+
+Max from any one source
+    KSh 1,463,656
+
+Registered voters
+    37,766
+
+Limit per registered voter
+    KSh 193.78
+
+Population
+    86,565
+
+Land area
+    4.2 km²
+
+Limit per person
+    KSh 84.54
+
+Limits above this ward
+
+Each seat has its own ceiling — an MCA candidate is not bound by the MP or county figure.
+
+MCA — Riruta
+    KSh 7,318,282
+
+MP — Dagoretti South
+    KSh 28,807,580
+
+Governor · Senator · Woman Member — Nairobi City
+    KSh 181,312,885
+
+Related
+
+  * Registered voters in Riruta →
+  * All Dagoretti South wards →
+
+Share
+
+Share
+
+Spending and contribution limits are the campaign spending and contribution limits gazetted by the IEBC for the 2027 General Election (the IEBC gazette notice). Limits apply per candidate for the expenditure period and may be revised by a further gazette notice. Population and land-area figures are the ones the IEBC used to derive each limit.--------------------------------------------------------------------------------
+NGCDF Dagoretti South Constituency – National Government Constituency Development Fund (NGCDF) (https://dagoretti-south.ngcdf.go.ke/)
+ [wordlim: 200] Crawled: 2 days ago; It’s in Nairobi County and its sub county is Dagoretti South Sub County with its offices based in Riruta Ward.
+
+# Welcome to Dagoretti-South Constituency
+
+* * *
+
+# Pride of Dagoretti-South
+
+* * *
+
+###### our Allocations
+
+Learn More
+
+###### Disbursements
+
+Learn More
+
+###### our Projects
+
+Learn More
+
+###### Proposals
+
+Learn More
+
+## About Dagoretti-South Constituency
+
+Dagoretti South constituency was curved from the former greater Dagoretti. It’s in Nairobi County and its sub county is Dagoretti South Sub County with its offices based in Riruta Ward.
+It has five wards namely: - Mutu-ini, Uthiru/Ruthimitu, Waithaka and Riruta, Ngando Wards.
+The constituency borders Kibra constituency,Kikuyu Constituency, Dagoretti North, Langata Constituency and Kabete Constituency.
+The main economic activities of the constituents are sale of animal products, real estate, entrepreneurial businesses, partly farming some of the wards.
+The constituency has a population of persons as per the 2009 census is 178,691 persons.
+The constituency has an area of 25.3 square kilometers.
+The constituency has a peri-urban set up.
+The committee challenges include the constituency has a large population of poor residents hence the number of applicants for bursary is overwhelming.
+The constituency is mostly cosmopolitan, but the major tribes are the Kikuyu and Luo speaking communities.
+Most of the residents of the Constituency are poor and depend on day to day income generating activities for their livelihood
+
+## Do you have a Question regarding our constituency?
+
+You can help us build a ‘Frequently Asked Qustions’ Section by just sending us your Questions. All Answered Questions will be available at the F.A.Qs section.
+
+##### Contact Details
+
+  * ###### Postal Address
+
+P.O. Box 19879 - 00202
+
+  * ###### Phone
+
+0721617053
+
+  * ###### Website
+
+dagoretti-south.ngcdf.go.ke
+
+  * ###### Email
+
+[email protected]--------------------------------------------------------------------------------
+Registered Voters in Riruta Ward, Dagoretti South | Nairobi City (https://campaignhub.co.ke/wards/nairobi-city/dagoretti-south/riruta)
+ [wordlim: 200] Crawled: last month; Wards  ›  Nairobi City County  ›  Dagoretti South Constituency  ›  Riruta ... Then work out your own figure with the race analysis tool, which uses IEBC 2017 and 2022 results for the constituency.
+
+Wards  ›  Nairobi City County  ›  Dagoretti South Constituency  ›  Riruta
+
+Nairobi City County · Dagoretti South Constituency
+
+# Registered voters in Riruta Ward, Dagoretti South
+
+Riruta Ward has 37,766 registered voters across 5 polling stations and 56 streams. That is an average of 7,553 voters per station, or 674 per stream.
+
+37,766 Registered voters
+
+5 Polling stations
+
+56 Streams to cover
+
+7,553 Average voters per station
+
+## What these numbers mean for a ward campaign
+
+Riruta Ward is decided in 5 polling stations. With 56 streams across them, a campaign that puts one agent per station covers a fraction of the places votes are actually counted. Here that gap is 51 uncovered results, which is the most common structural mistake in a ward tally.
+
+The spread matters as much as the total. NDURARUA PRIMARY SCHOOL is the largest station in the ward with 10,289 registered voters across 15 streams, while ACK RIRUTA WEST(NDUARU RD) has 3,079 across 5. A target built on the average will be wrong at both ends.
+
+## Votes to win, at three turnout scenarios
+
+Ward-level historical turnout is not published station by station, so the figures below are illustrative. They assume three serious candidates and a simple share of votes cast. Use them as a starting point, not a forecast.
+
+Turnout  | Votes cast  | Votes if 3-way split  | 35% share  | 40% share
+--- | --- | --- | --- | ---
+55%  | 20,771  | 6,924  | 7,270  | 8,308
+65%  | 24,548  | 8,183  | 8,592  | 9,819
+75%  | 28,325  | 9,442  | 9,914  | 11,330
+
+Then work out your own figure with the race analysis tool, which uses IEBC 2017 and 2022 results for the constituency.
+
+## Every polling station in Riruta Ward
+
+Polling station  | Voters  | Streams
+--- | --- | ---
+NDURARUA PRIMARY SCHOOL  | 10,289  | 15
+KINYANJUI ROAD PRIMARY SCHOOL  | 9,016  | 13
+RIRUTA SATELLITE PRIMARY SCHOOL  | 8,338  | 12
+KIVULI CENTER  | 7,044  | 11
+ACK RIRUTA WEST(NDUARU RD)  | 3,079  | 5
+
+Source: IEBC polling station register.
+
+## Other wards in Dagoretti South Constituency
+
+  * Mutu-Ini Ward 13,484 registered voters, 4 stations
+  * Ngando Ward 24,892 registered voters, 4 stations
+  * Uthiru/Ruthimitu Ward 19,657 registered voters, 6 stations
+  * Waithaka Ward 19,131 registered voters, 4 stations--------------------------------------------------------------------------------
+Dagoretti South Constituency Projects | PDF (https://www.scribd.com/document/860207360/Dagoretti-South-1)
+ [wordlim: 200] Crawled: 1.4 years ago; Dagoretti South Constituency Projects ... 21 4-0047-276-2630209- Riruta satellite Primary Purchase of 100 lockers and 100 600,000.00 New
+)
+11 4-0047-276-2211201- Refined Fuels and Purchase of Refined Fuels and 250,000.00 New
+111-2023-2024-11 Lubricants for Transport Lubricants for Transport of GK
+vehicles
+Primary School Projects
+12 4-0047-276-2630209- Dr. Muthiora Primary Purchase of 100 lockers and 100 300,000.00 New
+263-2023-2024-1 School chairs @ Kshs.6,000
+13 4-0047-276-2630209- Gitiba Primary School Purchase of 100 lockers and 100 600,000.00 New
+263-2023-2024-2 chairs @ Kshs.6,000
+14 4-0047-276-2630209- Kabiria Primary School Purchase of 100 lockers and 100 600,000.00 New
+263-2023-2024-3 chairs @ Kshs.6,000
+15 4-0047-276-2630209- Kagira Primary School Purchase of 100 lockers and 100 600,000.00 New
+263-2023-2024-4 chairs @ Kshs.6,000
+16 4-0047-276-2630209- Kirigu Primary School Purchase of 100 lockers and 100 600,000.00 New
+263-2023-2024-5 chairs @ Kshs.6,000
+17 4-0047-276-2630209- Mukarara Primary Purchase of 100 lockers and 100 600,000.00 New
+263-2023-2024-6 School chairs @ Kshs.6,000
+18 4-0047-276-2630209- Mutuini Primary School Purchase of 100 lockers and 100 600,000.00 New
+263-2023-2024-7 chairs @ Kshs.6,000
+19 4-0047-276-2630209- Ndurarua Primary Purchase of 100 lockers and 100 600,000.00 New
+263-2023-2024-8 School chairs @ Kshs.6,000
+20 4-0047-276-2630209- Nembu Primary School Purchase of 100 lockers and 100 600,000.00 New
+263-2023-2024-9 chairs @ Kshs.6,000
+21 4-0047-276-2630209- Riruta satellite Primary Purchase of 100 lockers and 100 600,000.00 New
+263-2023-2024-10 School chairs @ Kshs.6,000
+22 4-0047-276-2630209- Ruthimitu Primary Purchase of 100 lockers and 100 600,000.00 New
+263-2023-2024-11 School chairs @ Kshs.6,000
+
+Page 2 of 9
+NATIONAL GOVERNMENT CONSTITUENCIES DEVELOPMENT FUND BOARD
+APPROVED PROJECTS PROPOSAL
+CODE:276 CONSTITUENCY:DAGORETTI SOUTH FINANCIAL YEAR: 2023-
+2024
+S/N PROJECT CODE NAME OF PROJECT ACTIVITIES AMOUNT STATU
+O ALLOCATED(KSHS S
+)
+23 4-0047-276-2630209- Advertising, awareness Purchase and installation of CCTV 830,000.00 New
+263-2023-2024-18 and publicity Campaigns Equipment at the school admin. 20
+Cameras) (HIKVISION TURBO HD)
+
+--------------------------------------------------------------------------------
+KIVULI CENTER | Polling Stations | CitizenGuide.KE | CitizenGuide.KE (https://www.citizenguide.ke/elections/polling-stations/nairobi-city-dagoretti-south-riruta-kivuli-center-stream-9)
+ [wordlim: 200] Published: 9 months ago; Crawled: 2 weeks ago; IEBC code ... KIVULI CENTER is a polling station located in RIRUTA, Dagoretti South, Nairobi County.
+--------------------------------------------------------------------------------
+Dagoretti South Constituency 2027 Candidates | Chagua (https://chagua.co.ke/county/dagoretti-south/)
+ [wordlim: 200] Crawled: 5 days ago; ## Races in Dagoretti South Constituency ...   * Riruta 1 of 1 race covered
+--------------------------------------------------------------------------------
+GADM (https://gadm.org/maps/KEN/nairobi/dagorettisouth/riruta.html)
+ [wordlim: 200] Crawled: 8.6 years ago; ### World / Kenya / Nairobi / Dagoretti South / Riruta
+--------------------------------------------------------------------------------
+ (https://pawaswitch.com/ward/dagoretti-south--riruta)
+ [wordlim: 200] Crawled: 2 days ago; Riruta planned-outage profile, March 2023 – October 2026. pawaswitch.com/ward/dagoretti-south--riruta
+--------------------------------------------------------------------------------
+Registered Voters in DAGORETTI SOUTH Constituency per Ward - Kenyayote (https://kenyayote.co.ke/iebc/registered-voters.php?id=276&view=wards)
+ [wordlim: 200] Crawled: last month; List of DAGORETTI SOUTH Constituency Number of IEBC Registered Voters per ward. ... 1  | RIRUTA  | 37,766
+--------------------------------------------------------------------------------
+Environmental and Social Impact Assessment STUDY REPORT for the Proposed RIRUTA KEZA IHS Housing Developments Located in L.R No.  DAGORETTI/RIRUTA/6004 (NAIROBI BLOCK 66/6004) ALONG NDWARU ROAD, OFF NAIVASHA ROAD IN RIRUTA, DAGORETTI SOUTH SUB-COUNTY, NAIROBI COUNTY (https://nema.go.ke/wp-content/uploads/2025/12/IHS-Riruta-Housing_00288-min.pdf)
+ [wordlim: 200] Published: 10 months ago; PROPOSED MULTI-RESIDENTIAL HOUSING UNITS IN RIRUTA BY IHS (K) LTD ... <td>Riruta</td>
+--------------------------------------------------------------------------------
+Dagoretti South Constituency — Nairobi County · Mzalendo (https://mzalendo.com/research-and-knowledge/constituencies/dagoretti-south/)
+ [wordlim: 200] Crawled: 2 days ago; # Dagoretti South Constituency ... Riruta ... The bar fills in when IEBC publishes one and it is loaded; nothing here is projected forward — IEBC de-duplicates, audits and gazettes a register before it counts.
+--------------------------------------------------------------------------------
+NATIONAL GOVERNMENT- CONSTITUENCY DEVELOPMENT FUND, (https://ngcdf.go.ke/wp-content/uploads/2024/10/DAGORETTI-SOUTH-RIRUTA-SATELLITE-PRIMARY-SCHOOL-TENDER-DOCUMENT.pdf)
+ [wordlim: 200] Published: 1.7 years ago; PROPOSED CONSTRUCTION OF 4NO CLASSROOMS AT RIRUTA SATELLITE PRIMARY | SCHOOL IN DAGORETTI SOUTH CONSTITUENCY.
+--------------------------------------------------------------------------------
+Dagoretti South Postal Code 00507: All Wards, Areas - Nairobi Postal Codes (https://nairobipostalcodes.org/dagoretti-south-postal-code-00507/)
+ [wordlim: 200] Published: 10 months ago; Crawled: last month; The Dagoretti South postal code is primarily 00507 (Dagoretti), serving Mutuini, Ngando, Riruta, and Waithaka areas.
+--------------------------------------------------------------------------------
+Round Lake Area Schools (https://resources.finalsite.net/images/v1759262642/rlas116org/ozqm3qaycjfnxoctkbej/20250731RLAS-116TreasurersReport.pdf)
+ [wordlim: 200] Published: 8 months ago; Treasurer's Report Month End: July 31, 2025 Capital Projects & Life Safety Funds - Year at a Glance (YAAG) Expenditures by Object | $ - $ - - - - - - - - - - - - - - - - - - - - - (17,577) (17,577) - - - - - - |  |  |  |
+--------------------------------------------------------------------------------
+<table id="e1"> (https://www.planning.go.ke/wp-content/uploads/2025/12/APR-FINAL-Press.pdf)
+ [wordlim: 200] Published: 11 months ago; Table 4.6: Investment promotion outcome implementation status for FY 2024/2025 ... Increased Investments: The total foreign direct investment decreased from USD 1,504 million in FY2023/24 to USD 1,503 million in FY2024/25 while the total domestic direct investments increased from USD 28,100 million in FY2023/24 to USD 29,215 million in FY2024/25.
+--------------------------------------------------------------------------------
+Dagoretti South Constituency (https://en.wikipedia.org/wiki/Dagoretti_South_Constituency)
+ [wordlim: 200] Crawled: last month;  Riruta | 37,766 ... *  "IEBC notably alters Ligale proposals". www.capitalfm.co.ke. ... *  "Polling Centers - DAGORETTI SOUTH Constituency". www.electionskenya.org. n.d.
+--------------------------------------------------------------------------------
+SEPTEMBER 16, 2025 (https://www.mygov.go.ke/sites/default/files/2025-09/MyGov%20September%2016%2C%202025.pdf)
+ [wordlim: 200] Published: 1.1 years ago; <tr><td colspan="2"><b>1 Investments Promotion: Global Ratings</b></td></tr> ... □ FDI Intelligence ranked Kenya as the Number 1 Country in Africa in 2024 as African Country with the Greatest Investment Momentum.<br><br> ... <td>1,503* Million</td>
+--------------------------------------------------------------------------------
+Riruta Satellite (https://en.wikipedia.org/wiki/Riruta_Satellite)
+ [wordlim: 200] Crawled: 3 weeks ago; Riruta Ward is also an electoral division within Dagoretti South Constituency.
+--------------------------------------------------------------------------------
+Dagoretti Constituency (https://en.wikipedia.org/wiki/Dagoretti_Constituency)
+ [wordlim: 200] Crawled: yesterday; Before the general election of 2013, Dagoretti Constituency was divided, with the bulk of the western and southern parts forming Dagoretti South Constituency; the south-east stretch combined with part of Lang'ata Constituency to form Kibra Constituency; the rest was combined with part of Westlands Constituency to form Dagoretti North Constituency. ...  Riruta | 65,958 ... *  "IEBC notably alters Ligale proposals". www.capitalfm.co.ke.
+--------------------------------------------------------------------------------
+Bakee Mtaani (https://en.wikipedia.org/wiki/Bakee_Mtaani)
+ [wordlim: 200] Crawled: 1.2 years ago; Two such courts have been constructed at Gatina Primary, and Holy Ghost Mission (HGM) Primary School in Riruta, both in Dagoretti North Constituency, at the BP Riruta Stadium in Dagoretti South, and at the Humama Grounds, in Komoarock, Embakasi South Constituency.
+--------------------------------------------------------------------------------
+Constituencies of Kenya (https://en.wikipedia.org/wiki/Constituencies_of_Kenya)
+ [wordlim: 200] Crawled: 2 months ago; Dagoretti South  | Mutu-ini • Ngand'o • Riruta • Uthiru/Ruthimitu • Waithaka
+--------------------------------------------------------------------------------
+Ng'ando (https://en.wikipedia.org/wiki/Ng%27ando)
+ [wordlim: 200] Crawled: 3 weeks ago; It borders Riruta to the north and the Ngong Racecourse to the south. ... Ngando Ward is also an electoral division within Dagoretti South Constituency.
+--------------------------------------------------------------------------------
+Internal Error ()
+ [wordlim: 200] Source: open({"ref_id":"https://www.treasury.go.ke/wp-content/uploads/2025/10/2025-Budget-Review-and-Outlook-Paper.pdf","lineno":null}); Total lines: 1
+L0: Failed to fetch https://www.treasury.go.ke/wp-content/uploads/2025/10/2025-Budget-Review-and-Outlook-Paper.pdf: (400) Timeout fetching

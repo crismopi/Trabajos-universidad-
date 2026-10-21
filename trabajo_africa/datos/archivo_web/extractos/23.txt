@@ -1,0 +1,194 @@
+FUENTE 23: Freedom House, Kenya 2026
+URL original: https://freedomhouse.org/country/kenya/freedom-world/2026
+Fecha de captura: 2026-10-21
+Tipo: texto extraído por navegador; puede ser parcial. No es el HTML/PDF original.
+Estado: texto_recuperado
+
+Kenya: Freedom in the World 2026 Country Report | Freedom House (https://freedomhouse.org/country/kenya/freedom-world/2026)
+  Crawled: today; Content type: text/html; Source: open({"ref_id":"https://freedomhouse.org/country/kenya/freedom-world/2026","lineno":null}); Total lines: 206
+L0:  L1: 
+L2:  L3: 
+L4: Expanding Freedom and Democracy
+L5: 
+L6:  L7: ## Kenya
+L8: 
+L9: Partly Free
+L10: 
+L11: 49
+L12: 
+L13: 100
+L14: 
+L15: PR  | 21 40
+L16: CL  | 28 60
+L17: 
+L18: Last Year's Score & Status
+L19: 
+L20: 51 100 Partly Free
+L21: 
+L22: A country or territory’s Freedom in the World status depends on its aggregate Political Rights score, on a scale of 0–40, and its aggregate Civil Liberties score, on a scale of 0–60.  L23: 
+L24:  L25: 
+L26:  L27: ## header1 Overview
+L28: 
+L29: Kenya holds regular and competitive multiparty elections. However, pervasive corruption and brutality by security forces remain serious problems. While the country’s media and civil society sectors are vibrant, journalists and human rights defenders are vulnerable to restrictive laws and intimidation.
+L30: This report has been abridged for Freedom in the World 2026. Freedom in the World is entirely funded by nongovernmental sources such as private foundations, corporations, and individuals like you. Please consider making a  to support future editions of this vital resource.
+L31: 
+L32: For additional background information, see the reports from the  and  editions of Freedom in the World.
+L33: ## PR Political Rights
+L34: 
+L35: ## A Electoral Process
+L36: 
+L37: A1 1.00-4.00 pts 0-4 pts
+L38: 
+L39: Was the current head of government or other chief national authority elected through free and fair elections?  | 3.00 3 4.00 4
+L40: 
+L41: A2 1.00-4.00 pts 0-4 pts
+L42: 
+L43: Were the current national legislative representatives elected through free and fair elections?  | 3.00 3 4.00 4
+L44: 
+L45: A3 1.00-4.00 pts 0-4 pts
+L46: 
+L47: Are the electoral laws and framework fair, and are they implemented impartially by the relevant election management bodies?  | 2.00 2 4.00 4
+L48: ## B Political Pluralism and Participation
+L49: 
+L50: B1 1.00-4.00 pts 0-4 pts
+L51: 
+L52: Do the people have the right to organize in different political parties or other competitive political groupings of their choice, and is the system free of undue obstacles to the rise and fall of these competing parties or groupings?  | 2.00 2 4.00 4
+L53: 
+L54: B2 1.00-4.00 pts 0-4 pts
+L55: 
+L56: Is there a realistic opportunity for the opposition to increase its support or gain power through elections?  | 2.00 2 4.00 4
+L57: Score Change: The score declined from 3 to 2 due to a series of developments that indicated a narrowing of political space for the opposition to operate over the past several years, including a crackdown on opposition protests in 2023, the impeachment and removal of the deputy president in 2024 after his falling out with the president, and the shooting death of opposition legislator Charles Were as well as the abduction of two other politicians in 2025.
+L58: 
+L59: B3 1.00-4.00 pts 0-4 pts
+L60: Are the people’s political choices free from domination by forces that are external to the political sphere, or by political forces that employ extrapolitical means?  | 2.00 2 4.00 4
+L61: 
+L62: B4 1.00-4.00 pts 0-4 pts
+L63: 
+L64: Do various segments of the population (including ethnic, racial, religious, gender, LGBT+, and other relevant groups) have full political rights and electoral opportunities?  | 2.00 2 4.00 4
+L65: ## C Functioning of Government
+L66: 
+L67: C1 1.00-4.00 pts 0-4 pts
+L68: 
+L69: Do the freely elected head of government and national legislative representatives determine the policies of the government?  | 2.00 2 4.00 4
+L70: 
+L71: C2 1.00-4.00 pts 0-4 pts
+L72: 
+L73: Are safeguards against official corruption strong and effective?  | 1.00 1 4.00 4
+L74: 
+L75: C3 1.00-4.00 pts 0-4 pts
+L76: 
+L77: Does the government operate with openness and transparency?  | 2.00 2 4.00 4
+L78: 
+L79: ## CL Civil Liberties
+L80: ## D Freedom of Expression and Belief
+L81: 
+L82: D1 1.00-4.00 pts 0-4 pts
+L83: 
+L84: Are there free and independent media?  | 2.00 2 4.00 4
+L85: 
+L86: D2 1.00-4.00 pts 0-4 pts
+L87: 
+L88: Are individuals free to practice and express their religious faith or nonbelief in public and private?  | 2.00 2 4.00 4
+L89: 
+L90: D3 1.00-4.00 pts 0-4 pts
+L91: 
+L92: Is there academic freedom, and is the educational system free from extensive political indoctrination?  | 3.00 3 4.00 4
+L93: 
+L94: D4 1.00-4.00 pts 0-4 pts
+L95: Are individuals free to express their personal views on political or other sensitive topics without fear of surveillance or retribution?  | 2.00 2 4.00 4
+L96: Score Change: The score declined from 3 to 2 because a series of events have discouraged private expression including abductions of individuals critical of the government both inside and outside the country, police interrogation of people detained during protests about their online activities, evidence of spyware being installed on the phones of filmmakers, and the death in custody of a blogger, Albert Ojwang, who was detained for making “defamatory” posts.
+L97: ## E Associational and Organizational Rights
+L98: 
+L99: E1 1.00-4.00 pts 0-4 pts
+L100: 
+L101: Is there freedom of assembly?  | 1.00 1 4.00 4
+L102: 
+L103: E2 1.00-4.00 pts 0-4 pts
+L104: 
+L105: Is there freedom for nongovernmental organizations, particularly those that are engaged in human rights– and governance-related work?  | 2.00 2 4.00 4
+L106: 
+L107: E3 1.00-4.00 pts 0-4 pts
+L108: 
+L109: Is there freedom for trade unions and similar professional or labor organizations?  | 3.00 3 4.00 4
+L110: ## F Rule of Law
+L111: 
+L112: F1 1.00-4.00 pts 0-4 pts
+L113: 
+L114: Is there an independent judiciary?  | 3.00 3 4.00 4
+L115: 
+L116: F2 1.00-4.00 pts 0-4 pts
+L117: 
+L118: Does due process prevail in civil and criminal matters?  | 1.00 1 4.00 4
+L119: 
+L120: F3 1.00-4.00 pts 0-4 pts
+L121: 
+L122: Is there protection from the illegitimate use of physical force and freedom from war and insurgencies?  | 1.00 1 4.00 4
+L123: 
+L124: F4 1.00-4.00 pts 0-4 pts
+L125: 
+L126: Do laws, policies, and practices guarantee equal treatment of various segments of the population?  | 1.00 1 4.00 4
+L127: ## G Personal Autonomy and Individual Rights
+L128: 
+L129: G1 1.00-4.00 pts 0-4 pts
+L130: 
+L131: Do individuals enjoy freedom of movement, including the ability to change their place of residence, employment, or education?  | 2.00 2 4.00 4
+L132: 
+L133: G2 1.00-4.00 pts 0-4 pts
+L134: 
+L135: Are individuals able to exercise the right to own property and establish private businesses without undue interference from state or nonstate actors?  | 1.00 1 4.00 4
+L136: 
+L137: G3 1.00-4.00 pts 0-4 pts
+L138: Do individuals enjoy personal social freedoms, including choice of marriage partner and size of family, protection from domestic violence, and control over appearance?  | 2.00 2 4.00 4
+L139: 
+L140: G4 1.00-4.00 pts 0-4 pts
+L141: 
+L142: Do individuals enjoy equality of opportunity and freedom from economic exploitation?  | 2.00 2 4.00 4
+L143: 
+L144:   L145: #### On Kenya
+L146: 
+L147: See all data, scores & information on this country or territory.
+L148: 
+L149:  L150: 
+L151: ### Country Facts
+L152: 
+L153:   * #### Population
+L154: 
+L155: 54,030,000
+L156: 
+L157:   * #### Global Freedom Score
+L158: 
+L159: 49 100 partly free
+L160: 
+L161:   * #### Internet Freedom Score
+L162: 
+L163: 58 100 partly free
+L164: ### Other Years
+L165: 
+L166:   *  L167:   *  L168:   *  L169:   *  L170:   *  L171:   *  L172:   *  L173:   *  L174:   *  L175: 
+L176:  L177: 
+L178: Invest in Freedom’s Future
+L179: As Freedom House marks its 85th anniversary, we're asking you to join our Investing in Freedom's Future campaign. Global freedom has been in decline for two decades — and your support will sustain our world-class analysis, expand resources for rights defenders, and push back against authoritarian abuses. Help us build a world where all are free.
+L180: 
+L181: [Button: Donate]
+L182: ## Be the first to know what's happening.
+L183: 
+L184: Join the Freedom House weekly newsletter
+L185: 
+L186: [Button: Top]
+L187: 
+L188: ### Address
+L189: 
+L190: 1225 I Street NW #1200
+L191: Washington, DC 20005
+L192: 
+L193: (202) 296-5101
+L194: 
+L195: ### General Inquiries
+L196: 
+L197:  L198: 
+L199: ### Press & Media
+L200: 
+L201:  L202: 
+L203: @2026 FreedomHouse
+L204: 
+L205: Freedom House is a 501(c)(3) organization registered in the US under EIN: 13-1656647.

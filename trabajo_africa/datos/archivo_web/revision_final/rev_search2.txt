@@ -1,0 +1,606 @@
+Fecha de captura: 2026-10-21
+Método: navegación y/o resultados indexados. Texto posiblemente parcial; no es el documento original. Los lotes pueden contener resultados no pertinentes. Comprobar URL y registro de verificación antes de utilizar datos.
+
+ECONOMIC SURVEY 2026 (https://www.knbs.or.ke/wp-content/uploads/2026/04/2026-Economic-Survey.pdf)
+ [wordlim: 200] Published: 6 months ago; Crawled: 5 months ago; Tender awards to Youth, Women and PWDs are also expected to increase, with total contract values rising to KSh 28.3 billion in 2025/26 from KSh 25.5 billion in 2024/25. ... <tr><td>1</td><td>Population</td><td>(Million)</td><td>49.7</td><td>50.6</td><td>51.5</td><td>52.4</td><td>53.3</td></tr>
+ECONOMIC SURVEY 2026
+
+Tender awards to Youth, Women and PWDs are also expected to increase, with total contract values rising to KSh 28.3 billion in 2025/26 from KSh 25.5 billion in 2024/25. National Youth Service recruitment increased to 19,496 in 2025 from 15,500 in 2024. Funding for social protection programmes, including Older Persons Cash Transfer and Persons with Severe Disabilities Cash Transfer, is projected to reach KSh 30.1 billion and KSh 1.5 billion, respectively, in 2025/26, while the Hunger Safety Net Programme increased by 47.6 per cent to KSh 3.9 billion. National Social Security Fund contributions increased from KSh 62.3 billion in 2024 to KSh 84.0 billion in 2025, while newly registered employees and benefits paid declined to KSh 8.7 billion. Pension scheme contributions increased from KSh 263.5 billion in 2024 to KSh 285.4 billion in 2025, with membership rising to 8.0 million and benefits paid reaching KSh 136.8 billion.
+
+Table 0: Summary Table
+
+<table id="e1">
+<tr><th></th><th>DESCRIPTION</th><th>Unit</th><th>2021</th><th>2022</th><th>2023</th><th>2024+</th><th>2025*</th></tr>
+<tr><td>1</td><td>Population</td><td>(Million)</td><td>49.7</td><td>50.6</td><td>51.5</td><td>52.4</td><td>53.3</td></tr>
+<tr><td>2</td><td>Growth of GDP at Constant Prices</td><td>(Per cent )</td><td>7.6</td><td>4.9</td><td>5.7</td><td>4.7</td><td>4.6</td></tr>
+<tr><td>3</td><td>GDP (Current) at Market Prices</td><td>(KSh Mn)</td><td>12,027,661.5</td><td>13,489,641.5</td><td>15,033,610.0</td><td>16,232,294.8</td><td>17,577,557.2</td></tr>
+--------------------------------------------------------------------------------
+COMESA Investment Report 2025: Investment trends and policy insights (https://unctad.org/system/files/official-document/diae2025d2_en.pdf)
+ [wordlim: 200] Published: 11 months ago; COMESA Investment Report 2025 ... **Kenya:** FDI inflows remained virtually unchanged in 2024, at $1.5 billion.
+
+FDI inflows to Egypt more than tripled
+
+**Kenya:** FDI inflows remained virtually unchanged in 2024, at $1.5 billion. However, all other investment indicators declined. Cross-border M&A activity declined by 51 per cent, from $117 million to $58 million. The value of announced greenfield projects dropped by 80 per cent, from $9.3 billion to $1.9 billion, while the number of projects fell from 85 in 2023 to 69 in 2024, representing a 19 per cent decrease. IPF also contracted, with total value declining by 49 per cent—from $2.3 billion to $1.2 billion—and the number of deals falling from seven to two.
+
+A comparison of the top five FDI recipient countries in COMESA over the two periods 2019–2021 and 2022–2024 reveals that the leading destinations have remained unchanged (figure 8). Egypt continued to dominate the region’s investment landscape, with inflows rising sharply from $7 billion to $23 billion, marking more than threefold increase. Ethiopia retained its position as the second-largest recipient, with FDI increasing from $3.1 billion to $3.6 billion, a 19 per cent growth. Uganda recorded a notable increase in inflows, rising from $1.4 billion to $3.1 billion, supported by growing investment in oil development and regional transport corridors. The Democratic Republic of the Congo also saw inflows rise, from $1.7 billion to $2.5 billion, reflecting a 51 per cent increase driven by sustained interest in the mining and energy sectors, particularly critical minerals. Kenya, while maintaining its position among the top five, experienced more modest growth, with inflows increasing from $1.3 billion to $1.5 billion, equivalent to a 15 per cent rise. Overall, the COMESA investment landscape remains highly concentrated, both geographically and by project size, highlighting the urgent need for greater sectoral diversification and improved risk-mitigation strategies (see box 2) to promote more inclusive and resilient FDI growth across the region.
+
+14--------------------------------------------------------------------------------
+World Investment Report | UN Trade and Development (UNCTAD) (https://unctad.org/topic/investment/world-investment-report)
+ [wordlim: 200] Crawled: last week; World Investment Report 2026: International investment in a turbulent era 07 Jul 2026World Investment Report 2025: International investment in the digital economy 19 Jun 2025 ... ### Africa is attracting investment in strategic industries. ... The top 100 non-financial MNEs from developing and transition economies, ranked by foreign assets, 2023
+# World Investment Report
+
+The World Investment Report focuses on trends in foreign direct investment (FDI) worldwide, at the regional and country levels and emerging measures to improve its contribution to development.
+
+It also provides analysis on global value chains and the operations of multinational enterprises, with special attention to their development implications.
+
+Overviews of the report are available in all official UN languages.
+
+Every issue of the report has:
+
+  * Analysis of the trends in FDI during the previous year, with especial emphasis on the development implications.
+  * Ranking of the largest transnational corporations in the world.
+  * In-depth analysis of a selected topic related to FDI.
+  * Policy analysis and recommendations.
+  * Statistical annex with data on FDI flows and stocks at the country level.
+
+## Latest editions
+
+World Investment Report 2026: International investment in a turbulent era 07 Jul 2026
+
+World Investment Report 2025: International investment in the digital economy 19 Jun 2025
+
+World Investment Report 2024: Investment facilitation and digital government 20 Jun 2024
+
+more
+
+## Video and podcast
+
+World Investment Report 2026
+
+### World Investment Report 2026
+
+139. Rethinking investment: Making money work for development
+
+### Rethinking investment: Making money work for development
+
+##### What is the real value of investment in today’s world? From green energy to public infrastructure, investment has the power to reshape economies and drive meaningful change.
+
+19 Jun 2025
+
+## News
+
+10 Jul 2026
+
+### Governments still want foreign investment, but on more selective terms
+
+09 Jul 2026
+
+### Investment in strategic sectors is expanding, but many developing economies risk being left behind
+
+07 Jul 2026
+
+### More capital, fewer projects: Latin America’s investment paradox
+
+07 Jul 2026
+
+### Developing Asia leads investment among developing regions as patterns shift within the region
+
+07 Jul 2026
+
+### Africa is attracting investment in strategic industries. The challenge is turning it into broader industrial development
+
+More news
+
+## Annex Tables
+
+Annex table 01: FDI inflows, by region and economy, 1990-2024  
+
+19 June 2025
+
+Annex table 02: FDI outflows, by region and economy, 1990-2024  
+
+19 June 2025
+
+Annex table 03: FDI inward stock, by region and economy, 1990-2024  
+
+19 June 2025
+
+Annex table 04: FDI outward stock, by region and economy, 1990-2024  
+
+19 June 2025
+
+Annex table 05: Value of net cross-border M&A sales, by region/economy of seller, 1990-2024  
+
+19 June 2025
+
+Annex table 06: Value of net cross-border M&A purchases, by region/economy of purchaser, 1990-2024  
+
+19 June 2025
+
+Annex table 07: Number of net cross-border M&A sales, by region/economy of seller, 1990-2024  
+
+19 June 2025
+
+Annex table 08: Number of net cross-border M&A purchases, by region/economy of purchaser, 1990-2024  
+## Annex tables
+
+07 Jul 2026
+
+### Annex table 01: FDI inflows, by region and economy, 1990-2025
+
+  * English XLSX
+
+07 Jul 2026
+
+### Annex table 02: FDI outflows, by region and economy, 1990-2025
+
+  * English XLSX
+
+07 Jul 2026
+
+### Annex table 03: FDI inward stock, by region and economy, 1990-2025
+
+  * English XLSX
+
+07 Jul 2026
+
+### Annex table 04: FDI outward stock, by region and economy, 1990-2025
+
+  * English XLSX
+
+07 Jul 2026
+
+### Annex table 05: Value of net cross-border M&A sales, by region/economy of seller, 1990-2025
+
+  * English XLSX
+
+07 Jul 2026
+
+### Annex table 06: Value of net cross-border M&A purchases, by region/economy of purchaser, 1990-2025
+
+  * English XLSX
+
+07 Jul 2026
+
+### Annex table 07: Number of net cross-border M&A sales, by region/economy of seller, 1990-2025
+
+  * English XLSX
+
+07 Jul 2026
+
+### Annex table 08: Number of net cross-border M&A purchases, by region/economy of purchaser, 1990-2025
+
+  * English XLSX
+
+07 Jul 2026
+
+### Annex table 09: Value of net cross-border M&A sales, by sector/industry, 1990-2025
+
+  * English XLSX
+
+07 Jul 2026
+
+### Annex table 10: Value of net cross-border M&A purchases, by sector/industry, 1990-2025
+
+  * English XLSX
+
+07 Jul 2026
+
+### Annex table 11: Number of net cross-border M&A sales, by sector/industry, 1990-2025
+
+  * English XLSX
+
+07 Jul 2026
+
+### Annex table 12: Number of net cross-border M&A purchases, by sector/industry, 1990-2025
+
+  * English XLSX
+
+07 Jul 2026
+
+### Annex table 13: Value of announced greenfield FDI projects, by source, 2003-2025
+
+  * English XLSX
+
+07 Jul 2026
+
+### Annex table 14: Value of announced greenfield FDI projects, by destination, 2003-2025
+
+  * English XLSX
+
+07 Jul 2026
+
+### Annex table 15: Value of announced greenfield FDI projects, by sector/industry, 2003-2025
+
+  * English XLSX
+
+07 Jul 2026
+
+### Annex table 16: Number of announced greenfield FDI projects, by source, 2003-2025
+
+  * English XLSX
+
+07 Jul 2026
+
+### Annex table 17: Number of announced greenfield FDI projects, by destination, 2003-2025
+
+  * English XLSX
+
+07 Jul 2026
+
+### Annex table 18: Number of announced greenfield FDI projects, by sector/industry, 2003-2025
+
+  * English XLSX
+
+07 Jul 2026
+
+### Annex table 19. The world's top 100 non-financial MNEs, ranked by foreign assets, 2025
+
+  * English XLSX
+
+07 Jul 2026
+
+### Annex table 20. The top 100 non-financial MNEs from developing and transition economies, ranked by foreign assets, 2024
+
+## Country fact sheets
+
+These Country Fact Sheets contain the most relevant indicators about FDI in a country. Each sheet contains the most recent data on FDI flows and stocks, mergers and acquisitions, largest TNCs and regulatory changes.
+
+## Regional fact sheet
+
+Regional fact sheet: Africa 
+
+19 June 2025
+
+Regional fact sheet: Asia   
+
+19 June 2025
+
+Regional fact sheet: Developed economies   
+
+19 June 2025
+
+Regional fact sheet: Landlocked countries (LLCs)   
+
+19 June 2025
+
+Regional fact sheet: Latin America and the Caribbean, excluding Caribbean Financial Centers   
+
+19 June 2025
+
+Regional fact sheet: Least developed countries (LDCs)   
+
+19 June 2025
+
+Regional fact sheet: Small island developing states (SIDS)   
+
+19 June 2025
+
+## Regional fact sheet
+
+07 Jul 2026
+
+### Regional fact sheet: Africa
+
+  * English PDF | XLSX
+
+07 Jul 2026
+
+### Regional fact sheet: ASEAN 10
+
+  * English PDF | XLSX
+
+07 Jul 2026
+
+### Regional fact sheet: Developing Asia
+
+  * English PDF | XLSX
+
+07 Jul 2026
+
+### Regional fact sheet: Developed economies
+
+  * English PDF | XLSX
+
+07 Jul 2026
+
+### Regional fact sheet: European Union
+
+  * English PDF | XLSX
+
+07 Jul 2026
+
+### Regional fact sheet: Landlocked countries (LLCs)
+
+  * English PDF | XLSX
+
+07 Jul 2026
+
+### Regional fact sheet: Latin America and the Caribbean, excluding Caribbean Financial Centres
+
+  * English PDF | XLSX
+
+07 Jul 2026
+
+### Regional fact sheet: Least developed countries (LDCs)
+
+  * English PDF | XLSX
+
+07 Jul 2026
+
+### Regional fact sheet: Small island developing states (SIDS)
+
+  * English PDF | XLSX
+
+## Regional trends
+
+Regional Trends: Africa   
+
+19 June 2025
+
+Regional Trends: Developing Asia   
+
+19 June 2025
+
+Regional Trends: Landlocked Developing Countries   
+
+19 June 2025
+
+Regional Trends: Latin America and the Caribbean   
+
+19 June 2025
+
+Regional Trends: Least Developed Countries   
+
+19 June 2025
+
+Regional Trends: Small Island Developing States   
+
+19 June 2025
+
+## Regional trends
+
+07 Jul 2026
+
+### Regional Trends: Africa
+
+  * English PDF
+
+07 Jul 2026
+
+### Regional Trends: Developing Asia
+
+  * English PDF
+
+07 Jul 2026
+
+### Regional Trends: Landlocked Developing Countries
+
+  * English PDF
+
+07 Jul 2026
+
+### Regional Trends: Latin America and the Caribbean
+
+  * English PDF
+
+07 Jul 2026
+
+### Regional Trends: Least Developed Countries
+
+  * English PDF
+
+07 Jul 2026
+
+### Regional Trends: Small Island Developing States
+
+  * English PDF--------------------------------------------------------------------------------
+WIR 2025 factsheet Kenya (https://unctad.org/system/files/non-official-document/wir_fs_ke_en.pdf)
+ [wordlim: 200] Published: 1.4 years ago; Crawled: 1.3 years ago; # World Investment Report 2025 ... **Country Fact Sheet: Kenya****Foreign direct investment (FDI) overview, selected years** ... <th>2020</th><th>2021</th><th>2022</th><th>2023</th><th>2024</th>
+United Nations Conference on Trade and Development
+
+UN trade & development
+
+# World Investment Report 2025  
+## International investment in the digital economy
+
+**Country Fact Sheet: Kenya**
+
+**Foreign direct investment (FDI) overview, selected years**  
+*(Millions of dollars and per cent)*
+
+<table id="e1">
+<tr>
+<th>FDI flows</th>
+<th>2020</th>
+<th>2021</th>
+<th>2022</th>
+<th>2023</th>
+<th>2024</th>
+<th>Growth rate, 2023-2024 %</th>
+<th colspan="5">As a percentage of gross fixed capital formation</th>
+</tr>
+<tr>
+<th></th>
+<th></th><th></th><th></th><th></th><th></th>
+<th></th>
+<th>2020</th><th>2021</th><th>2022</th><th>2023</th><th>2024</th>
+</tr>
+<tr>
+<td><b>Kenya</b><br>Inward<br>Outward</td>
+<td>1 510<br>1 297</td>
+<td>1 406<br>1 840</td>
+<td>1 597<br>1 502</td>
+<td>1 504<br>588</td>
+<td>1 503<br>1 310</td>
+<td>-0.1<br>122.9</td>
+<td>7.7<br>6.7</td>
+<td>6.5<br>8.5</td>
+<td>7.5<br>7.0</td>
+<td>8.0<br>3.1</td>
+<td>7.5<br>6.5</td>
+</tr>
+<tr>
+<td><i>Memorandum</i><br>Angola<br>Inward<br>Outward</td>
+<td><br>-1 866<br>91</td>
+--------------------------------------------------------------------------------
+REPUBLIC OF KENYA (https://investmentpromotion.go.ke/sites/default/files/2026-04/Draft-National-Investment-Strategy.pdf)
+ [wordlim: 200] Published: 1.3 years ago; Kenya’s FDI inflows in 2023 were USD 1.504 billion, marginally down 5.82 % from the 2022 peak of USD ... Source: World Investment Report, 2024 – Annex Table 1, UNCTAD, 2024
+Figure 4: Ratio of   Sector Share of GDP Growth to Sector share of GDP in 2023- Kenya 
+ 
+Source: Economic Survey, 2024. Data from Table 2.2 and 2.4.  
+In terms of employment, the informal sector continues to play a significant role in the economy 
+accounting for 85% of the 848,200 new jobs created in 2023. The economy employed a total of 20.0 
+million persons in 2023 compared to 19.1 million in 2022. The dominance of the informal sector 
+presents the country with an opportunity to forge initiatives that can enhance capital accumulation 
+and designing pension schemes that encourage those in the informal sector to save for their 
+retirement. 
+Table 1 below shows that Kenya’s FDI inflows over the past six years remained relatively steady 
+between USD 1.14 and 1.60 billion. According to the UNCTAD’s World Investment Report, 2024, 
+Kenya’s FDI inflows in 2023 were USD 1.504 billion, marginally down 5.82 % from the 2022 peak of USD  
+1. 597 billion, consistent with a 2 % drop in global FDI flows in 2023. It should be noted that the 2020-
+--------------------------------------------------------------------------------
+SEPTEMBER 16, 2025 (https://www.ict.go.ke/sites/default/files/2025-09/MyGov%2016th%20September%202025.pdf)
+ [wordlim: 200] Published: 1.1 years ago; www.mygov.go.ke ... □ FDI Intelligence ranked Kenya as the Number 1 Country in Africa in 2024 as African Country with the Greatest Investment Momentum.<br><br> ... <td>44 Billion Kshs. increase in FDI<br>44%</td> ... *UNCTAD Report - 2024 and 2025 figures<br>
+□ Bloomberg ranked Kenya as Singapore of Africa in 2023.<br><br>
+□ Africa Investment Report and Africa Biz Deals Report ranked Kenya Number One in Africa in 2023 and 2024, on Africa’s total Start Up Funding having secured USD 800 Million and USD 638 Million respectively.
+</td>
+</tr>
+</table>
+
+<table id="e9">
+<tr><th colspan="5">2 Investments Promotion: Value of Investments Attracted</th></tr>
+<tr>
+<td>2022</td>
+<td>2023</td>
+<td>2024</td>
+<td>Change</td>
+<td></td>
+</tr>
+<tr>
+<td>Foreign Direct Investments (FDI)<br>Currency (USD)</td>
+<td>759* Million</td>
+<td>1,504* Million</td>
+<td>1,503* Million</td>
+<td>744* Million USD increase in FDI<br>98%</td>
+</tr>
+<tr>
+<td>Currency (Kshs)</td>
+<td>329** Billion</td>
+<td>373** Billion</td>
+<td></td>
+<td>44 Billion Kshs. increase in FDI<br>44%</td>
+</tr>
+<tr>
+<td>Domestic Direct Investments (DDI)<br>Currency (KES)</td>
+<td>3,257*** Billion</td>
+<td>3,653*** Billion</td>
+<td>3,798*** Billion</td>
+<td>541 Billion Kes increase in DDI<br>17%</td>
+</tr>
+<tr>
+<td colspan="5">
+*UNCTAD Report - 2024 and 2025 figures<br>
+**2024 Foreign Direct Investment Survey Report (CBK, KNBS &amp; KenInvest)<br>
+***CBK Annual Report and Financial Statement 2023/2024
+</td>
+</tr>
+</table>
+
+--------------------------------------------------------------------------------
+Why Global Capital Is Choosing Kenya: The Strategy Behind Kenya’s Rising Investment Story (https://acesso.kissmyscore.com/?_=%2Fpulse%2Fwhy-global-capital-choosing-kenya-strategy-behind-story-tanui-cbs-onh0f%23xybe3UUSZzbs022gEii2Pso2w8MYSyd0)
+ [wordlim: 200] Published: 3 months ago; Crawled: last month; The UNCTAD World Investment Report 2026 https://unctad.org/system/files/official-document/wir2026_en.pdf reinforces this reality, showing that Kenya is no longer simply participating in Africa’s investment story—it is helping shape it.According to UNCTAD, Kenya attracted a record US$3.2 billion (approximately KSh414 billion) in Foreign Direct Investment (FDI) during 2025, the highest in the country’s history and more than double the US$1.5 billion recorded in 2022.
+
+Image: Why Global Capital Is Choosing Kenya: The Strategy Behind Kenya’s Rising Investment Story
+
+# Why Global Capital Is Choosing Kenya: The Strategy Behind Kenya’s Rising Investment Story
+
+Eng.John Kipchumba Tanui, CBS
+
+### Eng.John Kipchumba Tanui, CBS
+
+Published Jul 10, 2026
+
++ Follow
+
+“Investment follows confidence. Confidence follows vision, consistency and execution.”
+
+At a time when global capital is becoming increasingly selective and concentrated in a handful of markets, Kenya is steadily emerging as one of Africa’s most compelling investment destinations. The UNCTAD World Investment Report 2026 https://unctad.org/system/files/official-document/wir2026_en.pdf reinforces this reality, showing that Kenya is no longer simply participating in Africa’s investment story—it is helping shape it.
+
+According to UNCTAD, Kenya attracted a record US$3.2 billion (approximately KSh414 billion) in Foreign Direct Investment (FDI) during 2025, the highest in the country’s history and more than double the US$1.5 billion recorded in 2022. --------------------------------------------------------------------------------
+Investment trends - InvestKenya (https://www.investkenya.go.ke/investment-trends/)
+ [wordlim: 200] Crawled: 2 days ago; Renewable energy has emerged as a top global FDI sector, attracting over $250Bn in capital investment in 2024 ... In 2025, Kenya facilitated approximately USD 1.8 billion* in investments, supporting the creation of more than 35,000 jobs (*interim data) ... Kenya’s trade volume rose to KSh 3.8 trillion in 2024, up from KSh 3.6 trillion in 2023, driven by growth in both imports and exports.
+
+## Investment trends
+
+## 6 global trends in investment landscape
+
+Image
+
+Global FDI growth remains resilient
+
+Global FDI inflows reached ~$1.5Tn in 2024, continuing steady growth from ~$1.3Tn in 2022 despite macro uncertainty
+
+Image
+
+Green power is a leading investment destination
+
+Renewable energy has emerged as a top global FDI sector, attracting over $250Bn in capital investment in 2024
+
+Image
+
+Greenfield FDI is shifting to future-shaping industries
+
+~75% of new greenfield projects since 2022 target semiconductors, EV batteries, renewables, and digital infrastructure
+
+Image
+
+Digital infrastructure demand is surging
+
+Global data-center demand is expected to more than double by 2030, with GenAI workloads driving ~71% of growth
+
+Image
+
+Investment facilitation is becoming a key differentiator
+
+Countries are strengthening digital government, transparency, and aftercare to compete for increasingly mobile investment
+
+Image
+
+Regional rebalancing is accelerating, with Africa rising
+--------------------------------------------------------------------------------
+Kenya - Smart Survey Isiolo_2019 (https://statistics.knbs.or.ke/nada/index.php/catalog/146/variable/F3/V445?name=hv226)
+ [wordlim: 200] Published: 1.7 years ago; Crawled: 4 months ago; Created on February 05, 2025 Last modified February 05, 2025 Page views 99149 Documentation in PDF Metadata DDI/XML JSON ... 1  |  | 281  | 53.3% ... They cannot be interpreted as summary statistics of the population of interest.
+--------------------------------------------------------------------------------
+2023 Foreign Investment Survey Report (https://www.investkenya.go.ke/wp-content/uploads/2024/07/2023-Foreign-Investment-Report-1.pdf)
+ [wordlim: 200] Published: last year; Trade and Development (UNCTAD) World InvestmentReport (WIR) for 2023, global FDI declined by 12.0 per ... FDI inflows to Africa declined by 43.5 per cent to USDollar 45 billion attributed to a peak in 2021due to a ... of various programmes in the Kenya Vision 2030, ... 2024).
+--------------------------------------------------------------------------------
+Kenya's foreign investment slips as FDIs stagnate at Sh195b - The Standard (https://standardmedia.co.ke/business/article/2001538290/kenyas-foreign-investment-slips-as-fdis-stagnate-at-sh195b)
+ [wordlim: 200] Published: 9 months ago; Crawled: 3 months ago; Kenya’s competitiveness as an investment destination in the region is being edged out by other economies as latest data shows foreign direct investment (FDI) to the country stagnated at Sh195 billion ($1.5 billion) as at the end of 2024. ... Foreign Direct Investment UNCTAD Comesa Greenfield Projects
+--------------------------------------------------------------------------------
+Country Navigator | UNCTAD Investment Policy Hub (https://investmentpolicy.unctad.org/country-navigator/111/kenya)
+ [wordlim: 200] Crawled: 2 months ago; The Country Navigator is the entry point for all country specific investment policy data collected or created by UNCTAD. ...   * Implementation Report of IPR of Kenya - 02/06/2012 ...   * Kenya - Korea, Republic of BIT (2014) - Date of signature: 08/07/2014 Full text: en | ko ...   * Kenya - United Arab Emirates CEPA (2025) - Date of signature: 14/01/2025 Full text: en
+--------------------------------------------------------------------------------
+Kenya - United States Department of State (https://2021-2025.state.gov/reports/2024-investment-climate-statements/kenya/)
+ [wordlim: 200] Crawled: 2 weeks ago; In November 2019, the Kenya Investment Authority (KenInvest), the country’s official investment promotion agency, launched the Kenya Investment Policy (KIP) and the County Investment Handbook (CIH)( http://www.invest.go.ke/publications/ ), which increased inflow of FDI. ... In 2013, the GoK initiated the Access to Government Procurement Opportunities program, requiring all public procurement entities to set aside a minimum of 30 percent of their annual procurement spending facilitate the participation of youth, women, and persons with disabilities ( https://agpo.go.ke/ ). ... The total value of bilateral trade between the United States and Kenya totaled USD 1.4 billion in 2023, with Kenyan exports accounting for USD 895 million. ... The agency is engaged in funding programs in Kenya with commitments of over USD 1.4 billion as of March 2024, including projects in power generation, internet infrastructure, light manufacturing, and financial services. ... Total inbound stock of FDI as % host GDP  | 2021  | 9.5%  | 2022  | 9.9%   | https://unctad.org/publication/world-investment-report-2022
+--------------------------------------------------------------------------------
+Foreign direct investment intflows | Kenya (1990−2024) − Data, Charts & Analysis (https://statbase.org/data/ken-foreign-direct-investment-inflows/)
+ [wordlim: 200] Crawled: 2 weeks ago; Foreign direct investment inflows of Kenya in 2024 amounted to 1 502.58 million USD, which is 0.117% less than in 2023, when it was  1 504.34 million USD. ... According to UNCTAD statistics, since 1990, the foreign direct investment inflows has increased in 26.31 times.
+--------------------------------------------------------------------------------
+World Investment Report 2026 | United Nations iLibrary (https://doi.org/10.18356/9789211599435)
+ [wordlim: 200] Published: 3 months ago; Crawled: last week; # World Investment Report 2026 ...   * Periodical: United Nations Conference on Trade and Development (UNCTAD) World Investment Report (WIR)
+--------------------------------------------------------------------------------
+Youth now make up 75 percent of Kenya’s population – Kenya News Agency (https://www.kenyanews.go.ke/youth-now-make-up-75-percent-of-kenyas-population/)
+ [wordlim: 200] Published: 1.6 years ago; Crawled: last month; Speaking at the Conference on Public Service and Human Capital Development, Principal Secretary (PS) Amos Gathecha cited the Kenya National Bureau of Statistics census report of 2019, where there were 47.6 million people, with projections estimating a population of 53.3 million in 2025, 57.8 million in 2030, and 82.6 million people in 2050.
+--------------------------------------------------------------------------------
+Kenya's economy grows 4.6% in 2025 with GDP at KSh 17.58 trillion | Fintech Association Of Kenya posted on the topic | LinkedIn (https://www.linkedin.com/posts/fintech-association-of-kenya_knbs-survey-2026-activity-7456601800633147392-cTIj)
+ [wordlim: 200] Crawled: last month; 𝐊𝐞𝐧𝐲𝐚’𝐬 𝟐𝟎𝟐𝟓 𝐠𝐫𝐨𝐰𝐭𝐡 𝐬𝐥𝐨𝐰𝐬 𝐭𝐨 𝟒.𝟔% 𝐚𝐬 𝐆𝐃𝐏 𝐫𝐢𝐬𝐞𝐬 𝐭𝐨 𝐊𝐒𝐡 𝟏𝟕.𝟓𝟖 𝐭𝐫𝐢𝐥𝐥𝐢𝐨𝐧 Kenya’s economy expanded by 4.6% in 2025, slightly slower than 4.7% in 2024, even as current-price GDP rose to KSh 17.58 trillion and population increased to 53.3 million, according to the KNBS Economic Survey 2026: Facts and Figures.
+--------------------------------------------------------------------------------
+PRESS RELEASE – National Council For Population and Development (https://ncpd.go.ke/2025/03/12/press-release/)
+ [wordlim: 200] Published: 1.6 years ago; Crawled: 2 months ago; population growth, from 53.3 million in 2025 to 82.6 million by 2050.
+--------------------------------------------------------------------------------
+List of countries by foreign direct investment inflows (https://en.wikipedia.org/wiki/List_of_countries_by_foreign_direct_investment_inflows)
+ [wordlim: 200] Crawled: 3 weeks ago; According to the World Investment Report 2026, based on 2025 data, the following list ranks countries based on their total FDI Outflows in billions of dollars: ...  72  |  Kenya  | 11.772  | 3.2  | 2.324  | 1.735  | 1.597  | 1.406  | 1.51
+--------------------------------------------------------------------------------
+We don’t have a country here. (https://www.reddit.com/r/Kenya/comments/1arlxv2)
+ [wordlim: 200] Published: 2.7 years ago; Crawled: 2.6 years ago; [Thursday February 15 2024] [+1 votes] ...               You'd have to go through the cbk website and see if they post the dollar transactions. ... Jangili thinks you can roundtrip trade 1.5 billion dollars a day in Kenya? ...     I just need to tally import & foreign dividend payments for outflow then export, FDI and diaspora remittances for inflow to get a rough figure of  the amount of forex transactions that kenya does. ... Kenyans = Talking out of their ass on shit they do not know about

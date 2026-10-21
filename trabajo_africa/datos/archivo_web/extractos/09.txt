@@ -1,0 +1,9 @@
+FUENTE 09: Safaricom, historia del lanzamiento
+URL original: https://newsroom.safaricom.co.ke/innovation/m-pesa-17-years-of-transforming-lives/
+Fecha de captura: 2026-10-21
+Tipo: texto extraído por navegador; puede ser parcial. No es el HTML/PDF original.
+Estado: apertura_fallida
+
+Internal Error ()
+  Source: open({"ref_id":"https://newsroom.safaricom.co.ke/innovation/m-pesa-17-years-of-transforming-lives/","lineno":null}); Total lines: 1
+L0: Failed to fetch https://newsroom.safaricom.co.ke/innovation/m-pesa-17-years-of-transforming-lives/: (403) Forbidden

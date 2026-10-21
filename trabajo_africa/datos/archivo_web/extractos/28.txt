@@ -1,0 +1,9 @@
+FUENTE 28: KNBS, Economic Survey 2026, datos de 2025
+URL original: https://www.knbs.or.ke/reports/2026-economic-survey/
+Fecha de captura: 2026-10-21
+Tipo: texto extraído por navegador; puede ser parcial. No es el HTML/PDF original.
+Estado: apertura_fallida
+
+Internal Error ()
+  Source: open({"ref_id":"https://www.knbs.or.ke/reports/2026-economic-survey/","lineno":null}); Total lines: 1
+L0: Failed to fetch https://www.knbs.or.ke/reports/2026-economic-survey/: (400) Timeout fetching

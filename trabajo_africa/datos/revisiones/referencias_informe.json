@@ -1,0 +1,219 @@
+[
+  {
+    "id": 1,
+    "label": "Gamba y Kibaara, 2007, RuralStruc",
+    "url": "https://documents1.worldbank.org/curated/en/886221468048846460/pdf/779820WP0KENYA00Box377319B00PUBLIC0.pdf",
+    "autor": "Gamba, P., y Kibaara, B.",
+    "fecha_publicacion": "2007",
+    "titulo": "Structural Implications of Economic Liberalization on Agriculture and Rural Development. RuralStruc Program, Phase I. Egerton University, Tegemeo Institute",
+    "id_version_36": 1
+  },
+  {
+    "id": 2,
+    "label": "KNBS, Economic Survey 2026",
+    "url": "https://www.knbs.or.ke/reports/2026-economic-survey/",
+    "autor": "Kenya National Bureau of Statistics (KNBS)",
+    "fecha_publicacion": "2026",
+    "titulo": "Economic Survey 2026",
+    "id_version_36": 2,
+    "acceso_alternativo_pdf": "https://www.knbs.or.ke/wp-content/uploads/2026/04/2026-Economic-Survey.pdf"
+  },
+  {
+    "id": 3,
+    "label": "NCPD, proyecciones de población, 2025",
+    "url": "https://ncpd.go.ke/2025/03/12/press-release/",
+    "autor": "National Council for Population and Development (NCPD)",
+    "fecha_publicacion": "2025, 12 de marzo",
+    "titulo": "Press Release. Proyecciones de población",
+    "id_version_36": 3
+  },
+  {
+    "id": 4,
+    "label": "CBK, PIB anual",
+    "url": "https://www.centralbank.go.ke/annual-gdp/",
+    "autor": "Central Bank of Kenya (CBK)",
+    "fecha_publicacion": "s. f.",
+    "titulo": "Annual GDP. Serie consultada el 21 de octubre de 2026",
+    "id_version_36": 4
+  },
+  {
+    "id": 5,
+    "label": "KNBS, Gross County Product 2025, apartado 3.1",
+    "url": "https://www.knbs.or.ke/wp-content/uploads/2025/12/2025-Gross-County-Product.pdf",
+    "autor": "Kenya National Bureau of Statistics (KNBS)",
+    "fecha_publicacion": "2025",
+    "titulo": "Gross County Product 2025",
+    "id_version_36": 6
+  },
+  {
+    "id": 6,
+    "label": "FSD Kenya, estudio sobre trabajadores y vivienda",
+    "url": "https://www.fsdkenya.org/blogs-publications/publications/affordable-housing-access-for-kenyas-formal-workforce-what-pension-data-reveals-and-what-can-work/",
+    "autor": "FSD Kenya; Zamara; Centre for Affordable Housing Finance in Africa (CAHF)",
+    "fecha_publicacion": "2026, 19 de mayo",
+    "titulo": "Affordable housing access for Kenya’s formal workforce: What pension data reveals and what can work",
+    "id_version_36": 8
+  },
+  {
+    "id": 7,
+    "label": "InfoTradeKenya, AfCFTA",
+    "url": "https://infotradekenya.go.ke/menu/895",
+    "autor": "InfoTradeKenya",
+    "fecha_publicacion": "s. f.",
+    "titulo": "AfCFTA Market Requirements",
+    "id_version_36": 11
+  },
+  {
+    "id": 8,
+    "label": "EAC, estructura y miembros",
+    "url": "https://www.eac.int/component/content/?Itemid=89",
+    "autor": "East African Community (EAC)",
+    "fecha_publicacion": "s. f.",
+    "titulo": "EAC at a Glance",
+    "id_version_36": 10
+  },
+  {
+    "id": 9,
+    "label": "Banco Mundial, Systematic Country Diagnostic, capítulo 2",
+    "url": "https://documents1.worldbank.org/curated/en/531731600090213005/pdf/kenya-systematic-country-diagnostic.pdf",
+    "autor": "Banco Mundial",
+    "fecha_publicacion": "2020",
+    "titulo": "Kenya Systematic Country Diagnostic",
+    "id_version_36": 19
+  },
+  {
+    "id": 10,
+    "label": "IFC, proyecto IHS Kenya",
+    "url": "https://disclosures.ifc.org/project-detail/ESRS/47136/co",
+    "autor": "International Finance Corporation (IFC)",
+    "fecha_publicacion": "2023; actualizado en 2024",
+    "titulo": "IHS Kenya. Environmental and Social Review Summary, proyecto 47136",
+    "id_version_36": 34
+  },
+  {
+    "id": 11,
+    "label": "UNCTAD, ficha de Kenia, WIR 2025",
+    "url": "https://unctad.org/system/files/non-official-document/wir_fs_ke_en.pdf",
+    "autor": "UNCTAD",
+    "fecha_publicacion": "2025",
+    "titulo": "World Investment Report 2025. Country Fact Sheet: Kenya",
+    "id_version_36": 15
+  },
+  {
+    "id": 12,
+    "label": "UNCTAD, COMESA Investment Report 2025, p. 14",
+    "url": "https://unctad.org/system/files/official-document/diae2025d2_en.pdf",
+    "autor": "UNCTAD",
+    "fecha_publicacion": "2025",
+    "titulo": "COMESA Investment Report 2025: Investment trends and policy insights",
+    "id_version_36": 16
+  },
+  {
+    "id": 13,
+    "label": "PIDG, iniciativa de Acorn",
+    "url": "https://pidg.org/pidg-anchors-acorns-new-reit-to-finance-affordable-housing-for-kenyas-young-urbanites/",
+    "autor": "Private Infrastructure Development Group (PIDG)",
+    "fecha_publicacion": "2025, 17 de noviembre",
+    "titulo": "PIDG anchors Acorn’s new REIT to finance affordable housing for Kenya’s young urbanites",
+    "id_version_36": 17
+  },
+  {
+    "id": 14,
+    "label": "Constitución, artículo 65, texto de la KLRC",
+    "url": "https://www.klrc.go.ke/index.php/constitution-of-kenya/116-chapter-five-land-and-environment/117-part-1-land/232-65-landholding-by-non-citizens",
+    "autor": "República de Kenia; Kenya Law Reform Commission, reproducción",
+    "fecha_publicacion": "2010",
+    "titulo": "Constitution of Kenya, artículo 65: Landholding by non-citizens",
+    "id_version_36": 18
+  },
+  {
+    "id": 15,
+    "label": "PNUD, quinto informe de desarrollo humano de Kenia, apartado sobre ajuste",
+    "url": "https://hdr.undp.org/system/files/documents/kenya2006en.pdf",
+    "autor": "Informe nacional de desarrollo humano de Kenia, patrocinado por PNUD",
+    "fecha_publicacion": "2006",
+    "titulo": "Kenya National Human Development Report 2006: Human Security and Human Development — A Deliberate Choice",
+    "id_version_36": 22
+  },
+  {
+    "id": 16,
+    "label": "Banco Mundial, actualización de diciembre de 2024",
+    "url": "https://www.worldbank.org/en/news/press-release/2024/12/10/reforms-are-needed-to-stem-a-slow-down-in-afe-kenya-s-economic-growth",
+    "autor": "Banco Mundial",
+    "fecha_publicacion": "2024, 10 de diciembre",
+    "titulo": "Reforms are Needed to Stem a Slow-down in Kenya’s Economic Growth",
+    "id_version_36": 24
+  },
+  {
+    "id": 17,
+    "label": "Tesoro Nacional, BROP 2025, tabla 17",
+    "url": "https://www.treasury.go.ke/wp-content/uploads/2025/10/2025-Budget-Review-and-Outlook-Paper.pdf",
+    "autor": "The National Treasury, Kenia",
+    "fecha_publicacion": "2025",
+    "titulo": "Budget Review and Outlook Paper. Tabla 17",
+    "id_version_36": 25
+  },
+  {
+    "id": 18,
+    "label": "Banco Mundial, Economic Update 32, 2025",
+    "url": "https://documents1.worldbank.org/curated/en/099112125062524216/pdf/P507067-4f692fc7-8081-4630-9dd2-d3768ce9defc.pdf",
+    "autor": "Banco Mundial",
+    "fecha_publicacion": "2025",
+    "titulo": "Kenya Economic Update 32: From Barriers to Bridges — Procompetitive Reforms for Productivity and Jobs in Kenya",
+    "id_version_36": 26
+  },
+  {
+    "id": 19,
+    "label": "Acemoglu y Robinson, 2012, información y extracto editorial",
+    "url": "https://www.penguinrandomhouseretail.com/book/?isbn=9780307719218",
+    "autor": "Acemoglu, D., y Robinson, J. A.",
+    "fecha_publicacion": "2012",
+    "titulo": "Why Nations Fail: The Origins of Power, Prosperity, and Poverty. Crown. Ficha y extracto editorial consultados",
+    "id_version_36": 27
+  },
+  {
+    "id": 20,
+    "label": "Freedom House, Kenya 2026",
+    "url": "https://freedomhouse.org/country/kenya/freedom-world/2026",
+    "autor": "Freedom House",
+    "fecha_publicacion": "2026",
+    "titulo": "Freedom in the World 2026: Kenya",
+    "id_version_36": 28
+  },
+  {
+    "id": 21,
+    "label": "ESIA Keza–IHS, 2025, apartado 4.7",
+    "url": "https://nema.go.ke/wp-content/uploads/2025/12/IHS-Riruta-Housing_00288-min.pdf",
+    "autor": "Centric Africa Ltd., estudio del promotor alojado por NEMA",
+    "fecha_publicacion": "2025",
+    "titulo": "Environmental and Social Impact Assessment Study Report for the Proposed Riruta Keza IHS Housing Developments. Apartado 4.7",
+    "id_version_36": 32
+  },
+  {
+    "id": 22,
+    "label": "Acorn, estrategia",
+    "url": "https://acornholdingsafrica.com/overview/",
+    "autor": "Acorn Holdings",
+    "fecha_publicacion": "s. f.",
+    "titulo": "Overview. Estrategia corporativa",
+    "id_version_36": 33
+  },
+  {
+    "id": 23,
+    "label": "Reall, estudio de Fusion, 2025",
+    "url": "https://reall.net/blog/understanding-the-tenants-of-fusion-capitals-rental-properties-in-nairobi-kenya/",
+    "autor": "Robinson, H. J.; Mwangi, B.; Atkinson, B.",
+    "fecha_publicacion": "2025, 24 de febrero",
+    "titulo": "Understanding the tenants of Fusion Capital’s rental properties in Nairobi, Kenya. Reall y CAHF",
+    "id_version_36": 35
+  },
+  {
+    "id": 24,
+    "label": "Nairobi City County, Customer Service Charter 2025, sección de urbanismo",
+    "url": "https://nairobi.go.ke/wp-content/uploads/NCCG_Service_Charter_2025.pdf",
+    "autor": "Nairobi City County Government",
+    "fecha_publicacion": "2025, junio",
+    "titulo": "Customer Service Charter. Sección de aprobación de planos, inspección y ocupación",
+    "id_version_36": 36
+  }
+]

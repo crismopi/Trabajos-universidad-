@@ -1,0 +1,423 @@
+FUENTE 02: Banco Mundial, Systematic Country Diagnostic, capítulo 2
+URL original: https://documents1.worldbank.org/curated/en/531731600090213005/pdf/kenya-systematic-country-diagnostic.pdf
+Fecha de captura: 2026-10-21
+Tipo: texto extraído por navegador; puede ser parcial. No es el HTML/PDF original.
+Estado: texto_recuperado
+
+World Bank Document (https://documents1.worldbank.org/curated/en/531731600090213005/pdf/kenya-systematic-country-diagnostic.pdf)
+  Crawled: 2 weeks ago; Content type: application/pdf; Number of pages: 104; Source: open({"ref_id":"https://documents1.worldbank.org/curated/en/531731600090213005/pdf/kenya-systematic-country-diagnostic.pdf","lineno":null}); Total lines: 8074
+L0@P0: Kenya
+L1@P0: Systematic
+L2@P0: Country Diagnostic
+L3@P0-1: Public Disclosure Authorized Public Disclosure Authorized Public Disclosure Authorized Public Disclosure Authorized© 2020 International Bank for Reconstruction and Development / The World Bank
+L4@P1: 1818 H Street NW, Washington, DC 20433
+L5@P1: Telephone: 202-473-1000; Internet: www.worldbank.org
+L6@P1: Some rights reserved
+L7@P1: This work is a product of the staff of The World Bank with external contributions. The findings, interpretations, and conclusions
+L8@P1: expressed in this work do not necessarily reflect the views of The World Bank, its Board of Executive Directors, or the governments they
+L9@P1: represent. The World Bank does not guarantee the accuracy of the data included in this work. The boundaries, colors, denominations,
+L10@P1: and other information shown on any map in this work do not imply any judgment on the part of The World Bank concerning the legal
+L11@P1: status of any territory or the endorsement or acceptance of such boundaries.
+L12@P1: Nothing herein shall constitute or be considered to be a limitation upon or waiver of the privileges and immunities of The World Bank,
+L13@P1: all of which are specifically reserved.
+L14@P1-2: Cover image of Nairobi city courtesy of UN-Habitat.Contents
+L15@P2: Acknowledgments ............................................................................................................................................................................................................8
+L16@P2: Acronyms.........................................................................................................................................................................................................................................................9
+L17@P2: Executive summary.......................................................................................................................................................................................................10
+L18@P2: 1. Country context.........................................................................................................................................................................................................21
+L19@P2: 1.1 Geography and people: A land of great diversity......................................................................................................21
+L20@P2: 1.2 Ethnic fractionalization, social cohesion, and governance: The journey so far .........................21
+L21@P2: 1.3 Governance and development outcomes ...................................................................................................................... 24
+L22@P2: 1.4 SCD conceptual framework: Growth, inclusiveness, and sustainability..........................................25
+L23@P2: 2. Critical factors driving output and productivity growth....................27
+L24@P2: 2.1 Growth experience: From economic slump to robust growth...................................................................27
+L25@P2: 2.2 Drivers of Kenya’s growth experience.................................................................................................................................29
+L26@P2: 2.2.1. Supply- and demand-side drivers of growth...................................................................................29
+L27@P2: 2.2.2. Growth accounting: The productivity challenge......................................................................... 30
+L28@P2: 2.2.3. Structural reforms, productivity, and governance.......................................................................32
+L29@P2: 2.3 Constraints on productivity growth in Kenya............................................................................................................. 34
+L30@P2: 2.3.1. Macroeconomic constraints on productivity growth..................................................................35
+L31@P2: 2.3.2. Microeconomic constraints on productivity growth................................................................. 38
+L32@P2: 2.3.3. Challenges in human capital development and better development
+L33@P2:  outcomes for women..................................................................................................................................... 41
+L34@P2: 2.3.4 Constraints on productivity from inadequacy of physical capital...................................... 43
+L35@P2: 2.3.5. Constraints on productivity from inadequacy of use of natural capital......................... 45
+L36@P2-3: 2.3.6. Constraints on productivity and growth due to climate change....................................... 47SYSTEMATIC
+L37@P3: COUNTRY
+L38@P3: DIAGNOSTIC
+L39@P3: KENYA
+L40@P3: 4
+L41@P3: CONTENTS
+L42@P3: 3. Critical drivers of inclusiveness in Kenya........................................................................................49
+L43@P3: 3.1 Trends in poverty and shared prosperity.........................................................................................................................49
+L44@P3: 3.2 Drivers of monetary measures of inclusiveness........................................................................................................53
+L45@P3: 3.3 Drivers of nonmonetary measures of inclusiveness............................................................................................ 54
+L46@P3: 3.3.1. Health..................................................................................................................................................................... 54
+L47@P3: 3.3.2. Education.............................................................................................................................................................55
+L48@P3: 3.3.3. Water ......................................................................................................................................................................56
+L49@P3: 3.4 Gender and inclusion............................................................................................................................................................................57
+L50@P3: 4. Pathways to reduce poverty and boost shared prosperity........60
+L51@P3: 4.1 Boosting productivity and job creation..............................................................................................................................61
+L52@P3: 4.1.1. Fostering macroeconomic stability and fiscal sustainability.................................................. 61
+L53@P3: 4.1.2. Improving access to finance for MSMEs ............................................................................................63
+L54@P3: 4.1.3. Removing regulatory hurdles..................................................................................................................64
+L55@P3: 4.1.4. Addressing inefficiencies in the land market and land use..................................................64
+L56@P3: 4.1.5. Addressing the infrastructure challenge...........................................................................................65
+L57@P3: 4.1.6. Enhancing worker capabilities through integrated interventions
+L58@P3:  on skills development, self-employment, and entrepreneurship....................................... 66
+L59@P3: 4.1.7. Enhancing capabilities by leveraging digital technologies
+L60@P3:  and fostering innovation..............................................................................................................................67
+L61@P3: 4.1.8. Strengthening regional trade integration and boosting participation
+L62@P3:  in global value chains ................................................................................................................................... 68
+L63@P3: 4.1.9. Boosting agricultural sector productivity and output .............................................................. 70
+L64@P3: 4.1.10. Development of the blue economy and wildlife conservation...........................................72
+L65@P3: 4.2 Reducing inequality of opportunities through advancing human capital....................................72
+L66@P3: 4.2.1. Health.....................................................................................................................................................................73
+L67@P3: 4.2.2. Education............................................................................................................................................................73
+L68@P3: 4.2.3. Water, sanitation, and hygiene...............................................................................................................75
+L69@P3: 4.2.4. Social protection.............................................................................................................................................75
+L70@P3: 4.2.5. Digital technologies ......................................................................................................................................76
+L71@P3: 4.3 Improving governance for service delivery....................................................................................................................77
+L72@P3: 4.3.1. Establishing effective and accountable institutions...................................................................77
+L73@P3: 4.3.2. Strengthening devolution to enhance service delivery.......................................................... 78
+L74@P3: 4.4 Foundational issues.................................................................................................................................................................................81
+L75@P3: 4.4.1. Fiscal, social, and environmental sustainability............................................................................. 81
+L76@P3: 4.4.2. Inclusivity and gender................................................................................................................................ 83
+L77@P3-4: 4.4.3. Digital transformation................................................................................................................................ 83SYSTEMATIC
+L78@P4: COUNTRY
+L79@P4: DIAGNOSTIC
+L80@P4: KENYA
+L81@P4: 5
+L82@P4: CONTENTS
+L83@P4: 5. Prioritization......................................................................................................................................................................................................................85
+L84@P4: 5.1 Identifying priorities within the pathways......................................................................................................................85
+L85@P4: 5.2 Priorities to achieve the twin goals .......................................................................................................................................87
+L86@P4: 5.2.1. Improving the operating environment for firms.......................................................................... 87
+L87@P4: 5.2.2. Opening markets and enhancing competitiveness through
+L88@P4:  infrastructure upgrades.............................................................................................................................. 89
+L89@P4: 5.2.3. Enhancing commercialization opportunities across agriculture value chains..........90
+L90@P4: 5.2.4. Improving access to quality primary/basic health care............................................................ 91
+L91@P4: 5.2.5. Improving access to quality education services to improve learning outcomes....... 91
+L92@P4: 5.2.6. Strengthening anti-corruption mechanisms and institutions............................................. 91
+L93@P4: 5.2.7. Strengthening devolution to enhance service delivery............................................................92
+L94@P4: 6. Knowledge and data gaps.......................................................................................................................................................93
+L95@P4: References..............................................................................................................................................................................................................................................96
+L96@P4-5: Appendix A. Modelling framework................................................................ 99SYSTEMATIC
+L97@P5: COUNTRY
+L98@P5: DIAGNOSTIC
+L99@P5: KENYA
+L100@P5: 6
+L101@P5: CONTENTS
+L102@P5: List of Figures
+L103@P5: Projected poverty rate with current growth assumptions ........................................................................................10
+L104@P5: Average GDP growth by period.................................................................................................................................................10
+L105@P5: The poverty headcount rate measured at the national poverty line ....................................................................13
+L106@P5: Shared prosperity, as measured by changes in real per capita consumption among
+L107@P5: the bottom 40 percent ....................................................................................................................................................................13
+L108@P5: Figure B1.1. Ethnic fractionalization by country................................................................................................................22
+L109@P5: Figure B1.2. Language fractionalization by country ......................................................................................................22
+L110@P5: Figure 1. Since independence in 1963, Kenya’s per capita income has grown less than
+L111@P5: its peers................................................................................................................................................................................................... 24
+L112@P5: Figure 2. Kenya’s poverty rate projected to 2030 based on current growth assumptions......................25
+L113@P5: Figure 3. Kenya Systematic Country Diagnostic conceptual framework..........................................................26
+L114@P5: Figure 4. Annual GDP growth.................................................................................................................................................... 28
+L115@P5: Figure 5. Average GDP growth by period............................................................................................................................ 28
+L116@P5: Figure 6. Annual GDP growth for Kenya and peers (%) ...............................................................................................29
+L117@P5: Figure 7. Growth has been a key driver of poverty reduction in Kenya over the past decade..............29
+L118@P5: Figure 8. Decomposition of Kenya’s growth in value added by major sector ................................................29
+L119@P5: Figure 9. Contribution to growth in value added by country, 2004–2017..........................................................29
+L120@P5: Figure 10. Contribution to Kenya’s GDP growth.............................................................................................................. 30
+L121@P5: Figure 11. Public debt, 2010–2019 .............................................................................................................................................. 30
+L122@P5: Figure 12. Fiscal balance, percent of average tax revenues (2015–2017)...............................................................31
+L123@P5: Figure 13. The contribution to growth from TFP has risen in recent years . . . .................................................31
+L124@P5: Figure 14. . . . nonetheless, TFP growth’s contribution in Kenya is lower than its peers, 2004–2017...31
+L125@P5: Figure 15. Drivers of growth in Kenya, 1985–2015 (change in log of GDP per capita) ..................................33
+L126@P5: Figure 16. Contribution of structural reforms to growth, 1985–2015 (change in log of GDP
+L127@P5: per capita)...............................................................................................................................................................................................33
+L128@P5: Figure 17. Impact of structural reforms on economic growth of Kenya and selected
+L129@P5: peers (change in log of GDP per capita).............................................................................................................................. 34
+L130@P5: Figure 18. Per capita income growth trends for Kenya if it adopted the best (scenario 1),
+L131@P5: average (scenario 2), and worst (scenario 3) of structural reforms among peers........................................ 34
+L132@P5: Figure 19. Within sector improvements have been the predominant driver of productivity
+L133@P5: growth in Kenya..................................................................................................................................................................................35
+L134@P5: Figure 20. Contributions to productivity growth by country and by source ...................................................35
+L135@P5: Figure B4.1. Manufacturing productivity is lower relative to services..................................................................36
+L136@P5: Figure 21. Private investment contribution to GDP growth has declined.........................................................37
+L137@P5: Figure 22. Gross capital formation (% of GDP)...................................................................................................................37
+L138@P5: Figure B5.1. Economy-wide product market regulation score.................................................................................39
+L139@P5: Figure 23. Kenya underperforms most countries in many dimensions of corruption..............................40
+L140@P5: Figure 24. Under-five mortality rate (deaths per 1,000 live births) by quintile, mother’s
+L141@P5: educational attainment, and location, 2003–2014......................................................................................................... 42
+L142@P5: Figure B6.1. Cash flow projections (data from 71 water service providers)......................................................46
+L143@P5: Figure B6.2. Cash flow projection for Nanyuki water service provider...............................................................46
+L144@P5: Figure 25. Recent trends in poverty, inequality, and shared prosperity ............................................................ 50
+L145@P5: Figure B7.1. Projected poverty headcount rates by scenario (low impact, medium impact,
+L146@P5: high impact)...........................................................................................................................................................................................51
+L147@P5: Figure B7.2. Projected poverty change by sublocation.................................................................................................51
+L148@P5: Figure 26. Poverty and vulnerability in Kenya ...................................................................................................................52
+L149@P5: Figure 27. Regional patterns in poverty indicators.........................................................................................................53
+L150@P5: Figure 28. Identified strategies, constraints, and pathways ..................................................................................... 61
+L151@P5: Figure 29. 19th Replenishment of the International Development Agency Jobs
+L152@P5: and Economic Transformation Framework........................................................................................................................62
+L153@P5: Figure 30. East Africa is the ninth largest global market by population .......................................................... 69
+L154@P5-6: Figure 31. Kenya Systematic Country Diagnostic (SCD) methodology .............................................................. 87SYSTEMATIC
+L155@P6: COUNTRY
+L156@P6: DIAGNOSTIC
+L157@P6: KENYA
+L158@P6: 7
+L159@P6: CONTENTS
+L160@P6: List of Tables
+L161@P6: Table 1. Kenya’s governance performance, 2009–2018 ................................................................................................ 24
+L162@P6: Table 2. Sector-specific competition restrictions ........................................................................................................... 38
+L163@P6: Table A1. Description of variables............................................................................................................................................. 99
+L164@P6: Table A2. Economic growth model.......................................................................................................................................100
+L165@P6: List of Boxes
+L166@P6: Box 1. Ethnic fractionalization and development: Blessing or curse? .................................................................22
+L167@P6: Box 2. Effect of COVID-19 global pandemic on near-term gross domestic product growth................. 28
+L168@P6: Box 3. Effect of the economic crisis on potential gross domestic product ......................................................32
+L169@P6: Box 4. Productivity differentials and resource misallocation across sectors in Kenya ..............................36
+L170@P6: Box 5. Productivity gains and fiscal savings from reforms to state-owned enterprises ..........................39
+L171@P6: Box 6. Effect of COVID-19 pandemic on Kenya’s water services providers ......................................................46
+L172@P6: Box 7. Expected distributional effects of COVID-19 ....................................................................................................... 50
+L173@P6: Box 8. Vulnerable and excluded groups .............................................................................................................................. 58
+L174@P6: Box 9. Policy priorities to support medium-term fiscal consolidation................................................................62
+L175@P6: Box 10. Measures to boost agricultural productivity .................................................................................................... 70
+L176@P6: Box 11. Enhancing accountability through participatory governance: The case
+L177@P6: of Makueni County ........................................................................................................................................................................... 79
+L178@P6-7: Box 12. Prioritization process ...................................................................................................................................................... 86SYSTEMATIC
+L179@P7: COUNTRY
+L180@P7: DIAGNOSTIC
+L181@P7: KENYA
+L182@P7: 8
+L183@P7: Acknowledgments
+L184@P7: This report was led by Allen Dennis and Utz Pape. World Bank staff from all Global Practices contributed to this
+L185@P7: report. These include Vinay Kumar (Agriculture); Ruth Karimi Charo and Huma Ali Waheed (Education); Laurencia
+L186@P7: Karimi Njagi, Lucy Wangari Njuguna, and Zubair K. M. Sadeque (Energy and Extractives); Kanta Kumari Rigaud
+L187@P7: and Banu Setlur (Environment and Natural Resources); Gabi George Afram and Hans Shrader (Finance, Competitiveness, and Innovation); Christine Anyango Owuor and Timothy Stephen Williamson (Governance); Jane Chuma
+L188@P7: and Laura Di Giorgio (Health, Nutrition, and Population); Guigonan Serge Adjognon, Peter Chacha, and Alex Sienart (Macroeconomics, Trade, and Investment); Nduati Kariuki (Poverty); Sheila W. Kamunyori and Abdu Muwonge
+L189@P7: (Urban, rural, and social development); Abla Safir and Yuliya Smolyar (Social Protection and Labor); Josphat O.
+L190@P7: Sasia, Peter Ngwa Taniform, and Casey Torgusson (Transport and Information and Communication Technology);
+L191@P7: and Josses Mugabi and Pascaline Wanjiku Ndungu (Water). The safeguards specials who provided inputs were
+L192@P7: Adrian Howard Cutler and Varalakshmi Vemuru. Tesfaye Ayele (Procurement) also contributed. Colleagues from
+L193@P7: MIGA who provide inputs to this report were Paul Levy, Moritz Nikolaus Nebe, and Jessica Wade. Contributors from
+L194@P7: IFC were Sudha Krishnan and Kevin Ndori. The team was further supported by Andrew Zadel.
+L195@P7: The work benefited from the guidance of Albert Zeufack, C. Felipe Jaramillo, Jumoke Jagun-Dokunmu, Manuel
+L196@P7: Moses, Paolo Belli, and Helene Rex, as well as supervision of Abebe Adugna and Pierella Paci. The team would like
+L197@P7: to also thank all other members of the Kenya country team for their inputs as well as the Government of Kenya,
+L198@P7-8: Development Partners, and other stakeholders consulted in the process of finalizing the document. SYSTEMATIC
+L199@P8: COUNTRY
+L200@P8: DIAGNOSTIC
+L201@P8: KENYA
+L202@P8: 9
+L203@P8: Acronyms
+L204@P8: ASAL Arid and Semi-Arid Lands
+L205@P8: COVID-19 Coronavirus disease 2019
+L206@P8: FDI Foreign direct investment
+L207@P8: GBV Gender-based violence
+L208@P8: GDP Gross domestic product
+L209@P8: HCI Human Capital Index
+L210@P8: HDI Human Development Index
+L211@P8: ICT Information and communications technology
+L212@P8: IDA International Development Agency
+L213@P8: IFC International Finance Corporation
+L214@P8: JET Special Theme on Jobs and Economic Transformation
+L215@P8: KES Kenyan shilling
+L216@P8: KIHBS Kenya Integrated Household Budget Survey
+L217@P8: KNBS Kenyan National Bureau of Statistics
+L218@P8: MSME Micro, small, and medium enterprises
+L219@P8: NCCAPII Second National Climate Change Action Plan
+L220@P8: NEDI North and Northeastern Development Initiative
+L221@P8: NER Net enrollment rates
+L222@P8: NSSF National Social Security Fund
+L223@P8: OECD The Organisation for Economic Co-operation and Development
+L224@P8: PPP Purchasing power parity
+L225@P8: SACCO Savings and Credit Cooperative Society
+L226@P8: SCD Systematic country diagnostic
+L227@P8: SDG Sustainable development goals
+L228@P8: SME Small and medium enterprise
+L229@P8: SOE State-owned enterprise
+L230@P8: SRM Social risk management
+L231@P8: STEP Skills Toward Employment and Productivity
+L232@P8: TFP Total factor productivity
+L233@P8-9: WASH Water, sanitation, and hygieneSYSTEMATIC
+L234@P9: COUNTRY
+L235@P9: DIAGNOSTIC
+L236@P9: KENYA
+L237@P9: 10
+L238@P9: Executive summary
+L239@P9: This World Bank Systematic Country Diagnostic (SCD) provides an
+L240@P9: analytical foundation for identifying country-level actions and
+L241@P9: investments that would increase growth and boost shared prosperity in Kenya. It aims to be an objective diagnostic that
+L242@P9: analyzes and prioritizes binding constraints on development, based on government and external sources,
+L243@P9: as well as consultations with local stakeholders.
+L244@P9: The conceptual framework adopted for this SCD is organized around
+L245@P9: two main strategies: (1) higher aggregate output and productivity growth and (2) greater equity and inclusiveness. Constraints
+L246@P9: limiting advancement in these two key thematic areas
+L247@P9: are identified using the latest available data. The document then outlines three main pathways to accelerate
+L248@P9: the attainment of the World Bank’s “twin goals” of ending extreme poverty and promoting shared prosperity.
+L249@P9: Using filtering criteria and with attention to foundational
+L250@P9: issues that cut across all sectors, this SCD proposes specific priorities for development initiatives in Kenya.
+L251@P9: Poverty rates in Kenya have declined over the last decade, but
+L252@P9: nonetheless remain high by the standards of lower-middle-income
+L253@P9: countries. The share of the population living below
+L254@P9: the national poverty line fell from 46.8 percent in
+L255@P9: Projected poverty rate with current growth
+L256@P9: assumptions
+L257@P9: 50
+L258@P9: Percent 40
+L259@P9: 30
+L260@P9: 20
+L261@P9: 10
+L262@P9: 0
+L263@P9: Poverty rate
+L264@P9: 2005200720092011201320152017201920212023202520272029
+L265@P9: Simulated poverty rate
+L266@P9: –13 million
+L267@P9: Shortfall
+L268@P9: 2030 goal
+L269@P9: Source: Pape and Mejia-Mantilla (2018).
+L270@P9: Average GDP growth by period
+L271@P9: 0
+L272@P9: –0.5
+L273@P9: 0.5
+L274@P9: 1.5
+L275@P9: 2.5
+L276@P9: 3.5
+L277@P9: 4.5
+L278@P9: 5.5
+L279@P9: 6.5
+L280@P9: 7.5
+L281@P9: 1963–811982–2003 2004–2018
+L282@P9-10: Source: World Bank.SYSTEMATIC
+L283@P10: COUNTRY
+L284@P10: DIAGNOSTIC
+L285@P10: KENYA
+L286@P10: 11
+L287@P10: EXECUTIVE
+L288@P10: SUMMARY 2005/06 to 36.1 percent in 2015/16 and was projected
+L289@P10: to decline to 33.5 percent in 2019. Although robust
+L290@P10: gross domestic product (GDP) growth over the past
+L291@P10: decade has contributed to the decline in poverty, at
+L292@P10: the current pace of poverty reduction, this will not
+L293@P10: be enough to eradicate extreme poverty by 2030. To
+L294@P10: do so, Kenya’s poverty rate would have to fall by an
+L295@P10: unrealistic 6.1 percentage points each year, while the
+L296@P10: country’s decade average is just 1.6 percentage points
+L297@P10: per year. If poverty reduction continues at its current
+L298@P10: pace, the poverty rate will remain around 24 percent in
+L299@P10: 2030—or higher—given the likely negative effects of
+L300@P10: COVID-19 on poverty.
+L301@P10: Kenya has seen a return to strong growth
+L302@P10: rates, but the increased public spending
+L303@P10: that has helped drive that expansion will
+L304@P10: not be sustainable over the long term.
+L305@P10: The Kenyan economy has emerged from an economic slump and
+L306@P10: returned to robust, resilient growth over the past decade and a
+L307@P10: half. Kenya’s post-independence economic growth is
+L308@P10: characterized by three broadly distinct phases: buoyant growth in the post-independence period, an economic slump in the 1980s and 1990s, and then a robust
+L309@P10: rebound. Since 2004, GDP growth has rebounded
+L310@P10: to an average of 5.4 percent and remained resilient
+L311@P10: during and in the aftermath of the global financial
+L312@P10: crisis. Despite performing better than the average for
+L313@P10: Sub-Saharan Africa, Kenya’s growth remains weaker
+L314@P10: than a number of its regional and structural peers.
+L315@P10: The ongoing COVID-19 pandemic poses a significant
+L316@P10: threat to near-term growth in Kenya because of the
+L317@P10: contraction of domestic demand, a decline in exports,
+L318@P10: the disruption of global supply chains, and a drop in
+L319@P10: tourism revenue.
+L320@P10: The recent recovery in growth has been broad based but driven primarily by the services sector on the supply side and by an increase in
+L321@P10: domestic demand; the debt-driven, public investment–led growth
+L322@P10: model seems to have reached its limit. The services sector
+L323@P10: accounted for some three-quarters of the increase
+L324@P10: in GDP growth, while the agricultural sector contributed the least. The increase in private consumption
+L325@P10: and investment were the main drivers of the increase
+L326@P10: in domestic demand. Increased government spending has also been a driver of growth in the post-2012
+L327@P10: era. Overall, total expenditure by the national government increased to an average of 26.6 percent of GDP
+L328@P10: between 2013/14 and 2017/18, compared with an
+L329@P10: average of 23.4 percent in the preceding four years.
+L330@P10: The public sector is however unlikely to remain a
+L331@P10: driver of growth, given a narrowing of the fiscal space
+L332@P10: due to an underperformance in revenues.
+L333@P10: Factor accumulation has been the greatest driver of the recent
+L334@P10: pickup in growth, whereas productivity growth significantly lags
+L335@P10: that of comparator countries. The bulk of the increase in
+L336@P10: GDP growth in recent decades has come from capital deepening and labor force growth. Although the
+L337@P10: contribution of productivity to GDP growth in Kenya
+L338@P10: has picked up from the period of economic slump, it
+L339@P10: still lags significantly behind that of comparator countries. This suggests there is room for greater growth by
+L340@P10: addressing the challenges to low productivity in the
+L341@P10: Kenyan economy.
+L342@P10: The pace of structural reforms has increased since the mid-2000s,
+L343@P10: and these have helped boost productivity growth, but there remains
+L344@P10: further room for improvement. The single most important
+L345@P10: determinant of the changes in per capita GDP growth
+L346@P10: in Kenya over the long term has been the pace of structural reforms, meaning changes in government policies, practices, and institutions that can help create an
+L347@P10: enabling environment for growth and job creation. In
+L348@P10: the 1980s, state controls were maintained in several
+L349@P10: important markets, including a pegged exchange rate,
+L350@P10: interest rate controls, price controls, and the licensing of foreign exchange transactions. A lack of structural reforms contributed to the economic slump that
+L351@P10: occurred from 1981 to 2003. Successive national governments were able to accelerate the pace of structural
+L352@P10: reforms after a political shift in 2003. These reforms
+L353@P10: included restoring macro stability, strengthening governance institutions, and expanding physical infrastructure. From a very low contribution in the 1980s
+L354@P10: and 1990s, the contribution of structural reforms to
+L355@P10: growth quadrupled in the 2000s. Notwithstanding this
+L356@P10: progress, the contribution of structural reforms to per
+L357@P10: capita GDP growth in Kenya still lags that of its aspirational peers.
+L358@P10: Kenya is still facing a range of macroeconomic
+L359@P10: and microeconomic constraints that are
+L360@P10: preventing productivity growth.
+L361@P10: Sustained increases in productivity are critical to achievement of
+L362@P10: the twin goals. The recent pickup in productivity growth
+L363@P10: has been predominantly driven by improvements in
+L364@P10: productivity within firms and farms, with the contribution from dynamic reallocation (entry of new firms and
+L365@P10: rearranging the factors of production) being minimal.
+L366@P10: Productivity growth is largely coming from incumbents within the same sector, with little room for new
+L367@P10: players, a phenomenon that could reflect challenges
+L368@P10: due to barriers to entry.
+L369@P10: Narrowing of the fiscal space poses the single biggest threat to
+L370@P10: macroeconomic stability. Debt-to-GDP ratios surged from
+L371@P10: 39 percent of GDP in 2013 to 62 percent of GDP in 2019,
+L372@P10: with the composition of that debt shifting toward
+L373@P10: more expensive commercial sources. The expansionary fiscal stance, coupled with the interest rate cap,
+L374@P10: is crowding out private investment and curtailing
+L375@P10: productivity growth. Unlike the solid contribution to
+L376@P10: growth of the public sector, the contribution from
+L377@P10: private investment has been negative in recent years,
+L378@P10: with the four-year moving average declining from
+L379@P10: 1.3 percent of GDP in 2013 to negative 0.7 percent in
+L380@P10-11: 2017. It is expected that the fiscal measures instituted SYSTEMATIC
+L381@P11: COUNTRY
+L382@P11: DIAGNOSTIC
+L383@P11: KENYA
+L384@P11: 12
+L385@P11: EXECUTIVE
+L386@P11: SUMMARY to mitigate the economic effects of the COVID-19
+L387@P11: pandemic will widen the deficit by some 1.6 percent
+L388@P11: of GDP, further delaying the urgently needed fiscal
+L389@P11: consolidation.
+L390@P11: There is a need to improve the business regulatory environment,
+L391@P11: with investors complaining that it is complex, costly, and unpredictable. Kenya has attracted only an average of 1.2 percent
+L392@P11: of GDP in foreign direct investment (FDI) flows in recent
+L393@P11: years, whereas other non-resource-rich countries such
+L394@P11: as Ethiopia and Rwanda have attracted FDI flows
+L395@P11: in excess of 3.3 percent of GDP. In part, this reflects
+L396@P11: Kenya’s numerous restrictive regulations that serve as
+L397@P11: barriers to entry and hinder private investment. There
+L398@P11: are competition restrictions in many sectors, with
+L399@P11: examples including government intervention in grain
+L400@P11: markets, a lack of a transparent regulatory framework
+L401@P11: for procompetitive spectrum allocation in the telecommunications market, and restrictions on foreign
+L402@P11: equity participation in insurance markets.
+L403@P11: The large presence of legacy state-owned enterprises (SOEs) represents a major constraint on productivity growth in Kenya. SOEs
+L404@P11: are the primary vehicle for overseeing, delivering, and
+L405@P11: implementing large-scale projects and services, but
+L406@P11: their governance and administrative arrangements are
+L407@P11: often inefficient, and oversight mechanisms are lacking. Direct competition from SOEs and links between
+L408@P11: competing firms through partial government shareholding are crowding out the private sector. SOEs
+L409@P11: also generate a significant burden on fiscal accounts,
+L410@P11: running deficits particularly in agriculture, health, and
+L411@P11: communications.
+L412@P11: Corruption is a significant problem for businesses, hindering productivity and deterring potentially more productive new firms from
+L413@P11: entering the market. The recent World Bank Enterprise
+L414@P11: Survey shows that, in almost every dimension of corruption involving business interactions with public

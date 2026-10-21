@@ -1,0 +1,183 @@
+FUENTE 17: Mi Vida, cartera corporativa
+URL original: https://mividahomes.com/
+Fecha de captura: 2026-10-21
+Tipo: texto extraído por navegador; puede ser parcial. No es el HTML/PDF original.
+Estado: texto_recuperado
+
+Mi Vida Homes - Residential Apartments in Nairobi | From KES 2.2M (https://mividahomes.com/)
+  Crawled: today; Content type: text/html; Source: open({"ref_id":"https://mividahomes.com/","lineno":null}); Total lines: 252
+L0:   L1: 
+L2:   *  L3:   *  L4:   *  L5:   *  L6:   *  L7:   *  L8:   *  L9:   *  L10:  L11: 
+L12: MENU
+L13: 
+L14:   *  L15:   *  L16:   *  L17:   *  L18:   *  L19:   *  L20:   *  L21:   *  L22: 
+L23: 
+L24: 
+L25: [Input: Search...]
+L26: #### Quick Links
+L27: 
+L28:   *  L29:   *  L30:   *  L31:   *  L32:   *  L33:   *  L34: 
+L35: Completed
+L36: 
+L37:  L38: 
+L39: # Garden City, Nairobi | 1, 2 and 3 Bedroom Apartments
+L40: 
+L41:  L42: 
+L43: Under Construction
+L44: 
+L45:  L46: # Riruta, Nairobi | Premium Studio, 1, 2& 3 Bedroom Apartments | From 3.1M
+L47: 
+L48:  L49: 
+L50: Completed
+L51: 
+L52:  L53: 
+L54: # Thika Road, Nairobi | 2 & 3 Bed Apartments & Duplexes, 4 Bedroom Villas | From KES 19M
+L55: 
+L56:  L57: 
+L58: Completed
+L59: 
+L60:  L61: # Garden City, Nairobi | Studios, 1 & 2 Bed Apartments | From KES 25,000
+L62: 
+L63:  L64: 
+L65: Under Construction
+L66: 
+L67:  L68: 
+L69: # Ruaka | 1 Bed Penthouse, 1, 2 & 3 Bedroom Apartments | From 6M
+L70: 
+L71:  L72: 
+L73: Off-plan
+L74: 
+L75:  L76: # Garden City | Mini 1, 1, 2 & 3 Bed Apartments | From KES 6.02M
+L77: 
+L78:  L79: 
+L80: Recently Launched
+L81: 
+L82:  L83: 
+L84: # Tatu City | 3 & 4 Bedroom Duplex, Triplex & Townhouses | From 26.125M
+L85: 
+L86:  L87: ## About Mi Vida
+L88: 
+L89: We deliver on time, every time
+L90: 
+L91: Mi Vida Homes is a Kenyan residential real estate developer known for delivering investment-grade developments within large, master-planned urban ecosystems.
+L92: 
+L93: With a disciplined focus on location, execution certainty, and long-term asset performance, the company has established itself as a trusted player through projects within the Garden City ecosystem, including Garden City Residences, Amaiya Garden City, and 237 Garden City.
+L94: Building on this foundation, Mi Vida introduced Keza by Mi Vida — comprising Keza Laika and Keza Riruta — to meet demand for well-located, efficiently priced apartments with strong rental and resale potential, reinforcing its commitment to disciplined delivery and long-term value creation.
+L95: 
+L96:  L97: ## Completed
+L98: 
+L99:  L100: 
+L101:  L102: 
+L103:  L104: 
+L105:  L106: 
+L107:  L108: ## Under Construction
+L109: 
+L110:  L111: 
+L112:  L113: 
+L114:  L115: 
+L116:  L117: 
+L118:  L119: ## Recently Launched
+L120: 
+L121:  L122: 
+L123:  L124: 
+L125: ## Why Mi Vida
+L126: 
+L127: Elevating Quality of Life and Investment Value
+L128: 
+L129:  L130: 
+L131: #### Proven track record
+L132: 
+L133: Over a decade of delivery across Nairobi’s urban residential market
+L134: 
+L135:  L136: 
+L137: #### On-time delivery
+L138: 
+L139: Consistent, verifiable delivery across all completed projects
+L140: 
+L141:  L142: #### Trusted construction quality
+L143: 
+L144: High-quality builds with durable materials and design integrity
+L145: 
+L146:  L147: 
+L148: #### Green certifications
+L149: 
+L150: LEED & IFC-EDGE certified — sustainability built into every project
+L151: 
+L152:  L153: 
+L154: #### Investment returns
+L155: 
+L156: Up to 18% dollar-denominated rental yields; capital appreciation across portfolio
+L157: 
+L158:  L159: #### Property management
+L160: 
+L161: Full asset and property management services available for stress-free investing
+L162: 
+L163:  L164: 
+L165: #### Community design
+L166: 
+L167: Integrated live-work-play ecosystems with retail, wellness, and recreation
+L168: 
+L169:  L170: 
+L171: #### Institutional backing
+L172: 
+L173: Institutional investors active in KEZA Riruta Phase 2 (HIS, Utabibu Investment, local pension fund)
+L174: 
+L175:  L176: ### Mi Vida All in One Digital Experience
+L177: 
+L178: Homeowners and Tenants can fully manage their property anywhere anytime via Mi Vida App or Mi Vida Client Portal.
+L179: 
+L180:   * Construction updates
+L181:   * Maintenance requests
+L182:   * Ownership updates
+L183:   * Amenities booking
+L184:   * Online payments
+L185: 
+L186: #### Download the Mi vida App
+L187: 
+L188:  L189: 
+L190: ### Mi Club
+L191: 
+L192: #### The Club That Gives You More!
+L193: 
+L194: Become a member and discover a world of benefits and rewards. Earn | Redeem | Enjoy
+L195: 
+L196:  L197: 
+L198: ### Get in touch
+L199: #### Contact
+L200: 
+L201: Call: +254 722 123 000
+L202: Mobile: +254 722 200 032
+L203: Email:info@mividahomes.com
+L204: Jobs:hr@mividahomes.com
+L205: 
+L206: #### Mi Vida Corporate Office
+L207: 
+L208: 1st Floor Business Park, Garden City
+L209: Off Exit 7 Thika Superhighway
+L210: P.O Box 43233-00100 Nairobi, Kenya
+L211: 
+L212: #### KEZA Laika
+L213: 
+L214: Off, Banana Raini, Ruaka
+L215: P.O Box 43233-00100 Nairobi, Kenya
+L216: 
+L217: #### KEZA Riruta showroom
+L218: 
+L219: 100m off the Ndwaru
+L220: Naivasha Road Junction, Riruta
+L221: P.O Box 43233-00100, Nairobi
+L222: 
+L223: #### Connect
+L224: #### Developments
+L225: 
+L226:   *  L227:   *  L228:   *  L229:   *  L230:   *  L231: 
+L232: #### Be Our Guest
+L233: 
+L234:   *  L235:   *  L236:   *  L237:   *  L238: 
+L239: #### Get The Mi Vida App
+L240: 
+L241: #### Careers
+L242: 
+L243:   *  L244: 
+L245:   *  L246:   *  L247:   *  L248:   *  L249:   *  L250: 
+L251: © 2026 Mi Vida

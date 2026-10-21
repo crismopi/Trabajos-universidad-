@@ -1,0 +1,379 @@
+FUENTE 39: Zamara, CAHF y FSD Kenya, informe 2026, pp. 25–34
+URL original: https://www.fsdkenya.org/wp-content/uploads/2026/05/Affordable-housing-access-for-Kenyas-formal-workforce-What-pension-data-reveals-and-what-can-work.pdf
+Fecha de captura: 2026-10-21
+Tipo: texto extraído por navegador; puede ser parcial. No es el HTML/PDF original.
+Estado: texto_recuperado
+
+ (https://www.fsdkenya.org/wp-content/uploads/2026/05/Affordable-housing-access-for-Kenyas-formal-workforce-What-pension-data-reveals-and-what-can-work.pdf)
+  Crawled: last month; Content type: application/pdf; Number of pages: 109; Source: open({"ref_id":"https://www.fsdkenya.org/wp-content/uploads/2026/05/Affordable-housing-access-for-Kenyas-formal-workforce-What-pension-data-reveals-and-what-can-work.pdf","lineno":null}); Total lines: 4366
+L0@P0: Affordable housing access for
+L1@P0: Kenya’s formal workforce: What
+L2@P0: pension data reveals and what can
+L3@P0-1: workAffordable housing access for Kenya’s formal workforce:
+L4@P1: What pension data reveals and what can work
+L5@P1: 2
+L6@P1: Table of Contents
+L7@P1: ACRONYMS AND ABBREVIATIONS ........................................................................................... 5
+L8@P1: OVERVIEW OF COLLABORATING PARTNERS ...................................Error! Bookmark not defined.
+L9@P1: About Zamara................................................................................................................... 6
+L10@P1: About FSD Kenya............................................................................................................... 6
+L11@P1: About CAHF...................................................................................................................... 6
+L12@P1: 1. EXECUTIVE SUMMARY.................................................................................................... 7
+L13@P1: 2. INTRODUCTION............................................................................................................. 9
+L14@P1: 3. STUDY SCOPE AND OBJECTIVES...................................................................................... 11
+L15@P1: 3.1. Problem Statement.................................................................................................. 11
+L16@P1: 3.2. Study Objectives ..................................................................................................... 11
+L17@P1: 3.3. Scope and Coverage................................................................................................. 11
+L18@P1: 4. STUDY DATA AND METHODOLOGY................................................................................. 12
+L19@P1: 4.1. Analytical Framework .............................................................................................. 12
+L20@P1: 4.2. Data Sources and Coverage....................................................................................... 12
+L21@P1: 4.3. Phase 1: Pension Data Analysis and Affordability Modelling........................................... 12
+L22@P1: 4.4. Phase 2: Household Survey and Behavioural Insights.................................................... 13
+L23@P1: 4.5. Pension-Backed Lending Assessment.......................................................................... 13
+L24@P1: 4.6. Pension Capital for Housing Supply ............................................................................ 13
+L25@P1: 4.7. Sensitivity Testing and Risk Management.................................................................... 15
+L26@P1: 4.8. Key Assumptions and Limitations............................................................................... 15
+L27@P1: 4.9. Methodological Implication ...................................................................................... 16
+L28@P1: 5. KENYA’S HOUSING REALITY: AFFORDABILITY, QUALITY & ACCESS ....................................... 17
+L29@P1: 5.1. Population Growth and Urbanisation Pressure............................................................. 17
+L30@P1: 5.2. Urban Housing Reality: Rental Dominance and Overcrowding ........................................ 18
+L31@P1: 5.3. Rural Housing Reality: Ownership without Adequacy .................................................... 18
+L32@P1: 5.4. A Persistent National Housing Deficit ......................................................................... 19
+L33@P1: 5.5. Housing Adequacy: Structural Quality and the Consolidated Housing Quality Index CHQI... 19
+L34@P1: 5.6. Housing Adequacy: Access to Services and Neighbourhood Infrastructure ....................... 20
+L35@P1: 5.7. Housing Policy and Housing Finance Landscape (AHP, Levy, KMRC)................................. 22
+L36@P1: 6. DISSECTING AFFORDABILITY, DEMAND PATTERNS, AND SUPPLY-SIDE LIMITATIONS .............. 25
+L37@P1: 6.1. Demographics Analysis............................................................................................. 25
+L38@P1: 6.2. Phase 1: Pension Data Analysis and Affordability Modelling........................................... 25
+L39@P1-2: 6.3. Phase 2 Household Survey: Housing Status, Preferences, and Lived Experience ................ 30Affordable housing access for Kenya’s formal workforce:
+L40@P2: What pension data reveals and what can work
+L41@P2: 3
+L42@P2: 6.4. Using Pension Collateral to Improve Housing Affordability: Numeric Examples and
+L43@P2: Illustrations........................................................................................................................ 46
+L44@P2: 7. OVERVIEW OF KENYA’S PENSION SYSTEM ....................................................................... 53
+L45@P2: 7.1 NSSF Tier I and Tier II Reforms: Implications for Pensions and Housing Accessibility in Kenya .... 54
+L46@P2: 7.2 ZEP-RE CRI vs Pension Collateral: Risk Tools, Not Affordability Solutions ............................. 55
+L47@P2: 7.3 Asset Allocation Patterns in Kenyan Pension Funds............................................................. 55
+L48@P2: 7.4 Kenya’s Pension Capital Potential..................................................................................... 58
+L49@P2: 7.5 What Pension Funds Can and Cannot Do Under the Current Framework................................ 58
+L50@P2: 7.6 Why Pension-Backed Housing Tools Have Had Limited Impact............................................. 59
+L51@P2: 7.7 Why the 2009 Pension-Backed Lending Provision Is Underutilised ........................................ 59
+L52@P2: 8. GLOBAL LESSONS – WHAT HAS WORKED ELSEWHERE ....................................................... 60
+L53@P2: 8.1. Global Overview: Pension-Linked Housing Finance Models (Demand-Side) ...................... 61
+L54@P2: 8.2. The Role of Pension Assets in Affordable Housing Supply (Supply-Side) ........................... 63
+L55@P2: 8.3. Cross-Country Lessons: What Works Well, and What Does Not ...................................... 63
+L56@P2: 8.4. Implications for Kenya.............................................................................................. 65
+L57@P2: 8.5. Global Case Studies: Pension Systems Driving Mortgage and Housing Solutions................ 66
+L58@P2: 8.5.1. Singapore: A Pension–Housing System Designed for Scale and Affordability ................. 66
+L59@P2: 8.5.2. Malaysia: EPF as a Mass-Market Housing Enabler Through Structured Withdrawals ...... 69
+L60@P2: 8.5.3. Canada: Tax-Sheltered Retirement Savings as a Downpayment Engine and Pension Capital
+L61@P2: for Housing Supply.............................................................................................................. 73
+L62@P2: 8.5.4. South Africa: A Mature Pension–Housing Linkage Model (Pension-Backed Lending +
+L63@P2: Institutional Affordable Housing Investment).......................................................................... 78
+L64@P2: 8.5.5. Namibia: Pension-Backed Housing Loans Anchored by a Dominant Public Pension Fund
+L65@P2: (GIPF) 83
+L66@P2: 8.5.6. Ghana: Pension-Backed Housing Loans and Institutional Investment to Support FormalSector Homeownership ....................................................................................................... 87
+L67@P2: 8.6. What Works Well / What Does Not Work Well ............................................................ 89
+L68@P2: 9. KEY FINDINGS AND RECOMMENDATIONS........................................................................ 93
+L69@P2: 9.1. Rationale and Context.............................................................................................. 93
+L70@P2: 9.2. Opportunity: Rethinking Pension-Backed Housing Product Design .................................. 93
+L71@P2: 9.3. Evidence from Zamara Members: Latent Demand, Constrained Pathways ....................... 94
+L72@P2: 9.4. Demand-Side Mechanism: Incremental Pension-Secured Housing Finance....................... 94
+L73@P2: 9.5. Supply-Side Mechanism: Pension Capital in Housing Delivery Vehicles ............................ 95
+L74@P2: 9.6. Regulatory Practicality Considerations........................................................................ 95
+L75@P2: 9.7. Strategic Implications............................................................................................... 95
+L76@P2: 9.8. Leveraging Pension Funds for a Triple Impact on Affordable Housing .............................. 96
+L77@P2-3: 9.9. Balancing Housing Access and Retirement Adequacy .................................................... 96Affordable housing access for Kenya’s formal workforce:
+L78@P3: What pension data reveals and what can work
+L79@P3: 4
+L80@P3: 9.10. Implications from the Zamara Pension Book ............................................................ 96
+L81@P3: 9.11. Design Options and Policy-Consistent Pathways for Kenya............................................. 97
+L82@P3: 9.12. Strategic Opportunities and Policy Options for Kenya ................................................... 99
+L83@P3: 9.13. Packaging the Options: A Practical Two-Track Pathway ............................................... 100
+L84@P3: 10. CONCLUSIONS & WAY FORWARD ............................................................................ 102
+L85@P3: 11. REFERENCES ......................................................................................................... 105
+L86@P3: 12. ANNEX: INTEGRATED PENSION-LINKED HOUSING FRAMEWORK................................... 107
+L87@P3: 12.1. Residential Housing Market Survey Dashboard .......................................................... 107
+L88@P3: 12.2. NSSF Tier Structure and Implications for Housing Access............................................. 107
+L89@P3: 12.3. ZEP-RE Collateral Replacement Indemnity (CRI) ......................................................... 107
+L90@P3: 12.4. Numerical Illustration of Affordability and Pension Leverage ....................................... 107
+L91@P3: 12.5. Integrated Housing Finance Pathway........................................................................ 108
+L92@P3: 12.6. Strategic Areas of Importance ................................................................................. 108
+L93@P3-4: 12.7. Strategic Conclusion .............................................................................................. 108Affordable housing access for Kenya’s formal workforce:
+L94@P4: What pension data reveals and what can work
+L95@P4: 5
+L96@P4: ACRONYMS AND ABBREVIATIONS
+L97@P4: AHP (Kenya) – Affordable Housing Programme
+L98@P4: CHQI (Kenya) – Consolidated Housing Quality Index
+L99@P4: FSD Kenya – Financial Sector Deepening Kenya
+L100@P4: KMRC (Kenya) – Kenya Mortgage Refinance Company
+L101@P4: KEPFIC (Kenya) – Kenya Pension Fund Investment Consortium
+L102@P4: KNBS (Kenya) – Kenya National Bureau of Statistics
+L103@P4: NSSF (Kenya) – National Social Security Fund
+L104@P4: RBA (Kenya) – Retirement Benefits Authority
+L105@P4: SACCOs (Kenya) – Savings and Credit Co-operative Societies
+L106@P4: CAHF (Africa) – Centre for Affordable Housing Finance in Africa
+L107@P4: DFI – Development Finance Institution
+L108@P4: SPV – Special Purpose Vehicle
+L109@P4: FSCA (South Africa) – Financial Sector Conduct Authority
+L110@P4: PIC (South Africa) – Public Investment Corporation
+L111@P4: GIPF (Namibia) – Government Institutions Pension Fund
+L112@P4: PBHLS (Namibia) – Pension-Backed Home Loan Scheme
+L113@P4: NPRA (Ghana) – National Pensions Regulatory Authority
+L114@P4: SSNIT (Ghana) – Social Security and National Insurance Trust
+L115@P4: CPF (Singapore) – Central Provident Fund
+L116@P4: HDB (Singapore) – Housing & Development Board
+L117@P4: EPF (Malaysia) – Employees Provident Fund
+L118@P4: FHSA (Canada) – First Home Savings Account
+L119@P4: HBP (Canada) – Home Buyers’ Plan
+L120@P4: RRSP (Canada) – Registered Retirement Savings Plan
+L121@P4: DSTI – Debt Service-to-Income Ratio
+L122@P4: DSR – Debt Service Ratio
+L123@P4: REITs – Real Estate Investment Trusts
+L124@P4-5: PBHL – Pension-Backed Home Loan Affordable housing access for Kenya’s formal workforce:
+L125@P5: What pension data reveals and what can work
+L126@P5: 6
+L127@P5: May 2026
+L128@P5: About Zamara
+L129@P5: Zamara Group Limited is a leading Kenyan headquartered financial services firm offering pensions administration,
+L130@P5: actuarial consulting, insurance broking and wealth management services across Africa and the Middle East. Founded
+L131@P5: in 1994, the company has grown from a specialised actuarial practice into a diversified provider with operations in
+L132@P5: multiple countries.
+L133@P5: Zamara is distinguished by its customer centric approach, digital innovation (such as its -eZamara portal) and
+L134@P5: recognised service excellence evidenced- by awards for reliability and brokerage leadership. With a robust footprint
+L135@P5: and a commitment to tailored solutions, Zamara supports both individuals and corporates in navigating financial
+L136@P5: complexities and building sustainable futures.
+L137@P5: About FSD Kenya
+L138@P5: Financial Sector Deepening Kenya (FSD Kenya) is an independent trust dedicated to the achievement of a financial
+L139@P5: system that delivers value for a green and inclusive digital economy while improving financial health and capability for
+L140@P5: women and micro and small enterprises (MSEs).
+L141@P5: FSD Kenya works closely with the public sector, the financial services industry, and other partners to develop financial
+L142@P5: solutions that better address the real-world challenges that low-income households, MSEs, and underserved groups
+L143@P5: such as women and youth face.
+L144@P5: Current FSD Kenya funders are UK International Development, the Swedish International Development Cooperation
+L145@P5: Agency (Sida), The International Fund for Agricultural Development (IFAD), and the Bill & Melinda Gates Foundation.
+L146@P5: About CAHF
+L147@P5: The Centre for Affordable Housing Finance in Africa (CAHF) is a leading independent thinktank and -market
+L148@P5: systems- facilitator dedicated to improving access to affordable housing finance across Africa.
+L149@P5: Established in 2014 and headquartered in South Africa, CAHF works continent-wide to generate market intelligence,
+L150@P5: support innovation in housing finance models, and build partnerships between public, private and development
+L151@P5: sectors.
+L152@P5: Through its annual Housing Finance in Africa Yearbook, cost‐benchmarking tools, and data sharing- initiatives, CAHF
+L153@P5: supports policymakers, developers, investors and practitioners in understanding and acting on the affordability
+L154@P5: challenge. In Kenya, CAHF collaborates with local institutions to map market constraints, cost drivers and financing
+L155@P5: gaps helping to shape policy, unlock investment and scale affordable housing delivery in support of inclusive, resilient
+L156@P5: urban growth.
+L157@P5: Except where otherwise noted, this work is licensed under CC BY-ND 4.0 . Quotation permitted. Contact FSD Kenya
+L158@P5: via communications@fsdkenya.org regarding derivatives requests.
+L159@P5: Every effort has been made to verify the accuracy of the information contained in this report. All information was
+L160@P5: believed to be correct as of May 2026. Nevertheless, FSD Kenya cannot accept responsibility for the consequences
+L161@P5-6: of its use for other purposes or in other contexts.Affordable housing access for Kenya’s formal workforce:
+L162@P6: What pension data reveals and what can work
+L163@P6: 7
+L164@P6: 1. EXECUTIVE SUMMARY
+L165@P6: Kenya’s affordable housing ambition is supported by strong policy momentum, a growing formal workforce, and
+L166@P6: an expanding pool of long-term domestic savings through pension schemes. Yet despite this enabling
+L167@P6: environment, homeownership remains out of reach for many formally employed households. This report
+L168@P6: examines the structural affordability gap that persists even among pension contributors and evaluates how
+L169@P6: Kenya’s pension system can support housing access in a manner that safeguards retirement security and remains
+L170@P6: consistent with existing policy and regulatory frameworks.
+L171@P6: The report finds that the core constraint is not housing demand, nor the availability of savings capital, but the
+L172@P6: mismatch between housing prices, financing structures, and real household income patterns. Analysis of
+L173@P6: affordability conditions shows that effective affordability is concentrated within a narrow price band, typically
+L174@P6: between KShs 1.7 million and KShs 3.4 million for many middle-income households, while much of formal
+L175@P6: housing supply remains priced above this range. Where supply does exist within this price band, it is largely
+L176@P6: limited to very small bedsits and studio units, which do not fit the actual household needs of most owneroccupiers, particularly families requiring multi-room housing and adequate living space. High deposit
+L177@P6: requirements, elevated interest rates, and rigid repayment terms further limit the ability of households to
+L178@P6: translate housing aspirations into bankable housing finance demand.
+L179@P6: As a result, rental housing continues to be more affordable and more responsive to household income realities.
+L180@P6: Rental payments typically require significantly lower upfront costs than homeownership, involve shorter-term
+L181@P6: commitments, and provide greater flexibility in managing income volatility, employment mobility, and changing
+L182@P6: household size. For many households, renting therefore remains the economically rational choice, reinforcing a
+L183@P6: structural disconnect between housing supply, financing mechanisms, and effective owner-occupier demand
+L184@P6: despite sustained demand for housing in general.
+L185@P6: Zamara pension member data reinforces this affordability challenge. While most members may be eligible to
+L186@P6: apply for housing loans based on formal employment status, affordability remains constrained by income levels
+L187@P6: and competing household priorities. A significant majority of members earn below KShs 150,000 per month, and
+L188@P6: many carry existing debt obligations that reduce their available debt-service capacity for housing finance. This
+L189@P6: affordability compression is reflected in low mortgage penetration even among formally employed contributors,
+L190@P6: and a strong preference for alternative pathways to homeownership. Rental housing therefore remains the
+L191@P6: primary tenure choice for many members, while alternative pathways such as incremental construction,
+L192@P6: cooperative housing arrangements, employer-supported schemes, and pension-linked financing provide more
+L193@P6: viable routes to ownership that better align with income progression and long-term savings behaviour.
+L194@P6: The report further confirms that incremental housing is not a secondary option, but the dominant and rational
+L195@P6: pathway to homeownership for most households. Many households prefer to build progressively, aligning
+L196@P6: housing investment decisions to irregular cash flows, lifecycle needs, and risk management concerns. Survey
+L197@P6: evidence highlights demand for smaller, staged financing tranches linked to construction milestones rather than
+L198@P6: large, one-time mortgage products. This behavioural reality creates a clear product design gap in Kenya’s housing
+L199@P6: finance market, where traditional mortgages are structured around fully completed units and fixed repayment
+L200@P6: schedules.
+L201@P6: Kenya’s pension system has substantial capacity, with total assets approaching KShs 2.5 trillion, and a regulatory
+L202@P6: framework that permits both demand-side and supply-side participation in housing. On the demand side, the
+L203@P6: Retirement Benefits (Mortgage Loans) Regulations, published in the Kenya Gazette on 12 June 2009 and
+L204@P6: commenced on the same date enable pension-backed loan guarantees through assignment of accrued benefits
+L205@P6: as collateral. On the supply side, pension schemes are permitted to invest in property, REITs, and
+L206@P6: infrastructure-related assets within prescribed investment limits. However, utilisation remains minimal due to
+L207@P6: limited awareness, operational complexity, lender risk appetite, and most critically, the underlying affordability
+L208@P6: mismatch between available housing stock and member income bands.
+L209@P6: Global experience demonstrates that pension-linked housing mechanisms can be effective, but only when system
+L210@P6: design is deliberate and aligned to household affordability and market supply. Successful models show that
+L211@P6: pensions are most effective when used to reduce lender risk and unlock financing, rather than substituting
+L212@P6-7: household income or enabling premature depletion of retirement savings. They also demonstrate that housing Affordable housing access for Kenya’s formal workforce:
+L213@P7: What pension data reveals and what can work
+L214@P7: 8
+L215@P7: supply must be aligned to real affordability bands, and that financing products must reflect income realities,
+L216@P7: including flexible structures that support incremental construction.
+L217@P7: The report concludes that pensions cannot fix housing affordability on their own and should not be used to
+L218@P7: compensate for structurally unaffordable housing markets. Instead, pensions can play a catalytic role by:
+L219@P7: (i) enabling credit enhancement structures that reduce borrowing costs,
+L220@P7: (ii) supporting long-term lending through institutions such as KMRC,
+L221@P7: (iii) financing affordable housing supply and enabling infrastructure through investable vehicles,
+L222@P7: and
+L223@P7: (iv) Strengthening policy alignment through improved data systems, credible housing project
+L224@P7: pipelines, and stronger institutional coordination remains essential. However, given practical
+L225@P7: constraints, Kenya could adopt a more phased and structured approach similar to Singapore
+L226@P7: and Malaysia, where tightly regulated, conditional pension withdrawals are allowed specifically
+L227@P7: for primary home ownership under strict safeguards. Such a model would prioritise owneroccupation, limit exposure to retirement risk, and ensure repayment mechanisms are clear and
+L228@P7: enforceable.
+L229@P7: Key challenges must also be acknowledged: rising household debt burdens, the risk of pension
+L230@P7: depletion before retirement, limited mortgage market depth, informal employment
+L231@P7: constraints, and weak credit underwriting standards. Without careful design, pension-backed
+L232@P7: housing access could unintentionally increase over-indebtedness and undermine long-term
+L233@P7: retirement security.
+L234@P7: With strong safeguards, clear eligibility criteria, and disciplined risk management, Kenya can
+L235@P7: better align housing access with retirement protection so that home ownership supports,
+L236@P7-8: rather than compromises, financial security in old age.Affordable housing access for Kenya’s formal workforce:
+L237@P8: What pension data reveals and what can work
+L238@P8: 9
+L239@P8: 2. INTRODUCTION
+L240@P8: Zamara Group Limited, in partnership with the Centre for Affordable Housing Finance in Africa (CAHF) and
+L241@P8: Financial Sector Deepening (FSD) Kenya, undertook this study to address a critical and persistent challenge in
+L242@P8: Kenya’s housing market: why formally employed households with stable incomes and consistent pension
+L243@P8: contributions remain largely excluded from homeownership.
+L244@P8: Conventional housing policy and finance narratives often assume that formal employment equates to housing
+L245@P8: affordability. However, emerging evidence suggests that this assumption no longer holds. Despite regular
+L246@P8: incomes and disciplined long-term saving through pension schemes, many formally employed Kenyans are
+L247@P8: unable to access housing finance that aligns with their income realities, savings patterns, existing debt
+L248@P8: obligations, and housing pathways. High levels of consumer and short-term credit further compress disposable
+L249@P8: income and debt-service capacity, weakening the link between formal financial inclusion and effective housing
+L250@P8: finance access. This disconnect has resulted in a growing cohort of households that are financially included in
+L251@P8: theory but effectively excluded from homeownership in practice.
+L252@P8: This study explores whether Kenya’s pension system, by virtue of its scale, structure, and long-term orientation,
+L253@P8: can play a complementary role in addressing this gap. Specifically, it examines whether pension savings can
+L254@P8: support housing affordability in ways that expand access without compromising retirement security, rather than
+L255@P8: attempting to replace traditional housing finance mechanisms.
+L256@P8: The analysis draws on demand-side evidence from nearly 150,000 active pension scheme members under
+L257@P8: Zamara’s administration. This dataset enables a detailed understanding of income stability, savings behaviour,
+L258@P8: housing aspirations, and affordability constraints among formally employed households, an often-overlooked
+L259@P8: segment that sits between social housing eligibility and conventional mortgage affordability.
+L260@P8: The study is anchored in the recognition that affordability, rather than willingness to save, is the binding
+L261@P8: constraint for most households. While pension participation demonstrates strong financial discipline, existing
+L262@P8: housing finance products remain poorly aligned with household income levels, prevailing debt obligations, and
+L263@P8: the incremental ways in which most Kenyans acquire or build homes over time. As a result, regulatory provisions
+L264@P8: that permit pension-linked housing finance have not translated into meaningful uptake or impact at scale
+L265@P8: Addressing this gap requires more than product-level adjustments; it calls for ecosystem-level reform. On the
+L266@P8: supply side, the persistent mismatch between income bands and available housing stock reflects structural
+L267@P8: constraints — high land costs in urban areas, infrastructure deficits that inflate development costs, lengthy
+L268@P8: approval processes, taxation layers, and limited access to patient development capital. Without coordinated
+L269@P8: interventions to reduce the cost of serviced land, streamline approvals, incentivize affordable housing
+L270@P8: construction, and deepen capital markets for long-term housing finance, affordability will remain elusive
+L271@P8: regardless of pension participation levels.
+L272@P8: The Kenya Mortgage Refinance Company (KMRC) product design further illustrates the structural tension. While
+L273@P8: KMRC has expanded access to longer-tenor funding for primary lenders, its Build Product caps the maximum
+L274@P8: loan at KShs 10.5 million and the maximum property value (inclusive of the loan) at KShs 15 million. In practice,
+L275@P8: these thresholds exclude a significant segment of formally employed households in peri-urban and urban areas
+L276@P8: where land values alone often approach or exceed these limits. For many middle-income earners, especially
+L277@P8: those who already own land acquired years earlier at appreciating values, the combined land and construction
+L278@P8: cost surpasses the eligibility ceiling effectively disqualifying them despite stable incomes and pension savings.
+L279@P8: Moreover, housing acquisition in Kenya is rarely a single-transaction mortgage event. It is typically incremental
+L280@P8: land purchase first, followed by phased construction financed through savings, SACCO loans, informal credit, or
+L281@P8: employer advances. A product structure anchored on a capped, fully underwritten mortgage model does not
+L282@P8: fully align with this pathway. The result is a paradox: households that are financially disciplined, pension-active,
+L283@P8: and formally employed remain constrained not by willingness or even by total lifetime earning potential, but by
+L284@P8: rigid affordability metrics and product thresholds that fail to reflect market land values and incremental building
+L285@P8: realities.
+L286@P8: Closing this gap will require coordinated policy alignment across regulators, lenders, developers, pension
+L287@P8: trustees, and infrastructure agencies — including re-examining loan caps in relation to market dynamics,
+L288@P8: incentivizing lower-cost housing typologies, promoting serviced land development, expanding blended finance
+L289@P8-9: models, and designing phased or hybrid mortgage products that better reflect how Kenyans actually build. Affordable housing access for Kenya’s formal workforce:
+L290@P9: What pension data reveals and what can work
+L291@P9: 10
+L292@P9: Without such ecosystem-level recalibration, pension-linked housing finance will remain technically feasible but
+L293@P9: practically inaccessible for the majority it is intended to serve.
+L294@P9: The central question addressed by this report is therefore not whether pensions should replace existing housing
+L295@P9: finance models, but whether they can be deliberately integrated into Kenya’s housing ecosystem to expand
+L296@P9: access, improve affordability, and preserve long-term retirement outcomes. International experience indicates
+L297@P9: that such alignment is achievable where pension systems, housing policy, and financial product design are
+L298@P9: coordinated around verified household realities.
+L299@P9: To answer this question, the study combines pension data analysis, housing affordability modelling, and
+L300@P9: behavioural insights to identify feasible affordability bands, assess member demand, and explore institutional
+L301@P9: pathways for scaling pension-backed housing solutions. The findings are intended to inform policymakers,
+L302@P9: regulators, pension trustees, and financial institutions on how Kenya’s pension system can be positioned as an
+L303@P9-10: effective component of the national housing response, bridging the gap between long-term savings and longterm shelter.Affordable housing access for Kenya’s formal workforce:
+L304@P10: What pension data reveals and what can work
+L305@P10: 11
+L306@P10: 3. STUDY SCOPE AND OBJECTIVES
+L307@P10: 3.1. Problem Statement
+L308@P10: Kenya’s affordable housing challenge persists despite strong household demand, ongoing policy interventions,
+L309@P10: and rising pools of long-term savings through pension systems. While formal-sector workers contribute
+L310@P10: consistently to retirement schemes, conventional housing finance products, particularly mortgage loans, remain
+L311@P10: inaccessible to most households due to deposit requirements, loan pricing, repayment constraints, and the
+L312@P10: misalignment between housing supply prices and effective household affordability. For many households, high
+L313@P10: debt-to-income ratios driven by personal loans, SACCO facilities, mobile credit, and other short-term borrowing
+L314@P10: further compress mortgage eligibility, even where incomes are stable and pension savings are consistent.
+L315@P10: Rental housing continues to be more attainable and affordable as a tenure for most households driven by
+L316@P10: structural differences in supply requirements, financing and affordability. For example, building built for rental
+L317@P10: by the owner face more regulatory flexibility (less stringent parking requirements, fire and infrastructure
+L318@P10: standards compared to formally financed for sale developments) and lower financing costs as financed by the
+L319@P10: owner’s equity.
+L320@P10: This study examines whether, and how, pension savings and pension capital can play a practical role in expanding
+L321@P10: access to affordable housing in Kenya without undermining retirement income security.
+L322@P10: 3.2. Study Objectives
+L323@P10: The objectives of the study are to:
+L324@P10: 1. Quantify housing affordability among formally employed pension members using observed contribution
+L325@P10: and pension balance data rather than proxy assumptions.
+L326@P10: 2. Assess feasibility of housing finance options, including long-term mortgages and incremental housing
+L327@P10: finance pathways, under realistic prudential constraints.
+L328@P10: 3. Evaluate pension-backed housing lending mechanisms within Kenya’s current legal and regulatory
+L329@P10: framework.
+L330@P10: 4. Examine the potential role of pension capital on housing supply, including regulated investment vehicles
+L331@P10: and blended finance structures that align with pension fiduciary requirements.
+L332@P10: 5. Generate evidence for policy formulation and product development by integrating quantitative
+L333@P10: affordability modelling with behavioural insights from household survey data.
+L334@P10: 3.3. Scope and Coverage
+L335@P10: The study focuses on formally employed pension members and the affordability dynamics affecting this segment,
+L336@P10: which constitutes the core base of contributory retirement savings in Kenya. The analysis covers:
+L337@P10: • Demand-side affordability and household behaviour, including ability to service housing-related debt
+L338@P10: and preferences for housing acquisition pathways; and
+L339@P10: • Supply-side and market-enabling channels, through which pension capital may support affordable
+L340@P10: housing delivery indirectly via regulated investment instruments.
+L341@P10: The analysis does not extend to informal sector households, where pension participation and income patterns
+L342@P10: differ significantly, and where housing finance solutions require separate policy and market design
+L343@P10-11: considerations.Affordable housing access for Kenya’s formal workforce:
+L344@P11: What pension data reveals and what can work
+L345@P11: 12
+L346@P11: 4. STUDY DATA AND METHODOLOGY
+L347@P11: 4.1. Analytical Framework
+L348@P11: This study applies a mixed-method, evidence-based analytical framework to examine how pension savings can
+L349@P11: be leveraged to expand access to affordable housing in Kenya. The approach combines quantitative pension
+L350@P11: member data analysis, household surveys, and policy and market reviews to ensure that findings are grounded
+L351@P11: in observed behaviour, analytically robust, and relevant for both policy design and financial product
+L352@P11: development.
+L353@P11: Unlike studies that rely on averages or assumed affordability proxies, this research is based on actual pension
+L354@P11: member data, allowing for a realistic assessment of housing affordability among formally employed Kenyans.
+L355@P11: 4.2. Data Sources and Coverage
+L356@P11: The primary dataset comprises over 150,000 anonymised pension scheme members administered by Zamara
+L357@P11: Group Limited. The data captured includes:
+L358@P11: • Pension contribution histories and accumulated balances, providing insight into long-term savings
+L359@P11: behaviour.
+L360@P11: • Age profiles and employment characteristics, enabling assessment of income stability and retirement
+L361@P11: horizons; and
+L362@P11: • Contribution consistency, as a proxy for financial discipline and capacity to service regular financial
+L363@P11: obligations.
+L364@P11: To contextualise and validate the pension data, the study incorporated secondary data sources, including:
+L365@P11: • Kenya National Bureau of Statistics (KNBS) demographic and income distribution data
+L366@P11: (https://www.knbs.or.ke);
+L367@P11: • Central Bank of Kenya (CBK) mortgage market surveys to benchmark prevailing lending conditions
+L368@P11: (https://www.centralbank.go.ke/mortgages/);
+L369@P11: • World Bank housing finance diagnostics
+L370@P11: (https://www.worldbank.org/en/topic/financialsector/brief/housing-finance); and

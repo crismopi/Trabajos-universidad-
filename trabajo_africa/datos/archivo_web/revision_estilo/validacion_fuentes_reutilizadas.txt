@@ -1,0 +1,314 @@
+World Bank Document (https://documents1.worldbank.org/curated/en/531731600090213005/pdf/kenya-systematic-country-diagnostic.pdf)
+citeturn88view0 [wordlim: 200] Crawled: 2 weeks ago; Content type: application/pdf; Number of pages: 104; Source: find({"ref_id":"https://documents1.worldbank.org/curated/en/531731600090213005/pdf/kenya-systematic-country-diagnostic.pdf","pattern":"M-Pesa"}); Total lines: 8074
+L663@P13: to die before the age of 5 as a child born in the Central region (82 deaths per 1,000 live births versus 42).
+L664@P13: High costs limit access to health care for the poor and
+L665@P13: perpetuate cycles of poverty. More than one-quarter
+L666@P13: of total health care expenditures comes in the form of
+L667@P13: out-of-pocket payments by households, and 82 percent of women and 79 percent of men do not have any
+L668@P13: health insurance. Primary NERs (Net Enrollment Rates)
+L669@P13: vary widely, ranging from 42 percent in Garissa County
+L670@P13: to 96.8 percent in Nyeri County. NER gaps between
+L671@P13: income quintiles are also significant, and the net secondary enrollment rate among households in the top
+L672@P13: income quintile (56 percent) is almost twice the rate
+L673@P13: of the bottom quintile. Economically disadvantaged
+L674@P13: counties also lack resources and consequently have
+L675@P13: worse learning outcomes. In urban areas, 86.7 percent of households have access to an improved water
+L676@P13: source, whereas only 61.8 percent of rural households
+L677@P13: do. This gap is even larger for sanitation services, with
+L678@P13: 50.8 percent of rural households using unimproved
+L679@P13: sanitation, compared with 13.2 percent in urban areas.
+L680@P13: These indicators are weaker than would be expected
+L681@P13: given Kenya’s status as a lower-middle-income country.
+L682@P13: Poverty disproportionately affects Kenyan women who have less
+L683@P13: access to economic opportunities. Women are less likely to
+L684@P13: use mobile Internet (with a gender gap of 39 percent) and less likely to use the mobile phone-based
+L685@P13: money transfer service M-Pesa (16 percent gender
+L686@P13: gap), which is a significant constraint on women’s
+L687@P13: economic opportunities and productivity. Social factors stemming from traditional gender roles and attitudes about the advancement of women in the public
+L688@P13: sphere limit the participation of women in politics and
+L689@P13-14: community leadership. Large gender gaps are evident SYSTEMATIC
+L690@P14: COUNTRY
+L691@P14: DIAGNOSTIC
+L692@P14: KENYA
+L693@P14: 15
+L694@P14: EXECUTIVE
+L695@P14: SUMMARY in business profits, driven primarily by sectoral segregation. Early childbearing is also a significant challenge, with implications for maternal mortality and
+L696@P14: complications during childbirth. Nearly one-quarter of
+L697@P14: women in Kenya give birth by age 18 and nearly half
+L698@P14: by age 20. The prevalence of gender-based violence
+L699@P14: also presents a significant and persistent development
+L700@P14: challenge.
+L701@P14: Creating opportunities for youth will be critical for ensuring
+L702@P14: shared prosperity. Approximately half of Kenya’s population is younger than 18, and 9 million individuals are
+L703@P14: expected to enter the labor force between 2015 and
+L704@P14: 2025. To absorb this “youth bulge,” Kenya needs to create an average of 900,000 jobs every year, but it has
+L705@P14: consistently failed to keep pace. Youth unemployment
+L706@P14: has decreased significantly over the past 10 years but
+L707@P14: still remains much higher than for the total workforce.
+L708@P14: For instance, in Nairobi, 18 percent of youth are unemployed, compared with 10 percent of the total working
+L709@P14: age population. Youth are also more likely to work in
+L710@P14: sectors and occupations with lower productivity and
+L711@P14: lower earnings. In urban Kenya, almost 80 percent of
+L712@P14: employed people aged 15 to 24 have an informal job,
+L713@P14: versus 70 percent for the rest of the population.
+L714@P14: This Systematic Country Diagnostic identifies
+L715@P14: three critical pathways that can help Kenya
+L716@P14: reduce poverty and boost shared prosperity.
+L717@P14: The analysis in this SCD points to three critical pathways: (1) boosting productivity and job creation, (2) reducing inequality of opportunities through advancing human capital, and (3) improving
+L718@P14: governance for service delivery. No single pathway targets a
+L719@P14: specific constraint or category of constraints, but each
+L720@P14: one instead addresses a range of binding conditions
+L721@P14: and sustainability concerns. Within each of the three
+L722@P14: pathways can be identified specific high-impact interventions in both the public and the private spheres that
+L723@P14: will help Kenya move toward achieving the twin goals.
+L724@P14: The first identified pathway is Boosting
+L725@P14: Productivity and Job Creation.
+L726@P14: Productivity and structural reforms are needed across a range of
+L727@P14: sectors to encourage the dynamism of the private sector, which is
+L728@P14: fundamental to economic growth and job creation. The government needs to address core structural obstacles to
+L729@P14: economic growth such as infrastructure deficiencies,
+L730@P14: skill shortages, and supply chain inefficiencies, as
+L731@P14: well as cross-cutting constraints such as the lack of an
+L732@P14: enabling environment, insufficient competition, and
+L733@P14: informality. Greater productivity in private sector jobs
+L734@P14: will also be essential for economic growth and poverty
+L735@P14: alleviation. To guide the discussion on investment and
+L736@P14: job creation, the framework of the Special Theme on
+L737@P14: Jobs and Economic Transformation (JET) of the 19th
+L738@P14: International Development Agency replenishment
+L739@P14: is used as a sub-framework within the SCD analytical
+L740@P14: methodology. The JET framework rests on two pillars:
+L741@P14: the need to catalyze private investment and the creation of more productive workers and entrepreneurs.
+L742@P14: Macroeconomic stability is essential for creating an enabling environment to boost private investment. As noted above, the
+L743@P14: biggest threat is from a burgeoning fiscal challenge.
+L744@P14: Fiscal consolidation is important not only because it
+L4364@P56: DRIVERS OF
+L4365@P56: INCLUSIVENESS
+L4366@P56: IN KENYA
+L4367@P56: attainment and long-term productivity; 29.9 percent
+L4368@P56: of children in Kenya are moderately stunted, with
+L4369@P56: stunting rates ranging widely between counties, from
+L4370@P56: 8.9 percent in Garissa to 47.6 percent in Mandera.106
+L4371@P56: Where proper sanitation is lacking, women and girls are
+L4372@P56: often more at risk of waterborne disease, because they
+L4373@P56: have a greater burden of domestic work and greater
+L4374@P56: responsibilities in caring for the sick. In addition, inadequate access to water and sanitation in schools affects
+L4375@P56: education outcomes, especially for girls. Inadequate
+L4376@P56: water supply and sanitation thus has lasting effects on
+L4377@P56: human capital, and disproportionally on the poor.
+L4378@P56: 3.4 Gender and inclusion
+L4379@P56: Poverty disproportionately affects Kenyan women. As in other
+L4380@P56: African countries, Kenyan women aged 25 to 60 are
+L4381@P56: more likely to live in poor households than men, with
+L4382@P56: the gap reaching almost 10 percentage points for
+L4383@P56: those aged 30 to 34.107 The poverty gap is particularly striking between men and women who have lost
+L4384@P56: their spouses—38 percent for widows compared with
+L4385@P56: 25 percent for widowers. Although mobile phone penetration is high, women are less likely to use mobile
+L4386@P56: Internet (with a gender gap of 39 percent) and less
+L4387@P56: likely to use the mobile phone-based money transfer
+L4388@P56: service M-Pesa (16 percent gender gap), which is a significant constraint on women’s economic opportunities and productivity.108
+L4389@P56: Social factors stemming from traditional gender roles and attitudes about advancement of women in the public sphere limit
+L4390@P56: the participation of women in politics and community leadership.
+L4391@P56: Large gender gaps are evident in business profits,
+L4392@P56: driven primarily by sectoral segregation. For example,
+L4393@P56: women with little or no education have high earnings
+L4394@P56: in the construction sector, but they account for a tiny
+L4395@P56: share of the sector.109 Research on “crossover” female
+L4396@P56: entrepreneurs working in these more-profitable,
+L4397@P56: male-dominated sectors suggests that women’s intersectoral mobility and financial returns can be increased
+L4398@P56: through exposure to these trades through social network role models.110 In addition to these observed
+L4399@P56: social inequalities, gender differences remain codified
+L4400@P56: in law, with the Law of Succession Act explicitly distinguishing male from female surviving spouses.
+L4401@P56: 106 Kenya National Bureau of Statistics (2018).
+L4402@P56: 107 Pape and Mejia-Mantilla (2018).
+L4403@P56: 108 Connected Women (2019).
+L4404@P56: 109 Pape and Mejia-Mantilla (2018).
+L4405@P56: 110 Alibhai et al. (2017).
+L4406@P56: 111 Government of Kenya (2015).
+L4407@P56: 112 Ibid.
+L4408@P56: 113 World Bank (2018).
+L4409@P56: 114 Yakubu and Salisu (2018).
+L4410@P56: 115 Pape and Mejia-Mantilla (2018).
+L4411@P56: Women in Kenya face significant reproductive health risks. Kenya’s
+L4412@P56: maternal mortality ratio has declined to 362 deaths
+L4413@P56: per 100,000 live births,111 still very high but below
+L4414@P56: the Sub-Saharan Africa average of 547 per 100,000.
+L4415@P56: Kenyan women face an extremely high (1 in 42) lifetime risk of dying from complications from pregnancy
+L4416@P56: or childbirth. Although total fertility has declined
+L4417@P56: nationally from 4.9 births to 3.9 births per woman, in
+L4418@P56: some regions, it can be much higher—for example in
+L4419@P56: Wajir (7.8) and West Pokot (7.2). Early childbearing is
+L4420@P56: a significant challenge, with implications for maternal
+L4421@P56: mortality and complications during childbirth. Nearly
+L4422@P56: one-quarter of women in Kenya give birth by age 18
+L4423@P56: and nearly half by age 20.112 Many factors contribute
+L4424@P56: to early childbirth, including poverty and educational
+L4425@P56: attainment; 33 percent of girls aged 15 to 19 with no
+L4426@P56: education have begun childbearing, and teenagers
+L4427@P56: from the poorest households are more likely to have
+L4428@P56: begun childbearing (26 percent) than those from the
+L4429@P56: wealthiest (10 percent).113 Additional factors include
+L4430@P56: peer influence, early sexual debut, lack of comprehensive sex education, lack of access to or use of contraception, lack of parental counseling and guidance
+L4431@P56: reinforced by cultural taboos that inhibit discussion of
+L4432@P56: sexual health, coercive sexual relations, and uneven
+L4433@P56: power relationships between men and women.114
+L4434@P56: Pervasive social norms that ascribe disproportionate responsibility for domestic work to women contribute to disparities in
+L4435@P56: access to economic opportunities, especially in the northeast. In
+L4436@P56: 2015/16, Kenya’s female labor force participation rate
+L4437@P56: was 71 percent for the core working-age population
+L4438@P56: (15–64 years), compared with 77 percent for men.
+L4439@P56: Female labor force participation in Kenya exceeds the
+L4440@P56: average of Sub-Saharan Africa (63 percent) but is lower
+L4441@P56: than in peer countries such as Ethiopia (77 percent) and
+L4442@P56: Tanzania (80 percent).115 Adult literacy rates for women
+L4443@P56: are lower than for men in every county, with illiteracy
+L4444@P56: almost twice as high nationally for women aged 15
+L4445@P56: and older (18 percent) as for men aged 15 and older
+L4446@P56: (10 percent). In part because of the area’s emphasis on
+L4447@P56: traditional gender roles, women in northeastern Kenya
+L4448@P56: spend an especially large amount of time engaged in
+L4449@P56: unpaid household labor, and in some areas, female
+L4450@P56: labor force participation is less than 20 percent. In line
+L4451@P56: with international experience, mean monthly earnings
+--------------------------------------------------------------------------------
+47136 - IHS Kenya (https://disclosures.ifc.org/project-detail/ESRS/47136/co)
+citeturn88view1 [wordlim: 200] Crawled: yesterday; Content type: text/html; Source: find({"ref_id":"https://disclosures.ifc.org/project-detail/ESRS/47136/co","pattern":"Nairobi"}); Total lines: 520
+L285: IHS has been an IFC client since 2012 where IFC invested in IHS South Africa Workforce Housing Fund II (“IHS Fund II”, cite47†https://disclosures.ifc.org/project-detail/SII/31851/ihssa-project ) split into a two sleeves – one for investments in South Africa and a second sleeve for investments in Namibia and Botswana, which focused on green affordable housing investments. IHS is now looking at Kenya as part of its expansion strategy and is currently raising the Main Fund mentioned below.
+L286: The proposed investment is an equity co-investment package of up to €20m along with IHS Kenya Green Housing Partnership LLP and IHS Kenya Green Housing SCSp (the “Main Fund”) in the development and acquisition of approximately 10,800 newly developed, resource efficient, “green” affordable housing properties in Nairobi and other major urban areas in Kenya (the “Project”).
+L287: The proposed equity investment will consist of €10m from IFC for its own account and up to US$10m equivalent in € from IFC acting as the implementing entity of the UKIFC Market Accelerator for Green Construction Program (MAGC), the UK-IFC bilateral partnership in blended concessional finance for climate change mitigation.
+L288: Instead of investing directly in the Main Fund, IFC (and blended finance) will utilize a “sidecar” investment structure by using a newly created Special Purpose Vehicle (SPV) (the “ManageCo”) with IFC as the only limited partner that will co-invest alongside with the Fund in selected investments. The Main Fund will be managed by IHS Kenya Green Housing Fund GP Limited (the “General Partner” or the “GP”).
+L289: Also, the Main Fund has outsourced investment management to IHS (Kenya) Limited, a company domiciled in Kenya (referred to as “IHS Kenya”).
+L290: IHS Kenya has developed a strong pipeline of development properties and links with developers who have promising pipeline and land opportunities. The developments will typically be around 350 units of modest size (e.g., two-bed one-bath at <55m²) in a secure estate with on-site amenities (e.g., playgrounds and open areas), with close access to schools, retail, transportation, and work opportunities. There are two development models expected to be followed by IHS Kenya:
+L291: (a)   A portion of these developments will be acquired on a turnkey basis i.e. where a development partner constructs and is paid for the units once complete. IHS Kenya will sign a turn-key agreement with the developers/sellers; and
+L292: 
+L293: (b)   The other properties will be developed under a fixed price contract with contractor and where IHS will manage the construction. IHS Kenya will hire a project management company to monitor construction on their behalf.
+L294: All developments will comply with IFC EDGE standard requiring minimum 20% savings on water usage, energy usage and embodied energy (production of materials). Once completed and transferred, some of the units shall be rented, others sold and an additional portion shall have the option on being in the Tenant Purchase Scheme rent-to-buy product, though this can be varied based on market conditions.
+L295: The properties will be managed by IHS Property Management (IHSPM), the property management company belonging to IHS. Currently, out of the pipeline, two developments are expected to close imminently, one is a turnkey project and the other a development for sale deal. There are a number of other projects that are also progressing well and closure is expected within the next quarter.
+L296: ## Overview of IFC's Scope of Review
+L297: IFC’s review of the proposed investment consisted of appraising technical, environmental and social (E&S) information shared by IHS and IHS Kenya including project pipeline, E&S Management System (ESMS), examples of E&S screening and due diligence reports, human resource (HR) policies and other E&S related reports.
+L298: IFC also reviewed IHS’ performance as part of the IHS Fund II investment and also reviewed disclosure made on European Investment Bank (EIB) website in 2020 for their investment in IHS Kenya (cite48†https://www.eib.org/en/projects/pipelines/all/20190915†www.eib.org ).
+L299: The appraisal included site visits in March 2023 to potential project sites being considered by IHS Kenya in Nairobi (at various stages of internal review and approval) – (a) within Garden City, Thika Road (cite49†https://gardencity-nairobi.com/†gardencity-nairobi.com ); (b) within Tilisi Developments, Ngecha Chunga Mali Road, Off A104 (Nairobi - Nakuru Highway (cite50†https://tilisi.co.ke/†tilisi.co.ke ); and (c) within Mi Vida’s development at Nduaru Road, in Riruta, as part of another project - Keza (cite51†https://www.mividahomes.com/keza-by-mivida/†www.mividahomes.com ).
+L300: Lastly, during the appraisal, discussions were held with the IHS’ senior management including E&S and Governance (ESG) Specialist.
+L301: ## E & S Project Categorization and Applicable Standard
+L302: ### Identified Applicable Performance Standards
+L303: 
+L304: While all Performance Standards are applicable to this investment, IFC’s environmental and social due diligence indicates that the investment will have impacts which must be managed in a manner consistent with the following Performance Standards
+L305: PS 1 - Assessment and Management of Environmental and Social Risks and Impacts
+L306: PS 2 - Labor and Working Conditions
+L307: PS 3 - Resource Efficiency and Pollution Prevention
+L308: PS 4 - Community Health, Safety and Security
+L309: For every potential project, IHS Kenya conducts an initial E&S screening followed by a detailed E&S due diligence (ESDD) (if the project is approved to move forward). The ESDD includes questions on biodiversity, cultural heritage and indigenous peoples. Project land due diligence is also carried out before project approval to understand history of land acquisition.
+L310: Based on appraisal discussions and document review, IHS Kenya does not approve projects with any legacy land acquisition issues or expected involuntary resettlement and has clearly stated in the ESMS that it does not/will not invest in development projects where they involve the resettlement of communities. Avoidance of any involuntary resettlement is also a condition from another development finance institution (DFI) investors in IHS Kenya.
+L311: The visited sites were noted to be part of larger developments in urban areas of Nairobi and no land acquisition related impacts are expected on these projects. No land acquisition of involuntary resettlement issues are present, therefore, similarly expected for the future developments. Thus PS5 (Land Acquisition and Involuntary Resettlement) is not considered to be applicable for this project.
+L312: All proposed sub-projects will be developed on land zoned/converted to residential use in and around major urban areas and are thus not expected to result in adverse impacts on biodiversity. IHS reviews all potential developments and is committed to avoid any impacts on indigenous people or cultural heritage.
+L313: Accordingly, the type of risks and impacts envisaged in PS6 (Biodiversity Conservation and Sustainable Natural Resource Management), PS7 (Indigenous Peoples) and PS8 (Cultural Heritage) are not considered to be applicable.
+L314: 
+L315: 
+L316: Going forward, in line with its existing E&S management system (ESMS), IHS Kenya will continue to conduct E&S screening and ESDDs for its potential developments, to ensure that risks and impacts, if any, will be adequately identified and managed in a manner compliant with IFC PSs.
+L317: ### Environmental and Social Categorization and Rationale
+L318: This is a Category B project according to IFC’s Policy on Environmental and Social Sustainability.
+L319: Key risks and issues associated with this Category-B project will include: (a) IHS’ E&S capacity, management systems and staffing to manage construction and operation of proposed projects in line with IFC Performance Standards (PSs); (b) adequate E&S screening and due diligence for the proposed developments; (c) assurance of fair, safe and healthy living and working conditions for the workers (especially during construction); (d) conservation of energy, water and process materials including green building design; (e) emissions, effluents and waste management during both construction and operation in line with WBG EHS Guidelines; (f) life and fire safety design of the proposed developments; (g) impacts on nearby communities due to construction activities, traffic and security; and (h) community grievance management.
+L320: ## Environmental and Social Mitigation Measures
+L321: ### Environmental and Social Mitigation Measures
+L322: IFC’s appraisal considered the environmental and social management planning process and documentation for the Project and gaps, if any, between these and IFC’s requirements. Where necessary, corrective measures, intended to close these gaps within a reasonable period of time, are summarized in the paragraphs that follow and (if applicable) in an agreed Environmental and Social Action Plan (ESAP).
+L323: Through implementation of these measures, the Project is expected to be designed and operated in accordance with Performance Standards objectives.
+L405: ## Stakeholder Engagement
+L406: 
+L407: ### Stakeholder Engagement
+L408: 
+L409: IHS Kenya has included a detailed community grievance mechanism within the turnkey agreement explains the process of receiving and responding to the grievances, roles and responsibilities and timelines and is aligned with IFC PS1 requirements. Therefore, this is expected to implemented for all the proposed developments.
+L410: ### Local Access of Project Documentation
+L411: 
+L412: Due to corporate nature of this investment, IHS will disclose this ESRS and the ESAP at the following address:
+L413: 
+L414: IHS (Kenya) Limited
+L415: 
+L416: 3rd Floor, Tsavo Block.
+L417: 
+L418: Eldama Park Office Complex
+L419: 
+L420: Eldama Ravine Road
+L421: 
+L422: Westlands, Nairobi.
+L423: 
+L424: Any queries and/or comments about the project may be directed to:
+L425: 
+L426: Mr. Peter Mayavi
+L427: 
+L428: Managing Director (Capital and Investor Relations) - Kenya
+L429: Tel: 0719 44 77 77
+L430: cite53†pmayavi@ihsinvestments.co.ke L431: ## Broad Community Support
+L432: 
+L433: ### IFC's Determination of BCS
+L434: 
+L435: Broad Community Support is not applicable for this project.
+L436: 
+L437: ## Environmental & Social Action Plan
+L438: ### Environmental & Social Action Plan
+L439: IHS Kenya(47136) Appraisal Disclosure Snapshot – Version 1
+L440: ---
+L441: Description  | Anticipated Completion Date
+L442: --- | ---
+L443: Develop environmental and social (E&S) procedures for the constructed developments to be implemented by IHS Property Management involved in operation of the developments.  | 01-Oct-2024
+--------------------------------------------------------------------------------
+InfoTradeKenya (https://infotradekenya.go.ke/menu/895)
+citeturn88view2 [wordlim: 200] Crawled: last week; Content type: text/html; Source: find({"ref_id":"https://infotradekenya.go.ke/menu/895","pattern":"Member States"}); Total lines: 9473
+L9337: # Disclaimer
+L9338: 
+L9339: The best efforts have been made so that the data and material published in this site reflect actual administrative norms and practices.
+L9340: 
+L9341: Nevertheless, the entities mentioned in thesite are not responsible for its exactness and expressly deny any responsibility for the damages that would stem form use of the information from this site or use of the site itself. The site contains links to other web pages that are not the responsibility of the entities mentioned in the site.
+L9342: By consulting this site, the user grants the most complete and irrevocable waiver to all entities mentioned in the site, freeing them absolutely from any kind of responsibility, and agrees to refrain from any action or claim.
+L9343: #### Want to embed this page on your website ?
+L9344: 
+L9345: Do you want to embed this page or only the search bar?
+L9346: 
+L9347: [Input] This page [Input] Only the search bar
+L9348: 
+L9349: 
+L9350: 
+L9351: Do you want to include the search bar?
+L9352: 
+L9353: [Input] Yes [Input] No
+L9354: 
+L9355: 
+L9356: 
+L9357: Please copy/paste the following html code inside your page:
+L9358: 
+L9359: ` <iframe style="height: 100%; border:none; width: 100%;min-height: 400px;" src="https://infotradekenya.go.ke/menu/895?embed=true&includeSearch=true"></iframe> `
+L9360: 
+L9361: Please copy/paste the following html code inside your page:
+L9362: ` <iframe style="height: 100%; border:none; width: 100%;min-height: 400px;" src="https://infotradekenya.go.ke/EmbedSearch?l=en&embed=true&includeSearch=true"></iframe> `
+L9363: # AfCFTA Market Requirements
+L9364: 
+L9365: AfCFTA framework for Kenyan exporters
+L9366: The African Continental Free Trade Area (AfCFTA) brings together fifty-five countries of the African Union and the Regional Economic Communities to create a single continental market. The Agreement entered into force on 30 May 2019 and trading commenced on 1 January 2021. Kenya signed on 21 March 2018 and was among the first Member States to deposit its instruments of ratification, on 10 May 2018, and it participates in the pilot phase of the Guided Trade Initiative.
+L9367: For an exporter, the AfCFTA is a set of instruments to be worked through for each product and each destination.
+L9368: 
+L9369: Tariffs. Each State Party applies its own schedule of concessions, so the rate is not uniform across the continent. The cite4076†AfCFTA e-Tariff Book†etariff.au-afcfta.org gives the applicable rate, phase-down category and corresponding rules of origin once the exporting country, importing country and HS code are entered.
+L9370: Rules of origin. Preference applies only to goods that qualify as originating. Consignments of USD 5,000 and above require a cite4077†Certificate of Origin , issued in Kenya by the Rules of Origin Section of the Kenya Revenue Authority; alternatively an Approved Exporter may make an Origin Declaration on the invoice or another commercial document. A proof of origin is valid for twelve months from issue.
+L9371: Small packages between private persons (up to USD 500) and goods in a traveller's personal luggage (up to USD 1,200) need no proof of origin.
+L9372: Other requirements. Prohibited and restricted goods lists are set nationally and must be checked for the destination market. An advance ruling from the importing country's customs administration settles tariff classification and origin before shipment, and is worth obtaining before a first consignment.
+L9373: Where a trade obstacle arises, the non-tariff barrier mechanism under Annex 5 allows the private sector to file a complaint for resolution within set timelines, and a Dispute Settlement Mechanism operates between State Parties.
+L9374: Conformity determines whether the goods can enter the market at all; the destination's tariff offer and the origin status of the goods determine only the rate they pay on entry. A consignment that does not qualify as originating still moves, but at the full MFN rate.
+L9375: The five priority products and their target markets. To analyse the market requirements under this framework, five priority Kenyan export products were identified: palm oil (HS 1511), corrugated cartons (HS 4819), luminaires and lighting fittings (HS 9405), air conditioners (HS 8415) and fertilizer (HS Chapter 31).
+L9376: Kenya's exports of all five already move almost entirely within its established preferential neighbourhood, East African Community Customs Union and COMESA markets, where the goods already enter duty-free under an older instrument. Each product was therefore analysed against an illustrative destination lying outside both blocs, reached only under the AfCFTA regime and selected for the size or structure of its demand for that product.
+L9377: This tests genuine AfCFTA access rather than trade already covered by existing preferences, and responds to the concentration revealed in the trade data, where a single neighbouring market often takes a third or more of a product's exports.
+L9378: Market access requirements for export of palm oil to Congo
+L9379: 
+L9380: cite4078†Export of palm oil (HS 1511) from Kenya to Congo L9428: The two structural bottlenecks are the front-loaded model registration and energy efficiency approval, which run from weeks to months before the goods move, and the destination conformity check, which runs from one day to two weeks. The tariff is not the constraint: a model that is pre-registered, correctly labelled and shipped with accredited safety and energy performance test reports clears with minimal friction, while an unregistered or under-efficient model can be held, re-tested or re-exported.
+L9429: For more information, cite4081†click here L9430: 
+L9431: Market access requirements for Export of Fertilizer to Benin
+L9432: 
+L9433: cite4082†Export of fertilizer (HS Chapter 31) from Kenya to Benin L9434: Regulatory requirements in Kenya. Fertilizer export requirements vary by product type. Every exporter registers on KenTrade’s Trade Facilitation Platform and clears the consignment through KRA Customs. Where preferential treatment is claimed, KRA issues the AfCFTA Certificate of Origin upon proof of Kenyan origin.
+L9435: For inorganic and mineral fertilizers, KEBS product certification and the applicable Standardization Mark are required for exports to EAC Partner States, based on the relevant KS 158 and KS 2290 series standards, supported by product testing and composition analysis. A certificate of analysis from an accredited laboratory and the applicable radioanalysis certification are also required.
+L9436: For organic and bio-fertilizers, KEPHIS exporter registration, risk assessment and phytosanitary controls apply, including the relevant product inspection and certification.
+L9437: Regulatory requirements in Benin. The product standard is regional: ECOWAS Regulation C/REG.13/12/12 harmonises fertilizer quality control across all fifteen member states, overseen since 2023 by the West African Committee for Fertilizer Control, so a formulation compliant for one ECOWAS market is substantially compliant for Benin, but the national authorisations are not transferable.
+L9438: Three separate approvals must be in place before any product moves: product registration or homologation, which requires the full technical data sheet, guaranteed composition, source materials, directions and precautions, supported by bio-efficacy and safety test reports from an approved research centre, and which takes weeks to months; approval of the importer as a licensed fertilizer dealer, including an environmental authorisation for the storage facility; and a prior import authorisation for each consignment, tied to the pro-forma invoice and time-boxed to the shipment window.
+L9439: The fertilizer itself is judged on declared nutrient content against the regulation's permitted tolerances over-formulation fails as surely as under-formulation together with heavy-metal limits and physical quality, where moisture is the most common failure in humid coastal handling. Ammonium nitrate and similar high-nitrogen materials are treated as dangerous goods and attract additional security controls.
+L9440: Labelling is part of the legal standard: the guaranteed analysis, product name and grade, net weight, manufacturer or responsible importer, batch identification, country of origin and directions for use must match the certificate of analysis and the registration exactly, and Benin is francophone, so labels and accompanying documents should be in French.
+L9441: Conformity assessment and customs at destination. Benin verifies imports through its pre-shipment verification programme, operated by Benin Control SA, which produces the documentary verification attestation used to establish customs value and, for a regulated product such as fertilizer, triggers sampling and laboratory analysis against the ECOWAS tolerance table, with public capacity at the soil, water and environment laboratory in Cotonou.
+L9442: The clearance file comprises the importer card, the cargo tracking note (BESC/ECTN), which is mandatory for all cargo discharged at Cotonou and must be raised before shipment with its number appearing on the bill of lading, the prior import authorisation, commercial invoice and packing list, bill of lading, certificate of origin and the certificate of analysis or conformity.
+L9443: A phytosanitary certificate is required for organic fertilizers and soil amendments of plant or animal origin, but generally not for mineral or synthetic grades. The two structural bottlenecks are the front-loaded registration and authorisation before the goods move, and the destination laboratory analysis on arrival, which runs from several days to two weeks and is the single most common cause of demurrage.
+L9444: The tariff is not the constraint: shipping with a credible manufacturer's certificate of analysis, ideally supported by an independent pre-shipment conformity test, so that the destination analysis merely confirms the paperwork, removes the largest variable in the chain.
+L9445: For more information on export of inorganic fertilizers, cite4082†click here and for Export of organic fertilizers, cite4083†click here 

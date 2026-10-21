@@ -1,0 +1,314 @@
+FUENTE 20: CityDwelling
+URL original: https://citydwelling.co/properties/Tsavo%20Stepup-690105136179005cd5190220
+Fecha de captura: 2026-10-21
+Tipo: texto extraído por navegador; puede ser parcial. No es el HTML/PDF original.
+Estado: texto_recuperado
+
+Tsavo Stepup | apartment for Rent in Riruta (https://citydwelling.co/properties/Tsavo%20Stepup-690105136179005cd5190220)
+  Crawled: last week; Content type: text/html; Source: open({"ref_id":"https://citydwelling.co/properties/Tsavo%20Stepup-690105136179005cd5190220","lineno":null}); Total lines: 317
+L0:  L1: 
+L2:    L3: 
+L4: Back
+L5: 
+L6: [Button: Check Availability]
+L7: 
+L8:  L9: 
+L10: 8 photos
+L11: 
+L12: # Tsavo Stepup
+L13: 
+L14: Muthoira Road · Riruta, Nairobi
+L15: 
+L16: apartment block 12 floors · 216 units Built --1 bedroom, studio
+L17: 
+L18: Monthly rent from
+L19: 
+L20: KES 15,000 – 21,500 / mo
+L21: 
+L22: Indicative pricing[Button: What does this mean?]
+L23: 
+L24: [Button: Check Availability]
+L25: 
+L26: Save
+L27: ## About Tsavo Stepup
+L28: 
+L29: Welcome to Tsavo Stepup, located on Muthoira Road in the vibrant Riruta neighborhood. This modern residential complex offers 216 units across 12 floors, providing a variety of living spaces to suit different needs. The property features a convenient on-site restaurant and shop, as well as CCTV, borehole, and manned security for a safe and comfortable living environment. Additionally, residents can enjoy the convenience of a laundry mart and the assurance of a manager on-site.
+L30: Prospective residents can choose from a selection of thoughtfully designed units, including 1-bedroom apartments and studio options. The 1-bedroom units are ideal for young professionals or couples seeking a cozy and functional living space, while the studio apartments cater to individuals looking for a compact yet comfortable home. All units come with pre-paid electricity, tiled flooring, and an open-plan kitchen, ensuring practicality and ease of maintenance.
+L31: With its convenient amenities, secure environment, and a range of unit options, Tsavo Stepup is well-suited for individuals or couples seeking a modern and hassle-free living experience in the heart of Riruta. Whether you're a student, young professional, or small family, this property offers a welcoming and convenient place to call home.
+L32: 
+L33: Read more
+L34: 
+L35: Partner spotlight
+L36: ## Available unit types
+L37: 
+L38: Select a unit type to see what's included.
+L39: 
+L40: 1 Bedroom
+L41: 
+L42: 1 bed · 1 bath
+L43: 
+L44: KES 21,500 / mo
+L45: 
+L46: 72 available
+L47: 
+L48: Studio(Big Size)
+L49: 
+L50: 1 bed · 1 bath
+L51: 
+L52: KES 18,000 / mo
+L53: 
+L54: 72 available
+L55: 
+L56: Studio(Small Size)
+L57: 
+L58: 1 bed · 1 bath
+L59: 
+L60: KES 15,000 / mo
+L61: 
+L62: 72 available
+L63: 
+L64: 1 Bedroom — what's included
+L65: 
+L66: Balcony
+L67: 
+L68: Patio
+L69: 
+L70: DSQ
+L71: 
+L72: Fitted kitchen
+L73: 
+L74: Fireplace
+L75: 
+L76: Solar water
+L77: 
+L78: Intercom
+L79: 
+L80: Air conditioning
+L81: 
+L82: Laundry area
+L83: 
+L84: Pantry
+L85: 
+L86: Deal Score · Riruta
+L87: ## Is this actually a good deal?
+L88: 
+L89: We compare every unit type against the current median rent in Riruta. Find out where this property actually stands.
+L90: 
+L91: 1 Bedroom✅ Good value
+L92: 
+L93: Studio(Big Size)✨ Premium
+L94: 
+L95: Studio(Small Size)🤔 A little high
+L96: 
+L97: Tap to reveal all scores
+L98: 
+L99: Reveal deal scores
+L100: 
+L101: Free · Sign in to reveal
+L102: 
+L103: ## Building amenities
+L104: 
+L105: Laundry mart
+L106: 
+L107: Restaurant
+L108: 
+L109: Shop
+L110: 
+L111: CCTV security
+L112: 
+L113: Borehole water
+L114: 
+L115: Visitor parking
+L116: 
+L117: See full breakdown
+L118: ## This isn’t guesswork
+L119: 
+L120: We verify key property details so you can trust what you’re seeing.
+L121: 
+L122: Verified & Vetted On-the-ground checks Regularly reviewed
+L123: 
+L124: 8
+L125: 
+L126: Real property photos
+L127: 
+L128: Taken for this listing
+L129: 
+L130: 45
+L131: 
+L132: Verified data points
+L133: 
+L134: Collected about this property
+L135: 
+L136: 14 h
+L137: 
+L138: Avg. response time
+L139: 
+L140: Management typically responds within 14 hours
+L141: 
+L142: 30
+L143: 
+L144: Refresh cycle
+L145: 
+L146: Reviewed every 30 days
+L147: 
+L148: Verified by CityDwelling
+L149: 
+L150: Our team visited this property and verified the details on the ground
+L151: Cross-checked against available public data records
+L152: 
+L153:    L154: 
+L155: Monthly rent from
+L156: 
+L157: KES 15,000 / mo
+L158: 
+L159: Studio(Small Size)
+L160: 
+L161: Reach out to find out what's currently available
+L162: [Button: Check Availability]Save for Later
+L163: 
+L164: Property type apartment block
+L165: 
+L166: Floors 12 floors · 216 units
+L167: 
+L168: Built null
+L169: 
+L170: Unit types 1 Bedroom, Studio(Big Size), Studio(Small Size)
+L171:     L172: 
+L173: Deal Score · Riruta
+L174: ## Is this actually a good deal?
+L175: 
+L176: We compare every unit type against the current median rent in Riruta. Find out where this property actually stands.
+L177: 
+L178: 1 bedroom✅ Good value
+L179: 
+L180: studio✨ Premium
+L181: 
+L182: studio🤔 A little high
+L183: 
+L184: Tap to reveal all scores
+L185: 
+L186: Reveal deal scores
+L187: 
+L188: Free · Sign in to reveal
+L189: ## Location & getting around
+L190: 
+L191: Tap to load map
+L192: 
+L193: Street view
+L194: 
+L195: -1.2823, 36.7409 L196: 
+L197: 20–40 min to CBD off-peak
+L198: 
+L199: Direct matatu routes to CBD include Route 46K, Route 046P, Route 102. Off-peak the ride is typically 20–40 minutes; expect an extra 30–60 minutes during morning and evening rush.
+L200: 
+L201: Runs 5:30am – 10pm
+L202: 
+L203: Most matatus run from around 5:30am to 10pm. After that, boda bodas are usually at the main stages, and Uber, Bolt, and inDriver cover the rest of the night.
+L204: 
+L205: Nearest stages
+L206: Kawangware Mwisho 3 min
+L207: 
+L208: 46 Mwisho bus stage 3 min
+L209: 
+L210: Bus Track Yard 4 min
+L211: 
+L212: Sokoni 5 min
+L213: 
+L214: Oilibya 5 min
+L215: 
+L216: Matatu routes 7 routes
+L217: 
+L218: How long is my commute?
+L219: 
+L220: Enter your workplace to calculate travel time
+L221: 
+L222: Recommended for you
+L223: ## You Might Also Like These
+L224: 
+L225: Similar buildings near Tsavo
+L226: 
+L227:  L228: 
+L229: 90% match
+L230: 
+L231: Same neighbourhood
+L232: 
+L233: Tsavo Rising
+L234: 
+L235: Riruta ·
+L236: 
+L237: from KSh 16,000 /mo
+L238: 
+L239: Studio · Kes 16000 Studio (Superior) · Kes 20000 Studio (Deluxe) · Kes 22000
+L240: 
+L241: 4.5
+L242: 
+L243: units
+L244: 
+L245:  L246: 
+L247: 91% match
+L248: 
+L249: Same neighbourhood
+L250: 
+L251: Alba Apartment
+L252: 
+L253: Riruta ·
+L254: 
+L255: from KSh 20,000 /mo
+L256: 
+L257: 2 Bedroom · Kes 50000 Studio · Kes 20000 1 Bedroom · Kes 40000
+L258: 
+L259: 4.5
+L260: 
+L261: units
+L262: 
+L263:  L264: 
+L265: 92% match
+L266: 
+L267: Same neighbourhood
+L268: 
+L269: Keza
+L270: 
+L271: Riruta ·
+L272: from KSh 19,500 /mo
+L273: 
+L274: 2 Bedroom · Kes 45000 1 Bedroom · Kes 39000 Studio Premium · Kes 23000
+L275: 
+L276: 4.5
+L277: 
+L278: 144 units
+L279: 
+L280:  L281: 
+L282: 93% match
+L283: 
+L284: Same neighbourhood
+L285: 
+L286: Ndwaru 69 Apartments
+L287: 
+L288: Riruta ·
+L289: 
+L290: from KSh 15,000 /mo
+L291: 
+L292: 1 Bedroom · Kes 24000 Studio · Kes 15000
+L293: 
+L294: 4.5
+L295: 
+L296: 25 units
+L297: 
+L298:  L299: 
+L300: 94% match
+L301: 
+L302: Same neighbourhood
+L303: 
+L304: Kwa Saitoti
+L305: 
+L306: Riruta ·
+L307: 
+L308: from KSh 14,500 /mo
+L309: 
+L310: 2 Bedroom · Kes 20000 1 Bedroom · Kes 16000 Studio · Kes 14500
+L311: 
+L312: 4.5
+L313: 
+L314: 24 units
+L315: 
+L316: View more

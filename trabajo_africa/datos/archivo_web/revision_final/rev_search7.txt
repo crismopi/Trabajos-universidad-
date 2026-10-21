@@ -1,0 +1,617 @@
+Fecha de captura: 2026-10-21
+Método: navegación y/o resultados indexados. Texto posiblemente parcial; no es el documento original. Los lotes pueden contener resultados no pertinentes. Comprobar URL y registro de verificación antes de utilizar datos.
+
+Annual GDP | CBK (https://www.centralbank.go.ke/annual-gdp/)
+ [wordlim: 200] Crawled: today; 2025  | 17,577,557  | 4.60  | 11,406,590
+
+# Annual GDP
+
+## Annual GDP
+
+Year  | Nominal GDP prices (Ksh Million)  | Annual GDP growth (%)  | Real GDP prices (Ksh Million)
+--- | --- | --- | ---
+[Input: Year]  | [Input: Nominal GDP prices (Ksh Million)]  | [Input: Annual GDP growth (%)]  | [Input: Real GDP prices (Ksh Million)]
+--- | --- | --- | ---
+2025  | 17,577,557  | 4.60  | 11,406,590
+2024  | 16,232,295  | 4.70  | 10,901,563
+2023  | 15,033,612  | 5.60  | 10,416,148
+2022  | 13,489,642  | 4.90  | 9,852,583
+2021  | 12,027,662  | 7.60  | 9,395,942
+2020  | 10,715,070  | -0.30  | 8,733,060
+2019  | 10,237,727  | 5.10  | 8,756,946
+2018  | 9,340,307  | 5.60  | 8,330,891
+2017  | 8,483,396  | 3.80  | 7,885,521
+2016  | 7,594,064  | 4.20  | 7,594,064
+
+Showing 1 to 10 of 26 entries
+
+Real GDP figures for years 2000 to 2008 are based on 2001 prices (as base year, i.e. 2001=100) while figures for years 2009 to the current, are based on 2009 prices (i.e. 2009=100)--------------------------------------------------------------------------------
+Why Global Capital Is Choosing Kenya: The Strategy Behind Kenya’s Rising Investment Story (https://acesso.kissmyscore.com/?_=%2Fpulse%2Fwhy-global-capital-choosing-kenya-strategy-behind-story-tanui-cbs-onh0f%23xybe3UUSZzbs022gEii2Pso2w8MYSyd0)
+ [wordlim: 200] Published: 3 months ago; Crawled: last month; The UNCTAD World Investment Report 2026 https://unctad.org/system/files/official-document/wir2026_en.pdf reinforces this reality, showing that Kenya is no longer simply participating in Africa’s investment story—it is helping shape it.According to UNCTAD, Kenya attracted a record US$3.2 billion (approximately KSh414 billion) in Foreign Direct Investment (FDI) during 2025, the highest in the country’s history and more than double the US$1.5 billion recorded in 2022.
+
+Image: Why Global Capital Is Choosing Kenya: The Strategy Behind Kenya’s Rising Investment Story
+
+# Why Global Capital Is Choosing Kenya: The Strategy Behind Kenya’s Rising Investment Story
+
+Eng.John Kipchumba Tanui, CBS
+
+### Eng.John Kipchumba Tanui, CBS
+
+Published Jul 10, 2026
+
++ Follow
+
+“Investment follows confidence. Confidence follows vision, consistency and execution.”
+
+At a time when global capital is becoming increasingly selective and concentrated in a handful of markets, Kenya is steadily emerging as one of Africa’s most compelling investment destinations. The UNCTAD World Investment Report 2026 https://unctad.org/system/files/official-document/wir2026_en.pdf reinforces this reality, showing that Kenya is no longer simply participating in Africa’s investment story—it is helping shape it.
+
+According to UNCTAD, Kenya attracted a record US$3.2 billion (approximately KSh414 billion) in Foreign Direct Investment (FDI) during 2025, the highest in the country’s history and more than double the US$1.5 billion recorded in 2022. --------------------------------------------------------------------------------
+WIR 2025 factsheet Uganda (https://unctad.org/system/files/non-official-document/wir_fs_ug_en.pdf)
+ [wordlim: 200] Published: 1.3 years ago;   Kenya ...   6.2 ...   2.3
+World Investment Report 2025
+International investment in the digital economy
+Country Fact Sheet:
+Uganda
+Foreign direct investment (FDI) overview, selected years
+ (Millions of dollars and per cent)
+As a percentage of gross fixed capital formation
+Growth rate,
+FDI flows
+2020
+2021
+2022
+2023
+2024
+2023-2024
+2020
+2021
+2022
+2023
+2024
+%
+Uganda
+Inward
+ 1 191
+ 1 648
+ 2 953
+ 2 994
+ 3 305
+  10.4
+  13.4
+  16.5
+  26.6
+  26.9
+  27.2
+Outward
+- 
+- 
+- 
+- 
+- 
+  5.0
+-
+-
+-
+-
+-
+Memorandum
+  Angola
+Inward
+-1 866
+-4 355
+-6 599
+-2 120
+- 136
+..
+-7.8
+-14.3
+-13.8
+-5.7
+-0.4
+Outward
+  91
+-1 057
+  41
+  33
+  33
+-0.9
+  0.4
+-3.5
+  0.1
+  0.1
+  0.1
+  Kenya
+Inward
+ 1 510
+ 1 406
+ 1 597
+ 1 504
+ 1 503
+-0.1
+  7.7
+  6.5
+  7.5
+  8.0
+  7.5
+Outward
+ 1 297
+ 1 840
+ 1 502
+  588
+ 1 310
+  122.9
+  6.7
+  8.5
+  7.0
+  3.1
+  6.5
+  East Africa
+Inward
+ 7 477
+ 10 090
+ 11 682
+ 11 338
+ 12 715
+  12.1
+  7.7
+  9.9
+  11.0
+  10.2
+  11.8
+Outward
+ 1 496
+ 2 065
+ 1 801
+  759
+ 1 520
+  100.2
+  4.5
+  5.5
+  4.6
+  2.1
+  3.8
+  Africa
+Inward
+ 40 944
+ 82 201
+ 54 567
+ 55 414
+ 97 032
+  75.1
+  7.0
+  12.9
+  7.7
+  8.6
+  16.5
+Outward
+ 2 459
+ 5 098
+ 3 959
+  196
+ 2 447
+ 1 147.0
+  0.5
+  0.9
+  0.6
+-
+  0.4
+  Developing economies*
+Inward
+ 640 943
+ 899 486
+ 929 609
+ 865 408
+ 867 162
+  0.2
+  6.2
+  7.3
+  7.2
+  6.6
+  6.4
+Outward
+ 380 053
+ 504 286
+ 547 939
+ 517 428
+ 491 478
+-5.0
+  3.7
+  4.1
+  4.3
+  4.0
+  3.7
+  World*
+Inward
+ 868 563
+1 676 523
+1 389 526
+1 454 976
+1 508 803
+  3.7
+  3.9
+  6.6
+  5.2
+  5.3
+  5.3
+Outward
+ 648 576
+1 914 411
+1 568 613
+1 556 106
+1 608 874
+  3.4
+  2.9
+  7.6
+  5.9
+  5.7
+  5.7
+As a percentage of gross domestic product
+   FDI Stock
+2020
+2021
+2022
+2023
+2024
+Growth rate,
+2020
+2021
+2022
+2023
+2024
+2023-2024
+%
+Uganda
+Inward
+ 13 358
+ 15 032
+ 16 631
+ 19 625
+ 22 930
+  16.8
+  35.3
+  35.1
+  35.2
+  37.8
+  40.6
+Outward
+  174
+  174
+  174
+  175
+  175
+  0.2
+  0.5
+  0.4
+  0.4
+  0.3
+  0.3
+Memorandum
+Angola
+Inward
+ 21 595
+ 20 861
+ 14 262
+ 12 143
+ 12 139
+..
+  32.5
+  24.7
+  10.0
+  11.1
+  10.5
+Outward
+ 4 840
+ 5 218
+ 5 259
+ 5 292
+ 5 322
+  0.6
+  7.3
+  6.2
+  3.7
+  4.8
+  4.6
+Kenya
+Inward
+ 9 796
+ 9 813
+ 9 692
+ 11 196
+ 12 699
+  13.4
+  9.7
+  8.9
+  8.4
+  10.3
+  10.5
+Outward
+ 1 720
+ 2 373
+ 2 668
+ 3 256
+ 4 565
+  40.2
+  1.7
+  2.2
+  2.3
+  3.0
+  3.8
+East Africa
+Inward
+ 84 726
+ 92 038
+ 100 323
+ 111 978
+ 124 292
+  11.0
+  25.2
+  25.6
+  25.1
+  25.1
+  27.5
+Outward
+ 1 995
+ 2 994
+ 3 404
+ 4 259
+ 5 739
+  34.8
+  1.2
+  1.7
+  1.8
+  2.2
+  2.7
+Africa
+Inward
+ 954 502
+1 026 078
+1 029 883
+1 022 141
+1 073 851
+  5.1
+  38.3
+  36.9
+  34.3
+  35.5
+  38.9
+Outward
+ 331 043
+ 308 585
+ 298 266
+ 243 679
+ 275 454
+  13.0
+  14.7
+  12.2
+  11.0
+  9.6
+  11.0
+Developing economies*
+Inward
+11 394 020
+13 819 118
+14 398 133
+15 325 263
+15 812 885
+  3.2
+  34.8
+  35.9
+  35.5
+  36.7
+  36.7
+Outward
+8 087 927
+8 633 936
+8 815 011
+9 287 453
+9 878 183
+  6.4
+  25.2
+  22.9
+  22.0
+  22.5
+  23.1
+World*
+Inward
+41 278 103
+46 509 216
+43 733 573
+48 097 605
+50 907 355
+  5.8
+  48.2
+  47.6
+  43.1
+  45.3
+  46.2
+Outward
+40 048 460
+42 226 844
+39 492 629
+42 596 581
+43 594 995
+  2.3
+  47.1
+  43.5
+  39.0
+  40.3
+  39.7--------------------------------------------------------------------------------
+untitled (https://unctad.org/system/files/official-document/tdstat36pt3_en.pdf)
+ [wordlim: 200] Published: 14.8 years ago; Crawled: 14.8 years ago; <tr><td>939</td><td>-476</td><td>970</td><td>471</td><td>2.8</td><td>1.1</td><td>3.5</td><td>3.5</td><td>4.5</td><td>3.1</td><td>4.5</td><td>4.5</td><td>Kenya</td></tr> ... <tr><td>370</td><td>–</td><td>796</td><td>202</td><td>1.0</td><td>1.9</td><td>3.3</td><td>2.6</td><td>3.3</td><td>2.6</td><td>6.0</td><td>4.7</td><td>Zambie</td></tr>
+<tr><td>939</td><td>-476</td><td>970</td><td>471</td><td>2.8</td><td>1.1</td><td>3.5</td><td>3.5</td><td>4.5</td><td>3.1</td><td>4.5</td><td>4.5</td><td>Kenya</td></tr>
+<tr><td>263</td><td>136</td><td>153</td><td>36</td><td>0.1</td><td>2.0</td><td>3.4</td><td>3.4</td><td>4.2</td><td>3.1</td><td>4.3</td><td>5.1</td><td>Madagascar</td></tr>
+<tr><td>83</td><td>26</td><td>-93</td><td>–</td><td>1.9</td><td>2.9</td><td>5.5</td><td>1.6</td><td>1.9</td><td>1.3</td><td>0.9</td><td>–</td><td>Malawi</td></tr>
+<tr><td>511</td><td>-38</td><td>440</td><td>263</td><td>1.8</td><td>5.5</td><td>4.9</td><td>5.1</td><td>5.5</td><td>4.5</td><td>7.0</td><td>6.7</td><td>Maurice</td></tr>
+<tr><td>289</td><td>133</td><td>521</td><td>60</td><td>–</td><td>3.2</td><td>7.5</td><td>5.3</td><td>5.7</td><td>4.7</td><td>6.7</td><td>7.3</td><td>Mozambique</td></tr>
+<tr><td>113</td><td>43</td><td>146</td><td>70</td><td>9.0</td><td>1.9</td><td>10.7</td><td>11.3</td><td>9.0</td><td>6.1</td><td>7.4</td><td>7.0</td><td>Rwanda</td></tr>
+<tr><td>31</td><td>12</td><td>44</td><td>–</td><td>–</td><td>2.6</td><td>13.5</td><td>7.8</td><td>7.1</td><td>6.6</td><td>8.6</td><td>–</td><td>Guinée-Bissau</td></tr>
+<tr><td>47</td><td>42</td><td>212</td><td>–</td><td>0.1</td><td>–</td><td>0.0</td><td>0.9</td><td>2.7</td><td>2.3</td><td>7.9</td><td>–</td><td>Libéria</td></tr>
+<tr><td>118</td><td>-16</td><td>533</td><td>(e)206</td><td>0.4</td><td>3.8</td><td>5.7</td><td>6.6</td><td>6.0</td><td>3.9</td><td>7.9</td><td>(e)7.3</td><td>Mali</td></tr>
+<tr><td>11</td><td>-9</td><td>37</td><td>(e)54</td><td>5.9</td><td>0.0</td><td>1.2</td><td>0.5</td><td>1.5</td><td>1.2</td><td>1.9</td><td>(e)1.7</td><td>Mauritanie</td></tr>
+<tr><td>222</td><td>112</td><td>-50</td><td>(e)108</td><td>2.6</td><td>6.9</td><td>2.5</td><td>3.2</td><td>6.2</td><td>5.4</td><td>3.3</td><td>(e)3.2</td><td>Niger</td></tr>
+<tr><td>9 037</td><td>1 667</td><td>-8 238</td><td>-9 844</td><td>7.4</td><td>8.3</td><td>13.7</td><td>15.9</td><td>16.4</td><td>15.0</td><td>13.8</td><td>9.5</td><td>Nigéria</td></tr>
+--------------------------------------------------------------------------------
+KENYA INVESTMENT POLICY - *Faster Investment Growth for Sustainable Development* (https://investmentpolicy.unctad.org/investment-laws/laws/340/downloadSourceFile/394)
+ [wordlim: 200] Crawled: 5 months ago; 1.2 Vision and Mission of the Kenya Investment Policy .................... ... REPUBLIC OF KENYA | 3
+16  
+2.1 Increasing the National Savings Rate ........................................... 16  
+2.2 Increasing domestic investment .................................................... 16  
+2.3 Attracting Foreign Direct Investment ........................................... 16  
+2.4 Benchmarking against Best Practice ............................................ 17  
+
+**Chapter 3: Situation Analysis** .......................................................... 18  
+3.1. Overview of Investment Trends ................................................... 18  
+3.2. Past and Existing Policy & Legislative Initiatives ....................... 18  
+3.2.1. *Strategy documents* ............................................................... 18  
+3.2.2. *Institutions* .............................................................................. 18  
+3.2.3. *Legislation* ............................................................................... 19  
+3.3. Challenges Affecting the Investment Climate ............................. 22  
+3.3.1. *Limited Coordination* ............................................................. 22  
+3.3.2. *Investment entry and establishment* ..................................... 22  
+3.3.3. *Lack of an adequate incentives framework* ........................... 22  
+
+REPUBLIC OF KENYA | 3--------------------------------------------------------------------------------
+KNBS 2026 Economic Survey | PDF | Gross Domestic Product | Banks (https://www.scribd.com/document/1037517962/KNBS-2026-Economic-Survey)
+ [wordlim: 200] Published: 9 months ago; Crawled: 5 months ago; In 2025, Kenya’s real Gross Domestic Product (GDP) ... Loans-Deposits Spread³ 5.66 5.50 4.53 6.44 6.44 6.91 7.44 7.69 ... ## Year Nominal Interest Inflation Rate Real Interest¹ ... National Government’s statement of operations is 4,107.5 billion in 2025/26.
+## SECTION B: DOMESTIC ECONOMY
+
+B
+SECTION
+SEK
+
+Domestic Economy
+KES
+
+24
+C h a p t e r 0 2 : E c o n o m i c P e r f o r m a n c e
+
+## In 2025, Kenya’s real Gross
+
+Domestic Product (GDP) grew by
+
+4.6%
+compared to a revised growth
+of 4.7 per cent in 2024
+
+02
+C H A P T E R
+Overview
+In 2025, Kenya’s real Gross Domestic Product (GDP)
+grew by 4.6 per cent compared to a revised growth
+of 4.7 per cent in 2024. The growth albeit slower
+compared to 2024 was largely supported by positive
+growths in all sectors of the economy. Agriculture,
+Forestry and Fishing sector, which accounts for over a
+fifth of the economy expanded by 3.1 per cent, while
+construction activities rebounded from a 0.7 per cent
+contraction in 2024 to a 6.8 per cent growth in 2025.
+The Mining and Quarrying sector also recovered from
+
+Economic
+a 7.8 per cent contraction in 2024, growing by 14.9
+per cent in the period under review, partly due to a
+significant increase in production of minerals used in
+
+## Performance cement production.
+
+ECONOMIC SURVEY 2026
+--------------------------------------------------------------------------------
+Vote of confidence as foreign investments more than double (https://staging.the-star.co.ke/business/2026-07-08-vote-of-confidence-as-foreign-investments-more-than-double)
+ [wordlim: 200] Published: 3 months ago; Crawled: last month; Business 08 July 2026 - 05:00 ... The latest report by the United Nations Conference on Trade and Development (UNCTAD) shows FDI inflows into Kenya climbed to $3.2 billion (about Sh413 billion) in 2025, up from $2.3 billion (about Sh297 billion) in 2024 and $1.5 billion (about Sh194 billion) in 2022.
+
+Business08 July 2026 - 05:00
+
+# Vote of confidence as foreign investments more than double
+
+UNCTAD report shows FDI inflows into Kenya rose to Sh413bn in 2025 from Sh194bn in 2022
+
+by VICTOR AMADALA
+
+Image
+
+An infographic on FDIs in Kenya
+
+Foreign direct investment (FDI) into Kenya has more than doubled in the past three years, cementing the country's position as one of Africa's most attractive destinations for international capital despite a challenging global investment environment.
+
+The latest report by the United Nations Conference on Trade and Development (UNCTAD) shows FDI inflows into Kenya climbed to $3.2 billion (about Sh413 billion) in 2025, up from $2.3 billion (about Sh297 billion) in 2024 and $1.5 billion (about Sh194 billion) in 2022.
+
+The sharp rise comes as global FDI remained subdued amid geopolitical tensions, elevated borrowing costs and slowing economic growth in many regions, underscoring Kenya's growing appeal to international investors.
+--------------------------------------------------------------------------------
+Kenya's economy grows 4.6% in 2025 with GDP at KSh 17.58 trillion | Fintech Association Of Kenya posted on the topic | LinkedIn (https://www.linkedin.com/posts/fintech-association-of-kenya_knbs-survey-2026-activity-7456601800633147392-cTIj)
+ [wordlim: 200] Crawled: last month; 𝐊𝐞𝐧𝐲𝐚’𝐬 𝟐𝟎𝟐𝟓 𝐠𝐫𝐨𝐰𝐭𝐡 𝐬𝐥𝐨𝐰𝐬 𝐭𝐨 𝟒.𝟔% 𝐚𝐬 𝐆𝐃𝐏 𝐫𝐢𝐬𝐞𝐬 𝐭𝐨 𝐊𝐒𝐡 𝟏𝟕.𝟓𝟖 𝐭𝐫𝐢𝐥𝐥𝐢𝐨𝐧 Kenya’s economy expanded by 4.6% in 2025, slightly slower than 4.7% in 2024, even as current-price GDP rose to KSh 17.58 trillion and population increased to 53.3 million, according to the KNBS Economic Survey 2026: Facts and Figures. ... Fiscal pressure remained visible: ordinary revenue and grants rose to KSh 3.38 trillion, national government expenditure reached KSh 4.27 trillion, and external debt service climbed to 31.1% of exports of goods and services. ... Kenya Economic Survey 2026 (covering 2025 performance) GDP Performance • Real GDP growth: 4.6% in 2025 (down slightly from 4.7% in 2024; missed the 5.0% target).
+--------------------------------------------------------------------------------
+ndc/KEN-second_ndc-EN.html at master · wri/ndc · GitHub (https://github.com/wri/ndc/blob/master/KEN-second_ndc-EN.html)
+ [wordlim: 200] Published: 1.8 years ago; Crawled: last month; <p>Kenya regards the long-term target of the Paris Agreement to be in line with Article 2 of the Convention, as explained under 6a. (above)</p> ... <h2>3.2</h2>
+--------------------------------------------------------------------------------
+World Bank Document (https://documents1.worldbank.org/curated/en/099060424051072317/pdf/P1797691bf301a04d1a4b6114cf28701d1e.pdf)
+ [wordlim: 200] ### 3.2 Kenya’s trade integration journey ... The agriculture sector is expected to be one of the top job creating sectors, accounting for 2.2 percent employment growth out of the total 2.6 percent sectoral employment reallocation anticipated in Kenya. ... 44 https://www.hoainitiative.org/wp-content/uploads/2022/06/HoAI-Trade-Facilitation-Roadmap-English.pdf
+--------------------------------------------------------------------------------
+Kenya - National Action Plans on Business and Human Rights (https://globalnaps.org/country/kenya/)
+ [wordlim: 200] Crawled: 2 days ago; 2.3 Land and Natural Resources [Page 8] The country has made strides in the legal and policy protection of women’s property rights as relates to ownership, inheritance, management and disposal. ... It also distinguishes the inheritance rights between married and unmarried women directing the Government to secure the rights of unmarried daughters.
+--------------------------------------------------------------------------------
+KENYA PIPELINE COMPANY LIMITED (https://kpcweb-hvgah7bracfrg8ft.ukwest-01.azurewebsites.net/download/76/kpc-pu-fw-365airwngnbi-23-24-tenders/6632/tender-document-aviation-fuel-2024-2027.pdf)
+ [wordlim: 200] Published: 8 months ago; 1.1 This tendering document is for the delivery of Non-Consulting Services, as ... Business Day is any day that is an ofﬁcial working day of the Procuring ... 3.2 The Procuring Entity requires compliance with the provisions of the Competition ... Page 6 of 117
+--------------------------------------------------------------------------------
+i (https://econews-africa.org/wp-content/uploads/2023/09/KENYA-US-FTA-Legal-Analysis-Final-Report.pdf)
+ [wordlim: 200] Published: last year; Transatlantic Trade and Investment Partnership was launched in 2013 but died in 2016 without  |  | ... negotiations with the U.S.16  |  | 2.3.Kenya and Unilateral Preference Schemes ... https://ustr.gov/sites/default/files/IssueAreas/gsp/GSP_Guidebook-December_2019.pdf#page=14.
+--------------------------------------------------------------------------------
+Ruto Hails Record Foreign Investment as UN Report Boosts Kenya's Economic Outlook (https://businesstoday.co.ke/ruto-hails-record-foreign-investment-as-un-report-boosts-kenyas-economic-outlook/)
+ [wordlim: 200] Published: 3 months ago; Crawled: 3 weeks ago; Citing the United Nations Conference on Trade and Development (UNCTAD) World Investment Report 2026, the president said foreign direct investment more than doubled from $1.5 billion in 2022 to $3.2 billion in 2025, the highest level ever recorded for Kenya.
+--------------------------------------------------------------------------------
+Target 14: Mainstreaming biodiversity across all sectors | Kenya Biodiversity (https://ke.chm-cbd.net/implementation/targets/target-14-mainstreaming-biodiversity-across-all-sectors)
+ [wordlim: 200] Crawled: 3 weeks ago; Document  | KENYA Sectoral public policies & pressures on biodiversity ... 2.3.
+--------------------------------------------------------------------------------
+Kenya's FDI Hits $3.2 Billion in 2025: What a 113% Three-Year Surge Means for Investors Entering East Africa | Etyang Business Solutions Network (https://etyangbusiness.com/insights/kenya-fdi-record-3-2-billion-2025-unctad/)
+ [wordlim: 200] Published: 3 months ago; Crawled: 2 weeks ago; Kenya attracted a record $3.2 billion in foreign direct investment in 2025, more than doubling inflows from $1.5 billion in 2022, according to the UNCTAD World Investment Report 2026. ... Kenya attracted a record $3.2 billion in foreign direct investment in 2025, more than doubling inflows from $1.5 billion in 2022, according to the UNCTAD World Investment Report 2026.
+--------------------------------------------------------------------------------
+Documents | Nairobi Convention (https://nairobiconvention.org/clearinghouse/documents?page=17)
+ [wordlim: 200] Crawled: last month; default 6.4 MB ... AN ASSESSMENT OF THE STATUS OF BLUE ECONOMY SECTORS IN KENYA Sector Report on Coastal and Marine Forestry Presented by University of Nairobi Maritime Centre To UNEP-NC June 2023 1 TABLE OF CONTENT Lis… ... default 3.2 MB
+--------------------------------------------------------------------------------
+Kenya moves to make its development priorities investable | United Nations in Kenya (https://kenya.un.org/en/319097-kenya-moves-make-its-development-priorities-investable)
+ [wordlim: 200] Published: 3 months ago; Crawled: 2 days ago; # Kenya moves to make its development priorities investable08 July 2026 ... Social sectors such as water, health and education often need concessional money to keep services affordable. ... Gavin Power of PIMCO, which manages about USD 2.3 trillion, said investors were looking for more SDG-aligned bonds, loans and project bonds from sovereign and corporate issuers. ... augustine.karani@un.org
+--------------------------------------------------------------------------------
+What we have to do to access a combination of loans and grants, totaling US$1.2 billion from WB (https://www.reddit.com/r/Kenya/comments/1d73w3l)
+ [wordlim: 200] Published: 2.4 years ago; Crawled: 2.4 years ago; Prior Actions (PA): These are specific actions that Kenya must complete before the World Bank will disburse any funds. ... Trigger 3.2: Approve regulations for the indexation of benefit values for social protection programs. ... Trigger 6.1: Amend regulations and the Kenya National Qualifications Framework Act.
+--------------------------------------------------------------------------------
+Preventing an Extractive Green Hydrogen Industry: Risks and Benefits of Grid Expansion and Green Hydrogen in and for Kenya (https://arxiv.org/abs/2507.14756)
+ [wordlim: 200] Published: 1.3 years ago; Title: Preventing an Extractive Green Hydrogen Industry: Risks and Benefits of Grid Expansion and Green Hydrogen in and for Kenya ... The resulting hydrogen reaches a levelized cost of \$3.2 per kg by 2050, and its carbon intensity from electricity use falls below one kg carbon dioxide per kg of hydrogen, suggesting likely compliance with international certification thresholds.
+--------------------------------------------------------------------------------
+Kenya | World Bank Group (https://www.worldbank.org/ext/en/country/kenya)
+ [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.worldbank.org/ext/en/country/kenya","lineno":null}); Total lines: 638
+L0: # Kenya
+L1: 
+L2: false
+L3: 
+L4: lp-heading-top-xxlarge
+L5: 
+L6: lp-heading-bottom-xlarge
+L7: 
+L8: style
+L9: 
+L10: grid, feature-banner-container
+L11: 
+L12: sec-spacing
+L13: 
+L14: section-none
+L15: 
+L16: sec-spacing-bottom
+L17: 
+L18: section-padding-between
+L19: 
+L20: no-grid
+L21: 
+L22: false
+L23: 
+L24: col-ctrl
+L25: 
+L26: col-1
+L27: 
+L28: col1-class
+L29: 
+L30: col-lg-12 col-md-12 col-sm-12 col-xs-12
+L31: 
+L32: col1-blocks
+L33: 
+L34: news-banner
+L35: 
+L36: KEN

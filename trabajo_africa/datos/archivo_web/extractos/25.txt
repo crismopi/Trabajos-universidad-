@@ -1,0 +1,309 @@
+FUENTE 25: EAC, estructura y miembros
+URL original: https://www.eac.int/component/content/?Itemid=89
+Fecha de captura: 2026-10-21
+Tipo: texto extraído por navegador; puede ser parcial. No es el HTML/PDF original.
+Estado: texto_recuperado
+
+East African Community (https://www.eac.int/component/content/?Itemid=89)
+  Crawled: last week; Content type: text/html; Source: open({"ref_id":"https://www.eac.int/component/content/?Itemid=89","lineno":null}); Total lines: 468
+L0:  L1:   *  L2:   *  L3:     *  L4:     *  L5:     *  L6:     *  L7:   * NEWS AND MEDIA
+L8:     *  L9:     *  L10:     *  L11:     *  L12:     *  L13:     *  L14:     *  L15:   *  L16:     *  L17:     *  L18:     *  L19:     *  L20:     *  L21:     *  L22:     *  L23:     *  L24:     *  L25:     *  L26:     *  L27:   *  L28:   *  L29:   *  L30:   *   *   *   *   * eac@eachq.org
+L31: 
+L32:  L33: 
+L34:  L35: 
+L36:  L37: 
+L38:  L39: 
+L40:  L41: 
+L42:  L43: 
+L44:  L45: 
+L46:  L47: 
+L48:  L49: 
+L50:  L51: 
+L52:  L53: 
+L54:  L55:  L56: 
+L57:  L58: 
+L59:  L60: 
+L61:  L62: 
+L63:  L64: 
+L65:  L66: 
+L67:  L68: 
+L69:  L70:   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *  L71: 
+L72:   *  L73: # Latest News
+L74: 
+L75:  L76: 
+L77: EAC Health Ministers Step Up Regional Action to Strengthen Health Security
+L78: 
+L79: 08 October 2026 |  L80: 
+L81:  L82: 
+L83: EAC and China Reaffirm Longstanding Partnership and Commitment to Regional…
+L84: 
+L85: 05 October 2026 |  L86: 
+L87:  L88: 
+L89: EAC Partner States Call for More Accessible Climate Finance and Greater Su…
+L90: 
+L91: 05 October 2026 |  L92: 
+L93:  L94: South Sudan Advances Regional Political Confederation Agenda as EAC Consti…
+L95: 
+L96: 25 September 2026 |  L97: 
+L98:  L99: 
+L100:  L101: 
+L102:  L103: 
+L104:  L105: 
+L106:  L107: 
+L108:  L109: * * *
+L110: # Upcoming Events
+L111: 
+L112:  L113: 
+L114: * * *
+L115: 
+L116: # EAC Priorities 2022 - 2026
+L117: 
+L118:  L119: 
+L120: ### Full Implementation of the Single Customs Territory (SCT).
+L121: 
+L122:  L123: 
+L124: ###   Enhancing domestication and implementation of regional commitments in line with the EAC Common Market Protocol
+L125: 
+L126:  L127: 
+L128: ### Attainment of the EAC Single Currency
+L129: 
+L130:  L131: 
+L132: ### Strengthening regional peace, security, and good governance
+L133: 
+L134:  L135: 
+L136: ### Development of quality multi-dimensional strategic Infrastructure
+L137: 
+L138:  L139: ### Institutional transformation of all EAC Organs and Institutions
+L140: 
+L141:  L142: 
+L143: ### Increasing visibility of EAC, stakeholder knowledge and awareness
+L144: 
+L145: * * *
+L146: # Integration Pillars of the EAC
+L147: 
+L148:  L149: 
+L150:  L151:  L152: 
+L153:  L154: # EAC at a Glance
+L155: 
+L156: * * *
+L157: 
+L158: The East African Community (EAC) is a regional intergovernmental organisation of eight (8) Partner States, comprising the Republic of Burundi, Democratic Republic of Congo, Republic of Kenya, Republic of Rwanda, Federal Republic of Somalia, Republic of South Sudan, Republic of Uganda and United Republic of Tanzania, with its headquarters in Arusha, Tanzania.
+L159: The Federal Republic of Somalia was admitted into the EAC bloc on 24th November, 2023 and became a full member on 4th March, 2024.
+L160: 
+L161: The EAC is structured into  :
+L162: 
+L163:   *  L164:   *  L165:   *  L166:   *  L167:   *  L168:   *  L169:   *  L170: The Community also has  , three of which became operational in July 2015.
+L171: 
+L172:  L173: # Latest Documents
+L174: 
+L175: ## Now on X
+L176: (formerly Twitter)
+L177: 
+L178: * * *
+L179: 
+L180: Online Tools & Services
+L181: 
+L182: ###  L183: 
+L184: The EAC  (TIP) gives access to step-by-step guides on licenses, pre-clearance permits and clearance formalities for the most traded goods within, to and from the East African Community EAC).
+L185: 
+L186:  L187: ###  L188: 
+L189: The  is the official comprehensive compendium of health information in East Africa. A dynamic, structured, and interactive single-point-of-access of health information in the region.
+L190: 
+L191:  L192: ###  L193: 
+L194: 50 Million African Women Speak is a  which is available via web and as a mobile App. The platform is designed as a one-stop shop for the information needs of African women in business.
+L195: 
+L196:  L197: ###  L198: 
+L199: The EAC Investment Guide provides comprehensive information on why EAC is an ideal investment destination by reviewing the operating environment, investment climate, and incentives among others.
+L200: 
+L201:  L202: ###  L203: 
+L204: With the  , you can visualize Socio-Economic indicators over a period of time, gain access to presentation-ready graphics and perform comprehensive analysis on a Country and Regional level.
+L205: 
+L206:  L207: ###  L208: 
+L209: Seamless migration of the  during transposition of Harmonized System (HS); administration and management of the Duty Remission Scheme; and other measures affecting implementation of CET.
+L210: 
+L211:  L212: ###  L213: 
+L214: The EAC  is a one-stop-shop platform of digital information and knowledge generated by EAC Organs and Institutions in the execution of their various mandates since 1993.
+L215: 
+L216:  L217: 
+L218: ###  L219: 
+L220: The  is an e-commerce platform aimed at enhancing intra-EAC trade and investment in goods and services.
+L221: 
+L222:  L223: ###  L224: 
+L225: The  aims to advance digital market integration in the region by increasing affordable access to broadband connectivity and enhancing cross-border digital services.
+L226: 
+L227:  L228: ###  L229: 
+L230: Seamless migration of the  during transposition of Harmonized System (HS); administration and management of the Duty Remission Scheme; and other measures affecting implementation of CET.
+L231: 
+L232:  L233: ###  L234: 
+L235:  is a border facility that combines two stops for national border control processing into one and consolidates border control functions in a shared space for exiting one country and entering another.
+L236: 
+L237:  L238: ###  L239: 
+L240: The  will facilitate dialogue between the EAC and its diaspora community, provide a platform for networking and business opportunities, and support diaspora-led development projects in the region.
+L241: 
+L242:  L243: 
+L244: * * *
+L245: 
+L246: EAC VISION 2050 - Pillars & Goals
+L247: 
+L248: ###  L249: 
+L250: Access to afforable and efficient transport, energy, and communication for increased regional Competitiveness.
+L251: 
+L252:  L253: ###  L254: 
+L255: Enhanced Agricultural productivity for food security and transformed rural economy.
+L256: 
+L257:  L258: 
+L259: ###  L260: 
+L261: Structural tranformation of the industrial and manufacturing sector through value addition and product deversification based on comparative advantage for regional competitive advantage.
+L262: 
+L263:  L264: ###  L265: 
+L266: Effective and sustainable use of natural resources with enhanced value addition and management.
+L267: 
+L268:  L269: 
+L270: ###  L271: 
+L272: Leverage on the tourism and services value chain and building on the homogeneity of regional cultures and linkages.
+L273: 
+L274:  L275: 
+L276:  L277: ### Human Capital Development
+L278: 
+L279: Well-educated and healthy human resources.
+L280: 
+L281: Timeline of East African Regional Integration
+L282: 
+L283:   * 1897 - 1901
+L284:   * 1900 - 1917
+L285:   * 1905 - 1917
+L286:   * 1946
+L287:   * 1948 - 1961
+L288:   * 1961
+L289:   * 1967
+L290:   * 1977
+L291:   * 1999
+L292:   * 2005
+L293:   * 2007
+L294:   * 2010
+L295:   * 2013
+L296:   * 2016
+L297:   * 2017
+L298:   * 2022
+L299:   * 2023
+L300:   * 2024
+L301: 
+L302:  L303: 
+L304: ### 1897 - 1901
+L305: 
+L306: Railway lines across Kenya, Uganda and Tanganyika open up the region for colonial development under the management of the East African Railways Cooperation.
+L307: 
+L308:  L309: ### 1900 - 1917
+L310: 
+L311: Customs for goods destined for Uganda are collected at Mombasa port, and a full Customs Union comprising Kenya, Uganda and, later, Tanganyika is established in 1917.
+L312: 
+L313:  L314: 
+L315: ### 1905 - 1917
+L316: 
+L317: The East African Currency Board, the Postal Union, the Court of Appeal for Eastern Africa, the East African Governors’ Conference, the East African Income Tax Board and the Joint Economic Council are established.
+L318: 
+L319:  L320: ### 1946
+L321: 
+L322: The East African Airways Corporation is incorporated. It covered not only the East African region, but operated across Africa, connecting also to Europe and India.
+L323: 
+L324:  L325: 
+L326: ### 1948 - 1961
+L327: 
+L328: The East African High Commission (EACH) is the coordinating body to deal with a customs union, a common external tariff, currency and post- age; and also with common services in transport and communications, research and education.
+L329: 
+L330:  L331: ### 1961
+L332: 
+L333: Following independence, the East African High Commission is replaced by the East African Common Services Organisation (EACSO), which many observers thought would lead to a political federation between the three territories. However, the new organisation suffered from a lack of joint planning and fiscal policy, separate political policies and Kenya’s dominant economic position.
+L334: 
+L335:  L336: 
+L337: ### 1967
+L338: 
+L339: Signing of the ‘Treaty for East African Cooperation’ among Kenya, Uganda and Tanzania.
+L340: ### 1977
+L341: 
+L342: Dissolution of the first East African Community.
+L343: 
+L344:  L345: 
+L346: ### 1999
+L347: 
+L348: The Treaty for the Establishment of the East African Community was signed by the three Presidents of the Republic of Kenya, Republic of Uganda and the United Republic of Tanzania on 30th November, 1999. 30th November is recognized as EAC Day across the region.
+L349: 
+L350:  L351: 
+L352: ### 2005
+L353: 
+L354: The Protocol for the establishment of the EAC Customs Union was signed on 1st July, 2005.
+L355: 
+L356:  L357: ### 2007
+L358: 
+L359: The Republic of Rwanda and the Republic of Burundi were admitted and became full members of EAC on 1st July, 2007.
+L360: 
+L361:  L362: 
+L363: ### 2010
+L364: 
+L365: The EAC Common Market Protocol entered into force on 1st July, 2010, an expansion of the bloc’s existing Customs Union.
+L366: 
+L367:  L368: ### 2013
+L369: 
+L370: The East African Monetary Union (EAMU) is the third milestone of the EAC integration process. The EAMU Protocol was signed on 30th November, 2013 and set the groundwork for a monetary union within 10 years while allowing the EAC Partner States to progressively converge their currencies into a single currency in the Community.
+L371: 
+L372:  L373: 
+L374: ### 2016
+L375: 
+L376: The Republic of South Sudan was admitted and became a full member of EAC on 5th September, 2016.
+L377: 
+L378:  L379: ### 2017
+L380: 
+L381: On 20th May, 2017, the EAC Heads of State adopted the Political Confederation as a transitional model of the East African Political Federation.
+L382: 
+L383:  L384: 
+L385: ### 2022
+L386: 
+L387: The Democratic Republic of the Congo (DRC), is admited to the EAC and becomes a full member on 11 July, 2022.
+L388: 
+L389:  L390: 
+L391: ### 2023
+L392: 
+L393: The Federal Republic of Somalia is admited to the EAC and aceedes to the EAC Treaty on 15 December, 2023.
+L394: 
+L395:  L396: ### 2024
+L397: 
+L398: The Federal Republic of Somalia deposits her Instrument of Ratification of the EAC Treaty and becomes a full member of the Community on 4 March, 2024
+L399: 
+L400: * * *
+L401: 
+L402: # East Africa Community
+L403: 
+L404: EAC Close
+L405: Afrika Mashariki Road
+L406: P.O. Box 1096
+L407: Arusha
+L408: United Republic of Tanzania
+L409: 
+L410:   * Tel:
+L411: 
+L412: +255 (0)27 216 2100
+L413: 
+L414:   * Fax:
+L415: 
+L416: +255 (0)27 216 2190
+L417: 
+L418:   * Email:
+L419: 
+L420: This email address is being protected from spambots. You need JavaScript enabled to view it. ( eac@eachq.org)
+L421: ### Quick Guide:
+L422: 
+L423:   *  L424:   *  L425:   *  L426:   *  L427:   *  L428: 
+L429: ### Opportunities:
+L430: 
+L431:   *  L432:   *  L433:   *  L434:   *  L435:   *  L436:   *  L437: ### Tools & Services:
+L438: 
+L439:   *  L440:   *  L441:   *  L442:   *  L443:   *  L444:   *  L445:   *  L446:   *  L447: ### Help & Support:
+L448: 
+L449:   *  L450:   *  L451:   *  L452:   *  L453:   *  L454:   *  L455: 
+L456: ### Follow Us
+L457: 
+L458:   *   *   *   *   *  L459:   *  L460:   *  L461:   *  L462:   *  L463:   * Send us feedback (eac@eachq.org)
+L464: 
+L465: * * *
+L466: 
+L467: © 1999 - East Africa Community. All rights reserved.

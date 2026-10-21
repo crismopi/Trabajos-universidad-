@@ -1,0 +1,14 @@
+Fecha de captura: 2026-10-21
+Método: navegación y/o resultados indexados. Texto posiblemente parcial; no es el documento original. Los lotes pueden contener resultados no pertinentes. Comprobar URL y registro de verificación antes de utilizar datos.
+
+Internal Error ()
+ [wordlim: 200] Source: open({"ref_id":"https://unctad.org/system/files/official-document/wir2026_en.pdf","lineno":null}); Total lines: 1
+L0: Failed to fetch https://unctad.org/system/files/official-document/wir2026_en.pdf: (403) Forbidden
+--------------------------------------------------------------------------------
+Internal Error ()
+ [wordlim: 200] Source: open({"ref_id":"https://unctad.org/topic/investment/world-investment-report","lineno":null}); Total lines: 1
+L0: Failed to fetch https://unctad.org/topic/investment/world-investment-report: (403) Forbidden
+--------------------------------------------------------------------------------
+Internal Error ()
+ [wordlim: 200] Source: open({"ref_id":"https://www.knbs.or.ke/reports/2026-economic-survey/","lineno":null}); Total lines: 1
+L0: Failed to fetch https://www.knbs.or.ke/reports/2026-economic-survey/: (400) Timeout fetching

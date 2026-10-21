@@ -1,0 +1,433 @@
+FUENTE 06: Banco Mundial, Economic Update 2022
+URL original: https://documents1.worldbank.org/curated/en/099430006062288934/pdf/P17496106873620ce0a9f1073727d1c7d56.pdf
+Fecha de captura: 2026-10-21
+Tipo: texto extraído por navegador; puede ser parcial. No es el HTML/PDF original.
+Estado: texto_recuperado
+
+World Bank Document (https://documents1.worldbank.org/curated/en/099430006062288934/pdf/P17496106873620ce0a9f1073727d1c7d56.pdf)
+  Crawled: today; Content type: application/pdf; Number of pages: 58; Source: open({"ref_id":"https://documents1.worldbank.org/curated/en/099430006062288934/pdf/P17496106873620ce0a9f1073727d1c7d56.pdf","lineno":null}); Total lines: 3645
+L0@P0-2: Public Disclosure Authorized Public Disclosure Authorized Public Disclosure Authorized Public Disclosure AuthorizedAiming High: Securing Education
+L1@P2-3: to Sustain the Recovery© 2022. World Bank Group
+L2@P3: This work is a product of the staff of The World Bank with external contributions. The findings, interpretations, and conclusions expressed
+L3@P3: in this work do not necessarily reflect the views of The World Bank, its Board of Executive Directors, or the governments they represent.
+L4@P3: The World Bank does not guarantee the accuracy of the data included in this work. The boundaries, colors, denominations, and other
+L5@P3: information shown on any map in this work do not imply any judgment on the part of The World Bank Group concerning the legal
+L6@P3: status of any territory or the endorsement or acceptance of such boundaries.
+L7@P3: Rights and Permissions
+L8@P3: The material in this work is subject to copyright. Because The World Bank Group encourages dissemination of its knowledge, this work
+L9@P3: may be reproduced, in whole or in part, for noncommercial purposes as long as full attribution to this work is given.
+L10@P3: Any queries on rights and licenses, including subsidiary rights, should be addressed to the Office of the Publisher, The World Bank, 1818
+L11@P3-4: H Street NW, Washington, DC 20433, USA; fax: 202-522-2422; e-mail: pubrights@worldbank.org.TABLE OF CONTENTS
+L12@P4: ABBREVIATIONS ............................................................................................................................................................................................................................................................ i
+L13@P4: ACKNOWLEDGEMENTS ............................................................................................................................................................................................................................................ ii
+L14@P4: EXECUTIVE SUMMARY ............................................................................................................................................................................................................................................... iii
+L15@P4: THE STATE OF KENYA’S ECONOMY
+L16@P4: 1. Recent Economic Developments and Outlook ...................................................................................................................................................... 2
+L17@P4: 1.1. The global and regional economic recovery from the pandemic is slowing in the face of multiple pressures, including
+L18@P4: the invasion of Ukraine ........................................................................................................................................................................................................................... 2
+L19@P4: 1.2. The Kenyan economy rebounded in 2021 despite a contraction in agricultural output............................................................................... 2
+L20@P4: 1.3. Monetary policy has been tightened in response to emerging inflationary pressures ................................................................................. 4
+L21@P4: 1.4. The current account deficit is widening following the surge in commodity prices ........................................................................................ 7
+L22@P4: 1.5. A rebalance in government expenditure and a recovery in revenue enabled continued response to the pandemic .............. 8
+L23@P4: 2. Outlook and Risks............................................................................................................................................................................................................. 9
+L24@P4: 2.1. The economic outlook remains highly uncertain and risks to the forecasts are elevated............................................................................. 9
+L25@P4: 2.2. Uncertainty as to the outlook is elevated by existing and new downside risks ................................................................................................. 11
+L26@P4: SPECIAL FOCUS
+L27@P4: 3. Education Spending and Priorities after COVID-19.............................................................................................................................................. 14
+L28@P4: 3.1. Main challenges remaining in the education sector............................................................................................................................................................. 18
+L29@P4: 3.2. COVID-19 impact ........................................................................................................................................................................................................................................ 23
+L30@P4: 3.3. Improving education financing to support reforms and address remaining challenges.............................................................................. 24
+L31@P4: REFERENCES ...................................................................................................................................................................................................................................................................... 28
+L32@P4: ANNEX TABLES ................................................................................................................................................................................................................................................................. 29
+L33@P4: LIST OF TABLES
+L34@P4: Table 1: Medium term growth projections.............................................................................................................................................................................................. 10
+L35@P4: Table 2: Gross domestic product by activity, growth rates............................................................................................................................................................ 11
+L36@P4: Table 3: 12-month cumulative balance of payments....................................................................................................................................................................... 12
+L37@P4: Table 4: Kenya - Fiscal operations (percent of GDP)........................................................................................................................................................................... 13
+L38@P4: LIST OF FIGURES
+L39@P4: Figure 1: Confirmed new cases and deaths have plummeted since the end of the Omicron wave .................................................................. 3
+L40@P4: Figure 2: Private consumption and investment were the major contributors to growth............................................................................................ 3
+L41@P4: Figure 3: Transport equipment led the surge in investment (contribution to investment growth) ..................................................................... 3
+L42@P4: Figure 4: Services drove the economic recovery in 2021 (contribution to real GDP growth, percentage points)....................................... 4
+L43@P4: Figure 5: …but with dispersion within subsectors (real value added in 2021 indexed at 2019=100)................................................................. 4
+L44@P4: Figure 6: Headline inflation remains within the CBK band.............................................................................................................................................................. 5
+L45@P4: Figure 7: Food inflation has picked up ......................................................................................................................................................................................................... 5
+L46@P4: Figure 8: Domestic fuel prices inflation has picked up in recent months…........................................................................................................................ 5
+L47@P4: Figure 9: …as domestic retail fuel prices have recently been increased due to higher global market prices .............................................. 5
+L48@P4: Figure 10: Tourist arrivals have increased considerably but remain below pre-COVID levels (number) ............................................................... 7
+L49@P4: Figure 11: The nominal and real effective exchange rates have recently been on a depreciating trend, facilitating economic
+L50@P4: adjustment to global shocks (an increase indicates depreciation)........................................................................................................................ 8
+L51@P4-5: Figure 12: The recent increased uptake of concessional borrowing has reduced the share of commercial debt ......................................... 9Figure 13: Summary of recommendations............................................................................................................................................................................................... 16
+L52@P5: Figure 14: Trends in gross enrollment rates, 2012-2019................................................................................................................................................................... 17
+L53@P5: Figure 15: Pupils passing minimum proficiency threshold scores in class 3, 2016-18 .................................................................................................. 17
+L54@P5: Figure 16: Learning adjusted years of schooling and GDP per capita, 2020 ...................................................................................................................... 17
+L55@P5: Figure 17: Government expenditure on education as a share of GDP and TGE, 2020.................................................................................................. 18
+L56@P5: Figure 18: Government expenditure on education, total (% of GDP), 2019........................................................................................................................ 18
+L57@P5: Figure 19: Survival rates in primary and secondary education, 2020....................................................................................................................................... 18
+L58@P5: Figure 20: Students reaching minimum competency level, by subject and grade, 2018-19................................................................................... 18
+L59@P5: Figure 21: Learning Adjusted Years of Education by county, 2020............................................................................................................................................ 19
+L60@P5: Figure 22: Map of Learning Adjusted Years of Education by county, 2020........................................................................................................................... 19
+L61@P5: Figure 23: Learning outcomes decomposition for Grade 7 and Form 2................................................................................................................................ 20
+L62@P5: Figure 24: Rate of non-enrollment by age and gender.................................................................................................................................................................... 20
+L63@P5: Figure 25: Percentage difference in the share of students meeting minimum learning standards by gender, subject and grade 21
+L64@P5: Figure 26: Average student to teacher ratios and teacher to classroom ratio by county, 2019.............................................................................. 22
+L65@P5: Figure 27: Student to teacher ratios and learning outcomes, 2019.......................................................................................................................................... 22
+L66@P5: Figure 28: Total amount of capitation grants, 2017-2021................................................................................................................................................................ 23
+L67@P5: Figure 29: Share of students by level of proficiency, 2019-20....................................................................................................................................................... 24
+L68@P5: LIST OF BOXES
+L69@P5: Box 1: The impact of global commodity price shocks on Kenya’s inflation rate ......................................................................................... 6
+L70@P5-6: Box 2: Households' continued recovery from the COVID-19 pandemic and coping mechanisms..................................................................... 14June 2022 | Edition No. 25 i
+L71@P6: ABBREVIATIONS
+L72@P6: AIDS Acquired Immunodeficiency Syndrome
+L73@P6: ASAL Arid and Semi-Arid Lands
+L74@P6: CDF Constituency Development Fund
+L75@P6: CBC Competency Based Curriculum
+L76@P6: CBK Central Bank of Kenya
+L77@P6: COVID-19 Coronavirus Disease of 2019
+L78@P6: CPI Consumer Price Index
+L79@P6: DSA Debt Sustainability Analysis
+L80@P6: DSSI Debt Service Suspension Initiative
+L81@P6: ECF Extended Credit Facility
+L82@P6: EFF Extended Fund Facility
+L83@P6: EGMA Early Grade Mathematics Assessment
+L84@P6: EPRA Energy and Petroleum Regulatory Authority
+L85@P6: EYS Expected Years of School
+L86@P6: FDI Foreign Direct Investment
+L87@P6: FY Financial Year
+L88@P6: GDP Gross Domestic Product
+L89@P6: GER Gross Enrolment Rate
+L90@P6: GoK Government of Kenya
+L91@P6: H1 First Half
+L92@P6: H2 Second Half
+L93@P6: HCI Human Capital Index
+L94@P6: HIV Human Immunodeficiency Virus
+L95@P6: ICT Information and Communications
+L96@P6: Technology
+L97@P6: IDA International Development Association
+L98@P6: IFMIS Integrated Financial Management
+L99@P6: Information System
+L100@P6: IMF International Monetary Fund
+L101@P6: IPC Integrated food security Phase
+L102@P6: Classification
+L103@P6: KCSE Kenya Certificate of Secondary Education
+L104@P6: KEU Kenya Economic Update
+L105@P6: KES Kenyan Shilling
+L106@P6: KNBS Kenya National Bureau of Statistics
+L107@P6: LAYS Learning Adjusted Years of Education
+L108@P6: MLA Monitoring Learner Achievement
+L109@P6: MoE Ministry of Education
+L110@P6: MPC Monetary Policy Committee
+L111@P6: NASMLA National Assessment System for Monitoring
+L112@P6: Learning Achievement
+L113@P6: NER Net Enrolment Rate
+L114@P6: NPLs Non-Performing Loans
+L115@P6: PER Public Expenditure Review
+L116@P6: PFM Public Financial Management
+L117@P6: PIM Public Investment Management
+L118@P6: PMI Purchasing Managers’ Index
+L119@P6: RBF Results Based Financing
+L120@P6: SAGA Semi-Autonomous Government Agencies
+L121@P6: SDR Special Drawing Rights
+L122@P6: STEM Science, Technology, Engineering and Math
+L123@P6: STR Student Teacher Ratio
+L124@P6: TARL Teaching at the Right Level
+L125@P6: TGE Total Government Expenditure
+L126@P6: TSC Teachers Service Commission
+L127@P6: Q1 First Quarter
+L128@P6: Q2 Second Quarter
+L129@P6: Q3 Third Quarter
+L130@P6: Q4 Fourth Quarter
+L131@P6: SSA Sub-Saharan Africa
+L132@P6: TVET Technical and Vocation Education
+L133@P6: and Training
+L134@P6: US United States
+L135@P6: USD United States dollar
+L136@P6: WTI West Texas Intermediate
+L137@P6: VAT Value-added tax
+L138@P6-7: y/y Year-on-Yearii June 2022 | Edition No. 25
+L139@P7: ACKNOWLEDGEMENTS
+L140@P7: The Kenya Economic Update (KEU) is a World Bank report series produced twice a year that assesses recent economic
+L141@P7: and social developments and prospects in Kenya, and places these in a longer-term and global context. Through special
+L142@P7: topics, the KEU also examines selected policy issues and medium-term development challenges in Kenya. It is intended
+L143@P7: for a wide audience, including policymakers, business leaders, financial market participants, and the community of
+L144@P7: analysts and professionals engaged in Kenya’s changing economy.
+L145@P7: The production of the KEU is led by the Macroeconomics, Trade and Investment (MTI) Global Practice team for Kenya.
+L146@P7: Part 1 (Recent Economic Developments and Outlook) was produced by Naomi Mathenge, Tasneem Alam Ghauri,
+L147@P7: Celina Mutie, Alex Sienaert and Angélique Umutesi (all MTI) with inputs from Alastair Haynes (EAEPV). Part 2 (Special
+L148@P7: Topic on Education) was produced by Pedro Cerdan-Infantes (Senior Economist, HAEE2), and Natasha De Andrade
+L149@P7: Falcao (Economist, HAEE2). The special topic includes analysis and materials from the forthcoming report “Module 2
+L150@P7: Public Expenditure Review in Kenya”. Anne Khatimba provided logistical support, Keziah Muthembwa and Vera Rosauer
+L151@P7: managed communication and dissemination, and Robert Waiharo designed the report. The report benefited from peer
+L152@P7: reviews by Nobuyuki Tanaka (Economist, HEDGE) and Sergiy Kasyanenko (Economist, EPGDR).
+L153@P7: The report was prepared under the overall guidance of Vivek Suri (Practice Manager, EAEM1), Muna Salih (Practice
+L154@P7: Manager, HAEE2), Philip Schuler (Lead Economist, EA1M1), Allen Dennis (Program Leader, EAEDR), Asad Alam (Regional
+L155@P7: Director, EAEDR), Keith Hansen (Country Director, AECE2) and Camille Lampart Nuamah (Manager, Operations, AECE2).
+L156@P7: The report benefited from valuable regular discussions with officials at the National Treasury, Central Bank of Kenya, and
+L157@P7: the Kenya National Bureau of Statistics. The team also thanks Tobias Rasmussen (Resident Representative for Kenya), and
+L158@P7: the full International Monetary Fund staff team for Kenya for their excellent ongoing collaboration.
+L159@P7: The findings, interpretations, and conclusions expressed in this report do not necessarily reflect the views of the Executive
+L160@P7: Directors of the World Bank or the governments they represent. The World Bank does not guarantee the accuracy of the
+L161@P7: data included in this work. The boundaries, colors, denominations, and other information shown on any map in this work
+L162@P7: do not imply any judgment on the part of the World Bank concerning the legal status of any territory or the endorsement
+L163@P7: or acceptance of such boundaries.
+L164@P7: For questions about this report please email nmathenge@worldbank.org and asienaert@worldbank.org.
+L165@P7-8: For information about the World Bank and its activities in Kenya, please visit: https://www.worldbank.org/en/country/kenyaJune 2022 | Edition No. 25 iii
+L166@P8: EXECUTIVE SUMMARY
+L167@P8: Kenya managed to contain the health and economic
+L168@P8: impacts of multiple COVID-19 waves in 2021, helped
+L169@P8: by targeted containment measures and progress
+L170@P8: on vaccination, but is now facing a potentially large
+L171@P8: economic shock from the war in Ukraine.
+L172@P8: Kenya’s economy has staged a remarkable recovery from
+L173@P8: the worst economic effects of the pandemic. Real GDP
+L174@P8: increased by 7.5 percent in 2021, higher than the estimated
+L175@P8: growth in Sub-Saharan Africa of 4 percent. This growth was
+L176@P8: driven by the recovery of the services sector and expansion
+L177@P8: in industrial output. By contrast, the agriculture sector’s
+L178@P8: output contracted by 0.2 percent in 2021, affected by
+L179@P8: drought conditions in the arid and semi-arid lands (ASAL).
+L180@P8: Kenya’s economic performance remained strong in
+L181@P8: the early months of 2022 but external challenges have
+L182@P8: mounted. Kenya’s exposure to the war in Ukraine through
+L183@P8: direct trade linkages is moderate, with Russia and Ukraine
+L184@P8: accounting for only 2.1 percent of total goods trade
+L185@P8: between 2015 and 2020. Similarly, tourists from Ukraine
+L186@P8: and Russia do not account for a significant share of Kenya’s
+L187@P8: tourism market. However, the economy is vulnerable
+L188@P8: to the commodity price shocks resulting from the war,
+L189@P8: particularly through fuel, fertilizer, wheat and other food
+L190@P8: imports. Global financial conditions have also tightened
+L191@P8: sharply, increasing external financing costs.
+L192@P8: The Central Bank of Kenya reoriented its accommodative
+L193@P8: monetary policy in view of elevated risks to the inflation
+L194@P8: outlook. The Central Bank Rate has been raised by 50
+L195@P8: basis points (bps) to 7.5 percent in response to emerging
+L196@P8: inflationary pressures from the surge in global commodity
+L197@P8: prices and supply chain disruptions. Headline inflation
+L198@P8: eased from Q4 2021 through February 2022 (5.1 percent
+L199@P8: y/y), helped by a 15 percent electricity tariff cut. However,
+L200@P8: inflation subsequently increased sharply to 7.1 percent
+L201@P8: y/y in May 2022 as domestic food prices, and fuel prices
+L202@P8: (in March to May), increased following the surge in global
+L203@P8: commodity prices due to the war in Ukraine. The impact
+L204@P8: of the global oil price shock on domestic prices has been
+L205@P8: cushioned by government subsidies.
+L206@P8: A strong recovery in revenues has supported fiscal
+L207@P8: performance but this is now being countered by the
+L208@P8: cost of subsidizing fuel. The rebound in economic activity
+L209@P8: and ongoing tax reforms and revenue administration
+L210@P8: improvements have boosted revenue collection. Revenue
+L211@P8: in the current fiscal year through Q3 remained on target and
+L212@P8: performed above the previous year’s outturn (12.3 percent
+L213@P8: of GDP in Q3 2021/22 against a target of 11.2 percent of
+L214@P8: GDP in Q3 2020/21). As a result, the fiscal deficit in Q3
+L215@P8: FY2021/22 shrank to 3.9 percent of full-year GDP from 4.4
+L216@P8: percent a year earlier. However, the limited passthrough of
+L217@P8: higher international oil prices to consumers is generating
+L218@P8: fiscal costs, with the total monthly cost of subsidizing fuel
+L219@P8: estimated to be approximately US$66 million.
+L220@P8: Looking ahead, economic growth is expected to
+L221@P8: moderate in 2022 with real GDP projected to grow by 5.5
+L222@P8: percent in 2022 and 5.2 percent on average in 2023–24.
+L223@P8: Offsetting the continued recovery from the pandemic is
+L224@P8: the impact of the war in Ukraine, which has clouded the
+L225@P8: outlook for the global economic recovery. Domestically,
+L226@P8: a key risk to the outlook is a further worsening of the
+L227@P8: current drought, which is having a devastating effect
+L228@P8: on food security and livelihoods in affected parts
+L229@P8: of the country and is necessitating increased social
+L230@P8: spending on food assistance. For example, using the
+L231@P8: Integrated Food Security Phase Classification (IPC), it is
+L232@P8: estimated that 3.1 million Kenyans (out of 13.6 million)
+L233@P8: living in ASAL counties are food insecure. The baseline
+L234@P8: projections assume that the country will receive below
+L235@P8: average rains that will negatively affect agricultural
+L236@P8: performance and also account for the downside effects
+L237@P8: of the ongoing war in Ukraine through increased global
+L238@P8: commodity prices.
+L239@P8: One sector is critical to achieving Kenya’s development
+L240@P8: goals, accounts for a large share of government
+L241@P8: spending, and was hit hard by the COVID-19 pandemic:
+L242@P8: education. Accordingly, the special topic of this Kenya
+L243@P8: Economic Update (KEU) is the performance and financing
+L244@P8: of the education sector, drawing on a forthcoming World
+L245@P8: Bank Public Expenditure Review (PER) on education. It
+L246@P8: examines the impressive improvements which Kenya
+L247@P8: has achieved in education outcomes, the remaining
+L248@P8: challenges in the sector including charting a successful
+L249@P8: recovery from the pandemic, and how the allocation of
+L250@P8-9: resources can contribute to resolving these.iv June 2022 | Edition No. 25
+L251@P9: Executive Summary
+L252@P9: Kenya has significantly improved education outcomes.
+L253@P9: Gross enrollment rates have increased to 78 percent in
+L254@P9: early-childhood education and 70 percent in secondary
+L255@P9: education (whilst remaining above 100 percent in
+L256@P9: primary). Combining access and learning into LearningAdjusted Years of Education (LAYS) shows that Kenya is
+L257@P9: above what is expected by its level of income; a child in
+L258@P9: Kenya completes, on average, 11.6 years of education,
+L259@P9: which, when adjusted by the level of learning relative to
+L260@P9: other countries, results in 8.4 effective years of schooling.
+L261@P9: This is the highest LAYS in Africa. While Kenya does well for
+L262@P9: its level of income, this does not mean that Kenya should
+L263@P9: not aim to further improve both access and, especially,
+L264@P9: quality of education in order to improve the LAYS and the
+L265@P9: World Bank’s Human Capital Index (HCI), which measures
+L266@P9: the level of development of human capital in a country.
+L267@P9: The HCI has shown strong correlation with both economic
+L268@P9: growth and equity.
+L269@P9: The COVID-19 pandemic has resulted in learning losses
+L270@P9: and deepened inequalities in the education sector.
+L271@P9: Around 17 million students and more than 320,000
+L272@P9: teachers were affected by the closure of 30,000 primary
+L273@P9: and secondary schools during 2020. The partial reopening
+L274@P9: of schools began in October 2020, for students in grades 4,
+L275@P9: 8 and 12. In January 2021, all basic and tertiary education
+L276@P9: institutions fully reopened. Efforts to provide remote
+L277@P9: learning revealed a significant digital divide, with over 50
+L278@P9: percent of students not being able to engage in remote
+L279@P9: learning opportunities mainly due to lack of devices,
+L280@P9: electricity and internet connectivity. There was significant
+L281@P9: disruption to capital spending and to preparations for the
+L282@P9: new Competency Based Curriculum (CBC).
+L283@P9: The government now faces the challenge of ensuring
+L284@P9: that the pandemic does not leave lasting scars
+L285@P9: through its education effects, and to tackle the
+L286@P9: remaining medium-term challenges. Key structural
+L287@P9: challenges include increasing the enrollment in postprimary education, improving learning outcomes, and
+L288@P9: reducing deep inequalities. As Kenya already spends a
+L289@P9: comparatively high share of resources on education,
+L290@P9: meeting these challenges will require ensuring that
+L291@P9: resource allocations remain adequate, and improving
+L292@P9: equity and efficiency in the use of resources. In particular,
+L293@P9: continuing and accelerating the improvements in the
+L294@P9: sector will depend on providing adequate resources
+L295@P9: to achieve sector objectives and implement ambitious
+L296@P9: reforms; equitable allocation of resources where they
+L297@P9: are most needed and are likely to have the most impact;
+L298@P9: and efficiency through improvements in management
+L299@P9: practices at the school level, improving the management
+L300@P9: at the local level and providing extra support for regions
+L301@P9: with the most difficulties.
+L302@P9: With continued efforts, Kenya can build on the strong
+L303@P9: foundations of its education system by continuing to
+L304@P9: improve access to and the quality of education, equipping
+L305@P9: it to be a driver of growth towards becoming an upper
+L306@P9: middle-income country, and reducing inequalities.
+L307@P9: A strong recovery
+L308@P9: in revenues has
+L309@P9: supported fiscal
+L310@P9: performance
+L311@P9: but this is now
+L312@P9: being countered
+L313@P9: by the cost of
+L314@P9: subsidizing fuel
+L315@P9-10: Photo: © Billy Kipyegon Mutai | World BankThe State of Kenya’s Economy
+L316@P10-11: Photo: © Billy Kipyegon Mutai | World BankThe State of Kenya’s Economy
+L317@P11: 2 June 2022 | Edition No. 25
+L318@P11: 1. Recent Economic Developments and Outlook
+L319@P11: 1.1. The global and regional economic
+L320@P11: recovery from the pandemic is slowing in
+L321@P11: the face of multiple pressures, including
+L322@P11: the invasion of Ukraine1
+L323@P11: The global economy’s recovery from the COVID-19
+L324@P11: pandemic is losing steam as it faces a series of shocks.
+L325@P11: The global economy is estimated to have rebounded by 5.5
+L326@P11: percent in 2021 and prior to the Russian invasion of Ukraine
+L327@P11: was projected to grow by 4.1 percent. Pent-up demand
+L328@P11: for goods and constrained supply responses due to the
+L329@P11: lingering effects of the pandemic led to a broad-based
+L330@P11: increase in the prices of commodities and other input
+L331@P11: prices. Given the strong recovery in demand, major central
+L332@P11: banks started to gradually withdraw the unprecedented
+L333@P11: monetary policy stimulus deployed at the onset of the
+L334@P11: pandemic. Russia’s invasion of Ukraine in February 2022
+L335@P11: adds new headwinds through rising commodity prices,
+L336@P11: tighter financing conditions, trade and travel disruptions,
+L337@P11: new movements of migrants and refugees, and generally
+L338@P11: increased economic volatility. These forces are weighing on
+L339@P11: economic activity and leading to additional inflation and
+L340@P11: fiscal pressures, thus posing challenges to policymakers
+L341@P11: worldwide. Weighed down by the war in Ukraine and
+L342@P11: China’s recent COVID-related lockdowns, global growth is
+L343@P11: projected to fall to 3.2 percent in 2022. The global outlook
+L344@P11: remains highly uncertain and will depend on the duration
+L345@P11: and severity of the war. New coronavirus variants and
+L346@P11: outbreaks of COVID-19 also pose continuing risks to global
+L347@P11: economic activity.
+L348@P11: The economic recovery in Sub-Saharan Africa (SSA)
+L349@P11: has decelerated amid high volatility and uncertainty
+L350@P11: of external economic and financial conditions. In SubSaharan Africa, many countries’ economies are struggling to
+L351@P11: gain momentum amid the slowdown in global economic
+L352@P11: activity, continued supply constraints, high inflation, and
+L353@P11: rising fiscal risks due to high debt levels. The pace of
+L354@P11: economic growth in the region is expected to moderate
+L355@P11: in 2022, expanding by 3.6 percent, down from 4 percent
+L356@P11: in 2021.
+L357@P11: Kenya faces a potentially large economic shock from
+L358@P11: the war in Ukraine. Kenya’s exposure through direct
+L359@P11: trade linkages appears moderate, with Russia and Ukraine
+L360@P11: accounting for 2.1 percent of Kenya’s total goods trade
+L361@P11: between 2015 and 2020. Similarly, tourists from Ukraine
+L362@P11: and Russia do not account for a significant share of Kenya’s
+L363@P11: tourism market. However, the economy is vulnerable to
+L364@P11: commodity price shocks resulting from the war in Ukraine.
+L365@P11: Kenya is a net oil importer; imports of refined fuel products
+L366@P11: amounted to $3.2 billion in 2021 (15% of total imports).
+L367@P11: Increased global prices are putting upward pressure on
+L368@P11: headline CPI, increasing the fiscal costs of fuel subsidies,
+L369@P11: and leading to a deterioration of the current account
+L370@P11: balance. The latter is also likely to be adversely affected by
+L371@P11: weaker global demand and tourism from advanced and
+L372@P11: developing countries. The impact of higher oil prices is
+L373@P11: not only limited to a rise in the import bill but would also
+L374@P11: extend to increased cost of production and transportation
+L375@P11: impacting the utilities, manufacturing and services sectors.
+L376@P11: Increased world prices for wheat products (2.3 percent of
+L377@P11: total imports) and spillovers to other food products could
+L378@P11: have adverse effects on inflation and food security. Higher
+L379@P11: prices for fertilizer (1.2 percent of total imports) could
+L380@P11: weigh on agricultural output.
+L381@P11: 1.2. The Kenyan economy rebounded
+L382@P11: in 2021 despite a contraction in
+L383@P11: agricultural output
+L384@P11: Kenya managed to contain the health and economic
+L385@P11: impacts of multiple COVID-19 waves in 2021, helped
+L386@P11: by targeted containment measures and progress on
+L387@P11: vaccination. The Delta and Omicron COVID-19 variant
+L388@P11: waves of the pandemic had only a relatively modest impact
+L389@P11: on economic activity. Mobility levels remained above the
+L390@P11: pre-pandemic baseline for most of the year. While the
+L391@P11: number of daily confirmed COVID-19 cases jumped with
+L392@P11: the onset of each wave (reaching a record high of 3,749
+L393@P11: in late December 2021 during the Omicron wave), the
+L394@P11: number of daily new deaths remained relatively low and
+L395@P11: has sharply declined since September 2021, with just four
+L396@P11: deaths reported since mid-March 2022 (Figure 1). This was
+L397@P11: supported by a pickup in the vaccine rollout following
+L398@P11: improvement in vaccine availability since September 2021.
+L399@P11: As of May 30, 2022, Kenya had received a total of 35.1
+L400@P11: million vaccines (sufficient to cover about 58 percent of the
+L401@P11: adult population), with 18.2 million doses administered.
+L402@P11: However, the dramatic recent declines in confirmed cases
+L403@P11: 1 This section draws on World Bank, Africa’s Pulse, April 2022.
+L404@P11: 2 World Bank, Global Economic Prospects, January 2022.
+L405@P11-12: 3 Spring Meetings 2022 Media Roundtable Opening Remarks by World Bank Group President David Malpass.The State of Kenya’s Economy
+L406@P12: June 2022 | Edition No. 25 3
+L407@P12: and deaths may be contributing to vaccine complacency,
+L408@P12: and the vaccination rollout has slowed down in recent
+L409@P12: weeks. According to a recent global survey, the share of
+L410@P12: unvaccinated people in Kenya willing to get vaccinated
+L411@P12: decreased from about 56 percent in December 2021 to
+L412@P12: 40 percent in March 2022.4
+L413@P12:  With roughly 30 percent of
+L414@P12: adults (8.4 million people) having been fully vaccinated
+L415@P12: as of May 30, 2022, it is important to maintain vaccination
+L416@P12: momentum to achieve the government’s target of fully
+L417@P12: inoculating the adult population of about 30 million by the
+L418@P12: end of 2022.
+L419@P12: The economy staged a strong rebound in 2021 and
+L420@P12: output is now well above pre-pandemic levels, but the
+L421@P12: performances of the agriculture and non-agriculture
+L422@P12: sectors have diverged. Real GDP increased by 7.5 percent
+L423@P12: in 2021, driven by a particularly strong recovery of the
+L424@P12: services sector and expansion in industrial output

@@ -1,0 +1,113 @@
+FUENTE 34: FSD Kenya, estudio sobre trabajadores y vivienda
+URL original: https://www.fsdkenya.org/blogs-publications/publications/affordable-housing-access-for-kenyas-formal-workforce-what-pension-data-reveals-and-what-can-work/
+Fecha de captura: 2026-10-21
+Tipo: texto extraído por navegador; puede ser parcial. No es el HTML/PDF original.
+Estado: texto_recuperado
+
+Affordable housing access for Kenya’s formal workforce: What pension data reveals and what can work - Financial Sector Deepening Kenya (FSD Kenya) (https://www.fsdkenya.org/blogs-publications/publications/affordable-housing-access-for-kenyas-formal-workforce-what-pension-data-reveals-and-what-can-work/)
+  Crawled: last month; Content type: text/html; Source: open({"ref_id":"https://www.fsdkenya.org/blogs-publications/publications/affordable-housing-access-for-kenyas-formal-workforce-what-pension-data-reveals-and-what-can-work/","lineno":null}); Total lines: 139
+L0: # Affordable housing finance
+L1: 
+L2: ###### BY:
+L3: 
+L4:  L5: 
+L6: ######  L7: 
+L8:  L9: 
+L10: ######  L11: 
+L12:  L13: 
+L14: ######  L15: 
+L16:  L17: 
+L18: ### Affordable housing access for Kenya’s formal workforce: What pension data reveals and what can work
+L19: ###### May 19th, 2026
+L20: 
+L21: Kenya’s housing challenge is often framed as a supply deficit, but new evidence suggests that the deeper structural issue is affordability, even among formally employed individuals with stable incomes and active pension savings.
+L22: 
+L23: Findings from a study by Zamara and the Centre for Affordable Housing Finance in Africa (CAHF) for Financial Sector Deepening Kenya challenges conventional assumptions about housing finance.
+L24: Demand for housing continues to intensify owing to the country’s population of approximately 51.5 million, which is projected to exceed 70 million by 2045 (KNBS, 2019; World Bank), and urbanisation growing at nearly 4% (World Bank) annually.
+L25: In Nairobi alone, over 60% of residents live in informal settlements occupying just 6% of the land, while more than 70% of households remain renters (UN-Habitat; World Bank). The implication is clear that the issue is not simply access to housing but access to housing that aligns with real household incomes and financial behaviour.
+L26: 
+L27: Kenya’s housing problem is not just about how many houses exist but who can actually afford them.
+L28: 
+L29: Pensions: A powerful tool with untapped potential
+L30: At the centre of the research is a critical question: can pensions meaningfully unlock homeownership? Kenya’s pension sector, valued at approximately KShs 2.5 trillion (Retirement Benefits Authority – RBA), represents one of the largest pools of long-term capital in the economy.
+L31: 
+L32: The Retirement Benefits (General) Regulations of 2009 already allow 60% of pension savings to be used as collateral for housing loans, and pension funds are increasingly being positioned as investors in housing supply.
+L33: However, Zamara and CAHF’s analysis reveals the between potential and reality of uptake of pension-backed housing solutions remains negligible (below 0.1%). This suggests that while pensions improve access to finance, they are not, on their own, sufficient to solve the housing finance challenge. Pensions can open the door to credit, but they cannot change what households can afford to repay.
+L34: 
+L35: The income reality: A data-driven perspective on how income not credit defines affordability
+L36: Using anonymised pension member data and market benchmarks, the research provides a clear lens into affordability.
+L37: 
+L38: For a typical formally employed Kenyan earning a gross monthly income of KShs 120,000, only about 30% of income (KShs 36,000) can be sustainably allocated to housing repayments.
+L39: 
+L40: Under KMRC-backed mortgage rates (9.5% over 25 years), this supports a loan size of approximately KShs 4.0 – 4.2 million.
+L41: Under commercial bank rates (12%–14%), affordability drops further to around KShs 3.0 – 3.5 million. Yet, most formal housing units in urban areas are priced at KShs 5 million and above, leaving a persistent affordability gap of KShs 1–2 million.
+L42: 
+L43: This gap exists even before considering other financial obligations, reinforcing a central finding of the study: that income, not lack of access to credit,  is the binding constraint.
+L44: The mortgage paradox: Why qualifying for a loan does not translate into homeownership
+L45: 
+L46: The research also uncovers what can be described as a “mortgage paradox.” While up to 91% of formally employed individuals may technically qualify for a housing loan, only a small fraction can afford meaningful loan sizes in practice.
+L47: As a result, the majority of Kenyans continue to rely on incremental housing development, i.e, purchasing land and constructing gradually using savings, SACCO loans, and informal financing.
+L48: This approach aligns closely with income patterns and reduces financial risk, but it is inherently slow and fragmented, making it insufficient to address Kenya’s estimated 2 million unit housing deficit. In effect, the market has already adapted to affordability constraints even if formal housing finance systems have not.
+L49: 
+L50: Expanding access but not affordability: What pension-backed lending and ZEP-RE Collateral Replacement Indemnity actually solve and what they don’t
+L51: Importantly, the study evaluates the role of emerging financial tools, including pension-backed lending and ZEP-RE’s Collateral Replacement Indemnity (CRI).
+L52: 
+L53: These instruments are effective in addressing access barriers by reducing collateral requirements and lender risk. However, their impact on affordability is limited.
+L54: Even when pension savings are used as collateral or loans are de-risked through CRI, a borrower earning KShs 120,000 remains capped at a monthly repayment of KShs 36,000, translating to a maximum loan of about KShs 4 million. In other words, these tools expand who can borrow but not how much they can afford to repay. This distinction is critical for policymakers and market players seeking scalable solutions.
+L55: 
+L56: From access to alignment: Bridging the gap between pensions, housing supply, and real demand
+L57: The key takeaway from the study is that pensions are a powerful enabler but not a standalone solution.
+L58: 
+L59: Unlocking housing affordability in Kenya requires a deliberate alignment between income levels, housing supply, and financing structures. This means going beyond access to credit and addressing the cost of housing delivery itself through cheaper serviced land, streamlined approvals, and innovative, income-aligned financing models such as incremental and hybrid housing solutions.
+L60: When pensions are integrated into a system that reflects real incomes and delivers housing within reachable price points, they can play a transformative role. Until then, the dream of homeownership for many Kenyans will remain not a question of access but that of affordability.
+L61: 
+L62: * * *
+L63: 
+L64:  .
+L65: ### TAGS
+L66: 
+L67: ### CATEGORIES
+L68: 
+L69:  ,  ,  ,  L70: 
+L71: # FSD Kenya newsletter
+L72: 
+L73: Stay informed with regular updates from FSD Kenya
+L74: 
+L75: [Input: Your First Name]
+L76: 
+L77: [Input: Your Last Name]
+L78: 
+L79: [Input: Email Address*]
+L80: 
+L81: [Input]
+L82: 
+L83: [Input]
+L84: 
+L85: ## Subscribe to our mailing list
+L86: 
+L87: [Input: Your First Name]
+L88: 
+L89: [Input: Your Last Name]
+L90: 
+L91: [Input: Email Address*]
+L92: 
+L93: [Input]
+L94: 
+L95: [Input]
+L96: # Our partners
+L97: 
+L98:   *  L99:   *  L100:   *  L101:   *  L102:   *  L103:   *  L104:   *  L105:   *  L106:   *  L107:   *  L108:   *  L109:   *  L110:   *  L111:   *  L112:   *  L113:   *  L114:   *  L115: 
+L116:   *  L117:   *  L118:   *  L119:   *  L120:   *  L121:   *  L122:   *  L123: 
+L124: Green Suites Palm Suite,
+L125: Riverside, Riverside Drive
+L126: P.O. Box 11353, 00100
+L127: Nairobi, Kenya
+L128: Copyright © 2026 FSD Kenya. All Rights Reserved.
+L129: 
+L130:   L131: 
+L132: We use cookies to improve your website experience and improve more personalized services to you, both on this website and through other media. By continuing to use this website, you agree to our use of cookies as explained in our Cookie Policy.
+L133: 
+L134: [Button: OK, I agree ]
+L135: 
+L136:  L137: 
+L138:  

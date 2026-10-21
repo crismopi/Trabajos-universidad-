@@ -1,0 +1,74 @@
+FUENTE 13: PIDG, anuncio del vehículo
+URL original: https://pidg.org/pidg-anchors-acorns-new-reit-to-finance-affordable-housing-for-kenyas-young-urbanites/
+Fecha de captura: 2026-10-21
+Tipo: texto extraído por navegador; puede ser parcial. No es el HTML/PDF original.
+Estado: texto_recuperado
+
+PIDG anchors Acorn's new REIT to finance affordable housing for Kenya’s young urbanites - PIDG (https://pidg.org/pidg-anchors-acorns-new-reit-to-finance-affordable-housing-for-kenyas-young-urbanites/)
+  Crawled: today; Content type: text/html; Source: open({"ref_id":"https://pidg.org/pidg-anchors-acorns-new-reit-to-finance-affordable-housing-for-kenyas-young-urbanites/","lineno":null}); Total lines: 111
+L0:   * I’m searching for…
+L1: 
+L2:     *  L3:     *  L4:     *  L5:     *  L6:     *  L7: 
+L8:   * About us
+L9: 
+L10:     *  L11:     *  L12:     * Our people
+L13:       *  L14:       *  L15:     * Work together
+L16:       *  L17:       *  L18: 
+L19:   * Solutions
+L20:     *  L21:     *  L22:     *  L23:     *  L24:     * Guarantee Solutions
+L25:       *  L26:       *  L27: 
+L28:   * Impact
+L29:     *  L30:     * Areas of impact
+L31:       *  L32:       *  L33:       *  L34:       *  L35:     *  L36:     *  L37:     *  L38:     *  L39: 
+L40:   *  L41:   * News and insights
+L42: 
+L43:     *  L44:     *  L45:     *  L46:     *  L47: 
+L48:   *  L49: 
+L50:     *  L51:     *  L52:  L53: 
+L54: 17 November 2025
+L55: # PIDG anchors Acorn’s new REIT to finance affordable housing for Kenya’s young urbanites
+L56: 
+L57: Share article:
+L58: 
+L59:  L60: ## Acorn obtains CMA approval for Build-To-Rent Development REIT, backed by KES 2.2 billion to fund affordable housing for young urbanites
+L61: Nairobi, Kenya: Acorn Holdings Limited (“Acorn”) has received authorisation from the Capital Markets Authority (CMA) for the establishment of a Build-To-Rent Development Real Estate Investment Trust (D-REIT) aimed at expanding Kenya’s affordable housing rental market for young urbanites. These are young urban dwellers who have finished schooling and are in the formative years of their adult life.
+L62: The Acorn Build-To-Rent D-REIT (ABTR D-REIT) will offer investors an opportunity to participate in large-scale, professionally managed rental property developments which are targeted at young urbanites who are looking at world-class, yet affordable housing in urban areas.
+L63: To support the establishment of this venture, USD 17 million (KES 2.2 billion) has been committed by three entities among them global multilateral organisation, Private Infrastructure Development Group (PIDG), who have committed USD 10 million (KES 1.3 billion) in equity investment to anchor the new ABRT D-REIT.
+L64: The new investment, made through PIDG’s project development solution, InfraCo, will come in alongside a further USD 2 million (KES 258 million) from Shelter Afrique Development Bank, and USD 5 million (KES 645 million) of equity from Acorn. Stanbic Bank Kenya Limited and SBG Securities Limited acted as the Lead Transaction Advisor.
+L65: Edward Kirathe, CEO of Acorn Holdings Ltd, said, “The launch of the Acorn Build To Rent D-REIT marks another important milestone in our journey to provide urban Africa with rental housing solutions. The ABTR D-REIT will initially focus on providing purpose built rental housing for young urbanites between 20-30 years old who work in the formal and informal business hubs of Nairobi.
+L66: Uniquely, this time around, we will be launching the REIT with upfront committed capital from institutional investors including Acorn, PIDG, and Shelter Afrique Development Bank. The new REIT continues to deepen our participation and innovation in the capital markets and wider Kenyan economy. We are thankful to our investment partners and The Capital Markets Authority for their support in bringing this new REIT to Market.”
+L67: PIDG Head of Investment Management for InfraCo, Claire Jarratt, said, “We are delighted to be building on our strong relationship with the team at Acorn to launch a new product in the Kenyan housing market – a REIT to deliver purpose-built, affordable housing for young, urbanites.
+L68: The initiative will not only enable these individuals to live in closer proximity to their work and social lives, bridging the current gap in provision of suitable homes, but will also develop Kenya’s domestic capital markets, unlocking further capital to scale access to such housing across the city.” Ms Jarratt concluded, “Acorn’s existing portfolio of 20 purpose-built student accommodation properties, all IFC EDGE certified, reflect PIDG’s commitment to developing sustainable and resilient cities in the face of climate impacts.”
+L69: Built to the high standards Acorn has adopted across its student accommodation portfolio, the homes will meet the needs of different market segments, those with higher incomes who find themselves in a mortgage gap, and those for whom more affordable, shared accommodation is needed. Conveniently located close to Nairobi’s key working hubs, the new housing will be green, safe, secure, and affordable.
+L70: In designing these purpose-built accommodation, deliberate attention has been given to the unique needs of young female professionals, who often prioritise not only convenience and lifestyle but also safety and peace of mind in urban living. Features such as secure access systems, and thoughtfully designed private spaces have been integrated to create an environment where women feel protected, empowered, and at home.
+L71: At the same time, the accommodation also embraces the diverse requirements of male urbanites and individuals with disabilities, ensuring that inclusivity, comfort, and dignity remain at the core of the living spaces.
+L72: The buildings will be IFC EDGE certified, a key measure for ensuring that buildings are climate-resilient and resource-efficient. L73: Shelter Afrique Development Bank Managing Director, Mr. Thierno-Habib Hann, said, “It gives us great pleasure as Shelter Afrique Development Bank to announce a US$2 million financing agreement with Acorn Holdings, aimed at expanding sustainable, inclusive, dignified and quality accommodation for young urban professionals for Africa’s future. This initiative is not only timely – it is vital.
+L74: Nairobi is one of Africa’s fastest-growing cities, with a youthful population that is dynamic, entrepreneurial, and increasingly urban. Yet, for too many young professionals – graduates, entry-level employees, entrepreneurs – the search for affordable, well-located, and secure housing remains a daily struggle. This continued partnership with Acorn reflects our firm commitment to bridging that gap.
+L75: Acorn has demonstrated a clear vision and a proven ability to deliver targeted housing solutions that meet the needs of Nairobi’s urban youth. Their track record through Qwetu and Qejani brands has redefined purpose-built student and youth accommodation in East Africa. At Shelter Afrique, we understand that housing is not just about buildings it’s about opportunity.
+L76: When a young professional has access to safe, affordable accommodation near their workplace, they are better positioned to succeed, to innovate, and to contribute meaningfully to society”
+L77: Mr. Hann further applauded Acorn’s innovative financing models, including green bonds and Real Estate Investment Trusts, which continue to raise the bar for transparency, sustainability, and impact in housing development. These are the kinds of innovations that Africa needs – and that Shelter Afrique Development Bank is proud to support.
+L78: The company’s growth has been supported by PIDG since 2019, including a pioneering green bond and two innovative REITs, which have raised USD 31.36m from Kenya’s capital markets to date. The new transaction, aimed at delivering affordable housing for young urbanites, is expected to unlock significant further investment from private and institutional investors to expand Acorn’s portfolio of affordable housing for this underserved market segment.
+L79: The successful establishment of the ABTR D-REIT was made possible through the support of a strong consortium of professional service providers. Stanbic Bank Kenya Limited and SBG Securities Limited served as the Lead Transaction Advisor, NCBA Bank Kenya PLC as the Trustee, TripleOKLaw, Gowling WLG, and Norton Rose Fulbright as the Legal Advisors, Viva Africa Consulting as the Tax Advisor, and PwC as the Reporting Accountant.
+L80: Their collective expertise and guidance were instrumental in structuring and bringing this innovative REIT product to market.
+L81: For media enquiries, please contact:
+L82: 
+L83: Lorna McNae, Senior Communications Manager
+L84: 
+L85:  L86: ## PIDG is an innovative infrastructure development and finance organisation funded by six governments
+L87: 
+L88:       L89: 
+L90:  L91: 
+L92:  L93: ## Sign up to our
+L94: newsletter
+L95: 
+L96:  L97: 
+L98:     L99: 
+L100: Track the development impact of all PIDG-supported projects
+L101: 
+L102:  L103: 
+L104: © PIDG Ltd. 2026. All rights reserved.
+L105: 
+L106:    L107: 
+L108: Follow us:
+L109: 
+L110:  

@@ -1,0 +1,595 @@
+FUENTE 26: InfoTradeKenya, AfCFTA
+URL original: https://infotradekenya.go.ke/menu/895
+Fecha de captura: 2026-10-21
+Tipo: texto extraído por navegador; puede ser parcial. No es el HTML/PDF original.
+Estado: texto_recuperado
+
+InfoTradeKenya (https://infotradekenya.go.ke/menu/895)
+  Crawled: last week; Content type: text/html; Source: open({"ref_id":"https://infotradekenya.go.ke/menu/895","lineno":null}); Total lines: 9473
+L0: Welcome to Kenya's Trade Information Portal More information
+L1: 
+L2: Official Kenya Government website
+L3: 
+L4: A .go.ke website belongs to an official government organization in Kenya. The Kenya Trade Information Portal is managed by the Kenya Trade Network Agency (KenTrade)
+L5: 
+L6: Secure .go.ke websites use HTTPS
+L7: 
+L8: A lock ( ) or https:// means you're safely connected to the .go.ke website.
+L9: 
+L10: Share sensitive information only on official, secure websites.
+L11: 
+L12: Search
+L13:   *  L14:   *  L15:   *  L16:     *  L17:     *  L18:     *  L19:     *  L20:     *  L21:     *  L22:   *  L23:     *  L24:     *  L25:     *  L26:     *  L27:     *  L28:     *  L29:     * The National Electronic Single Window System Act
+L30:     *  L31:     *  L32:     *  L33:   *  L34:     *  L35:     *  L36:     *  L37:   *  L38:     *  L39:     *  L40:     *  L41:     *  L42:     *  L43:     *  L44: Need help?
+L45: 
+L46: Write to us +254 709 950 000
+L47: 
+L48:   *  L49:   *  L50:   * Trade databases
+L51:   * Resources
+L52:   *  L53:   *  L54:   * European Union E-Market
+L55:   * Investment/Trade Related Links
+L56:   *  L57: 
+L58:   * Trade databases
+L59:   *  L60:   *  L61:   *  L62:   *  L63:   *  L64:   *  L65:   * Resources
+L66:   *  L67:   *  L68:   *  L69:   *  L70:   *  L71:   *  L72:   * The National Electronic Single Window System Act
+L73:   *  L74:   *  L75:   *  L76:   * European Union E-Market
+L77:   *  L78:   *  L79:   *  L80:   * Investment/Trade Related Links
+L81:   *  L82:   *  L83:   *  L84:   *  L85:   *  L86:   *  L87: 
+L88: Search by
+L89: 
+L90: [Select]
+L91: 
+L92: [Input] [Input] [Input] [Input] [Input]
+L93: 
+L94: [Input] [Input]
+L95: 
+L96: Choose operation
+L97: 
+L98: Export
+L99: 
+L100: Import
+L101: 
+L102: Transit
+L103: 
+L104: [Input] [Input]
+L105: 
+L106: Select or search product
+L107: Animal embryos (Kijusi cha wanyama)
+L108: 
+L109: Air conditioners
+L110: 
+L111: Wet Blue (Raw hides & skins)
+L112: 
+L113: Organic fertilizers
+L114: 
+L115: Onions
+L116: 
+L117: Finger Millet
+L118: 
+L119: Germplasm
+L120: 
+L121: Live Trees & Other Plants
+L122: 
+L123: beauty Products
+L124: 
+L125: Printed matter
+L126: 
+L127: Beauty Products
+L128: 
+L129: Animal feeds (Vyakula vya wanyama)
+L130: 
+L131: Animal oils (Mafuta ya wanyama)
+L132: 
+L133: Articles of leather (Bidhaa za ngozi)
+L134: 
+L135: Avocados (Parachichi)
+L136: 
+L137: Base & rare metals (Metali za msingi na adimu)
+L138: 
+L139: Basketry (Vikapu)
+L140: 
+L141: Batteries (Betri)
+L142: 
+L143: Beads (Shanga)
+L144: 
+L145: Beans (Maharagwe)
+L146: Beverages (Non-alcoholic & alcoholic) (Vinywaji)
+L147: 
+L148: Bicycles (Baiskeli)
+L149: 
+L150: Biological materials (Vifaa vya kibaolojia)
+L151: 
+L152: Bixa (Annatto)
+L153: 
+L154: Brooms & brushes (Vifagio na brashi)
+L155: 
+L156: Brown sugar (Sukari)
+L157: 
+L158: Bull semen (Shahawa ya ng'ombe)
+L159: 
+L160: Camels (Ngamia)
+L161: 
+L162: Cashew nuts (Njugu)
+L163: 
+L164: Cattle (Ng'ombe)
+L165: 
+L166: Cement (Saruji)
+L167: 
+L168: Cement clinker (Klinka ya saruji)
+L169: 
+L170: Ceramics (Keramik)
+L171: 
+L172: Cereals (Nafaka)
+L173: 
+L174: Coconut (Nazi)
+L175: 
+L176: Coffee (Kahawa)
+L177: 
+L178: Confectionery (Vitamu tamu)
+L179: 
+L180: Construction & industrials minerals (Vifaa vya ujenzi)
+L181: 
+L182: Cooking stoves (Jiko)
+L183: Cornstarch (Wanga wa mahindi)
+L184: 
+L185: Cotton (Pamba)
+L186: 
+L187: Cotton seed cake (Mbegu za pamba)
+L188: 
+L189: Curios (Udadisi)
+L190: 
+L191: Cuttings (Vipandikizi)
+L192: 
+L193: Dogs & cats (Mbwa na paka)
+L194: 
+L195: Eggs & eggs products (Mayai)
+L196: 
+L197: Electrical appliances (Vifaa vya umeme)
+L198: 
+L199: Essential oils & perfumes (Mafuta na manukato)
+L200: 
+L201: Feed additives (Viongeza vya malisho)
+L202: 
+L203: Flowers (Maua)
+L204: 
+L205: Food supplements (Virutubisho vya chakula)
+L206: 
+L207: Forest products (Mazao ya misitu)
+L208: 
+L209: Fruits (Matunda)
+L210: 
+L211: Fuel minerals (Mdini ya mafuta)
+L212: 
+L213: Furnishing Articles
+L214: 
+L215: Furniture (Samani)
+L216: Glassware (Vyombo vya glasi)
+L217: 
+L218: Glucose syrup (Syrup ya glucose)
+L219: 
+L220: Grains (Nafaka)
+L221: 
+L222: Ground nuts (Njugu)
+L223: 
+L224: Gum arabic (Gum ya Kiarabu)
+L225: 
+L226: Herbs (Mimea)
+L227: 
+L228: Hides & skins (Ngozi za wanyama)
+L229: 
+L230: Home appliances (Vifaa vya nyumbani)
+L231: 
+L232: Honey & other apiary products (Asali)
+L233: 
+L234: Horns & hooves (Pembe na kwato)
+L235: 
+L236: Human vaccines (Chanjo za binadamu)
+L237: 
+L238: Industrial coal (Makaa ya mawe ya viwanda)
+L239: 
+L240: Information, Communication & Technology (ICT) devices (Vifaa vya ICT)
+L241: 
+L242: Irish Potatoes (Viazi za Kiayalandi)
+L243: 
+L244: Iron & Steel
+L245: 
+L246: Jewellery (Vito)
+L247: Jojoba (Jojoba)
+L248: 
+L249: Leather (Ngozi)
+L250: 
+L251: Legumes (e.g., Lentils, Chickpeas, Soybeans) (Mazao ya mikunde)
+L252: 
+L253: Licit drugs (Dawa za leseni)
+L254: 
+L255: Linseed (Mbegu ya mkatani)
+L256: 
+L257: Liquified Petroleum Gas (LPG) (Gesi ya petroli Iliyomiminishwa)
+L258: 
+L259: Live fish (Samaki hai)
+L260: 
+L261: Live Poultry (Kuku hai)
+L262: 
+L263: Macadamia nuts (Karanga za makadamia)
+L264: 
+L265: Machinery (Mashine)
+L266: 
+L267: Maize (unmilled) (Mahindi)
+L268: 
+L269: Mangoes (Maembe)
+L270: 
+L271: Meat & meat products (Nyama)
+L272: 
+L273: Medical devices (Vifaa vya matibabu)
+L274: 
+L275: Metal & metal products (Chuma)
+L276: 
+L277: Milk & milk products (Maziwa)
+L278: Miraa (Khat)
+L279: 
+L280: Motor vehicles (Gari)
+L281: 
+L282: Motorcycles (Pikipiki)
+L283: 
+L284: Musical instruments (Vyombo vya muziki)
+L285: 
+L286: Ore slag & ash (Mchanga wa madini na majivu)
+L287: 
+L288: Organic chemicals (Kemikali za kikaboni)
+L289: 
+L290: Palm oil (Mafuta ya mayese)
+L291: 
+L292: Paper & paperboard (Karatasi na ubao wa karatasi)
+L293: 
+L294: Pasta (Tambi)
+L295: 
+L296: Peas (Mbaazi)
+L297: 
+L298: Pesticides (Dawa za wadudu)
+L299: 
+L300: Petroleum products (Bidhaa za petroli)
+L301: 
+L302: Pharmaceutical products (Bidhaa za dawa)
+L303: 
+L304: Pigments, paints & varnishes (Rangi)
+L305: 
+L306: Pigs (Nguruwe)
+L307: Plastic & plastic products (Plastiki na bidhaa za plastiki)
+L308: 
+L309: Plasticware (Vifaa vya plastiki)
+L310: 
+L311: Pneumatic Tires
+L312: 
+L313: Polyacetals (Polima za asetali)
+L314: 
+L315: Precious metals (Madini vya thamani)
+L316: 
+L317: Precious stones (Mawe ya thamani)
+L318: 
+L319: Processed (dry, chilled, or frozen) fish (Samaki wa kusindika)
+L320: 
+L321: Processed foodstuffs (Vyakula vilivyosindikwa)
+L322: 
+L323: Pyrethrum (Pareto)
+L324: 
+L325: Rabbits (Sungura)
+L326: 
+L327: Raw hides & skins (Ngozi mbichi za wanyama)
+L328: 
+L329: Rice (Mchele)
+L330: 
+L331: Roots (e.g., Beets, Carrots, Turnips) (Mazao ya mizizi)
+L332: Rubber footwear (Viatu vya mpira)
+L333: 
+L334: Salt (Chumvi)
+L335: 
+L336: Sanitary towels (Pedi za usafi)
+L337: 
+L338: Secondhand clothes (Nguo za mtumba)
+L339: 
+L340: Seedlings (Miche)
+L341: 
+L342: Seeds (Mbegu)
+L343: 
+L344: Sesame seeds (Mbegu za ufuta)
+L345: 
+L346: Sheep & goats (Kondoo na mbuzi)
+L347: 
+L348: Sisal (Mkonge)
+L349: 
+L350: Soap (Sabuni)
+L351: 
+L352: Soil (Mchanga)
+L353: 
+L354: Solar panels (Paneli za jua)
+L355: 
+L356: Spare parts (Vipuri)
+L357: 
+L358: Spices (Viungo)
+L359: 
+L360: Sunflower (Alizeti)
+L361: 
+L362: Tea (Chai)
+L363: 
+L364: Textiles & textile products (Nguo)
+L365: 
+L366: Tobacco (Tumbaku)
+L367: 
+L368: Tubers (e.g., Cassava, Potatoes, Yams) (Mazao ya mizizi)
+L369: Vegetable oils (Mafuta ya mboga)
+L370: 
+L371: Vegetables (Mboga)
+L372: 
+L373: Veterinary biologicals (Madawa ya mifugo ya kibiolojia)
+L374: 
+L375: Veterinary equipment, instruments & other materials (Vifaa vya uchunguzi na vipimo)
+L376: 
+L377: Veterinary pest control products (Bidhaa za kudhibiti wadudu wa mifugo)
+L378: 
+L379: Veterinary pharmaceuticals (Madawa ya mifugo)
+L380: 
+L381: Wheat (Ngano)
+L382: 
+L383: White sugar (Sukari)
+L384: 
+L385: Wildlife & wildlife products (Wanyamapori na bidhaa vya wanyamapori)
+L386: 
+L387: Wood packaging products (Vifungashio vya mbao)
+L388: 
+L389: Wool (Sufu)
+L390: Woven articles (Bidhaa za kusuka)
+L391: 
+L392: Inorganic fertilizer
+L393: 
+L394: Organic fertilizer
+L395: 
+L396: Corrugated cartons and packaging
+L397: 
+L398: Luminaires and lighting fittings
+L399: 
+L400: [Input] [Input] [Input] [Input] [Input]
+L401: 
+L402: [Input] [Input]
+L403: 
+L404: Choose operation
+L405: 
+L406: Export
+L407: 
+L408: Import
+L409: 
+L410: Transit
+L411: 
+L412: [Input] [Input]
+L413: 
+L414: Enter HS code or keyword
+L415: 
+L416: [Input]
+L417: 
+L418: Or
+L419: 
+L420: Search all
+L421: 
+L422: [Input] [Input] [Input: Search all procedures, laws e.g., "certificate of origin"]
+L423: 
+L424: [Input]
+L425: 
+L426: Submit your questions, feedback or comments to the InfoTradeKE Portal team below
+L427: We're sorry we can't send the email
+L428: 
+L429: Something happened on the server side and we are unable to send emails.
+L430: 
+L431: Inquiry [Select] [Select]
+L432: 
+L433: [Input: First name] [Input: Last name] [Input: Email] [Input: Phone (optional)] [Select]
+L434: 
+L435: Thank you for submitting a request. A member of the trade portal team will contact you within 24 hours.
+L436: 
+L437: Ticket number
+L438: 
+L439: A confirmation of this request has been sent to your email.
+L440: 
+L441: In the unlikely event you don't hear from us, feel free to contact us:
+L442: InfoTrade Kenya Team Email: infotradekenya@kentrade.go.ke
+L443: 
+L444: [Button: Next]
+L445: 
+L446: Procedures
+L447: 
+L448:  L449: 
+L450:   * Animal embryos
+L451:     * Preliminary registrations, licences & certificates
+L452:       * Register with the Kenya Veterinary Board (KVB)
+L453:         * Veterinary paraprofessionals
+L454:           *  L455: 
+L456:           *  L457:         * Veterinary surgeons
+L458:           *  L459: 
+L460:           *  L461: 
+L462:       *  L463: 
+L464:       *  L465: 
+L466:       *  L467: 
+L468:       *  L469:     * Licences & certificates renewals
+L470:       *  L471: 
+L472:     * Permits per consignment
+L473:       *  L474: 
+L475:       * Certificate of Origin (COO)
+L476:         * Preferential Certificate of Origin (COO)
+L477:           *  L478: 
+L479:           *  L480: 
+L481:           *  L482: 
+L483:           *  L484:           *  L485: 
+L486:           *  L487: 
+L488:         * Non-preferential Certificate of Origin (COO)
+L489:           *  L490: 
+L491:     * Clearance procedures
+L492:       *  L493: 
+L494:   * Animal feeds
+L495:     * Preliminary registrations, licences & certificates
+L496:       *  L497:       *  L498: 
+L499:     * Permits per consignment
+L500:       *  L501: 
+L502:       * Certificate of origin
+L503:         * Preferential certificate of origin
+L504:           *  L505: 
+L506:           *  L507: 
+L508:           *  L509: 
+L510:           *  L511: 
+L512:           *  L513:           *  L514: 
+L515:         * Non-preferential certificate of origin
+L516:           *  L517: 
+L518:     * Clearance procedures
+L519:       *  L520: 
+L521:       *  L522: 
+L523:       *  L524:   * Animal oils
+L525:     * Preliminary registrations, licences & certificates
+L526:       *  L527: 
+L528:       *  L529: 
+L530:     * Permits per consignment
+L531:       * Certificate of origin
+L532:         * Preferential certificate of origin
+L533:           *  L534: 
+L535:           *  L536: 
+L537:           *  L538: 
+L539:           *  L540:           *  L541: 
+L542:           *  L543: 
+L544:         * Non-preferential certificate of origin
+L545:           *  L546: 
+L547:     * Clearance procedures
+L548:       *  L549: 
+L550:       *  L551:   * Articles of leather
+L552:     * Pleliminary registrations, licences & certificates
+L553:       *  L554: 
+L555:       *  L556: 
+L557:       *  L558: 
+L559:     * Permits per consignment
+L560:       *  L561:       * Certificate of Origin (COO)
+L562:         * Preferential Certificate of Origin (COO)
+L563:           *  L564: 
+L565:           *  L566: 
+L567:           *  L568: 
+L569:           *  L570: 
+L571:           *  L572: 
+L573:           *  L574: 
+L575:         * Non-preferential certificate of origin
+L576:           *  L577:     * Clearance procedures
+L578:       *  L579: 
+L580:       *  L581: 
+L582:   * Avocados
+L583:     * Preliminary registrations, licences & certificates
+L584:       * Register with the Fresh Produce Exporters Association of Kenya (FPEAK)
+L585:         *  L586: 
+L587:         *  L588:       *  L589: 
+L590:       *  L591: 
+L592:       *  L593: 
+L594:       *  L595: 
+L596:       *  L597: 
+L598:       *  L599:     * Permits per consignment
+L600:       * Laboratory test report
+L601:         *  L602: 
+L603:         *  L604: 
+L605:       * Certificate of origin
+L606:         * Non-preferential certificate of origin
+L607:           *  L608: 
+L609:         * Preferential Certificate of Origin (COO)
+L610:           *  L611: 
+L612:           *  L613: 
+L614:           *  L615:           *  L616: 
+L617:           *  L618: 
+L619:           *  L620: 
+L621:       *  L622: 
+L623:       *  L624: 
+L625:     * Clearance procedures
+L626:       *  L627: 
+L628:       *  L629:       *  L630: 
+L631:       *  L632: 
+L633:       *  L634: 
+L635:       *  L636: 
+L637:       *  L638:       *  L639: 
+L640:       *  L641: 
+L642:       *  L643: 
+L644:       *  L645: 
+L646:       *  L647:   * Basketry
+L648:     * Preliminary registrations, licences & certificates
+L649:       *  L650: 
+L651:       *  L652: 
+L653:     * Permits per consignment
+L654:       * Certificate of origin
+L655:         * Non-preferential certificate of origin
+L656:           *  L657: 
+L658:         * Preferential certificate of origin
+L659:           *  L660: 
+L661:           *  L662:           *  L663: 
+L664:           *  L665: 
+L666:           *  L667: 
+L668:           *  L669: 
+L670:     * Clearance procedure
+L671:       *  L672: 
+L673:   * Batteries
+L674:     * Preliminary registrations, licences & certificates
+L675:       *  L676:       *  L677: 
+L678:     * Permits per consignment
+L679:       * Certificate of origin
+L680:         * Preferential Certificate of Origin (COO)
+L681:           *  L682: 
+L683:           *  L684: 
+L685:           *  L686: 
+L687:           *  L688: 
+L689:           *  L690: 
+L691:           *  L692:         * Non-preferential certificate of origin
+L693:           *  L694: 
+L695:     * Clearance procedures
+L696:       *  L697: 
+L698:       *  L699: 
+L700:   * Beads
+L701:     * Preliminary registrations, licences & certificates
+L702:       *  L703: 
+L704:       *  L705:     * Permits per consignment
+L706:       * Certificate of origin
+L707:         * Non-preferential certificate of origin
+L708:           *  L709: 
+L710:         * Preferential certificate of origin
+L711:           *  L712: 
+L713:           *  L714: 
+L715:           *  L716: 
+L717:           *  L718: 
+L719:           *  L720: 
+L721:           *  L722:     * Clearance procedures
+L723:       *  L724: 
+L725:   * Beans
+L726:     * Preliminary registrations, licences & certificates
+L727:       *  L728: 
+L729:       *  L730: 
+L731:       *  L732: 
+L733:       *  L734:       *  L735: 
+L736:       *  L737: 
+L738:     * Permits per consignment
+L739:       *  L740: 
+L741:       *  L742: 
+L743:       * Certificate of origin
+L744:         * Non-preferential certificate of origin
+L745:           *  L746:         * Preferential certificate of origin
+L747:           *  L748: 
+L749:           *  L750: 
+L751:           *  L752: 
+L753:           *  L754: 
+L755:           *  L756: 
+L757:           *  L758: 
+L759:     * Clearance procedures
+L760:       *  L761:       *  L762: 
+L763:       *  L764: 
+L765:       *  L766: 
+L767:       *  L768: 
+L769:       *  L770:       *  L771: 
+L772:       *  L773: 
+L774:       *  L775: 
+L776:       *  L777: 
+L778:       *  L779:   * Beverages (Non-alcoholic & alcoholic)
+L780:     * Preliminary registrations, licences & certificates
+L781:       *  L782: 
+L783:       *  L784: 
+L785:       *  L786: 
+L787:     * Permits per consignment
+L788:       * Certificate of origin
+L789:         * Preferential certificate of origin
+L790:           *  L791: 
+L792:           *  L793:           *  L794: 
+L795:           *  L796: 

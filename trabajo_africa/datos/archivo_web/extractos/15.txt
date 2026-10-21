@@ -1,0 +1,308 @@
+FUENTE 15: IFC, ficha IHS Kenya
+URL original: https://disclosures.ifc.org/project-detail/ESRS/47136/co
+Fecha de captura: 2026-10-21
+Tipo: texto extraído por navegador; puede ser parcial. No es el HTML/PDF original.
+Estado: texto_recuperado
+
+47136 - IHS Kenya (https://disclosures.ifc.org/project-detail/ESRS/47136/co)
+  Crawled: yesterday; Content type: text/html; Source: open({"ref_id":"https://disclosures.ifc.org/project-detail/ESRS/47136/co","lineno":null}); Total lines: 520
+L0:   *  L1: 
+L2: Who We Are
+L3: 
+L4: IFC is the largest global development institution focused on the private sector in developing countries. By encouraging growth, IFC advances economic development, creates jobs and improves the lives of people.
+L5: 
+L6:  L7: 
+L8: About Us
+L9: 
+L10:     *  L11:     *  L12:     *  L13: 
+L14: Strategic Priorities
+L15:     *  L16:     *  L17: 
+L18: Accountability
+L19: 
+L20:     *  L21: 
+L22:   *  L23: 
+L24: What We Do
+L25: 
+L26: IFC advances economic development and improves the lives of people by encouraging the growth of the private sector in developing countries. We achieve this by investing in impactful projects, mobilizing other investors, and sharing expertise.
+L27: 
+L28:  L29: 
+L30: SOLUTIONS
+L31:     *  L32: 
+L33: PRIORITY SECTORS
+L34: 
+L35:     *  L36:     *  L37:     *  L38:     *  L39:     *  L40:     *  L41: 
+L42: CROSS-CUTTING THEMES
+L43: 
+L44:     *  L45:     *  L46:     *  L47:     *  L48: 
+L49:   *  L50: 
+L51: Where We Work
+L52: As the largest global development institution focused on the private sector, IFC operates in more than 100 countries around the globe. We apply lessons learned in one region to solve problems in another.
+L53: 
+L54:  L55: 
+L56: By Region
+L57: 
+L58:     *  L59:     *  L60:     *  L61:     *  L62:     *  L63:     *  L64: 
+L65:   *  L66: Our Impact
+L67: 
+L68: Our impact improves lives. IFC brings a clear set of advantages to the world’s most challenging markets. Including a history of innovation, a global mandate, and a determination to achieve measurable development impact.
+L69: 
+L70:  L71: 
+L72: PRINCIPLES & MEASUREMENT
+L73: 
+L74:     *  L75:     *  L76:     *  L77: 
+L78: RESULTS
+L79:     *  L80:     *  L81:     *  L82: 
+L83: Work With Us
+L84: 
+L85: Work With Us
+L86: 
+L87: Owned by 186 member countries and consistently rated AAA/Aaa. IFC aims to achieve our mission of promoting development by providing debt and equity to the private sector, through a range of benchmark and bespoke products.
+L88: 
+L89: For Partners
+L90: 
+L91:   *  L92:   *  L93: 
+L94: For Investors
+L95:   *  L96: 
+L97: Get in Touch
+L98: 
+L99:   *  L100:   *  L101:   *  L102:   *  L103: 
+L104: global Search dropdown
+L105: 
+L106: Search ifc.org
+L107: 
+L108: [Input: Search ifc.org] [Input] [Input]
+L109: 
+L110:   *  L111: 
+L112:  L113: 
+L114: Who We Are
+L115: 
+L116:  L117: 
+L118: * * *
+L119: 
+L120: About Us
+L121:     *  L122:     *  L123:     *  L124: 
+L125: * * *
+L126: 
+L127: Strategic Priorities
+L128: 
+L129:     *  L130:     *  L131: 
+L132: * * *
+L133: 
+L134: Accountability
+L135: 
+L136:     *  L137: 
+L138:   *  L139: 
+L140:  L141: 
+L142: What We Do
+L143: 
+L144:  L145:  L146: 
+L147: * * *
+L148: 
+L149: SOLUTIONS
+L150: 
+L151:     *  L152: * * *
+L153: 
+L154: PRIORITY SECTORS
+L155: 
+L156:     *  L157:     *  L158:     *  L159:     *  L160:     *  L161:     *  L162: 
+L163: * * *
+L164: 
+L165: CROSS-CUTTING THEMES
+L166: 
+L167:     *  L168:     *  L169:     *  L170:     *  L171: 
+L172:   *  L173: 
+L174:  L175: 
+L176: Where We Work
+L177: 
+L178:  L179: 
+L180: * * *
+L181: By Region
+L182: 
+L183:     *  L184:     *  L185:     *  L186:     *  L187:     *  L188:     *  L189: 
+L190: * * *
+L191: 
+L192:   *  L193: 
+L194:  L195: 
+L196: Our Impact
+L197: 
+L198:  L199: 
+L200: * * *
+L201: 
+L202: PRINCIPLES & MEASUREMENT
+L203:     *  L204:     *  L205:     *  L206: 
+L207: * * *
+L208: 
+L209: RESULTS
+L210: 
+L211:     *  L212:     *  L213:     *  L214: 
+L215: * * *
+L216: 
+L217:   *     *  L218:     *  L219:     *  L220:   * Work with us On selection, leaving this page [Button: Work With Us]
+L221:     *  L222:     *  L223: 
+L224: DISCLOSURES MENU
+L225: 
+L226:   *  L227:   *  L228:   *  L229:   *  L230: ## Environmental & Social Review Summary
+L231: 
+L232: Project Number
+L233: 
+L234: 47136
+L235: 
+L236: Company Name
+L237: 
+L238: IHS Kenya CIV Green Housing SCSp
+L239: 
+L240: Date ESRS Disclosed
+L241: 
+L242: Jul 14, 2023
+L243: 
+L244: Country
+L245: 
+L246: Kenya
+L247: 
+L248: Region
+L249: 
+L250: Africa
+L251: 
+L252: Last Updated Date
+L253: 
+L254: Aug 22, 2024
+L255: 
+L256: Environmental Category
+L257: 
+L258: B - Limited
+L259: 
+L260: Status
+L261: 
+L262: Active
+L263: 
+L264: Previous Events
+L265: 
+L266: Approved : Nov 27, 2023
+L267: Signed : Dec 15, 2023
+L268: Invested : Aug 15, 2024
+L269: 
+L270: Sector
+L271: 
+L272: other
+L273: 
+L274: Industry
+L275: 
+L276: other
+L277: 
+L278: Department
+L279: 
+L280: Regional Industry - MAS Africa
+L281: ## Project Description
+L282: International Housing Solutions group of companies (collectively, “IHS” or the “Sponsor”,  ), are asset managers of five affordable housing funds in the Southern African region and manage a listed REIT in the Johannesburg Stock Exchange. IHS is a wholly owned subsidiary of U.S.
+L283: based Hunt Companies, Inc., a real estate and infrastructure investment company that has developed or owns over 190,000 multifamily housing units (of which 39% is comprised of affordable houses) and  has operations in South Africa, Namibia, Botswana and Kenya. Currently, IHS has over 30,000 units completed.
+L284: Since 2005, IHS has developed its management capacity, with almost 250 employees, in South Africa, Botswana, and Namibia, including the setting up of a property management company in South Africa in 2015.
+L285: IHS has been an IFC client since 2012 where IFC invested in IHS South Africa Workforce Housing Fund II (“IHS Fund II”,  ) split into a two sleeves – one for investments in South Africa and a second sleeve for investments in Namibia and Botswana, which focused on green affordable housing investments. IHS is now looking at Kenya as part of its expansion strategy and is currently raising the Main Fund mentioned below.
+L286: The proposed investment is an equity co-investment package of up to €20m along with IHS Kenya Green Housing Partnership LLP and IHS Kenya Green Housing SCSp (the “Main Fund”) in the development and acquisition of approximately 10,800 newly developed, resource efficient, “green” affordable housing properties in Nairobi and other major urban areas in Kenya (the “Project”).
+L287: The proposed equity investment will consist of €10m from IFC for its own account and up to US$10m equivalent in € from IFC acting as the implementing entity of the UKIFC Market Accelerator for Green Construction Program (MAGC), the UK-IFC bilateral partnership in blended concessional finance for climate change mitigation.
+L288: Instead of investing directly in the Main Fund, IFC (and blended finance) will utilize a “sidecar” investment structure by using a newly created Special Purpose Vehicle (SPV) (the “ManageCo”) with IFC as the only limited partner that will co-invest alongside with the Fund in selected investments. The Main Fund will be managed by IHS Kenya Green Housing Fund GP Limited (the “General Partner” or the “GP”).
+L289: Also, the Main Fund has outsourced investment management to IHS (Kenya) Limited, a company domiciled in Kenya (referred to as “IHS Kenya”).
+L290: IHS Kenya has developed a strong pipeline of development properties and links with developers who have promising pipeline and land opportunities. The developments will typically be around 350 units of modest size (e.g., two-bed one-bath at <55m²) in a secure estate with on-site amenities (e.g., playgrounds and open areas), with close access to schools, retail, transportation, and work opportunities. There are two development models expected to be followed by IHS Kenya:
+L291: (a)   A portion of these developments will be acquired on a turnkey basis i.e. where a development partner constructs and is paid for the units once complete. IHS Kenya will sign a turn-key agreement with the developers/sellers; and
+L292: 
+L293: (b)   The other properties will be developed under a fixed price contract with contractor and where IHS will manage the construction. IHS Kenya will hire a project management company to monitor construction on their behalf.
+L294: All developments will comply with IFC EDGE standard requiring minimum 20% savings on water usage, energy usage and embodied energy (production of materials). Once completed and transferred, some of the units shall be rented, others sold and an additional portion shall have the option on being in the Tenant Purchase Scheme rent-to-buy product, though this can be varied based on market conditions.
+L295: The properties will be managed by IHS Property Management (IHSPM), the property management company belonging to IHS. Currently, out of the pipeline, two developments are expected to close imminently, one is a turnkey project and the other a development for sale deal. There are a number of other projects that are also progressing well and closure is expected within the next quarter.
+L296: ## Overview of IFC's Scope of Review
+L297: IFC’s review of the proposed investment consisted of appraising technical, environmental and social (E&S) information shared by IHS and IHS Kenya including project pipeline, E&S Management System (ESMS), examples of E&S screening and due diligence reports, human resource (HR) policies and other E&S related reports.
+L298: IFC also reviewed IHS’ performance as part of the IHS Fund II investment and also reviewed disclosure made on European Investment Bank (EIB) website in 2020 for their investment in IHS Kenya ( ).
+L299: The appraisal included site visits in March 2023 to potential project sites being considered by IHS Kenya in Nairobi (at various stages of internal review and approval) – (a) within Garden City, Thika Road ( ); (b) within Tilisi Developments, Ngecha Chunga Mali Road, Off A104 (Nairobi - Nakuru Highway ( ); and (c) within Mi Vida’s development at Nduaru Road, in Riruta, as part of another project - Keza ( ).
+L300: Lastly, during the appraisal, discussions were held with the IHS’ senior management including E&S and Governance (ESG) Specialist.
+L301: ## E & S Project Categorization and Applicable Standard
+L302: ### Identified Applicable Performance Standards
+L303: 
+L304: While all Performance Standards are applicable to this investment, IFC’s environmental and social due diligence indicates that the investment will have impacts which must be managed in a manner consistent with the following Performance Standards
+L305: PS 1 - Assessment and Management of Environmental and Social Risks and Impacts
+L306: PS 2 - Labor and Working Conditions
+L307: PS 3 - Resource Efficiency and Pollution Prevention
+L308: PS 4 - Community Health, Safety and Security
+L309: For every potential project, IHS Kenya conducts an initial E&S screening followed by a detailed E&S due diligence (ESDD) (if the project is approved to move forward). The ESDD includes questions on biodiversity, cultural heritage and indigenous peoples. Project land due diligence is also carried out before project approval to understand history of land acquisition.
+L310: Based on appraisal discussions and document review, IHS Kenya does not approve projects with any legacy land acquisition issues or expected involuntary resettlement and has clearly stated in the ESMS that it does not/will not invest in development projects where they involve the resettlement of communities. Avoidance of any involuntary resettlement is also a condition from another development finance institution (DFI) investors in IHS Kenya.
+L311: The visited sites were noted to be part of larger developments in urban areas of Nairobi and no land acquisition related impacts are expected on these projects. No land acquisition of involuntary resettlement issues are present, therefore, similarly expected for the future developments. Thus PS5 (Land Acquisition and Involuntary Resettlement) is not considered to be applicable for this project.
+L312: All proposed sub-projects will be developed on land zoned/converted to residential use in and around major urban areas and are thus not expected to result in adverse impacts on biodiversity. IHS reviews all potential developments and is committed to avoid any impacts on indigenous people or cultural heritage.
+L313: Accordingly, the type of risks and impacts envisaged in PS6 (Biodiversity Conservation and Sustainable Natural Resource Management), PS7 (Indigenous Peoples) and PS8 (Cultural Heritage) are not considered to be applicable.
+L314: 
+L315: 
+L316: Going forward, in line with its existing E&S management system (ESMS), IHS Kenya will continue to conduct E&S screening and ESDDs for its potential developments, to ensure that risks and impacts, if any, will be adequately identified and managed in a manner compliant with IFC PSs.
+L317: ### Environmental and Social Categorization and Rationale
+L318: This is a Category B project according to IFC’s Policy on Environmental and Social Sustainability.
+L319: Key risks and issues associated with this Category-B project will include: (a) IHS’ E&S capacity, management systems and staffing to manage construction and operation of proposed projects in line with IFC Performance Standards (PSs); (b) adequate E&S screening and due diligence for the proposed developments; (c) assurance of fair, safe and healthy living and working conditions for the workers (especially during construction); (d) conservation of energy, water and process materials including green building design; (e) emissions, effluents and waste management during both construction and operation in line with WBG EHS Guidelines; (f) life and fire safety design of the proposed developments; (g) impacts on nearby communities due to construction activities, traffic and security; and (h) community grievance management.
+L320: ## Environmental and Social Mitigation Measures
+L321: ### Environmental and Social Mitigation Measures
+L322: IFC’s appraisal considered the environmental and social management planning process and documentation for the Project and gaps, if any, between these and IFC’s requirements. Where necessary, corrective measures, intended to close these gaps within a reasonable period of time, are summarized in the paragraphs that follow and (if applicable) in an agreed Environmental and Social Action Plan (ESAP).
+L323: Through implementation of these measures, the Project is expected to be designed and operated in accordance with Performance Standards objectives.
+L324: ### PS 1: Assessment and Management of Environmental and Social Risks and Impacts
+L325: E&S policy and management systems: IHS Kenya has developed an ESMS for its operations, which includes the ESG framework as a base which was established by IHS Fund II as part of IFC investment previously. The ESG Framework and thus the ESMS is developed to meet the requirements of IFC PSs, World Bank Group (WBG) Environmental, Health and Safety (EHS) Guidelines and applicable legal requirements.
+L326: As part of the ESMS, IHS Kenya has committed to key principles on E&S, gender based violence and harassment (GBVH) and human resource (HR) principles (and thus principles are similar to an E&S policy). Key sections of the ESMS have been referred to in the relevant sections of this review.
+L327: Based on the review of the ESMS, the processes are mainly related to screening, due diligence and monitoring of new developments (mostly during construction), however, needs strengthening for procedures for the operational phase. As per ESAP(#1), IHS Kenya will develop E&S procedures for the constructed developments to be implemented by IHSPM teams involved in operation.
+L328: E&S organization: IHS has teams in South Africa for deal origination and due diligence, asset management, finance, legal, portfolio management, and REIT asset management. All back-office services are also offered from South Africa to all subsidiaries. IHS Kenya has two co-managing directors (MDs), technical specialist, investment manager, asset manager, administration person and an ESG Specialist. The ESG Specialist reports to one of the Co-MDs of IHS Kenya.
+L329: ESG specialist conducts E&S reviews for all potential developments (As described below) and is responsible to ensure implementation of ESMS for all developments. Going forward, the ESG Specialist will be also part of the Steering Committee (SC) at each development level which will comprise of IHS project technical personnel such as engineers, architects, technical specialist, community liaison officer and Asset Manager.
+L330: At the project sites, the Development Manager (from the developer) will be responsible for ensuring E&S requirements will be met at project level by his project team comprising of environment health and safety officer, labor officer and the technical team. The DM will chair the projects Steering Committee meetings and presents monthly reports related to construction progress, financial and E&S issues to IHS Kenya.
+L331: Identification of E&S risks and impacts: E&S review has been integrated in IHS Kenya’s Development Process. Each development is assessed under a two-stage E&S due diligence process:
+L332: (a)   Initial E&S Screening: The purpose of the initial E&S screening is to identify any significant risks e.g. critical habitat overlap, resettlement in any development proposed by the investment team. The ESG specialist also ensure the investments is not prohibited by the Exclusion List and assigns a risk category (A, B or C) based on identified risks. As per the ESMS, In general, IHS Kenya will only invest in Category B & C developments.
+L333: The results are presented to Review Committee (RC), which provides go/no-go decision to proceed.
+L334: (b)   ESDD: During this phase, a detailed ESDD is completed by the ESG Specialist. ESDD involves a site visit, review of documents related to the proposed development, evaluation of potential development with respect to IFC PSs, and E&S processes/systems of the developer. Each ESDD results in a corrective action plan (CAP) as well as a clear recommendation to Proceed/Proceed with certain conditions/Not Proceed. In certain cases, the ESDD is performed through a third party.
+L335: Separately, a land due diligence is performed for the development through a third party.
+L336: 
+L337: 
+L338: Results of the ESDD and other technical and commercial due diligence studies are presented to the Investment Committee (IC) for review. Once approved by IC, teams negotiate and sign the agreement with the developers. Once the work on all CPs that are required prior to closing are completed, the agreements are signed and project moves to planning, design and tendering phase followed by construction.
+L339: In its template of the turnkey agreement, IHS Kenya has included E&S Principles and Standards to be followed by all developers, which among others include requirements of:
+L340: 
+L341: 
+L342: 
+L343: (i)        Complying with the applicable E&S laws and ensuring development complies with all applicable legal requirements;
+L344: 
+L345: (ii)     Completing ESIA and E&S Management Plans for the development and sharing the same with IHS Kenya;
+L346: 
+L347: (iii)   Developing their own ESMS and designating personnel for implementation of the same;
+L348: (iv)    Developing a contractor management plan for the development;
+L349: 
+L350: (v)      Not using any hazardous materials (e.g. Asbestos, Mercury) in the construction.
+L351: 
+L352: 
+L353: 
+L354: Therefore, for all developments an ESIA and ESMP will be prepared and applicable licenses before construction are obtained by the developer.
+L355: Although the turnkey agreement refers to the IHS Kenya’s E&S Standards that the developer need to comply with, the E&S standards have not been specified. IHS Kenya also includes requirements to provide management plans in the CAPs provided to the developers, however, all relevant issues for construction phase are not covered in the CAPs.
+L356: Therefore, as per the ESAP(#2), IHS Kenya will develop an E&S manual for construction activities, which will be implemented by developers/contractors and included in the request for proposals and contracts.
+L357: The manual will include (i) clear EHS and labor and working conditions requirements (in line with IFC PSs and legal requirements) to be implemented at the site; (ii) clear roles and responsibilities of the developers/contractors’ and project management company personnel for implementation and regular monitoring on-site;  (iii) requirements on labor law compliance including prevention of child labor; (iv) labor camp guidelines in line with the IFC guidance note on workers’ accommodation; (v) specific processes environmental and community impacts management (e.g.
+L358: dust and noise control, traffic, security and waste management); and (vi) requirements on fire safety and emergency response measures.
+L359: 
+L360: 
+L361: Additionally, IHS Kenya has not developed a similar template for fixed price contract model and will develop one soon which will include E&S requirements as included in the turnkey agreement supplemented with the E&S manual discussed above.
+L362: Monitoring and Review: IHS’ Asset Managers (supported by Technical and ESG Specialist) are responsible to ensure that all developments meet the conditions in the contracts including approved plans, specifications, investor requirements and E&S requirements. IHS team will conduct monthly site visits and attend project level Steering Committee meetings to monitor progress and compliance on-site.
+L363: In case IHS Kenya identifies any E&S issues or non-compliances, it will follow up with the developer to resolve these in a reasonable timeframe and could require a new corrective action plan.
+L364: 
+L365: 
+L366: At the site level, Development Manager ensures that all E&S requirements are met and chairs the Steering Committee meetings. Development Partner/Development Manager is required to provide detailed monthly, quarterly and annual E&S reports.
+L367: The Asset Manager is expected to report fortnightly to Asset Management meetings attended by IHS senior management. Quarterly E&S reports will be prepared by the ESG Specialist and submitted to the Investor Relationship Manager who includes the E&S reports in the quarterly investor reports. As per the ESAP(#3), IHS Kenya will develop key E&S metrics to be reported for all under construction and operational developments as well as a benchmarking and rating system for reporting to senior management.
+L368: Emergency response: All developments will document fire safety and emergency response procedures. All contractors and sub-contractors are expected to be trained on these procedures as part of the induction. As mentioned above, these requirements will be included in the E&S manual (as per ESAP(#2)) and included in the agreements signed with the developers/contractors.
+L369: ### PS 2: Labor and Working Conditions
+L370: 
+L371: IHS Kenya, currently has a team of 7employees and is expected to expand to 15employees by end of 2024. The size of the workforce on-site for each development will vary based on size and stage of the development.
+L372: Human Resources (HR) Policies and Procedures, Working Conditions and Terms of Employment: As part of the ESMS key principles, IHS Kenya has made commitments on treating employees fairly without discrimination, prevention of child and forced labor, health and safety of employees and contractors. IHS has documented HR policies and procedures which are also applicable for IHS staff in Luxembourg, Kenya, Namibia and South Africa. IHS also has a code of conduct for its employees.
+L373: All employees are provided with employment Contract with all terms and conditions of their employment, code of conduct and HR policy manual.
+L374: Non-discrimination: IHS’ code of conduct requires that employees are treated fairly and not discriminated on any ground. HR policies include policy on employee equity under which IHS had a commitment to achieve equity in representation, through an Affirmative Action Program with a focus on socially, economically and educationally uplift previously disadvantaged groups.
+L375: Protecting the Work Force:  As mentioned above, IHS has clear commitment of not employing any child labor or forced labor in its developments. As per the ESMS, all developers are required to collect national identity card of recruited workers.
+L376: Freedom of Association: IHS has a specific documented policy on freedom of association through which IHS has committed to respect and protect the right of employees to freedom of association, collective bargaining, organizing and engaging in workers’ representation.
+L377: Grievance mechanism: Implementation of grievance mechanism is included in the ESMS as one of the HR compliance policies. A detailed grievance redressal mechanism has been documented by IHS which includes within its key principles - confidentiality, non-retaliation, documentation, transparency and fairness. The mechanism covers both individual and collective grievances and describes the procedure for receiving, handling and responding to grievances.
+L378: It explains the processes for handling grievances of both workers hired directly by IHS as well as third-party workers hired by contractors and sub-contractors. The same mechanism has been annexed to the turnkey agreement expected to be signed by the developers.
+L379: Occupational Health and Safety and Third-party workers: As per the ESMS, all developers/contractors will develop and implement an Occupational Health and Safety (OHS) plan to guide all activities on project site during site preparation, construction and operation. Appointment of OHS officers and implementation of OHS procedures was noted to be identified as action items agreed with the developers based on the ESDD completed by IHS Kenya.
+L380: Additionally, as discussed under PS1, IHS Kenya will develop an E&S manual for construction under ESAP(#2) and include that in the agreements signed with the developers/contractors. Similarly, E&S procedures for operations will also be developed. Compliance with these requirements will be monitored as described under PS1.
+L381: IHS has included specific provisions in the turnkey agreement for developers to ensure that any agreements signed with their contractors or sub-contractors integrate applicable E&S legal requirements and IHS Kenya E&S Standards.
+L382: Also, developers are expected to submit a Contractor Management Plan prior to breaking ground, describing oversight/ monitoring arrangements to be implemented including performance and reporting requirements for the contractor (and flow down of these requirements to subcontractors) covering collaboration details and their responsibilities) in compliance with applicable E&S legal requirements and IHS Kenya E&S Standards.
+L383: Similar provisions will be included in the fixed price contract developed by IHS Kenya discussed under PS1.
+L384: Workers Accommodation: considering that all developments are expected to be located in urban/peri-urban areas, the workers will be hired from nearby areas. Therefore, IHS Kenya does not expect any labor camps to be established on-site. As per the turnkey agreement, in case the development requires establishment of such a camp, developer will inform IHS Kenya.
+L385: To ensure that the developers/contractors provide labor camps in line with good international industry practice, IHS Kenya will include the labor camp guidelines ( ) in the E&S manual for construction; to be developed under ESAP(#2) and include that in the agreements signed with the developers/contractors.
+L386: ### PS 3: Resource Efficiency and Pollution Prevention
+L387: Resource Efficiency: IHS (and thus IHS Kenya) has committed to only invest in housing developments which are as per the requirements of IFC’s EDGE (Excellence in Design for Greater Efficiencies) standard. Under the ESMS, IHS Kenya has committed to invest in developments which demonstrate a 30% reduction in energy consumption (although EDGE certification only requires 20%).
+L388: IHS Kenya’s team supported by an external EDGE auditor reviews all design materials with respect to the EDGE (and ESMS) requirements and in case the development is not aligned, the required measures are proposed to meet EDGE design requirements. Additionally, energy simulation will be completed for two projects to test the effectiveness of the tool and validate the design. IHS will conduct an audit for compliance with the EDGE requirements through a third-party auditor.
+L389: Pollution Prevention: Environmental impacts and mitigation measures during construction and operation will be identified in the ESIAs. As mentioned under PS1, all developers are required to complete ESIA and E&S Management Plans (ESMPs) for the development and share the same with IHS Kenya. Also, specific clauses have been added in the turnkey agreements that developers will ensure no soil, groundwater or water pollution. Similar clauses will be added in the fixed price contracts.
+L390: Implementation of the ESMPs and these clauses will be monitored as part of IHS Kenya’s monitoring activities. During operation, IHS’ own property management team (IHSPM) will ensure implementation of ESMPs. Also, as discussed under PS1, operation stage E&S procedures will be developed as per ESAP(#1) and implemented by IHSPM.
+L391: 
+L392: 
+L393: Power Supply: As all developments will be located in urban/peri-urban areas, the main source for power supply will be the national power supply. Back-up diesel generators may be provided in the developments for supporting common area lighting and facilities. The same was noted for the visited potential sites.
+L394: Water Supply and Wastewater Treatment: Similar to the power supply, all proposed developments will depend on the city water supply lines. In some cases, borewells may be used. Also, sewage will be disposed of in the city’s sewage disposal lines. In case no such line is available in the area, on-site sewage treatment plants will be built as required.

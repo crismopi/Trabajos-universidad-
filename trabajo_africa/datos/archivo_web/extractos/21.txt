@@ -1,0 +1,9 @@
+FUENTE 21: FMI, historial de acuerdos
+URL original: https://www.imf.org/external/np/fin/Tad/extarr2.aspx?date1key=1997-12-31&memberKey1=540
+Fecha de captura: 2026-10-21
+Tipo: texto extraído por navegador; puede ser parcial. No es el HTML/PDF original.
+Estado: apertura_fallida
+
+Internal Error ()
+  Source: open({"ref_id":"https://www.imf.org/external/np/fin/Tad/extarr2.aspx?date1key=1997-12-31&memberKey1=540","lineno":null}); Total lines: 1
+L0: Failed to fetch https://www.imf.org/external/np/fin/Tad/extarr2.aspx?date1key=1997-12-31&memberKey1=540: Cache miss

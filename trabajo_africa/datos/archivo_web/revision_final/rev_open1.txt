@@ -1,0 +1,405 @@
+Fecha de captura: 2026-10-21
+Método: navegación y/o resultados indexados. Texto posiblemente parcial; no es el documento original. Los lotes pueden contener resultados no pertinentes. Comprobar URL y registro de verificación antes de utilizar datos.
+
+Internal Error ()
+ [wordlim: 200] Source: open({"ref_id":"https://unctad.org/system/files/official-document/diae2025d2_en.pdf","lineno":null}); Total lines: 1
+L0: Failed to fetch https://unctad.org/system/files/official-document/diae2025d2_en.pdf: (403) Forbidden
+--------------------------------------------------------------------------------
+Internal Error ()
+ [wordlim: 200] Source: open({"ref_id":"https://www.treasury.go.ke/wp-content/uploads/2025/10/2025-Budget-Review-and-Outlook-Paper.pdf","lineno":null}); Total lines: 1
+L0: Failed to fetch https://www.treasury.go.ke/wp-content/uploads/2025/10/2025-Budget-Review-and-Outlook-Paper.pdf: (400) Timeout fetching
+--------------------------------------------------------------------------------
+ (https://www.centralbank.go.ke/uploads/monetary_policy_statements/366885193_58th%20Monetary%20Policy%20Statement%2C%20June%202026.pdf)
+ [wordlim: 200] Crawled: today; Content type: application/pdf; Number of pages: 28; Source: open({"ref_id":"https://www.centralbank.go.ke/uploads/monetary_policy_statements/366885193_58th%20Monetary%20Policy%20Statement%2C%20June%202026.pdf","lineno":null}); Redirected to URL: https://www.centralbank.go.ke/uploads/monetary_policy_statements/366885193_58th%20Monetary%20Policy%20Statement,%20June%202026.pdf; Total lines: 1441
+L0@P0: URL: https://www.centralbank.go.ke/uploads/monetary_policy_statements/366885193_58th%20Monetary%20Policy%20Statement,%20June%202026.pdf
+L1@P0: June 2026
+L2@P0: Monetary Policy
+L3@P0-1: StatementCENTRAL BANK OF KENYA
+L4@P1: MONETARY POLICY STATEMENT - JUNE 2026
+L5@P1: i
+L6@P1: LETTER OF TRANSMITTAL
+L7@P1: In accordance with Section 4B of the Central Bank of Kenya Act, it is my pleasure to
+L8@P1: present to you, Honorable Cabinet Secretary of the National Treasury and Economic
+L9@P1: Planning, the 58th Monetary Policy Statement of the Central Bank of Kenya. The statement
+L10@P1: reviews and assesses the implementation of monetary policy during the first half of 2026
+L11@P1: and outlines the direction of monetary policy for the next 12 months.
+L12@P1: Dr. Kamau Thugge, CBS
+L13@P1-2: GovernorCENTRAL BANK OF KENYA
+L14@P2: MONETARY POLICY STATEMENT - JUNE 2026
+L15@P2: ii
+L16@P2: Contents
+L17@P2: LETTER OF TRANSMITTAL i
+L18@P2: THE PRINCIPAL OBJECTIVES OF THE CENTRAL BANK OF KENYA iii
+L19@P2: INSTRUMENTS AND TRANSMISSION OF MONETARY POLICY iii
+L20@P2: EXECUTIVE SUMMARY v
+L21@P2: INTRODUCTION 1
+L22@P2: 1. ACTIONS AND OUTCOMES OF THE POLICY STANCE IN THE FIRST HALF OF 2026 2
+L23@P2: 2. THE ECONOMIC ENVIRONMENT AND OUTLOOK IN 2026 15
+L24@P2: 3. DIRECTION OF MONETARY POLICY IN FY 2026/27 18
+L25@P2: 4. ANNEX: EVENTS OF PARTICULAR RELEVANCE TO MONETARY POLICY (JANUARY - JUNE 2026) 19
+L26@P2-3: GLOSSARY OF KEY TERMS 20CENTRAL BANK OF KENYA
+L27@P3: MONETARY POLICY STATEMENT - JUNE 2026
+L28@P3: iii
+L29@P3: The role of the Central Bank of Kenya (CBK) is anchored in Section 231 of Kenya’s Constitution and in the CBK Act.
+L30@P3: The CBK is responsible for formulating monetary policy to achieve and maintain price stability and issuing currency.
+L31@P3: The Bank also promotes financial stability through regulation, supervision, and licensing of financial institutions
+L32@P3: under its mandate. It also provides oversight of the payments, clearing and settlement systems, and fosters liquidity,
+L33@P3: solvency, and proper functioning of the financial system. The CBK formulates and implements the foreign exchange
+L34@P3: policy and manages foreign exchange reserves. It is also the banker for, adviser to, and fiscal agent of the Government.
+L35@P3: The CBK’s monetary policy is designed to support the Government’s objectives with respect to growth. The CBK
+L36@P3: formulates and conducts monetary policy with the aim of keeping overall inflation within the target prescribed by the
+L37@P3: National Treasury at the beginning of the financial year. Currently, this target is 5 percent with a range between 2.5
+L38@P3: percent and 7.5 percent.
+L39@P3: The achievement and maintenance of a low and stable inflation rate coupled with adequate liquidity in the market,
+L40@P3: facilitates higher levels of domestic savings and private investment. This leads to improved economic growth, higher
+L41@P3: real incomes, and increased employment opportunities.
+L42@P3: The Principal Objectives of the Central Bank of Kenya
+L43@P3: Instruments and Transmission of Monetary Policy
+L44@P3: The CBK pursues its monetary policy objectives using the following instruments:
+L45@P3: • Open Market Operations (OMO): This refers to actions by the CBK involving purchases and sales of eligible
+L46@P3: securities to regulate the money supply and the credit conditions in the economy. OMO can also be used to
+L47@P3: stabilize short-term interest rates. When the Central Bank buys securities on the open market, it increases the
+L48@P3: reserves of commercial banks, making it possible for them to expand their loans and hence increase the money
+L49@P3: supply. To achieve the desired level of money supply, OMO is conducted using:
+L50@P3: i. Repurchase Agreements (Repos): A repo is a collateralized loan involving a contractual arrangement
+L51@P3: between two parties, in which one party sells a security at a specified price with a commitment to buy the
+L52@P3: security back at a later date. Both parties therefore, meet their investment goals of secured funding and
+L53@P3: liquidity. CBK Repos are conducted through auctions with tenors of 3 and 7 days and are for mopping up
+L54@P3: liquidity from the market. The Late Repo, sold in the afternoon, has a 4-day tenor and is issued at 100 basis
+L55@P3: points below the repo rate of the day. Reverse Repos, on the other hand, are for liquidity injections and involve
+L56@P3: purchase of securities from commercial banks. The current tenors for Reverse Repos are 7, 14, 21, 28 and
+L57@P3: 91 days.
+L58@P3: ii. Term Auction Deposit (TAD): The TAD is used when the securities held by the CBK for Repo purposes are
+L59@P3: exhausted or when CBK considers it desirable to offer longer dated tenors. TAD is essentially not backed by
+L60@P3: collateral, and it is conducted through an auction, similar to Repos. Currently, the tenors for such deposits
+L61@P3: at CBK are 1, 7, 14, 21, 28 or 91 days and upon maturity of TAD, the CBK credits the respective commercial
+L62@P3-4: bank with the deposit and interest. CENTRAL BANK OF KENYA
+L63@P4: MONETARY POLICY STATEMENT - JUNE 2026
+L64@P4: iv
+L65@P4: iii. Horizontal Repos: Horizontal Repos are modes of improving liquidity distribution between commercial
+L66@P4: banks and are conducted under CBK supervision. They are transacted between commercial banks on the
+L67@P4: basis of signed agreements using government securities as collateral and have negotiated tenors and yields.
+L68@P4: Commercial banks, short of deposits at the CBK, borrow from banks with excess deposits on the security
+L69@P4: of an appropriate asset, normally a government security. Horizontal Repos also help banks overcome the
+L70@P4: problem of limits to lines of credit, thus promoting more efficient management of interbank liquidity.
+L71@P4: • Central Bank Rate (CBR): The CBR is reviewed and announced by the Monetary Policy Committee (MPC) at
+L72@P4: least every two months. Movements in the CBR, both in direction and magnitude, signal the monetary policy
+L73@P4: stance. To enhance monetary policy transmission the MPC adopted a new monetary policy implementation
+L74@P4: framework in August 2023. The framework is based on inflation targeting and on interest rate corridor around the
+L75@P4: CBR, currently at 50 basis points. Consistent with the new framework, monetary policy operations are aimed at
+L76@P4: ensuring the Kenya Shilling Overnight Interbank Average (KESONIA) as an operating target closely align with the
+L77@P4: CBR.
+L78@P4: The efficiency in the Repo and interbank markets is crucial for the transmission of monetary policy decisions. The
+L79@P4: CBK monitors the overnight interbank money market. It responds to the tightness or slackness in the interbank
+L80@P4: market liquidity through OMO. Short-term international flows of capital are affected by short-term interest rates
+L81@P4: in the country. These are, in turn, affected by movements in the CBR and hence indirectly, the exchange rate
+L82@P4: could also be affected.
+L83@P4: • Standing Facilities: The CBK does not have automatic standing facilities with respect to overnight lending. The
+L84@P4: CBK, as lender of last resort, provides secured loans to commercial banks on an overnight basis at a penal rate
+L85@P4: that is over the CBR. This facility is referred to as the Discount Window. To improve access to the discount window
+L86@P4: the applicable interest rate is 50 basis points above CBR (upper bound of the interest rate corridor).
+L87@P4: • The Cash Reserves Ratio (CRR): In accordance with the law, the CRR is the proportion of a commercial bank’s
+L88@P4: total deposit liabilities which must be held as deposits at CBK. These deposits are held in the CRR Account at
+L89@P4: no interest. During the review period, the ratio was lowered in February 2025 from 4.25 percent to 3.25 percent
+L90@P4: of the total of a bank’s domestic and foreign currency deposit liabilities. To facilitate commercial banks’ liquidity
+L91@P4: management, commercial banks are required to maintain their CRR based on a daily average level from the 15th
+L92@P4: of the previous month to the 14th of the current month and not to fall below a CRR of 2 percent on any day.
+L93@P4: • Licensing and Supervision of Financial Institutions: The CBK uses the licensing and supervision tools to
+L94@P4: ensure stability and efficiency of the banking system; this includes vetting potential managers for suitability.
+L95@P4: • The National Payments System: The modernisation of the National Payments System has continued to lower
+L96@P4: transaction costs and enhanced the efficiency of the payments systems. This has ensured the effectiveness of
+L97@P4: monetary policy instruments.
+L98@P4: • Communication: The increasing use of communication media ensures a wider dissemination of monetary policy
+L99@P4: decisions and background data thereby increasing the efficiency of information transmission and managing
+L100@P4: expectations. The regular interaction between the MPC and the Chief Executive Officers of banks has ensured
+L101@P4: that monetary policy decisions are transmitted to the banking sector. The regular Governor’s Press Conferences
+L102@P4: have also enhanced the media understanding of monetary policy decisions. The CBK website is an important
+L103@P4: source of up-to date data on all aspects of the financial market including interest rates, exchange rates, results of
+L104@P4-5: auctions of government securities, and the MPC releases.CENTRAL BANK OF KENYA
+L105@P5: MONETARY POLICY STATEMENT - JUNE 2026
+L106@P5: v
+L107@P5: This Monetary Policy Statement provides the direction of monetary policy in the financial year 2026/27, and reviews
+L108@P5: the outcomes of the policy measures implemented in the first half of 2026.
+L109@P5: During the first half of 2026, the Central Bank of Kenya (CBK) conducted monetary policy with the objective of
+L110@P5: maintaining overall inflation within the target range of 5±2.5 percent and supporting sustainable economic growth.
+L111@P5: Monetary policy was implemented against a backdrop of moderating global growth, heightened geopolitical tensions,
+L112@P5: particularly the conflict in the Middle East, and elevated trade policy uncertainty. The conflict disrupted global supply
+L113@P5: chains and contributed to higher energy prices and inflationary pressures globally. Inflation in major economies
+L114@P5: remained above target levels, reflecting persistent core inflation and rising energy costs, prompting central banks to
+L115@P5: adopt a cautious approach to monetary policy. While global growth continued to be supported by technology-driven
+L116@P5: investment and resilient demand in some economies, risks to the outlook remained elevated due to geopolitical
+L117@P5: tensions, trade fragmentation, and global economic uncertainty.
+L118@P5: The Monetary Policy Committee (MPC) held three meetings during the first half of 2026. In February 2026, the MPC
+L119@P5: lowered the Central Bank Rate (CBR) by 25 basis points to 8.75 percent from 9.00 percent to support private sector
+L120@P5: lending and economic activity while maintaining price and exchange rate stability. The MPC maintained the CBR at
+L121@P5: 8.75 percent in both April and June 2026 meetings, in order to anchor inflation expectations arising from higher energy
+L122@P5: prices attributed to the conflict in the Middle East.
+L123@P5: Kenya’s overall inflation remained within the target range of 5±2.5 percent between December 2025 and June 2026.
+L124@P5: Inflation rose to 6.4 percent in June 2026 from 4.5 percent in December 2025. Non-core inflation increased to 15.1
+L125@P5: percent from 11.2 percent over the same period, mainly due to higher domestic energy prices, following increases in
+L126@P5: international energy prices. Core inflation also increased to 3.1 percent in June 2026 from 2.0 percent in December
+L127@P5: 2025, largely reflecting higher transport costs associated with elevated energy prices.
+L128@P5: The foreign exchange market remained stable in the first half of 2026 despite heightened global uncertainty. This
+L129@P5: stability was supported by diversified inflows, including diaspora remittances, horticulture export earnings, and travel
+L130@P5: receipts as well as ample reverses. The current account deficit was estimated at 3.0 percent of GDP in the 12 months
+L131@P5: to June 2026, compared with 1.9 percent in a similar period in 2025. CBK foreign exchange reserves stood at USD
+L132@P5: 14,023 million in June 2026, equivalent to 5.8 months of import cover, and continued to provide an adequate buffer
+L133@P5: against short-term foreign exchange market shocks.
+L134@P5: The banking sector remained stable and resilient in the first half of 2026, supported by strong liquidity and capital
+L135@P5: adequacy ratios. The average commercial banks’ liquidity and capital adequacy ratios stood at 61.2 percent and
+L136@P5: 20.0 percent, respectively, in June 2026, well above the statutory limits. Credit risk eased with the ratio of gross nonperforming loans (NPLs) to gross loans declining to 14.8 percent in June 2026 from 15.4 percent in December 2025,
+L137@P5: and banks continued to make adequate provisions for NPLs. Growth in private sector credit strengthened further in
+L138@P5: the first half of 2026, rising to 10.6 percent in June 2026 from 5.9 percent in December 2025, reflecting improved
+L139@P5: demand for credit alongside decline in lending interest rates. The Risk Based Credit Pricing Model (RBCPM), which
+L140@P5: became fully operational in March 2026, continued to support the transmission of monetary policy to lending rates.
+L141@P5: The weighted average lending rate declined gradually to 14.4 percent in June 2026 from 14.8 percent in December
+L142@P5: 2025.
+L143@P5: The growth of the economy moderated to 4.6 percent in 2025 from 4.7 percent in 2024, reflecting slower growth in the
+L144@P5: agriculture and services sectors, partly due to unfavourable weather conditions and a moderation in activity across
+L145@P5: several services sub-sectors. However, the economy continued to benefit from a strong recovery in industrial activity,
+L146@P5: particularly in construction, mining and quarrying, and electricity and water supply. Growth strengthened in the first
+L147@P5: quarter of 2026 to 5.3 percent, supported by improved performance in the industry and services sectors, notably
+L148@P5: construction, manufacturing, financial and insurance activities, and real estate. This performance underscores the
+L149@P5: continued resilience of the Kenyan economy despite a challenging global environment.
+L150@P5-6: EXECUTIVE SUMMARYCENTRAL BANK OF KENYA
+L151@P6: MONETARY POLICY STATEMENT - JUNE 2026
+L152@P6: vi
+L153@P6: The monetary policy stance in the FY 2026/27 will aim at maintaining overall inflation within the target range of 5±2.5
+L154@P6: percent and supporting the government economic growth objective. The economy is projected to grow by 4.9 percent
+L155@P6: in 2026, supported by strong performance of agriculture and services sectors, as well as a recovery of the industrial
+L156@P6: sector. Growth in credit to the private sector is projected to remain resilient at about 11.0 percent by December 2026,
+L157@P6: underpinned by lower interest rates and sustained improvement in economic activity. The foreign exchange market
+L158@P6: is expected to remain stable, supported by resilient exports receipts, and buoyant remittances. The current account
+L159@P6: deficit is projected to widen to 3.0 percent of GDP in 2026, but is expected to be more than fully financed by financial
+L160@P6: and capital account inflows.
+L161@P6: The Bank will continue to implement reforms outlined in the White Paper on Modernization of the Monetary Policy
+L162@P6: Framework and Operations, to strengthen the monetary policy framework and operations. The Bank will also continue
+L163@P6: to hold regular engagements with stakeholders in the banking sector, as well as with CEOs of non-bank private sector
+L164@P6: firms. Continued coordination between monetary and fiscal policy is expected to reinforce macroeconomic stability.
+L165@P6: The Bank will continue to monitor the impact of its policy measures, as well as developments in the global and
+L166@P6-7: domestic economy, in order to safeguard price stability.CENTRAL BANK OF KENYA
+L167@P7: MONETARY POLICY STATEMENT - JUNE 2026
+L168@P7: 1
+L169@P7: This Monetary Policy Statement (MPS) outlines the
+L170@P7: direction of monetary policy in the financial year
+L171@P7: 2026/27 and presents the outcome of the monetary
+L172@P7: policy actions implemented in the first half of 2026.
+L173@P7: Price stability remains the primary objective of
+L174@P7: monetary policy formulation and implementation.
+L175@P7: The Central Bank of Kenya uses the Central Bank Rate
+L176@P7: (CBR) to signal the stance of monetary policy. The Bank
+L177@P7: monitors developments in inflation, and key monetary
+L178@P7: aggregates such as broad money (M3) and credit to the
+L179@P7: private sector, while operating under a flexible exchange
+L180@P7: rate regime. The Bank’s participation in the foreign
+L181@P7: exchange market is guided by the need to maintain an
+L182@P7: adequate level of foreign exchange reserves, meeting
+L183@P7: the Government’s external obligations, and ensuring
+L184@P7: stability in the foreign exchange market. The CBK’s
+L185@P7: foreign exchange reserves provide a buffer against
+L186@P7: short-term shocks.
+L187@P7: The July 2026 IMF World Economic Outlook (WEO)
+L188@P7: projects global growth at 3.0 percent in 2026, before
+L189@P7: recovering to 3.4 percent in 2027, with the overall outlook
+L190@P7: remaining broadly unchanged relative to the April 2026
+L191@P7: WEO. The moderation in growth reflects the adverse
+L192@P7: effects of the conflict in the Middle East, including higher
+L193@P7: energy prices, supply chain disruptions, and heightened
+L194@P7: uncertainty. These effects are partly offset by stronger
+L195@P7: demand associated with the global technology cycle
+L196@P7: and continued advances in artificial intelligence (AI).
+L197@P7: Growth prospects remain stronger for economies that
+L198@P7: are closely integrated into the technology value chain
+L199@P7: and benefit from AI-related investments and semiconductor production, while resilient corporate earnings
+L200@P7: and relatively accommodative financial conditions
+L201@P7: continue to support economic activity. In contrast,
+L202@P7: many energy-importing and low-income economies
+L203@P7: face weaker growth prospects due to higher commodity
+L204@P7: prices and limited participation in technology-related
+L205@P7: activity. Global trade growth is also expected to
+L206@P7: moderate in 2026, reflecting the effects of tariffs, trade
+L207@P7: fragmentation, and supply chain adjustments. The
+L208@P7: global outlook remains subject to significant downside
+L209@P7: risks, including a renewed escalation of conflict in
+L210@P7: the Middle East, persistent geopolitical tensions,
+L211@P7: further trade fragmentation, supply chain disruptions,
+L212@P7: elevated public debt, tighter financing conditions, and
+L213@P7: the potential correction in technology-related asset
+L214@P7: valuations. On the upside, stronger-than-expected AI
+L215@P7: investment, faster normalization of energy markets,
+L216@P7: renewed international cooperation to reduce trade
+L217@P7: barriers, and structural reforms could support stronger
+L218@P7: global growth.
+L219@P7: The CBK continued to assess the effectiveness of
+L220@P7: earlier policy actions in supporting price and financial
+L221@P7: stability, while closely monitoring global and domestic
+L222@P7: economic developments. In the first half of 2026, the
+L223@P7: MPC further eased the monetary policy stance by
+L224@P7: lowering the Central Bank Rate (CBR) by 25 basis points
+L225@P7: to 8.75 percent in February 2026. The MPC noted that
+L226@P7: previous policy measures had contributed to keeping
+L227@P7: overall inflation below the mid-point of the target range,
+L228@P7: maintaining exchange rate stability, anchoring inflation
+L229@P7: expectations, and supporting the recovery in private
+L230@P7: sector credit growth. In view of these developments,
+L231@P7: the Committee determined that there was scope
+L232@P7: for a further easing of the monetary policy stance to
+L233@P7: stimulate bank lending to the private sector and support
+L234@P7: economic activity. However, following the emergence of
+L235@P7: heightened global uncertainties, particularly the conflict
+L236@P7: in the Middle East and its impact on international
+L237@P7: energy prices and the global economic outlook, the
+L238@P7: MPC maintained the CBR at 8.75 percent during its April
+L239@P7: and June 2026 meetings, concluding that the prevailing
+L240@P7: monetary policy stance remained appropriate to ensure
+L241@P7: that inflation expectations stayed anchored within the
+L242@P7: target range and the exchange rate remained stable.
+L243@P7: The remainder of this Policy Statement is structured as
+L244@P7: follows. Section 2 reviews the outcomes of the monetary
+L245@P7: policy stance implemented in the first half of 2026 while
+L246@P7: Section 3 describes the developments in the external
+L247@P7: economic environment and presents the outlook for
+L248@P7: 2026. Section 4 concludes by outlining the direction of
+L249@P7: monetary policy in the financial year 2026/27.
+L250@P7-8: INTRODUCTIONCENTRAL BANK OF KENYA
+L251@P8: MONETARY POLICY STATEMENT - JUNE 2026
+L252@P8: 2
+L253@P8: During the first half of 2026, monetary policy formulation
+L254@P8: and implementation were aimed at achieving and
+L255@P8: maintaining overall inflation within the target range of
+L256@P8: 5±2.5 percent, while supporting sustainable economic
+L257@P8: activity. Monetary policy decisions were made against a
+L258@P8: backdrop of resilient global growth at the beginning of the
+L259@P8: year, which was subsequently affected by heightened
+L260@P8: trade policy uncertainty, geopolitical tensions, and
+L261@P8: disruptions to global supply chains associated with
+L262@P8: the conflict in the Middle East. Domestically, inflation
+L263@P8: remained within the target range, the exchange rate
+L264@P8: was broadly stable, and the banking sector remained
+L265@P8: resilient. The CBK continued to monitor liquidity
+L266@P8: conditions, inflation expectations, credit developments,
+L267@P8: and risks to the economic outlook.
+L268@P8: At its meeting held on February 10, 2026, the Monetary
+L269@P8: Policy Committee (MPC) lowered the Central Bank
+L270@P8: Rate (CBR) by 25 basis points to 8.75 percent from
+L271@P8: 9.00 percent. The Committee noted that global growth
+L272@P8: had remained resilient and that global inflation was
+L273@P8: projected to decline further in 2026 and 2027, mainly
+L274@P8: driven by lower energy prices and reduced global
+L275@P8: demand. Kenya’s overall inflation remained below the
+L276@P8: midpoint of the 5±2.5 percent target range. The MPC
+L277@P8: concluded that there was scope for further easing of the
+L278@P8: monetary policy stance to support bank lending to the
+L279@P8: private sector and economic activity, while maintaining
+L280@P8: exchange rate stability.
+L281@P8: At the meeting held on April 8, 2026, the MPC
+L282@P8: maintained the CBR at 8.75 percent. The Committee
+L283@P8: observed that the conflict in the Middle East had
+L284@P8: disrupted global supply chains, raised energy prices,
+L285@P8: and heightened risks to the global growth and inflation
+L286@P8: outlook. Despite expected upward pressure from
+L287@P8: global energy prices, the MPC noted that inflation was
+L288@P8: expected to remain within the target range, supported
+L289@P8: by appropriate monetary policy actions, favourable
+L290@P8: weather conditions, and a broadly stable exchange rate.
+L291@P8: The policy stance in the first half of 2026 therefore
+L292@P8: reflected a calibrated easing cycle followed by a pause.
+L293@P8: The February reduction in the CBR built on earlier policy
+L294@P8: easing to support recovery in private sector credit
+L295@P8: and economic activity, while the April and June 2026
+L296@P8: decision to maintain the CBR reflected increased global
+L297@P8: uncertainty and risks from higher energy prices. The
+L298@P8: Committee continued to emphasize the need to anchor
+L299@P8: inflation expectations, preserve exchange rate stability,
+L300@P8: and strengthen monetary policy transmission, including
+L301@P8: through the implementation of the Risk-Based Credit
+L302@P8: Pricing Model (RBCPM).
+L303@P8: The following are the specific outcomes of the policy
+L304@P8: measures implemented in the first half of 2026.
+L305@P8: i. Inflation
+L306@P8: Overall inflation increased but remained within the
+L307@P8: medium-term target range in the first half of 2026.
+L308@P8: It increased to 6.4 percent in June 2026 from 4.5
+L309@P8: percent in December 2025, mainly due to elevated
+L310@P8: core and non-core inflation rates. Non-core inflation
+L311@P8: increased significantly to 15.1 percent in June 2026
+L312@P8: from 11.2 percent in December 2025, largely driven by
+L313@P8: increased energy costs in line with the sharp increase
+L314@P8: in international energy prices following the war in Iran
+L315@P8: and ensuing spillover in the Middle East. Additionally,
+L316@P8: core inflation increased to 3.1 percent from 2.0 percent
+L317@P8: in December 2025, as transport costs increased in
+L318@P8: tandem with the elevated energy prices (Chart 1a and
+L319@P8: Chart 1b).
+L320@P8: ACTIONS AND OUTCOMES OF THE POLICY STANCE IN THE FIRST HALF OF
+L321@P8-9: 2026CENTRAL BANK OF KENYA
+L322@P9: MONETARY POLICY STATEMENT - JUNE 2026 3
+L323@P9: Chart 1a: Core and Non-Core Inflation (Percent)
+L324@P9: 3.0 3.1 3.0 2.9 2.7 2.3 2.0 2.2 2.1 2.1
+L325@P9: 2.8 3.2 3.1
+L326@P9: 6.2
+L327@P9: 7.2
+L328@P9: 9.2 9.6 9.9 10.1
+L329@P9: 11.2
+L330@P9: 10.3 10.1
+L331@P9: 10.8
+L332@P9: 13.4
+L333@P9: 16.0
+L334@P9: 15.1
+L335@P9: 3.8 4.1 4.5 4.6 4.6 4.5 4.5 4.4 4.3 4.4
+L336@P9: 5.6
+L337@P9: 6.7 6.4
+L338@P9: 0.0
+L339@P9: 2.0
+L340@P9: 4.0
+L341@P9: 6.0
+L342@P9: 8.0
+L343@P9: 10.0
+L344@P9: 12.0
+L345@P9: 14.0
+L346@P9: 16.0
+L347@P9: 18.0
+L348@P9: Jun-25 Jul-25 Aug-25 Sep-25 Oct-25 Nov-25 Dec-25 Jan-26 Feb-26 Mar-26 Apr-26 May-26 Jun-26
+L349@P9: Percent (%)
+L350@P9: Core Inflation Non Core Inflation Headline Inflation
+L351@P9: Source: Kenya National Bureau of Statistics and CBK
+L352@P9: Inflation rates for all categories in the consumer basket
+L353@P9: increased in June 2026 compared to December 2025,
+L354@P9: except the ‘alcoholic beverages, tobacco and narcotics’,
+L355@P9: ‘information and communication’, and ‘recreation,
+L356@P9: sports and culture’ categories (Chart 1b).
+L357@P9: Chart 1b: 12-Month Inflation by Broad CPI Categories (Percent)
+L358@P9: 7.8
+L359@P9: 2.8
+L360@P9: 1.5
+L361@P9: 1.6
+L362@P9: 1.6
+L363@P9: 2.6
+L364@P9: 5.2
+L365@P9: 0.7
+L366@P9: 2.9
+L367@P9: 2.2
+L368@P9: 2.1
+L369@P9: 0.1
+L370@P9: 2.6
+L371@P9: 4.5
+L372@P9: 8.6
+L373@P9: 2.6
+L374@P9: 2.0
+L375@P9: 3.4
+L376@P9: 2.2
+L377@P9: 2.8
+L378@P9: 16.1
+L379@P9: 0.6
+L380@P9: 2.5
+L381@P9: 3.1
+L382@P9: 2.7
+L383@P9: 0.8
+L384@P9: 2.7
+L385@P9: 6.4
+L386@P9: 0.0 5.0 10.0 15.0
+L387@P9: Food & Non-Alcoholic Beverages
+L388@P9: Alcoholic Beverages, Tobacco & Narcotics
+L389@P9: Clothing & Footwear
+L390@P9: Housing, Water, Electricity, Gas and other Fuels
+L391@P9: Furnishings, Household Equipment and Routine Household Maintenance

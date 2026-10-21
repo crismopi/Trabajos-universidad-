@@ -1,0 +1,28 @@
+{
+  "variable": "variación anual del PIB real",
+  "unidad": "porcentaje",
+  "serie": "nacional revisada, edición 2026",
+  "observaciones": [
+    {
+      "año": 2020,
+      "valor": -0.3
+    },
+    {
+      "año": 2021,
+      "valor": 7.6
+    },
+    {
+      "año": 2024,
+      "valor": 4.7
+    },
+    {
+      "año": 2025,
+      "valor": 4.6
+    }
+  ],
+  "fuentes_referencias": [
+    2,
+    4
+  ],
+  "nota": "Transcripción de las cifras documentadas en el informe; selección de años, no serie completa."
+}

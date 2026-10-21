@@ -1,0 +1,466 @@
+FUENTE 11: PNUD, quinto informe de desarrollo humano de Kenia, apartado sobre ajuste
+URL original: https://hdr.undp.org/system/files/documents/kenya2006en.pdf
+Fecha de captura: 2026-10-21
+Tipo: texto extraído por navegador; puede ser parcial. No es el HTML/PDF original.
+Estado: texto_recuperado
+
+untitled (https://hdr.undp.org/system/files/documents/kenya2006en.pdf)
+  Crawled: today; Content type: application/pdf; Number of pages: 100; Source: open({"ref_id":"https://hdr.undp.org/system/files/documents/kenya2006en.pdf","lineno":null}); Total lines: 8640
+L0@P0: KENYA NATIONAL HUMAN DEVELOPMENT REPORT 2006
+L1@P0: HUMAN SECURITY AND HUMAN DEVELOPMENT:
+L2@P0-1: A DELIBERATE CHOICEii 5th Kenya Human Development Report
+L3@P1: This is the fifth National Human Development Report for Kenya. It presents an independent voice on the interconnectedness of human security and human development. Though sponsored by UNDP, the report does not reflect UN or UNDP
+L4@P1: policy. It is a rejoinder to the unprecedented promise by World leaders to address as a single package, peace,security,
+L5@P1: development, human rights and fundamental freedoms. As articulated in the Secretary General’s report “In Larger
+L6@P1: Freedom:towards development, security and human rights for all”, “We will not enjoy development without security, we
+L7@P1: will not enjoy security without development, and we will not enjoy either without respect for human rights. Unless all
+L8@P1: these causes are advanced, none will succeed”.
+L9@P1: UNDP-sponsored Human Development Reports over the years have won a well-deserved reputation for excellence. They
+L10@P1: have played an indispensable catalytic role in helping shape and forge concrete responses to key policy debates. As this
+L11@P1: report persuasively argues, one of the challenges facing community development in Kenya is that of controlling human
+L12@P1: insecurity, which challenges the efforts towards achieving the Millennium Development Goals by the target date of 2015.
+L13@P1: This agenda will not succeed unless we can decisively resolve the bottlenecks retarding progress in the key realm of human
+L14@P1: security. The report looks at the facts and delivers a compelling and comprehensive analysis on how this can be done. It
+L15@P1: suggests ways and means in which the country and its leadership can take concrete action to address deficits in security,
+L16@P1: to safeguard Kenya from the threat of want and fear so that every man, woman and child in the street can have the freedom to live a life of dignity.
+L17@P1: It is my hope that, as an articulation of a key development challenge, this report will frame an ambitious agenda for Kenya
+L18@P1: in the months and years to come.
+L19@P1: Paul Andre de la Porte
+L20@P1: Resident Representative, UNDP, Kenya.
+L21@P1-2: Forewordiii
+L22@P2: Contributors
+L23@P2: This National Human Development Report is the result of a collective and participatory effort. The drafting team - whose
+L24@P2: lead contributors were: Dr. Joseph Onjala, Mr. Elijah Agevi, Mr. Albert Mwenda, Mr. Willis Wasala, Mr. George Kut and Mr.
+L25@P2: Seraphin Njagi - provided the initial direction to the report. Several organizations shared their data and other research material. They included: the Government of Kenya - Central Bureau of Statistics; the Institute for Development Studies, University
+L26@P2: of Nairobi; the Kenya Institute for Public Policy Research and Analysis; the Institute of Economic Affairs; and UN-HABITAT.
+L27@P2: Advisory Group
+L28@P2: The National Technical Advisory Team was composed of Mr. Stephen Wainaina, Economic Planning Secretary, Ministry of
+L29@P2: Planning and National Development; Alan Ragi of Kenya NGO Council; J.N Macharia, Special Programmes in the Office of
+L30@P2: the President; S.M Machuka of the Ministry of Planning; A. K. M. Kilele, Director, Central Bureau of Statistics; John M.
+L31@P2: Njoroge, in the Provincial Administration department in the Office of the President; and Elder N. Onsomu of Kenya Institute
+L32@P2: for Public Policy Research and Analysis.
+L33@P2: Consultants
+L34@P2: Many Individuals and colleagues who were consulted during the preparation of the report provided useful comments and
+L35@P2: suggestions. Similarly, the report team benefited from discussions and consultations during the stakeholder meetings and
+L36@P2: related peer review activities. The team is also indebted to the UNDP Country Office and the UN steering committee for their
+L37@P2: comments on the drafts, and especially the UNDP Resident Representative, Mr. Paul Andre de la Porte, and the Deputy
+L38@P2: Resident Representative (Programme) Ms. Nardos Bekele-Thomas. The team extends special thanks to UNDP Senior Field
+L39@P2: Economist for Kenya and Uganda, Mr. Alexander Aboagye, and Professor Michael Chege, UNDP Advisor to the Ministry of
+L40@P2: Planning and National Development, for their intellectual advice and professional guidance. The team would also like to
+L41@P2: thank Ms. Rubina Haroon, the Head of Strategic Outreach Unit under whose unit this report falls, and UNDP National Human
+L42@P2: Development Report, Country Office focal point and National Economist, Mr. Seraphin Njagi, for coordinating the work on
+L43@P2: the report and directing the work of the drafters. The team gratefully acknowledges the support through excellent peer
+L44@P2: reviews provided by the Regional Service Centre in Johannesburg and the Human Development Report Office in New York.
+L45@P2: UNDP Readers
+L46@P2: A readers group comprised of the staff of UNDP and other UN Agencies provided valuable suggestions and edits throughout the drafting process.
+L47@P2: Overall Production and Management
+L48@P2: Technical and production editing and layout were provided by Michael Jones Software, UNDP General Services Unit provided critical administrative support and management services. We wish to acknowledge typesetting support services of
+L49@P2: Ms. Jacqueline Anyona during the drafting process, as well as the valuable work of the main editor of the report, Prof.
+L50@P2: Okoth Okombo.
+L51@P2-3: AcknowledgementsContents
+L52@P3: Foreword
+L53@P3: Acknowledgements
+L54@P3: Acronyms
+L55@P3: Summary
+L56@P3: Overview
+L57@P3: CHAPTER 1: Linking Human Security to Human Development
+L58@P3: New Dimensions
+L59@P3: 1.1 Introduction ..............................................................................................................................................................1
+L60@P3: 1.2 Human Security as a Platform for Human Development ..........................................................................................1
+L61@P3: 1.3 The Security Vulnerability Profile ..............................................................................................................................4
+L62@P3: CHAPTER 2: Human Security and Human Development
+L63@P3: 2.1 Measuring and Monitoring Human Development ..................................................................................................13
+L64@P3: 2.2 Human Development Index (HDI)............................................................................................................................14
+L65@P3: 2.3 Gender and Human Development Estimates ..........................................................................................................17
+L66@P3: 2.4 Human Poverty Estimates
+L67@P3: 2.5 Human Security and Human Development Oriented Strategy ................................................................................18
+L68@P3: CHAPTER 3: Initiatives in Response to Human Security
+L69@P3: 3.1 Overview ................................................................................................................................................................21
+L70@P3: 3.2 Tracing the Development of Human Security and Human Development ................................................................21
+L71@P3: 3.3 Addressing Human Security and Human Development ..........................................................................................22
+L72@P3: 3.4 Addressing Want-based Insecurity through Enhancing the Right to Education ......................................................36
+L73@P3: 3.5 Devolved Funds ......................................................................................................................................................37
+L74@P3: 3.6 Conclusions ............................................................................................................................................................38
+L75@P3: CHAPTER 4: HIV/AIDS, Malaria, and TB
+L76@P3: Special Cases of Human Insecurity
+L77@P3: 4.1 Introduction ............................................................................................................................................................39
+L78@P3: 4.2 Looking at HIV/AIDS, Malaria and TB as a threat to Human Security ....................................................................41
+L79@P3: 4.3 HIV/AIDS, Malaria and TB: A Source of Human Insecurity ......................................................................................42
+L80@P3: 4.4 HIV/AIDS, Malaria and TB, and Economic Insecurity................................................................................................42
+L81@P3: 4.5 HIV/AIDS, Malaria and TB and Social Insecurity ......................................................................................................44
+L82@P3: 4.6 HIV/AIDS, Malaria and TB and Political Insecurity ..................................................................................................46
+L83@P3: 4.7 Spectrum Software..................................................................................................................................................47
+L84@P3: CHAPTER 5: Chronic Poverty and Insecurity
+L85@P3: 5.1 Introduction ............................................................................................................................................................49
+L86@P3: 5.2 Meaning of Chronic Poverty....................................................................................................................................49
+L87@P3: 5.3 Disaggregating Chronic Poverty and Low Income ..................................................................................................50
+L88@P3: 5.4 Who are the Chronically Poor?................................................................................................................................50
+L89@P3-4: iv 5th Kenya Human Development Reportv
+L90@P4: 5.5 The Poverty Dimension............................................................................................................................................51
+L91@P4: 5.6 Chronic Poverty and Human Insecurity Traps ..........................................................................................................51
+L92@P4: 5.7 From Physical to Chronic Poverty and Human Insecurity ........................................................................................52
+L93@P4: 5.8 Chronic Poverty Predisposes People to Insecurity ..................................................................................................54
+L94@P4: 5.9 Development Catalyzes Human Security ................................................................................................................55
+L95@P4: 5.10 Harnessing Peace from Conflict Sensitive Development Efforts ..............................................................................55
+L96@P4: 5.11 Re-examining Perceptions of Chronic Poverty and Insecurity..................................................................................56
+L97@P4: 5.12 Conclusion ..............................................................................................................................................................56
+L98@P4: CHAPTER 6: Renewing Partnerships
+L99@P4: Addressing Human Security and Human Development
+L100@P4: 6.1 Introduction ............................................................................................................................................................57
+L101@P4: 6.2 Defining New Partnership Arrangements. to address the Challenges Human Security............................................58
+L102@P4: 6.3 The Challenges of Delivering Human Security ........................................................................................................58
+L103@P4: CHAPTER 7: Delivering Human Security
+L104@P4: 7.1 Introduction ............................................................................................................................................................65
+L105@P4: 7.2 Human security Concerns........................................................................................................................................65
+L106@P4: 7.3 Responding to Kenyans’ Human Security Concerns ................................................................................................65
+L107@P4-5: 7.4 The Broad Delivery Principles ..................................................................................................................................67Boxes
+L108@P5: Box 1.1 The Concept of Human Security
+L109@P5: Box 1.2 Human Security: 1994 Definition
+L110@P5: Box 1.3 Development as Freedom
+L111@P5: Box 1.4 Threats to Freedom From Wants
+L112@P5: Box 1.5 Multi-dimensionality of Poverty
+L113@P5: Box 2.1 Some Striking Features on Inequality
+L114@P5: Box 2.2 Is Increasing Growth also Increasing
+L115@P5: Poverty and Inequality in Kenya?
+L116@P5: Box 2.3 Social and Cultural Rights
+L117@P5: Box 2.4 Rights to Health
+L118@P5: Box 2.5 Expanding Opportunities for Human
+L119@P5: Development
+L120@P5: Box 3.1 Provincial Imbalance and Social Inertia
+L121@P5: Box 3.2 Ethnic Clashes
+L122@P5: Box 3.3 Judicial Commission on Tribal Clashes
+L123@P5: Box 3.4 The Wajir Peace Development Committee
+L124@P5: Box 3.5 Conflict Prevention
+L125@P5: Box 3.6 Functions of the Police
+L126@P5: Box 3.7 Public-Private Partnership in Security Provision
+L127@P5: Box 3.8 Private Security Providers’ Comment
+L128@P5: Box 3.9 Improved Urban Design and Environment
+L129@P5: Box 3.10 Re-introduction of Multi-party Democracy
+L130@P5: Box 3.11 Mathare 4A Project
+L131@P5: Box 3.12 Health: Provision of Basic Health Services
+L132@P5: Box 3.13 Targets for the Economic Recovery Strategy
+L133@P5: Box 3.14 Urban Environment
+L134@P5: Box 3.15 Emerging and Cross-cutting Issues
+L135@P5: Box 3.16 Vulnerable Cases
+L136@P5: Box 3.17 The CDF Concept
+L137@P5: Box 3.18 A Nutritionist’s Perspective
+L138@P5: Box 4.1 Human Development Approach to HIV/AIDS
+L139@P5: Box 4.2 Impact of HIV/AIDS on Human Development
+L140@P5: Box 5.1 Anjelina’s Poverty Story
+L141@P5: Box 5.2 The Concept of Security (UN HDHR 1994)
+L142@P5: Box 5.3 A Perception of Risks within Pastoralist
+L143@P5: Households in Northern Kenya
+L144@P5: Box 5.4 Tasks for the Government and NGOs Engaged
+L145@P5: in Poverty Reduction Initiatives
+L146@P5: Box 7.1 Kenyan National Anthem
+L147@P5: Box 7.2 Some Burning Human Security Concerns
+L148@P5: Box 7.3 Adherence to the Basic Principles is Critical for
+L149@P5: Success
+L150@P5: Box 7.4 A Summary of the Human Security Picture of
+L151@P5: Tomorrow
+L152@P5: Figures
+L153@P5: Figure 1.1 Broad Realms of Human Security
+L154@P5: Figure 1.2 Human Security as a Minimum Platform for
+L155@P5: Human Development
+L156@P5: Figure 2.1 Human Development Index, 2005 and 2004
+L157@P5: Comparisons
+L158@P5: Figure 2.2 Human Development Indices, Bottom/Top Ten
+L159@P5: Districts, 2005
+L160@P5: Figure 2.3 Gender Development Index, 2004 and 2005
+L161@P5: Comparisons
+L162@P5: Figure 2.4 Gender Development Index, Bottom/Top Ten
+L163@P5: Districts, 2005
+L164@P5: Figure 2.5 HPI by Province, 2004 and 2005 Comparisons
+L165@P5: Figure 2.6 Human Poverty Index, Top/Bottom Ten Districts,
+L166@P5: 2005
+L167@P5: Figure 4.1 Adult HIV/AIDS Prevalence
+L168@P5: Figure 4.2 Age-sex Distribution of Reported HIV/AIDS
+L169@P5: Cases – 1986-2000
+L170@P5: Figure 4.3 Problems Among Families and Households
+L171@P5: Affected by HIV/AIDS, Malaria and TB
+L172@P5: Figure 6.1 Players and Initiatives in Security Terrain
+L173@P5: Tables
+L174@P5: Table 1.1 Distinctive Characteristics of Poverty and
+L175@P5: Vulnerability
+L176@P5: Table 3.1 Annual Crime Statistics of 2001- 2005 as
+L177@P5: Reported to the Police
+L178@P5: Table 3.2 Reported Cases of Rape and Attempted Rape,
+L179@P5: Assault and Battering(2001- 2005)
+L180@P5: Table 3.3 Health Access per Province
+L181@P5: Table 3.4 Primary School Enrolment by Class and Gender,
+L182@P5: 2001 - 2005
+L183@P5: Table 4.1 Demographic Indicators: 1963 – 2004
+L184@P5: Table 4.2 Adult HIV Prevalence by Province (Percent,
+L185@P5: 2004)
+L186@P5: Table 4.3 Number of Orphans by Type (2004)
+L187@P5: Table 5.1 Requirements for Human Flourishing and their
+L188@P5: Relation to Chronic Poverty
+L189@P5: Maps
+L190@P5: Map 1.1 Food Insecure Population by District
+L191@P5: Map 1.2 Potential Conflict Areas
+L192@P5: Map 5.1 Incidences of Poverty by Province
+L193@P5: Graphs
+L194@P5: Graph 1.1 Under 5 Mortality Rates
+L195@P5: Graph 1.2 Net Financial Flows to Kenya, 1989 - 2004
+L196@P5: vi 5th Kenya Human Development Report
+L197@P5-6: Lists of Boxes, Figures,Tables, Maps, Graphsvii
+L198@P6: Acronyms
+L199@P6: ACEG - African Centre for Economic Growth
+L200@P6: AIDS - Acquired Immuno-deficiency Syndrome
+L201@P6: ALI - Adult Literacy Index
+L202@P6: ALRMP - Arid Land Resource Management Programme
+L203@P6: APPPI - Adjusted Real GDP per capita (PPP$) Index
+L204@P6: ART - Anti-Retroviral Therapy
+L205@P6: ASAL - Arid and Semi-arid Lands
+L206@P6: CBOs - Community-based Organizations
+L207@P6: CBS - Central Bureau of Statistics
+L208@P6: CCN - City Council of Nairobi
+L209@P6: CDF - Constituency Development Fund
+L210@P6: CGD - Centre for Governance and Development
+L211@P6: CGEI - Combined Gross Enrolment Index
+L212@P6: CGER - Combined Gross Enrolment Ratio
+L213@P6: CIDA - Canadian International Development Agency
+L214@P6: CIFA - Community Initiative Facilitation Assistance
+L215@P6: CKRC - Constitution of Kenya Review Commission
+L216@P6: CO - Country Office
+L217@P6: CSOs - Civil Society Organizations
+L218@P6: DCR - Development Cooperation Report
+L219@P6: DfID - (UK) Department for International Development
+L220@P6: DPC - District Peace Committee
+L221@P6: DRC - Democratic Republic of Congo
+L222@P6: EA - East Africa
+L223@P6: ECK - Electoral Commission of Kenya
+L224@P6: EFA - Education for All
+L225@P6: EMCA - Environmental Management Coordination Act
+L226@P6: EMOP - Emergency Operations
+L227@P6: ERS - Economic Recovery Strategy
+L228@P6: EU - European Union
+L229@P6: FAO - Food and Agriculture Organization
+L230@P6: FEWS-NET - Field Early Warning System - Network
+L231@P6: FKE - Federation of Kenya Employers
+L232@P6: FPE - Free Primary Education
+L233@P6: GDI - Gender-related Development Index
+L234@P6: GDP - Gross Domestic Product
+L235@P6: GEM - Gender Empowerment Measure
+L236@P6: GHDR - Global Human Development Report
+L237@P6: GNP - Gross National Product
+L238@P6: GoK - Government of Kenya
+L239@P6: GSU - General Service Unit
+L240@P6: HDI - Human Development Index
+L241@P6: HDR - Human Development Report
+L242@P6: HIV - Human Immuno-Deficiency Virus
+L243@P6: HPI - Human Poverty Index
+L244@P6: IDPs - Internally Displaced Persons
+L245@P6: IEC - Information, Education and Communication
+L246@P6: IGAD - Inter-Governmental Authority on Development
+L247@P6: ILO - International Labour Organization
+L248@P6: IMF - International Monetary Fund
+L249@P6: IPCC - Inter-Governmental Panel on climate Change
+L250@P6: IP-ERS - Investment Programme for Economic Recovery Strategy
+L251@P6: IPPG - Inter-Parties Parliamentary Group
+L252@P6: ITDG - Intermediate Technology Development Group
+L253@P6: JICA - Japan International Cooperation Agency
+L254@P6: KANU - Kenya African National Union
+L255@P6: KDHS - Kenya Demographic and Health Survey
+L256@P6: KENSUP - Kenya Slum Upgrading Programme
+L257@P6: K-HURINET - Kenya Human Rights Network
+L258@P6: KIPPRA - Kenya Institute of Public Policy, Research and Analysis
+L259@P6: KNCHR - Kenya National Commission on Human Rights
+L260@P6: KEMSA - Kenya Medical Supplies Agency
+L261@P6: KNFP - Kenya National Focal Point
+L262@P6: KSIA - Kenya Security Industry Association
+L263@P6: KWH - Kilowatts per Hour
+L264@P6: LATF - Local Authority Transfer Fund
+L265@P6: LASDAP - Local Authority Service Delivery Action Plan
+L266@P6: LEI - Life Expectancy Index
+L267@P6: MDGs - Millennium Development Goals
+L268@P6: MICS - Multiple Indicators Cluster Survey
+L269@P6: MNCs - Multinational Corporations
+L270@P6: MOH - Ministry of Health
+L271@P6: MOEST - Ministry of Education Science and Technology
+L272@P6: MPET - Master Plan on Education and Training
+L273@P6: NACC - National Aids Control Council
+L274@P6: NARC - National Rainbow Coalition
+L275@P6: NCBDA - Nairobi Central Business District Association
+L276@P6: NEMA - National Environment Management Authority
+L277@P6: NGO - Non-Governmental Organization
+L278@P6: NHC - National Housing Corporation
+L279@P6: NHDR - National Human Development Report
+L280@P6: NHIF - National Health Insurance Fund
+L281@P6: NHS - National Health Service
+L282@P6: NPEP - National Poverty Eradication Plan
+L283@P6: NSC - National Steering Committee
+L284@P6: NSSF - National Social Security Fund
+L285@P6: NTAT - National Technical Advisory Team
+L286@P6: OCHA - Office for the Coordination of Humanitarian Affairs
+L287@P6: OCPD - Officer Commanding Police Division
+L288@P6: OCS - Officer Commanding Police Station
+L289@P6: OECD - Organization of Economic Cooperation and Development
+L290@P6: OLF - Oromo Liberation Front
+L291@P6: PAC - Parliamentary Accounts Committee
+L292@P6: PER - Public Expenditure Review
+L293@P6: PHC - Public Health Care
+L294@P6: PMTCT - Prevention of Mother to Child Transmission
+L295@P6: PPO - Provincial Police Officer
+L296@P6: PPP - Purchasing Power Parity
+L297@P6: PRGF - Poverty Reduction and Growth Facility
+L298@P6: PRSP - Poverty Reduction Strategy Paper
+L299@P6: SALWs - Small Arms and Light Weapons
+L300@P6: SAPs - Structural Adjustment Programmes
+L301@P6: SOT - Suppression of Terrorism
+L302@P6: SSA - Sub-Saharan Africa
+L303@P6: TB - Tuberculosis
+L304@P6: TJRC - Truth, Justice and Reconciliation Commission
+L305@P6: UN - United Nations
+L306@P6: UNICEF - United Nations Children’s Fund
+L307@P6: UNDP - United Nations Development Programme
+L308@P6: US - United States
+L309@P6: VCT - Voluntary Counselling and Testing
+L310@P6: WFP - World Food Programme
+L311@P6: WHO - World Health Organisation
+L312@P6: WMS - Welfare Monitoring Survey
+L313@P6: WMSII - Welfare Monitoring Survey II
+L314@P6: WSSD - World Summit for Sustainable Development
+L315@P6-7: WTO - World Trade OrganizationSummary
+L316@P7: viii 5th Kenya Human Development Report
+L317@P7: The Concept and Framework of Human Security
+L318@P7: This report examines how Human Security and Human
+L319@P7: Development are mutually reinforcing anchoring the concept
+L320@P7: on UNDP’s expanded definition as articulated in the 1994
+L321@P7: Global Human Development Report. At the outset, the report
+L322@P7: observes that for a large majority of Kenyans, the broader
+L323@P7: dimensions of human security is a novelty since they have till
+L324@P7: now all along embraced security in the traditional sense.
+L325@P7: The expanded human security concept was introduced by
+L326@P7: UNDP in 1994 in an attempt to move away from the narrow
+L327@P7: traditional security focus hinged on the protection and military defence from threats to territorial integrity and sovereignty of states. It expanded the frontiers to include a comprehensive coverage of other factors that, perhaps even
+L328@P7: more significantly, threaten life, survival, dignity and the well
+L329@P7: being of individuals.
+L330@P7: This broader concept equates security with people rather
+L331@P7: than territories, with development rather than arms. It
+L332@P7: visualizes that without human security, there is limited
+L333@P7: chance for people to enhance their capabilities and expand
+L334@P7: freedoms by removing barriers to development, livelihoods
+L335@P7: and sources of unfreedom - such as poverty, poor economic
+L336@P7: opportunities, social deprivation or absence of institutions
+L337@P7: for the maintenance of peace and security. It places human
+L338@P7: security threats under seven main clusters:- economic
+L339@P7: security, food security, health security, environmental security, personal security, community security, and political
+L340@P7: security. This definition provides elements that are so concrete that,when considered together, provide a powerful
+L341@P7: conceptual tool for policy and action to move forward the
+L342@P7: cause of human development and welfare.
+L343@P7: In that vein, human security permits progress on human
+L344@P7: development by providing the essence (a) to live a long,
+L345@P7: healthy and productive life (b) to access knowledge (c) to
+L346@P7: have sufficient material to meet basic needs (d) to participate freely in community and public life. Guaranteed security reassures progress on several fronts, namely (i) strong
+L347@P7: growth, sustainable and equality of wealth (ii) development
+L348@P7: of human health and education (iii) fight against poverty
+L349@P7: (iv) creation of decent jobs (vi) support to women and
+L350@P7: advancement of gender equality (vii) taking care of the
+L351@P7: environment, and (viii) promotion of good governance, both
+L352@P7: political, economic, social and cultural.
+L353@P7: Despite the critical linkage between human security and
+L354@P7: human development, Kenya has not explicitly embraced the
+L355@P7: concept of human security in her development approaches.
+L356@P7: The State of Human Development
+L357@P7: Kenya’s Human Development Index has increased marginally in recent years, reflecting people’s improving standards
+L358@P7: of living from rising economic growth. Nevertheless, a
+L359@P7: majority of Kenyans are still trapped in deepening poverty.
+L360@P7: The Human Poverty Index for 2005 is 37 percent but income
+L361@P7: poverty levels are higher at 56 percent. Other important
+L362@P7: messages are as follows:
+L363@P7: • Kenya’s HDI has increased from 0.520 in 2004 to 0.532
+L364@P7: in 2005 maintaining Kenya in the Medium human
+L365@P7: development level. This has largely resulted from the
+L366@P7: benefits of growth in the economy and increasing access
+L367@P7: to educational and health facilities.
+L368@P7: • Regions within the country with low HDI and GDI
+L369@P7: coincide with those encountering persistent human
+L370@P7: insecurity in form of conflict and disasters such as
+L371@P7: floods, low potential as in ASAL areas and those that
+L372@P7: suffer degradation.
+L373@P7: • Regions with high human development are those that
+L374@P7: offer higher opportunities and with relatively better
+L375@P7: human security.
+L376@P7: • Women empowerment and participation in economic,
+L377@P7: professional (administrative, managerial and technical)
+L378@P7: and political/elective spheres, although improving, still
+L379@P7: remains very low.
+L380@P7: A significant implication of the above is that without guaranteed safety from personal harm and threats to life and
+L381@P7: property, human beings cannot engage in development
+L382@P7: activities that enrich their lives and enable them to conquer adversities such as hunger and poverty. As a fundamental platform for the human development process,
+L383@P7: human security lays emphasis on human rights and opening up resources and livelihood opportunities to people. It
+L384@P7: anchors on the entrenchment of the rule of law and legal
+L385@P7: and judicial systems that deepen concerns for human
+L386@P7: rights in the country and safeguarding people from underlying causes of human insecurity that include economic
+L387@P7: despair and social injustice.
+L388@P7: It also includes providing people with secure, productive and
+L389@P7: satisfying lives and deepened processes and systems that
+L390@P7: give people chances for survival, livelihood and dignity.
+L391@P7: National Responses to Human Insecurity
+L392@P7: Kenya has pursued a myriad of policy regimes, legislative and
+L393@P7: legal frameworks and programmatic interventions aimed at
+L394@P7: reducing human insecurity and improving livelihoods.
+L395@P7: However, to a large extent, these efforts have directly sought
+L396@P7: economic development. Access to education, health, property rights, social security, freedom and political participation, equality and non-discrimination have over time been
+L397@P7: seen from a purely economic perspective.
+L398@P7: By implication, economic development has been viewed
+L399@P7: as the ultimate goal and achievement of human development as a residual. One of the main reasons has been
+L400@P7: that the concepts of human security and human development had not become part of policy discourse before
+L401@P7: 1990. In recent times, Kenya has instituted efforts aimed
+L402@P7: at addressing human security and human development
+L403@P7: including addressing fear-based insecurity, gender basedinsecurity, terror threats, as well as want-based insecurity.
+L404@P7: Such efforts include major policy articulations such as
+L405@P7: NPEP, PRSP, ERS, Police Act and Police reforms including
+L406@P7: community policing, Safer Cities Programme, GJLOS,
+L407@P7: peace building initiatives, Anti-terrorism Bill, Slum
+L408@P7: Upgrading, and the establishment of funds such as CDF
+L409@P7: and LATF. However, the interventions have not been
+L410@P7: backed by adequate resource allocation necessary for
+L411@P7: implementation, and coordination efforts have remained
+L412@P7: problematic.
+L413@P7: Key Messages of the Report
+L414@P7: The expanded
+L415@P7: human security
+L416@P7: concept introduced
+L417@P7: by UNDP in 1994
+L418@P7: places human
+L419@P7: security threats
+L420@P7: under seven main
+L421@P7: clusters:- economic
+L422@P7: security, food
+L423@P7: security, health
+L424@P7: security;
+L425@P7: environmental
+L426@P7: security, personal
+L427@P7: security, community
+L428@P7: security, and
+L429@P7-8: political security.ix
+L430@P8: Human Security Threats from HIV/AIDS,
+L431@P8: Malaria and TB
+L432@P8: Kenya has made commendable progress in reversing the
+L433@P8: trend and prevalence of HIV/AIDS from 13.9 percent in
+L434@P8: 1999 to 6.7 percent in 2003. Nevertheless, challenges
+L435@P8: remain particularly in effective prevention and behaviour
+L436@P8: and attitude change, which threaten the achievement of a
+L437@P8: sustained progress in human development. While the
+L438@P8: impact and magnitude of HIV/AIDS is real, malaria remains
+L439@P8: a leading killer, accounting for about five percent of
+L440@P8: deaths. If untreated, malaria can have a fatality rate of up
+L441@P8: to 50 percent. In turn, the cumulative number of people living with active TB reached 200,000 by 2005. However, only
+L442@P8: about 50 percent of the estimated cases have been captured by the TB control programme, raising fears that more
+L443@P8: people could be living with TB. Despite critical significance
+L444@P8: of malaria and TB, the two do not appear to receive as
+L445@P8: much public attention as they deserve.
+L446@P8: Human Security, Poverty and the Development Nexus
+L447@P8: Poverty and human insecurity are connected in a circular
+L448@P8: manner as each of them leads to the other. In the Kenyan
+L449@P8: situation this relationship springs from competition over
+L450@P8: resources, among others. Chronic poverty has not received
+L451@P8: the research and policy attention that it deserves, with
+L452@P8: development, insecurity would be minimised.
+L453@P8: Partnerships for Human Security
+L454@P8: Dealing with the multi-faceted phenomenon of human
+L455@P8: security and human development requires renewed, wellcoordinated and effective partnerships. The partnership
+L456@P8: arrangements must clearly define the manifestations of
+L457@P8: insecurities and ensure that various actors are assigned

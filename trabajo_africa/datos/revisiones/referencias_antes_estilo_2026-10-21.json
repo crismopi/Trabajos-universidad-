@@ -1,0 +1,290 @@
+[
+  {
+    "id": 1,
+    "label": "Gamba y Kibaara, 2007, RuralStruc",
+    "url": "https://documents1.worldbank.org/curated/en/886221468048846460/pdf/779820WP0KENYA00Box377319B00PUBLIC0.pdf",
+    "autor": "Gamba, P., y Kibaara, B.",
+    "fecha_publicacion": "2007",
+    "titulo": "Structural Implications of Economic Liberalization on Agriculture and Rural Development. RuralStruc Program, Phase I. Egerton University, Tegemeo Institute"
+  },
+  {
+    "id": 2,
+    "label": "KNBS, Economic Survey 2026",
+    "url": "https://www.knbs.or.ke/reports/2026-economic-survey/",
+    "autor": "Kenya National Bureau of Statistics (KNBS)",
+    "fecha_publicacion": "2026",
+    "titulo": "Economic Survey 2026. Página de publicación"
+  },
+  {
+    "id": 3,
+    "label": "NCPD, proyecciones de población, 2025",
+    "url": "https://ncpd.go.ke/2025/03/12/press-release/",
+    "autor": "National Council for Population and Development (NCPD)",
+    "fecha_publicacion": "2025, 12 de marzo",
+    "titulo": "Press Release. Proyecciones de población"
+  },
+  {
+    "id": 4,
+    "label": "CBK, PIB anual",
+    "url": "https://www.centralbank.go.ke/annual-gdp/",
+    "autor": "Central Bank of Kenya (CBK)",
+    "fecha_publicacion": "s. f.",
+    "titulo": "Annual GDP. Serie consultada el 21 de octubre de 2026"
+  },
+  {
+    "id": 5,
+    "label": "CBK, Monetary Policy Statement, junio de 2026",
+    "url": "https://www.centralbank.go.ke/uploads/monetary_policy_statements/366885193_58th%20Monetary%20Policy%20Statement%2C%20June%202026.pdf",
+    "autor": "Central Bank of Kenya (CBK)",
+    "fecha_publicacion": "2026",
+    "titulo": "58th Monetary Policy Statement, June 2026"
+  },
+  {
+    "id": 6,
+    "label": "KNBS, Gross County Product 2025, apartado 3.1",
+    "url": "https://www.knbs.or.ke/wp-content/uploads/2025/12/2025-Gross-County-Product.pdf",
+    "autor": "Kenya National Bureau of Statistics (KNBS)",
+    "fecha_publicacion": "2025",
+    "titulo": "Gross County Product 2025"
+  },
+  {
+    "id": 7,
+    "label": "KNBS, Economic Survey 2026, apartado 3.5",
+    "url": "https://www.knbs.or.ke/wp-content/uploads/2026/04/2026-Economic-Survey.pdf",
+    "autor": "Kenya National Bureau of Statistics (KNBS)",
+    "fecha_publicacion": "2026",
+    "titulo": "Economic Survey 2026. Tablas de resumen y empleo"
+  },
+  {
+    "id": 8,
+    "label": "FSD Kenya, estudio sobre trabajadores y vivienda",
+    "url": "https://www.fsdkenya.org/blogs-publications/publications/affordable-housing-access-for-kenyas-formal-workforce-what-pension-data-reveals-and-what-can-work/",
+    "autor": "FSD Kenya; Zamara; Centre for Affordable Housing Finance in Africa (CAHF)",
+    "fecha_publicacion": "2026, 19 de mayo",
+    "titulo": "Affordable housing access for Kenya’s formal workforce: What pension data reveals and what can work"
+  },
+  {
+    "id": 9,
+    "label": "Unión Africana, Estados miembros",
+    "url": "https://www.au.int/en/member_states/countryprofiles2",
+    "autor": "Unión Africana",
+    "fecha_publicacion": "s. f.",
+    "titulo": "Member States"
+  },
+  {
+    "id": 10,
+    "label": "EAC, estructura y miembros",
+    "url": "https://www.eac.int/component/content/?Itemid=89",
+    "autor": "East African Community (EAC)",
+    "fecha_publicacion": "s. f.",
+    "titulo": "EAC at a Glance"
+  },
+  {
+    "id": 11,
+    "label": "InfoTradeKenya, AfCFTA",
+    "url": "https://infotradekenya.go.ke/menu/895",
+    "autor": "InfoTradeKenya",
+    "fecha_publicacion": "s. f.",
+    "titulo": "AfCFTA Market Requirements"
+  },
+  {
+    "id": 12,
+    "label": "Departamento de Comercio, julio de 2026",
+    "url": "https://www.trade.go.ke/index.php/kenya-hosts-afcfta-mission-fast-track-ratification-phase-ii-trade-protocols",
+    "autor": "State Department for Trade, Kenia",
+    "fecha_publicacion": "2026, 27 de julio",
+    "titulo": "Kenya Hosts AfCFTA Mission to Fast-Track Ratification of Phase II Trade Protocols"
+  },
+  {
+    "id": 13,
+    "label": "Safaricom, historia del lanzamiento",
+    "url": "https://newsroom.safaricom.co.ke/innovation/m-pesa-17-years-of-transforming-lives/",
+    "autor": "Safaricom",
+    "fecha_publicacion": "2024",
+    "titulo": "M-PESA: 17 years of transforming lives"
+  },
+  {
+    "id": 14,
+    "label": "BEI, IHS Kenya Energy Efficient Housing",
+    "url": "https://www.eib.org/en/projects/all/20190915",
+    "autor": "Banco Europeo de Inversiones",
+    "fecha_publicacion": "2020",
+    "titulo": "IHS Kenya Energy Efficient Housing. Proyecto 20190915"
+  },
+  {
+    "id": 15,
+    "label": "UNCTAD, ficha de Kenia, WIR 2025",
+    "url": "https://unctad.org/system/files/non-official-document/wir_fs_ke_en.pdf",
+    "autor": "UNCTAD",
+    "fecha_publicacion": "2025",
+    "titulo": "World Investment Report 2025. Country Fact Sheet: Kenya"
+  },
+  {
+    "id": 16,
+    "label": "UNCTAD, COMESA Investment Report 2025, p. 14",
+    "url": "https://unctad.org/system/files/official-document/diae2025d2_en.pdf",
+    "autor": "UNCTAD",
+    "fecha_publicacion": "2025",
+    "titulo": "COMESA Investment Report 2025: Investment trends and policy insights"
+  },
+  {
+    "id": 17,
+    "label": "PIDG, iniciativa de Acorn",
+    "url": "https://pidg.org/pidg-anchors-acorns-new-reit-to-finance-affordable-housing-for-kenyas-young-urbanites/",
+    "autor": "Private Infrastructure Development Group (PIDG)",
+    "fecha_publicacion": "2025, 17 de noviembre",
+    "titulo": "PIDG anchors Acorn’s new REIT to finance affordable housing for Kenya’s young urbanites"
+  },
+  {
+    "id": 18,
+    "label": "Constitución, artículo 65, texto de la KLRC",
+    "url": "https://www.klrc.go.ke/index.php/constitution-of-kenya/116-chapter-five-land-and-environment/117-part-1-land/232-65-landholding-by-non-citizens",
+    "autor": "República de Kenia; Kenya Law Reform Commission, reproducción",
+    "fecha_publicacion": "2010",
+    "titulo": "Constitution of Kenya, artículo 65: Landholding by non-citizens"
+  },
+  {
+    "id": 19,
+    "label": "Banco Mundial, Systematic Country Diagnostic, capítulo 2",
+    "url": "https://documents1.worldbank.org/curated/en/531731600090213005/pdf/kenya-systematic-country-diagnostic.pdf",
+    "autor": "Banco Mundial",
+    "fecha_publicacion": "2020",
+    "titulo": "Kenya Systematic Country Diagnostic"
+  },
+  {
+    "id": 20,
+    "label": "Banco Mundial, archivo de marzo de 1980",
+    "url": "https://timeline.worldbank.org/en/timeline/eventdetail/3051",
+    "autor": "Banco Mundial",
+    "fecha_publicacion": "1980, 25 de marzo",
+    "titulo": "First IDA credit for structural adjustment approved. Archivo histórico"
+  },
+  {
+    "id": 21,
+    "label": "FMI, historial de acuerdos",
+    "url": "https://www.imf.org/external/np/fin/Tad/extarr2.aspx?date1key=1997-12-31&memberKey1=540",
+    "autor": "Fondo Monetario Internacional",
+    "fecha_publicacion": "1997, fecha de corte de la consulta",
+    "titulo": "Kenya: History of Lending Commitments"
+  },
+  {
+    "id": 22,
+    "label": "PNUD, quinto informe de desarrollo humano de Kenia, apartado sobre ajuste",
+    "url": "https://hdr.undp.org/system/files/documents/kenya2006en.pdf",
+    "autor": "Informe nacional de desarrollo humano de Kenia, patrocinado por PNUD",
+    "fecha_publicacion": "2006",
+    "titulo": "Kenya National Human Development Report 2006: Human Security and Human Development — A Deliberate Choice"
+  },
+  {
+    "id": 23,
+    "label": "Banco Mundial, Country Economic Memorandum 2016",
+    "url": "https://www.worldbank.org/en/country/kenya/publication/kenya-economic-memorandum-from-economic-growth-jobs-shared-prosperity",
+    "autor": "Banco Mundial",
+    "fecha_publicacion": "2016",
+    "titulo": "Economic Memorandum: Kenya’s Growth Story: Past, Present and Future"
+  },
+  {
+    "id": 24,
+    "label": "Banco Mundial, actualización de diciembre de 2024",
+    "url": "https://www.worldbank.org/en/news/press-release/2024/12/10/reforms-are-needed-to-stem-a-slow-down-in-afe-kenya-s-economic-growth",
+    "autor": "Banco Mundial",
+    "fecha_publicacion": "2024, 10 de diciembre",
+    "titulo": "Reforms are Needed to Stem a Slow-down in Kenya’s Economic Growth"
+  },
+  {
+    "id": 25,
+    "label": "Tesoro Nacional, BROP 2025, tabla 17",
+    "url": "https://www.treasury.go.ke/wp-content/uploads/2025/10/2025-Budget-Review-and-Outlook-Paper.pdf",
+    "autor": "The National Treasury, Kenia",
+    "fecha_publicacion": "2025",
+    "titulo": "Budget Review and Outlook Paper. Tabla 17"
+  },
+  {
+    "id": 26,
+    "label": "Banco Mundial, Economic Update 32, 2025",
+    "url": "https://documents1.worldbank.org/curated/en/099112125062524216/pdf/P507067-4f692fc7-8081-4630-9dd2-d3768ce9defc.pdf",
+    "autor": "Banco Mundial",
+    "fecha_publicacion": "2025",
+    "titulo": "Kenya Economic Update 32: From Barriers to Bridges — Procompetitive Reforms for Productivity and Jobs in Kenya"
+  },
+  {
+    "id": 27,
+    "label": "Acemoglu y Robinson, 2012, información y extracto editorial",
+    "url": "https://www.penguinrandomhouseretail.com/book/?isbn=9780307719218",
+    "autor": "Acemoglu, D., y Robinson, J. A.",
+    "fecha_publicacion": "2012",
+    "titulo": "Why Nations Fail: The Origins of Power, Prosperity, and Poverty. Crown. Ficha y extracto editorial consultados"
+  },
+  {
+    "id": 28,
+    "label": "Freedom House, Kenya 2026",
+    "url": "https://freedomhouse.org/country/kenya/freedom-world/2026",
+    "autor": "Freedom House",
+    "fecha_publicacion": "2026",
+    "titulo": "Freedom in the World 2026: Kenya"
+  },
+  {
+    "id": 29,
+    "label": "NGCDF, Dagoretti South",
+    "url": "https://dagoretti-south.ngcdf.go.ke/",
+    "autor": "National Government Constituencies Development Fund, Dagoretti South",
+    "fecha_publicacion": "s. f.",
+    "titulo": "About Dagoretti-South Constituency"
+  },
+  {
+    "id": 30,
+    "label": "Craiova, oferta en Riruta",
+    "url": "https://craiovarealtors.com/property/studio-apartments-on-naivasha-road/",
+    "autor": "Craiova Realtors",
+    "fecha_publicacion": "2025, 7 de julio",
+    "titulo": "Studio Apartments On Naivasha Road. Anuncio inmobiliario"
+  },
+  {
+    "id": 31,
+    "label": "CityDwelling, TSAVO Stepup",
+    "url": "https://citydwelling.co/properties/Tsavo%20Stepup-690105136179005cd5190220",
+    "autor": "CityDwelling",
+    "fecha_publicacion": "s. f.",
+    "titulo": "Tsavo Stepup. Ficha de oferta residencial"
+  },
+  {
+    "id": 32,
+    "label": "ESIA Keza–IHS, 2025, apartado 4.7",
+    "url": "https://nema.go.ke/wp-content/uploads/2025/12/IHS-Riruta-Housing_00288-min.pdf",
+    "autor": "Centric Africa Ltd., estudio del promotor alojado por NEMA",
+    "fecha_publicacion": "2025",
+    "titulo": "Environmental and Social Impact Assessment Study Report for the Proposed Riruta Keza IHS Housing Developments. Apartado 4.7"
+  },
+  {
+    "id": 33,
+    "label": "Acorn, estrategia",
+    "url": "https://acornholdingsafrica.com/overview/",
+    "autor": "Acorn Holdings",
+    "fecha_publicacion": "s. f.",
+    "titulo": "Overview. Estrategia corporativa"
+  },
+  {
+    "id": 34,
+    "label": "IFC, proyecto IHS Kenya",
+    "url": "https://disclosures.ifc.org/project-detail/ESRS/47136/co",
+    "autor": "International Finance Corporation (IFC)",
+    "fecha_publicacion": "2023; actualizado en 2024",
+    "titulo": "IHS Kenya. Environmental and Social Review Summary, proyecto 47136"
+  },
+  {
+    "id": 35,
+    "label": "Reall, estudio de Fusion, 2025",
+    "url": "https://reall.net/blog/understanding-the-tenants-of-fusion-capitals-rental-properties-in-nairobi-kenya/",
+    "autor": "Robinson, H. J.; Mwangi, B.; Atkinson, B.",
+    "fecha_publicacion": "2025, 24 de febrero",
+    "titulo": "Understanding the tenants of Fusion Capital’s rental properties in Nairobi, Kenya. Reall y CAHF"
+  },
+  {
+    "id": 36,
+    "label": "Nairobi City County, Customer Service Charter 2025, sección de urbanismo",
+    "url": "https://nairobi.go.ke/wp-content/uploads/NCCG_Service_Charter_2025.pdf",
+    "autor": "Nairobi City County Government",
+    "fecha_publicacion": "2025, junio",
+    "titulo": "Customer Service Charter. Sección de aprobación de planos, inspección y ocupación"
+  }
+]

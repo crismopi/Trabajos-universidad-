@@ -1,0 +1,9 @@
+FUENTE 29: KNBS, Gross County Product 2025, apartado 3.1
+URL original: https://www.knbs.or.ke/wp-content/uploads/2025/12/2025-Gross-County-Product.pdf
+Fecha de captura: 2026-10-21
+Tipo: texto extraído por navegador; puede ser parcial. No es el HTML/PDF original.
+Estado: apertura_fallida
+
+Internal Error ()
+  Source: open({"ref_id":"https://www.knbs.or.ke/wp-content/uploads/2025/12/2025-Gross-County-Product.pdf","lineno":null}); Total lines: 1
+L0: Failed to fetch https://www.knbs.or.ke/wp-content/uploads/2025/12/2025-Gross-County-Product.pdf: (400) Timeout fetching

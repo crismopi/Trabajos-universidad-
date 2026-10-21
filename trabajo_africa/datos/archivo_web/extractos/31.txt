@@ -1,0 +1,153 @@
+FUENTE 31: KNBS, catálogo de la encuesta
+URL original: https://statistics.knbs.or.ke/nada/index.php/catalog/184
+Fecha de captura: 2026-10-21
+Tipo: texto extraído por navegador; puede ser parcial. No es el HTML/PDF original.
+Estado: texto_recuperado
+
+Kenya - 2023/24 Kenya Housing Survey (https://statistics.knbs.or.ke/nada/index.php/catalog/184)
+  Crawled: today; Content type: text/html; Source: open({"ref_id":"https://statistics.knbs.or.ke/nada/index.php/catalog/184","lineno":null}); Total lines: 149
+L0: Login
+L1: 
+L2:  L3: 
+L4:  L5: 
+L6: An Online Microdata Catalog
+L7: 
+L8: # 2023/24 Kenya Housing Survey
+L9: 
+L10: ###### Kenya
+L11: 
+L12: Kenya National Bureau of Statistics
+L13: 
+L14: Created on April 04, 2025 Last modified April 04, 2025 Page views 20740 Download 13074  Metadata   L15: ## Identification
+L16: 
+L17: Survey ID Number
+L18: 
+L19: DDI-KEN-KNBS-KHS-2023-24-V001
+L20: 
+L21: Title
+L22: 
+L23: 2023/24 Kenya Housing Survey
+L24: 
+L25: Country
+L26: 
+L27: Name  | Country code
+L28: --- | ---
+L29: Kenya  | KEN
+L30: 
+L31: Abstract
+L32: The 2023/24 Kenya Housing Survey (2023/24 KHS) provides a comprehensive analysis of housing conditions, affordability and tenure across the country. The survey was conducted by the Kenya National Bureau of Statistics (KNBS) in collaboration with the State Department for Housing and Urban Development, the State Department for Labour and Skills Development, the Kenya Space Agency, the Directorate of Resource Survey and Remote Sensing and the Central Bank of Kenya.
+L33: The primary objective of the 2023/24 KHS was to provide up-to-date housing statistics to facilitate evidence-based planning and decision making in the housing sector. In addition, the survey addressed housing challenges in line with national development goals and international commitments such as the Sustainable Development Goals (SDGs). Data collection was carried out from 7th March to 10th May 2024 in all the 47 counties and targeted both households and institutions.
+L34: The survey collected data on various aspects of housing, including the stock of dwellings, household spending on housing, land and dwelling ownership, access to utilities, housing affordability, overcrowding, durability of construction materials, and economic and financial statistics related to housing. Additionally, it collected information on the age, size, and characteristics of dwellings.
+L35: Satellite imagery analysis was also used to assess changes in built-up areas and green spaces in Nairobi City, Mombasa, Kisumu, and Nakuru counties. Different players in the housing sector including tenants and home owners, Housing Financiers, Developers, Water Service Providers, Built Environment Professionals and Housing Regulators (County Government Physical Planning Department, Lands Department and National Environmental Management Authority) were interviewed.
+L36: SURVEY DESIGN
+L37: The survey employed a cross-sectional study design to collect data for estimating housing indicators at national, rural, urban and county levels. To achieve this, a hybrid data collection system was incorporated, targeting both households and institutions. The household component of the survey was designed independently from that of the institutions. A sample survey was conducted for the households, while a census was carried out for all identified institutions key in the housing sector.
+L38: SCOPE AND TARGET POPULATION
+L39: The survey covered all 47 counties to ensure that the coverage was comprehensive and representative of the entire country. The household component targeted residential housing units in both urban and rural areas while the institutional component targeted housing developers, real estate firms, Water Service Providers, County Governments-Physical Planning Departments, NEMA and Land Administration Department.
+L40: The professional component targeted members from Engineers Board of Kenya (EBK), Kenya Institute of Planners (KIPs) and Board of Registration of Architects and Quantity Surveyors (BORAQS).
+L41: DATA QUALITY
+L42: The quality of data for the Housing Survey was ensured through a multi-step approach. This began with defining the survey's content and scope, designing survey instruments, conducting a pre-test and pilot survey, training survey personnel, and incorporating technology for data collection and transmission. Additionally, data validation, analysis, creation of final report tables, and stakeholder engagement were all integral parts of the process.
+L43: A thorough process was undertaken to review and refine the survey instruments aimed at eliminating redundancies and ensuring the questions were accurate and relevant to the current housing development programs and addressed user needs. The data collection tools were integrated into CAPI with in-built checks and controls to ensure consistency and flag out any outliers in the data.
+L44: A multilevel supervision of the data collection exercise also ensured that the probability of any errors going unnoticed was minimized significantly. To further support the data quality assurance, a dashboard based at the headquarters was also used to monitor the data as fieldwork continued. Upon completion of the data collection, edit specifications were developed by subject matter specialists to provide a basis for cleaning and editing of the data.
+L45: The specifications were subsequently coded into programs using statistical applications and subjected on the raw data to derive a cleaned dataset that developed the tables in the report.
+L46: THE KENYA HOUSING SURVEY DATA COLLECTION TOOLS
+L47: I. Household Questionnaire
+L48: The Household Questionnaire for the 2023/24 Kenya Housing Survey is structured into multiple sections, covering different aspects of housing and household characteristics. The key sections included; Information for Household Members; Household composition, age, gender, relationship to the head and the Socio-economic characteristics such as education and employment status. Household Amenities; Access to essential services (water, electricity, sanitation, internet), Cooking fuel and lighting sources.
+L49: Dwelling Unit Characteristics; Type of dwelling unit (permanent, semi-permanent, informal), Construction materials (walls, floors, roofing), Number of rooms and occupancy. Environmental and Location Aspects; Waste disposal methods, Drainage and pollution concerns in the neighborhood. Transport and Infrastructure; Accessibility to roads, public transport, and major services (schools, hospitals, markets). Disability; the Accessibility of housing and services for persons with disabilities.
+L50: Land Ownership and Tenure; Land ownership status, size, tenure system (freehold, leasehold, informal). Household Individual Integrated Module; Employment and economic activities of household members, Income sources and levels. Tenants' information; Rent payment details, lease agreements, landlord-tenant relationships. Owners' information; Mortgage details, home-ownership financing sources and common Challenges in acquiring housing.
+L51: II. Kenya Housing Survey Institutional Questionnaire
+L52: The 2023/24 Kenya Housing Survey Institutional Questionnaire related to real estate development is structured into multiple sections.
+L53: This Questionnaire was administered to developers and real estate firms and the key sections included: Types of real estate projects undertaken, Number of completed and ongoing projects, Challenges faced in real estate development, Information on specific housing projects (location, type, cost), Financing sources and ownership structure, Construction materials and environmental considerations, Details on commercial, industrial, and institutional buildings, Occupancy rates and rental/sale prices.
+L54: Questions about market trends, demand, and pricing, Factors affecting property transactions, Prices, unit sizes, and buyer demand trends, Rental prices, occupancy rates, and tenancy duration, Market conditions for office spaces, retail, and mixed-use developments, Information on warehouse developments, rental prices, and usage.
+L55: III. County Government questionnaire
+L56: This Questionnaire captured about basic details about Counties and Questions related to building applications and approvals (e.g., number of residential building applications received and approved in different years). Factors considered in approval of construction permits, such as existing use, visual impact, and emerging technologies. There are also Questions about urban planning and land use, including Number of urban centers classified as towns, municipalities, and cities.
+L57: Finally, the number of approved and pending physical and land use development plans.
+L58: IV. Financiers' Questionnaire
+L59: The 2023/24 KHS collected information on housing development financing with a focus on respondents within the housing development sector. These included commercial banks, microfinance banks, SACCOS and other institutions that provide finance for housing development, including financial details, funding information, and related metrics.
+L60: V. Lands Department Questionnaire
+L61: This Questionnaire aimed at collecting data related to land administration and management. specific data related to land management, policies, financial data, or other related metrics.
+L62: VI. State Department for Housing and Urban Development Questionnaire
+L63: This questionnaire was used to collect information from the State Department for Housing and Urban Development targeting policy housing and urban development issues.
+L64: VII. Built Environment Professionals Questionnaire
+L65: This questionnaire collected information from built environment professionals involved in the planning, design, and construction of housing in Kenya. The data collected was be used to assess the state of the housing sector, challenges faced, and trends in building and urban development from the perspective of Built Environment Professionals Questionnaire.
+L66: The Built Environment Professionals interviewed are Valuers, Architects, Planners, Engineers (Civil/Structural/Mechanical/Electrical), Building Surveyors, Land Surveyors, and Quantity Surveyors involved in the planning, design, construction, and maintenance of the built environment.
+L67: VIII. National Environment Management Authority Questionnaire
+L68: This survey data collection tool targeted all the National Environment Management Authority offices (NEMA) to gather insights into their licensing process for housing development projects and related environmental regulations.
+L69: IX. Water Sewerage & Service Providers Questionnaire
+L70: The Water Sewerage & Service Providers (WSSP) section - this was a structured data collection tool in the delivery of water and sanitation services and within the context of housing and urban development. The survey tool or a research questionnaire targeting WSSPs to collect data on Water and sewer connection applications, Types of developments being connected (residential vs.
+L71: mixed-use), Sewer coverage percentages, Costs, timelines, and challenges in providing services and Plans for future infrastructure expansion
+L72: Unit of Analysis
+L73: 
+L74: Household, individuals and establishments
+L75: ## Version
+L76: 
+L77: Version Description
+L78: 
+L79: Version 001
+L80: 
+L81: ## Coverage
+L82: 
+L83: Geographic Coverage
+L84: 
+L85: National coverage
+L86: 
+L87: Universe
+L88: 
+L89: Sampled households in 47 counties in both Rural and Urban, Counties, Institutions and professionals within the housing sector
+L90: ## Producers and sponsors
+L91: 
+L92: Primary investigators
+L93: 
+L94: Name  | Affiliation
+L95: --- | ---
+L96: Kenya National Bureau of Statistics  | State Department of Economic Planning
+L97: 
+L98: Producers
+L99: 
+L100: Name  | Affiliation  | Role
+L101: --- | --- | ---
+L102: Kenya National Bureau of Statistics  | State Department of Economic Planning  | Implementation of the survey and documentation
+L103: 
+L104: Funding Agency/Sponsor
+L105: 
+L106: Name  | Abbreviation  | Role
+L107: --- | --- | ---
+L108: Government of Kenya  | GoK  | Funding
+L109: World Bank  | WB  | Funding
+L110: ## Sampling
+L111: 
+L112: Sampling Procedure
+L113: SAMPLE SIZE DETERMINATION
+L114: The sample size for the household component of the survey was computed independently for each county. By incorporating the county-specific response rates obtained from previous surveys that used the same household sampling frame, the application of the formula resulted in a sample size of 25,900 households and 1,295 clusters which were randomly selected for the survey.
+L115: SAMPLING FRAME
+L116: The sample for the household component of the survey was drawn from the Kenya Household Master Sample Frame (K-HMSF), which was developed based on the 2019 Kenya Population and Housing Census. The clusters in K-HMSF were selected using Probability Proportional to Size (PPS) systematic sampling method from approximately 128,000 Enumeration Areas (EAs).
+L117: The 47 counties were stratified into 92 sampling strata, comprising urban and rural strata in 45 counties, and purely urban strata for Nairobi City and Mombasa counties. Additionally, the K-HMSF is divided into four components, denoted as C1, C2, C3, and C4. Each component consists of 2,500 clusters, which can serve as independent sampling frames. Depending on the required sample size, any two or more components can be combined to provide a sufficiently large sampling frame.
+L118: The institutional component of the survey was conducted using multiple lists obtained from various sources, including the State Department for Housing and Urban Development and Water Service Regulatory Board. The Built Environment Professionals (BEPs) list was sourced from Engineers Board of Kenya (EBK), Kenya Institute of Planners (KIPs) and Board of Registration of Architects and Quantity Surveyors (BORAQS).
+L119: SAMPLE SELECTION
+L120: A two-stage cluster sampling methodology was adopted for the household component of the survey. In the first stage, clusters were randomly selected from the sampling frame. In the second stage, households within these clusters were selected for interviews. For the institutional component of the survey, a census was undertaken for all Developers, Water Service Providers, Real Estate firms and Built Environment Professionals.
+L121: SAMPLING OF CLUSTERS
+L122: The clusters in the K-HMSF served as the Primary Sampling Units (PSUs) for the survey, and were independently selected from each of the 92 sampling strata in the frame. The clusters were selected using Equal Probability Selection Method (EPSM) given that enumeration areas that formed the clusters had been selected with Probability Proportional to Size (PPS) and standardization of the clusters undertaken through segmentation of clusters that exceeded the measure of size.
+L123: SAMPLING OF HOUSEHOLDS
+L124: A fixed number of 20 households were systematically sampled with a random start from the list of households enumerated in each of the selected clusters. Sampling of the households was done centrally at the head office, and interviews were conducted exclusively in the pre-selected households. There was no replacement of clusters or households during the fieldwork.
+L125: Weighting
+L126: COMPUTATION OF SURVEY WEIGHTS
+L127: Given that the household sample was disproportionately allocated to the various sampling strata, the data was not self-weighting, which necessitated the application of survey weights to ensure representativeness of the target population. The survey weights also ensured the data conformed to known population distributions and adjusted for non-response of some of the sampled households effectively minimizing survey non-response bias
+L128: The survey weights (W) were computed by taking the inverse of the product of the selection probabilities at each stage of sampling.
+L129: ## Data Collection
+L130: 
+L131: Data Collection Mode
+L132: 
+L133: The survey was conducted using face to face method using CAPI. However, the professional componen was conducted using webbased surveys
+L134: ## Metadata production
+L135: 
+L136: DDI Document ID
+L137: 
+L138: DDI-KEN-KNBS-KHS-2023-24-V001
+L139: 
+L140: Producers
+L141: 
+L142: Name  | Abbreviation  | Affiliation  | Role
+L143: --- | --- | --- | ---
+L144: Kenya National Bureau of Statistics  | KNBS  | State Department ofEconomic Planning  | Implementation of the survey and documentation
+L145: 
+L146:  L147: 
+L148: © Kenya National Data Archive (KeNADA), All Rights Reserved.
