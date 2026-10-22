@@ -62,7 +62,7 @@ La pandemia mostró la vulnerabilidad de los ingresos y la diferencia entre acti
 
 Los shocks climáticos añaden otra limitación. El Economic Update de diciembre de 2024 señala que las inundaciones de ese año afectaron a medios de vida, especialmente urbanos, y limitaron el consumo. Para una promoción de alquiler, drenaje, exposición de la parcela y continuidad de servicios forman parte del análisis económico. Una vivienda físicamente disponible puede ser una mala solución si sus usuarios afrontan interrupciones o costes que no pueden asumir (Banco Mundial, 2024).
 
-La situación fiscal exige prudencia con las propuestas públicas. El Budget Review and Outlook Paper de 2025 sitúa la deuda pública bruta en el 68,8 % del PIB para el ejercicio 2024/25, como resultado preliminar; el Economic Update del Banco Mundial de noviembre de 2025 recoge la misma ratio. No es una medición del año natural 2025 ni de octubre de 2026. Su implicación para el plan es evitar que la viabilidad dependa de incentivos fiscales amplios o de infraestructura pública cuya financiación no se haya identificado (Banco Mundial, 2025; The National Treasury, 2025).
+La situación fiscal exige prudencia con las propuestas públicas. El Budget Review and Outlook Paper de 2025 sitúa la deuda pública bruta en el 68,8 % del PIB para el ejercicio 2024/25, como resultado preliminar; el Economic Update del Banco Mundial de noviembre de 2025 recoge la misma ratio. Su implicación para el plan es evitar que la viabilidad dependa de incentivos fiscales amplios o de infraestructura pública cuya financiación no se haya identificado (Banco Mundial, 2025; The National Treasury, 2025).
 
 **Figura 1**
 
