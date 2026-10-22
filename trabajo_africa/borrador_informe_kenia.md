@@ -16,7 +16,7 @@ El informe Gross County Product 2025 identifica a Nairobi como la ciudad-condado
 
 Por lo tanto, se puede dilucidar que el mercado laboral limita el tamaño de la demanda solvente. La encuesta económica de KNBS muestra que la mayor parte del empleo creado en 2025 se concentró en el sector informal. La estadística excluye la pequeña agricultura rural y las actividades pastoriles y se refiere al país, no específicamente a Nairobi. Por ello, el crecimiento agregado resulta insuficiente para estimar la estabilidad de los ingresos de los futuros inquilinos (Kenya National Bureau of Statistics, 2026).
 
-Para estudiar la capacidad de pago también hay que conocer los gastos y obligaciones del hogar. Se identifican restricciones de acceso a vivienda incluso entre personas vinculadas a fondos de pensiones (Shah, Zamara y Centre for Affordable Housing Finance in Africa, 2026). El cliente propuesto será, por ello, un hogar pequeño de trabajadores con ingresos documentables, sin presentar el proyecto como solución para toda la población de bajos ingresos.
+Para estudiar la capacidad de pago también hay que conocer los gastos y obligaciones del hogar. Se identifican restricciones de acceso a vivienda incluso entre personas vinculadas a fondos de pensiones (Shah et al., 2026). El cliente propuesto será, por ello, un hogar pequeño de trabajadores con ingresos documentables, sin presentar el proyecto como solución para toda la población de bajos ingresos.
 
 La Comunidad de África Oriental reúne actualmente ocho Estados. Somalia se incorporó como miembro pleno en marzo de 2024. La EAC favorece un marco de cooperación económica cuya relación con el proyecto sería indirecta: actividad empresarial, inversión y movilidad. El mercado residencial de la promoción seguirá siendo local (East African Community, s. f.).
 
@@ -26,7 +26,7 @@ La experiencia en servicios digitales ofrece herramientas para gestionar el alqu
 
 Otro activo es la existencia de organizaciones capaces de desarrollar y gestionar vivienda con inversión institucional. Se describen actividades de desarrollo y adquisición de vivienda en Nairobi y otras zonas urbanas, con criterios de eficiencia de recursos y colaboración con promotores (International Finance Corporation, 2024). Este precedente muestra una vía para organizar capital destinado a vivienda. Una nueva operación necesitaría justificar su demanda, sus costes y la modalidad de tenencia.
 
-El contexto de inversión debe distinguir flujos anuales y capital acumulado. Las entradas de inversión extranjera directa en Kenia alcanzaron 1.503 millones de dólares en 2024, cifra redondeada a 1.500 millones en otra publicación del mismo organismo (UNCTAD, 2025a, 2025b). Se trata de flujos nacionales, no de recursos disponibles para vivienda.
+El contexto de inversión debe distinguir flujos anuales y capital acumulado. Las entradas de inversión extranjera directa en Kenia alcanzaron 1.503 millones de dólares en 2024, cifra redondeada a 1.500 millones en otra publicación del mismo organismo (United Nations Conference on Trade and Development [UNCTAD], 2025a, 2025b). Se trata de flujos nacionales, no de recursos disponibles para vivienda.
 
 La iniciativa de Acorn para ampliar el alquiler y el programa de International Housing Solutions muestran precedentes de organización institucional de capital (International Finance Corporation, 2024; Private Infrastructure Development Group, 2025). Su desarrollo es una oportunidad condicionada por demanda y ejecución, no una promesa automática de financiación del proyecto.
 
@@ -46,7 +46,7 @@ La trayectoria inicial estuvo relacionada con la expansión agrícola y la trans
 
 Desde 1980, Kenia aplicó programas de ajuste estructural que buscaban aumentar la participación de las empresas privadas y orientar la producción hacia la exportación. Sus resultados deben analizarse teniendo en cuenta tanto la situación previa del país como las decisiones del Gobierno, sin atribuirlos a una sola causa (Gamba & Kibaara, 2007).
 
-Estas reformas incluyeron privatizaciones y cambios en el empleo público y el gasto del Estado. Para valorar sus efectos, hay que estudiar cómo afectaron a los distintos grupos sociales. Una mejora de las cuentas públicas puede coexistir con dificultades de algunas familias para acceder a servicios básicos. Por eso, los indicadores económicos no bastan para conocer sus consecuencias sobre el bienestar (*Kenya National Human Development Report 2006*, 2006).
+Estas reformas incluyeron privatizaciones y cambios en el empleo público y el gasto del Estado. Para valorar sus efectos, hay que estudiar cómo afectaron a los distintos grupos sociales. Una mejora de las cuentas públicas puede coexistir con dificultades de algunas familias para acceder a servicios básicos. Por eso, los indicadores económicos no bastan para conocer sus consecuencias sobre el bienestar (*Kenya national human development report 2006*, 2006).
 
 Esto ayuda a entender por qué el salario no basta para calcular cuánto alquiler puede pagar un hogar. Si una familia tiene que destinar más dinero a servicios esenciales, le queda menos para vivienda. Por ello, el proyecto deberá valorar tanto los ingresos como los gastos de sus futuros inquilinos.
 
@@ -74,7 +74,7 @@ La situación fiscal exige prudencia con las propuestas públicas. El Budget Rev
 
 ### 4.5. Instituciones y transformación del crecimiento en bienestar
 
-El marco de Acemoglu y Robinson, desarrollado en *Why Nations Fail* (2012), permite relacionar estas etapas sin atribuir todos los resultados al colonialismo ni a una única reforma. El análisis considera mecanismos concretos: cuando obtener un título o un permiso depende de contactos y rentas, disminuye la competencia y se concentra el acceso al suelo; cuando las reglas son previsibles y exigibles, más actores pueden invertir y contratar.
+El marco de Acemoglu y Robinson (2012), desarrollado en *Why nations fail*, permite relacionar estas etapas sin atribuir todos los resultados al colonialismo ni a una única reforma. El análisis considera mecanismos concretos: cuando obtener un título o un permiso depende de contactos y rentas, disminuye la competencia y se concentra el acceso al suelo; cuando las reglas son previsibles y exigibles, más actores pueden invertir y contratar.
 
 Freedom House considera al país parcialmente libre en su edición de 2026 y describe elecciones competitivas junto con problemas de corrupción y actuación de las fuerzas de seguridad. Es una evaluación de derechos y libertades, no una medida directa del riesgo de una promoción ni un sustituto del análisis legal. Sirve para cuestionar la equivalencia entre dinamismo económico y calidad institucional (Freedom House, 2026).
 
@@ -114,7 +114,7 @@ El inversor prioritario sería un fondo de capital de largo plazo especializado 
 
 El argumento de Kenia frente a una nueva implantación en Kampala o Kigali es la posibilidad de trabajar con empresas que ya cuentan con experiencia documentada en el mercado keniano. Esta base permite concentrar recursos en seleccionar la parcela, ajustar el producto y captar clientes, en lugar de crear toda la capacidad operativa desde cero. Es una ventaja de ejecución para esta propuesta; la información reunida no permite afirmar que Nairobi ofrezca mayor rentabilidad o menores costes que ambas ciudades.
 
-Las debilidades del DAFO determinan el diseño: la informalidad y las restricciones presupuestarias obligan a estudiar ingresos y gastos reales, y los problemas de gobernanza exigen revisar suelo y permisos. La existencia de ingresos recurrentes no elimina las dificultades de acceso a vivienda (Shah, Zamara y Centre for Affordable Housing Finance in Africa, 2026). Por ello, no se fija todavía una tarifa ni se presenta el producto como asequible para toda la población de bajos ingresos.
+Las debilidades del DAFO determinan el diseño: la informalidad y las restricciones presupuestarias obligan a estudiar ingresos y gastos reales, y los problemas de gobernanza exigen revisar suelo y permisos. La existencia de ingresos recurrentes no elimina las dificultades de acceso a vivienda (Shah et al., 2026). Por ello, no se fija todavía una tarifa ni se presenta el producto como asequible para toda la población de bajos ingresos.
 
 ### 6.2. Empresas objetivo y elección de Acorn Holdings como cabecera
 
@@ -169,46 +169,46 @@ Desde Acemoglu y Robinson, el criterio decisivo es cómo se organizan los derech
 
 Acemoglu, D., & Robinson, J. A. (2012). *Why nations fail: The origins of power, prosperity, and poverty*. Crown. https://www.penguinrandomhouseretail.com/book/?isbn=9780307719218
 
-Acorn Holdings (s. f.). *Overview*. Recuperado el 21 de octubre de 2026, de https://acornholdingsafrica.com/overview/
+Acorn Holdings. (s. f.). *Overview*. Recuperado el 21 de octubre de 2026, de https://acornholdingsafrica.com/overview/
 
-Banco Mundial (2020). *Kenya systematic country diagnostic*. https://documents1.worldbank.org/curated/en/531731600090213005/pdf/kenya-systematic-country-diagnostic.pdf
+Banco Mundial. (2020). *Kenya systematic country diagnostic*. https://documents1.worldbank.org/curated/en/531731600090213005/pdf/kenya-systematic-country-diagnostic.pdf
 
-Banco Mundial (2024, 10 de diciembre). *Reforms are needed to stem a slow-down in Kenya’s economic growth*. https://www.worldbank.org/en/news/press-release/2024/12/10/reforms-are-needed-to-stem-a-slow-down-in-afe-kenya-s-economic-growth
+Banco Mundial. (2024, 10 de diciembre). *Reforms are needed to stem a slow-down in Kenya’s economic growth*. https://www.worldbank.org/en/news/press-release/2024/12/10/reforms-are-needed-to-stem-a-slow-down-in-afe-kenya-s-economic-growth
 
-Banco Mundial (2025). *Kenya economic update 32: From barriers to bridges—Procompetitive reforms for productivity and jobs in Kenya*. https://documents1.worldbank.org/curated/en/099112125062524216/pdf/P507067-4f692fc7-8081-4630-9dd2-d3768ce9defc.pdf
+Banco Mundial. (2025). *Kenya economic update 32: From barriers to bridges—Procompetitive reforms for productivity and jobs in Kenya*. https://documents1.worldbank.org/curated/en/099112125062524216/pdf/P507067-4f692fc7-8081-4630-9dd2-d3768ce9defc.pdf
 
-Central Bank of Kenya (s. f.). *Annual GDP*. Recuperado el 21 de octubre de 2026, de https://www.centralbank.go.ke/annual-gdp/
+Central Bank of Kenya. (s. f.). *Annual GDP*. Recuperado el 21 de octubre de 2026, de https://www.centralbank.go.ke/annual-gdp/
 
 Centric Africa Ltd. (2025). *Environmental and social impact assessment study report for the proposed Riruta Keza IHS housing developments*. National Environment Management Authority. https://nema.go.ke/wp-content/uploads/2025/12/IHS-Riruta-Housing_00288-min.pdf
 
-*Constitution of Kenya*, art. 65 (2010). Kenya Law Reform Commission. https://www.klrc.go.ke/index.php/constitution-of-kenya/116-chapter-five-land-and-environment/117-part-1-land/232-65-landholding-by-non-citizens
+Constitution of Kenya, art. 65 (2010). Kenya Law Reform Commission. https://www.klrc.go.ke/index.php/constitution-of-kenya/116-chapter-five-land-and-environment/117-part-1-land/232-65-landholding-by-non-citizens
 
-East African Community (s. f.). *EAC at a glance*. Recuperado el 21 de octubre de 2026, de https://www.eac.int/component/content/?Itemid=89
+East African Community. (s. f.). *EAC at a glance*. Recuperado el 21 de octubre de 2026, de https://www.eac.int/component/content/?Itemid=89
 
-Freedom House (2026). *Freedom in the world 2026: Kenya*. https://freedomhouse.org/country/kenya/freedom-world/2026
+Freedom House. (2026). *Freedom in the world 2026: Kenya*. https://freedomhouse.org/country/kenya/freedom-world/2026
 
 Gamba, P., & Kibaara, B. (2007). *Structural implications of economic liberalization on agriculture and rural development: RuralStruc program, phase I*. Egerton University, Tegemeo Institute. https://documents1.worldbank.org/curated/en/886221468048846460/pdf/779820WP0KENYA00Box377319B00PUBLIC0.pdf
 
-International Finance Corporation (2024). *IHS Kenya: Environmental and social review summary (Project 47136)*. https://disclosures.ifc.org/project-detail/ESRS/47136/co
+International Finance Corporation. (2024). *IHS Kenya: Environmental and social review summary (Project 47136)*. https://disclosures.ifc.org/project-detail/ESRS/47136/co
 
-Kenya National Bureau of Statistics (2025). *Gross County Product 2025*. https://www.knbs.or.ke/wp-content/uploads/2025/12/2025-Gross-County-Product.pdf
+Kenya National Bureau of Statistics. (2025). *Gross county product 2025*. https://www.knbs.or.ke/wp-content/uploads/2025/12/2025-Gross-County-Product.pdf
 
-Kenya National Bureau of Statistics (2026). *Economic Survey 2026*. https://www.knbs.or.ke/reports/2026-economic-survey/
+Kenya National Bureau of Statistics. (2026). *Economic survey 2026*. https://www.knbs.or.ke/reports/2026-economic-survey/
 
 *Kenya national human development report 2006: Human security and human development—A deliberate choice*. (2006). https://hdr.undp.org/system/files/documents/kenya2006en.pdf
 
-Nairobi City County Government (2025, junio). *Customer service charter*. https://nairobi.go.ke/wp-content/uploads/NCCG_Service_Charter_2025.pdf
+Nairobi City County Government. (2025, junio). *Customer service charter*. https://nairobi.go.ke/wp-content/uploads/NCCG_Service_Charter_2025.pdf
 
-National Council for Population and Development (2025, 12 de marzo). *Press release*. https://ncpd.go.ke/2025/03/12/press-release/
+National Council for Population and Development. (2025, 12 de marzo). *Press release*. https://ncpd.go.ke/2025/03/12/press-release/
 
-Private Infrastructure Development Group (2025, 17 de noviembre). *PIDG anchors Acorn’s new REIT to finance affordable housing for Kenya’s young urbanites*. https://pidg.org/pidg-anchors-acorns-new-reit-to-finance-affordable-housing-for-kenyas-young-urbanites/
+The National Treasury. (2025). *Budget review and outlook paper*. https://www.treasury.go.ke/wp-content/uploads/2025/10/2025-Budget-Review-and-Outlook-Paper.pdf
+
+Private Infrastructure Development Group. (2025, 17 de noviembre). *PIDG anchors Acorn’s new REIT to finance affordable housing for Kenya’s young urbanites*. https://pidg.org/pidg-anchors-acorns-new-reit-to-finance-affordable-housing-for-kenyas-young-urbanites/
 
 Robinson, H. J., Mwangi, B., & Atkinson, B. (2025, 24 de febrero). *Understanding the tenants of Fusion Capital’s rental properties in Nairobi, Kenya*. Reall. https://reall.net/blog/understanding-the-tenants-of-fusion-capitals-rental-properties-in-nairobi-kenya/
 
-Shah, S., Zamara, & Centre for Affordable Housing Finance in Africa (2026, 19 de mayo). *Affordable housing access for Kenya’s formal workforce: What pension data reveals and what can work*. FSD Kenya. https://www.fsdkenya.org/blogs-publications/publications/affordable-housing-access-for-kenyas-formal-workforce-what-pension-data-reveals-and-what-can-work/
+Shah, S., Zamara, & Centre for Affordable Housing Finance in Africa. (2026, 19 de mayo). *Affordable housing access for Kenya’s formal workforce: What pension data reveals and what can work*. FSD Kenya. https://www.fsdkenya.org/blogs-publications/publications/affordable-housing-access-for-kenyas-formal-workforce-what-pension-data-reveals-and-what-can-work/
 
-The National Treasury (2025). *Budget review and outlook paper*. https://www.treasury.go.ke/wp-content/uploads/2025/10/2025-Budget-Review-and-Outlook-Paper.pdf
+United Nations Conference on Trade and Development. (2025a). *COMESA investment report 2025: Investment trends and policy insights*. https://unctad.org/system/files/official-document/diae2025d2_en.pdf
 
-UNCTAD (2025a). *COMESA investment report 2025: Investment trends and policy insights*. https://unctad.org/system/files/official-document/diae2025d2_en.pdf
-
-UNCTAD (2025b). *World investment report 2025: Country fact sheet—Kenya*. https://unctad.org/system/files/non-official-document/wir_fs_ke_en.pdf
+United Nations Conference on Trade and Development. (2025b). *World investment report 2025: Country fact sheet—Kenya*. https://unctad.org/system/files/non-official-document/wir_fs_ke_en.pdf
