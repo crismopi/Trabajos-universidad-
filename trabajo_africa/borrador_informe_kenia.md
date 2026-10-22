@@ -8,7 +8,7 @@ Kenia alcanzó la independencia en 1963 con una economía y unas relaciones de a
 
 ## 2. Características del mercado e integración regional
 
-Kenia es un mercado de 53,3 millones de habitantes según la proyección demográfica nacional para 2025 (Kenya National Bureau of Statistics, 2026; National Council for Population and Development, 2025). El PIB nominal alcanzó aproximadamente 17,58 billones de chelines en 2025 (Central Bank of Kenya, s. f.; Kenya National Bureau of Statistics, 2026). Esta cifra permite dimensionar la economía nacional. Para estimar la demanda de vivienda del proyecto, es necesario analizar los ingresos, gastos y necesidades de los hogares a los que se dirige.
+Kenia es un mercado de 53,3 millones de habitantes según la proyección demográfica nacional para 2025 (Kenya National Bureau of Statistics, 2026; National Council for Population and Development, 2025). El PIB nominal alcanzó aproximadamente 17,58 billones de chelines en 2025 (Central Bank of Kenya, s. f.; Kenya National Bureau of Statistics, 2026). Esta cifra permite dimensionar la economía nacional.
 
 El PIB real de Kenia creció un 4,6 % en 2025, frente al 4,7 % de 2024 (Kenya National Bureau of Statistics, 2026). El Banco Central de Kenia reproduce estas cifras en su serie de PIB anual (Central Bank of Kenya, s. f.; Kenya National Bureau of Statistics, 2026). Para valorar las implicaciones de este crecimiento sobre la demanda de alquiler en Nairobi, es necesario estudiar los ingresos y la estabilidad laboral de los hogares destinatarios.
 
