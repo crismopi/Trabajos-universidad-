@@ -105,7 +105,7 @@ La capacidad de pago se evaluará sobre ingreso neto del hogar, alquiler, servic
 
 Se propone financiar el proyecto con inversión a largo plazo y contar con una empresa local que organice la construcción y gestione las viviendas. La propiedad se mantendría unificada, con responsabilidades claras sobre mantenimiento, cobros y atención a los inquilinos. Un inversor extranjero podría participar en la sociedad propietaria del edificio, de acuerdo con las normas legales y financieras aplicables. Esta participación se consideraría inversión extranjera directa si cumple los criterios correspondientes.
 
-Frente a estudiar una nueva implantación en Kampala o Kigali, se prioriza aprovechar las capacidades kenianas ya documentadas de Acorn e IHS. Esta elección reduce el número de capacidades que habría que construir desde cero y permite concentrar el análisis en producto y clientes. Es una ventaja de ejecución propuesta, no una superioridad demostrada de Nairobi en rentabilidad o costes.
+Frente a estudiar una nueva implantación en Kampala o Kigali, se prioriza aprovechar las capacidades kenianas ya documentadas de Acorn e IHS. Esta elección reduce el número de capacidades que habría que construir desde cero y permite concentrar el análisis en producto y clientes.
 
 ### 6.2. Empresas objetivo y empresa de cabecera
 
