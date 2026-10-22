@@ -24,7 +24,7 @@ Kenia también participa en la AfCFTA. El portal oficial de comercio distingue l
 
 ## 3. Activos productivos y condiciones para invertir
 
-La experiencia en servicios digitales ofrece herramientas para gestionar el alquiler. M-Pesa ilustra el uso de telefonía móvil para transferir dinero, aunque el acceso a estos servicios presenta desigualdades (Banco Mundial, 2020). Para un operador residencial, los pagos digitales pueden facilitar cobros y registros. Se trata de una posible mejora de gestión; la solvencia del inquilino depende de sus ingresos y obligaciones.
+La experiencia en servicios digitales ofrece herramientas para gestionar el alquiler. M-Pesa ilustra el uso de telefonía móvil para transferir dinero, aunque el acceso a estos servicios presenta desigualdades (Banco Mundial, 2020). Para un operador residencial, los pagos digitales pueden facilitar cobros y registros. Se trata de una posible mejora de gestión aunque la solvencia del inquilino dependerá de sus ingresos y obligaciones.
 
 Otro activo es la existencia de organizaciones capaces de desarrollar y gestionar vivienda con inversión institucional. La ficha de IFC sobre IHS describe desarrollo y adquisición de vivienda en Nairobi y otras zonas urbanas, con criterios de eficiencia de recursos y colaboración con promotores. Este precedente muestra una vía para organizar capital destinado a vivienda. Una nueva operación necesitaría justificar su demanda, sus costes y la modalidad de tenencia (International Finance Corporation, 2024).
 
