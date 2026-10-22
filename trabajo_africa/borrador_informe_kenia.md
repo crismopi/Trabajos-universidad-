@@ -28,7 +28,7 @@ Otro activo es la existencia de organizaciones capaces de desarrollar y gestiona
 
 El contexto de inversión debe distinguir flujos anuales y capital acumulado. Las entradas de inversión extranjera directa en Kenia alcanzaron 1.503 millones de dólares en 2024, cifra redondeada a 1.500 millones en otra publicación del mismo organismo (UNCTAD, 2025a, 2025b). Se trata de flujos nacionales, no de recursos disponibles para vivienda.
 
-La iniciativa de Acorn para ampliar el alquiler y el programa de IHS muestran precedentes de organización institucional de capital. Su desarrollo es una oportunidad condicionada por demanda y ejecución, no una promesa automática de financiación del proyecto (Private Infrastructure Development Group, 2025).
+La iniciativa de Acorn para ampliar el alquiler y el programa de International Housing Solutions muestran precedentes de organización institucional de capital (International Finance Corporation, 2024; Private Infrastructure Development Group, 2025). Su desarrollo es una oportunidad condicionada por demanda y ejecución, no una promesa automática de financiación del proyecto.
 
 El suelo requiere un tratamiento institucional específico. La Constitución establece en su artículo 65 que las personas no ciudadanas pueden disponer de suelo mediante leasehold por un máximo de 99 años, y define cuándo una sociedad se considera ciudadana a estos efectos. Antes de adquirir la parcela habrá que comprobar el título, la duración del derecho y la estructura de propiedad de la sociedad inversora (Constitution of Kenya, 2010).
 
