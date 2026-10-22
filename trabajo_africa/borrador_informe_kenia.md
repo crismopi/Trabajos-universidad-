@@ -16,6 +16,8 @@ Nairobi es la ciudad-condado que más valor añadido genera en el país, lo que 
 
 La mayor parte del empleo creado en 2025 se concentró en el sector informal. La estadística excluye la pequeña agricultura rural y las actividades pastoriles y se refiere al país, no específicamente a Nairobi (Kenya National Bureau of Statistics, 2026).
 
+El predominio del empleo informal entre los nuevos puestos de trabajo plantea una cuestión institucional: hasta qué punto las oportunidades de producir y trabajar van acompañadas de acceso a financiación, protección jurídica y protección social. Desde Acemoglu y Robinson (2012), el crecimiento es más inclusivo cuando amplía esas oportunidades a distintos grupos. El dato de informalidad muestra que crecimiento y formalización no avanzan necesariamente juntos, pero no identifica por sí solo qué barreras explican esa situación ni demuestra que toda actividad informal sea extractiva.
+
 La Comunidad de África Oriental reúne actualmente ocho Estados. Somalia se incorporó como miembro pleno en marzo de 2024. Este marco de cooperación económica ofrece posibilidades de actividad empresarial, inversión y movilidad (East African Community, s. f.).
 
 ## 3. Activos productivos y condiciones para invertir
@@ -34,17 +36,23 @@ El diagnóstico sistemático del Banco Mundial de 2020 distingue una primera fas
 
 La trayectoria inicial estuvo relacionada con la expansión agrícola y la transformación de la participación de pequeños productores. El análisis de políticas también sitúa la liberalización en una secuencia posterior de retirada de determinadas funciones públicas y mayor intervención privada. Desde el marco institucional, la pregunta relevante es qué grupos pudieron utilizar los nuevos derechos y oportunidades, y cuáles quedaron excluidos. La existencia de propiedad privada no equivale, por sí sola, a acceso inclusivo a la tierra, financiación o servicios (Gamba & Kibaara, 2007).
 
+Desde el marco de Acemoglu y Robinson (2012), la independencia debe analizarse también como una posible transformación de las reglas de acceso a la tierra y al poder. La expansión de pequeños productores descrita en el informe permite preguntar si más personas pudieron participar en la actividad económica o si persistieron ventajas para quienes ya controlaban los recursos. El cambio de soberanía no basta para demostrar inclusión: habría que comprobar cómo se distribuyeron los derechos y las oportunidades. La información reunida permite plantear esta interpretación, pero no medir cuánto poder conservaron los distintos grupos tras la independencia.
+
 ### 4.2. Restricciones externas, ajuste y costes sociales
 
 Desde 1980, Kenia aplicó programas de ajuste estructural que buscaban aumentar la participación de las empresas privadas y orientar la producción hacia la exportación. Sus resultados deben analizarse teniendo en cuenta tanto la situación previa del país como las decisiones del Gobierno, sin atribuirlos a una sola causa (Gamba & Kibaara, 2007).
 
 Estas reformas incluyeron privatizaciones y cambios en el empleo público y el gasto del Estado. Para valorar sus efectos, hay que estudiar cómo afectaron a los distintos grupos sociales. Una mejora de las cuentas públicas puede coexistir con dificultades de algunas familias para acceder a servicios básicos. Por eso, los indicadores económicos no bastan para conocer sus consecuencias sobre el bienestar (*Kenya national human development report 2006*, 2006).
 
+Acemoglu y Robinson (2012) permiten distinguir entre aumentar la participación privada y ampliar la participación económica. Aplicado a las privatizaciones y la liberalización descritas, el criterio es si nuevos productores y empresas pudieron competir o si las oportunidades se concentraron en actores con recursos y contactos. Por eso, la valoración de las reformas debe combinar sus resultados económicos con el acceso a servicios y las posibilidades de entrada al mercado; privatizar, por sí solo, no demuestra que las instituciones sean inclusivas.
+
 ### 4.3. Recuperación, servicios y Africa Rising
 
 La recuperación posterior se apoyó en el dinamismo de los servicios. El diagnóstico del Banco Mundial de 2020 destaca su contribución al crecimiento y, al mismo tiempo, las dificultades de productividad, empleo e inclusión. La experiencia keniana matiza la narrativa de Africa Rising: el crecimiento de los servicios ofrece una trayectoria distinta de la expansión apoyada en un recurso extractivo, pero tampoco asegura por sí mismo una mejora general de las condiciones de vida (Banco Mundial, 2020).
 
 El desarrollo de pagos móviles añade una dimensión institucional: una innovación puede reducir obstáculos para operar en la economía. Sin embargo, extender los medios de pago no distribuye automáticamente la productividad ni elimina las diferencias territoriales.
+
+El caso de M-Pesa puede interpretarse, desde Acemoglu y Robinson (2012), como una herramienta que reduce barreras para realizar transacciones y participar en la economía. Sin embargo, las desigualdades de acceso señaladas impiden equiparar innovación con inclusión generalizada. La pregunta institucional es quién puede utilizar esa herramienta y convertirla en oportunidades productivas, no únicamente cuánto crecen los servicios digitales.
 
 ### 4.4. Pandemia, recuperación y restricciones recientes
 
@@ -67,6 +75,8 @@ La situación fiscal exige prudencia con las propuestas públicas. El Budget Rev
 El marco de Acemoglu y Robinson (2012), desarrollado en *Why nations fail*, permite relacionar estas etapas sin atribuir todos los resultados al colonialismo ni a una única reforma. El análisis considera mecanismos concretos: cuando obtener un título o un permiso depende de contactos y rentas, disminuye la competencia y se concentra el acceso al suelo; cuando las reglas son previsibles y exigibles, más actores pueden invertir y contratar.
 
 Freedom House considera al país parcialmente libre en su edición de 2026 y describe elecciones competitivas junto con problemas de corrupción y actuación de las fuerzas de seguridad. Es una evaluación de derechos y libertades. Sirve para cuestionar la equivalencia entre dinamismo económico y calidad institucional (Freedom House, 2026).
+
+La concentración de valor añadido en Nairobi también invita a examinar la distribución territorial de las oportunidades. Desde Acemoglu y Robinson (2012), la descentralización del poder —devolution— puede ampliar la participación y la rendición de cuentas si facilita que la población controle las decisiones locales; también puede reproducir concentraciones de poder si las decisiones quedan en manos de grupos reducidos. Este es un criterio para evaluar la descentralización, no un resultado demostrado para Kenia: la concentración económica en la capital y la información institucional reunida no permiten concluir si la distribución territorial del poder ha reducido la captura de recursos o las desigualdades.
 
 El DAFO recoge la tensión entre capacidades empresariales y restricciones de ingresos, servicios y gobernanza.
 
@@ -143,6 +153,8 @@ Las restricciones fiscales aconsejan evitar que la viabilidad del proyecto depen
 La evaluación de derechos y libertades no es una medida directa del riesgo de una promoción ni un sustituto del análisis legal (Freedom House, 2026).
 
 La aplicación al proyecto combina protección de la inversión y derechos del inquilino: revisión del suelo, contratación comprensible, competencia entre proveedores y publicidad de los cargos. Una operación que mejore edificios pero desplace a trabajadores o los obligue a un esfuerzo insostenible no demostraría inclusión.
+
+Aplicado a la vivienda, el marco de Acemoglu y Robinson (2012) exige distinguir la seguridad del inversor de la inclusión de los residentes. El límite de 99 años para determinados derechos sobre el suelo regula la posición de los inversores extranjeros, pero no demuestra que los hogares puedan acceder a suelo, crédito o servicios. Las restricciones de acceso a vivienda documentadas incluso entre personas vinculadas a fondos de pensiones refuerzan la necesidad de comprobar quién puede pagar el producto. Por ello, el proyecto deberá verificar contratos comprensibles, acceso efectivo a servicios y coste total de residencia, además del título de la parcela. La inclusión se evaluará por las oportunidades y condiciones de los trabajadores, no solo por el capital captado o el edificio construido.
 
 ### 6.3. Empresas objetivo y elección de Acorn Holdings como cabecera
 
