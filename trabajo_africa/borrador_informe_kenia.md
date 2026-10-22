@@ -44,11 +44,11 @@ La trayectoria inicial estuvo relacionada con la expansión agrícola y la trans
 
 ### 4.2. Restricciones externas, ajuste y costes sociales
 
-Desde 1980, los programas de ajuste estructural impulsaron la liberalización de la economía keniana. Buscaban aumentar la participación privada y orientar la producción hacia mercados externos. Este proceso debe examinarse junto con las restricciones heredadas y las decisiones internas, evitando atribuir los resultados a una única causa (Gamba & Kibaara, 2007).
+Desde 1980, Kenia aplicó programas de ajuste estructural que buscaban aumentar la participación de las empresas privadas y orientar la producción hacia la exportación. Sus resultados deben analizarse teniendo en cuenta tanto la situación previa del país como las decisiones del Gobierno, sin atribuirlos a una sola causa (Gamba & Kibaara, 2007).
 
-Los objetivos de eficiencia y estabilización deben contrastarse con la distribución de los costes. El informe de desarrollo humano de Kenia patrocinado por PNUD describe reformas de privatización, empleo público y gasto, además de barreras de acceso a servicios para grupos vulnerables. Esta perspectiva complementa el registro financiero de los organismos acreedores: una reforma puede alterar incentivos y, simultáneamente, reducir la capacidad de determinados hogares para cubrir necesidades. No basta con juzgarla por una sola variable macroeconómica (*Kenya National Human Development Report 2006*, 2006).
+Estas reformas incluyeron privatizaciones y cambios en el empleo público y el gasto del Estado. Para valorar sus efectos, hay que estudiar cómo afectaron a los distintos grupos sociales. Una mejora de las cuentas públicas puede coexistir con dificultades de algunas familias para acceder a servicios básicos. Por eso, los indicadores económicos no bastan para conocer sus consecuencias sobre el bienestar (*Kenya National Human Development Report 2006*, 2006).
 
-Estas reformas ayudan a entender por qué la capacidad de pago no puede deducirse únicamente del salario. Si el hogar debe asumir más gastos de servicios esenciales, dispone de menos recursos para vivienda. El alquiler se evaluará dentro de ese presupuesto, relacionando la trayectoria económica con las condiciones de los clientes.
+Esto ayuda a entender por qué el salario no basta para calcular cuánto alquiler puede pagar un hogar. Si una familia tiene que destinar más dinero a servicios esenciales, le queda menos para vivienda. Por ello, el proyecto deberá valorar tanto los ingresos como los gastos de sus futuros inquilinos.
 
 ### 4.3. Recuperación, servicios y Africa Rising
 
