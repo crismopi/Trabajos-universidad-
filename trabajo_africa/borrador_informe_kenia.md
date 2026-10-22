@@ -4,35 +4,27 @@
 
 ## 1. Introducción
 
-Kenia alcanzó la independencia en 1963 con una economía y unas relaciones de acceso a la tierra marcadas por el dominio colonial. La expansión de la pequeña agricultura y la intervención pública dieron paso, desde los años ochenta, a reformas de liberalización y a una mayor participación privada (Gamba & Kibaara, 2007). El crecimiento posterior de los servicios y la innovación ha convivido con diferencias de acceso al empleo y a las oportunidades. Este trabajo plantea que la construcción de vivienda para alquiler en Nairobi puede atraer inversión y mejorar las condiciones de vida de trabajadores, siempre que el producto sea compatible con sus ingresos y se apoye en suelo jurídicamente seguro, servicios adecuados y contratos previsibles. El marco de instituciones inclusivas y extractivas de Acemoglu y Robinson permitirá examinar quién accede a esas oportunidades y cómo se distribuyen los beneficios. Se elige Acorn Holdings como empresa principal y se compara con IHS y Fusion Capital.
+Kenia alcanzó la independencia en 1963 con una economía y unas relaciones de acceso a la tierra marcadas por el dominio colonial. La expansión de la pequeña agricultura y la intervención pública dieron paso, desde los años ochenta, a reformas de liberalización y a una mayor participación privada (Gamba & Kibaara, 2007). El crecimiento posterior de los servicios y la innovación ha convivido con diferencias de acceso al empleo y a las oportunidades. El marco de instituciones inclusivas y extractivas de Acemoglu y Robinson permitirá examinar quién accede a esas oportunidades y cómo se distribuyen los beneficios.
 
 ## 2. Características del mercado e integración regional
 
 Kenia es un mercado de 53,3 millones de habitantes según la proyección demográfica nacional para 2025 (Kenya National Bureau of Statistics, 2026; National Council for Population and Development, 2025). El PIB nominal alcanzó aproximadamente 17,58 billones de chelines en 2025 (Central Bank of Kenya, s. f.; Kenya National Bureau of Statistics, 2026). Esta cifra permite dimensionar la economía nacional.
 
-El PIB real de Kenia creció un 4,6 % en 2025, frente al 4,7 % de 2024 (Kenya National Bureau of Statistics, 2026). El Banco Central de Kenia reproduce estas cifras en su serie de PIB anual (Central Bank of Kenya, s. f.; Kenya National Bureau of Statistics, 2026). Para valorar las implicaciones de este crecimiento sobre la demanda de alquiler en Nairobi, es necesario estudiar los ingresos y la estabilidad laboral de los hogares destinatarios.
+El PIB real de Kenia creció un 4,6 % en 2025, frente al 4,7 % de 2024 (Kenya National Bureau of Statistics, 2026). El Banco Central de Kenia reproduce estas cifras en su serie de PIB anual (Central Bank of Kenya, s. f.; Kenya National Bureau of Statistics, 2026).
 
-El informe Gross County Product 2025 identifica a Nairobi como la ciudad-condado que más valor añadido genera en el país. Esta concentración de actividad justifica estudiar su mercado residencial. Para diseñar la promoción, sin embargo, es necesario identificar qué hogares podrían alquilarla y cómo accederían desde ella a sus centros de trabajo (Kenya National Bureau of Statistics, 2025).
+Nairobi es la ciudad-condado que más valor añadido genera en el país, lo que refleja la concentración territorial de actividad económica (Kenya National Bureau of Statistics, 2025).
 
-Por lo tanto, se puede dilucidar que el mercado laboral limita el tamaño de la demanda solvente. La mayor parte del empleo creado en 2025 se concentró en el sector informal (Kenya National Bureau of Statistics, 2026). La estadística excluye la pequeña agricultura rural y las actividades pastoriles y se refiere al país, no específicamente a Nairobi. Por ello, el crecimiento agregado resulta insuficiente para estimar la estabilidad de los ingresos de los futuros inquilinos (Kenya National Bureau of Statistics, 2026).
+La mayor parte del empleo creado en 2025 se concentró en el sector informal. La estadística excluye la pequeña agricultura rural y las actividades pastoriles y se refiere al país, no específicamente a Nairobi (Kenya National Bureau of Statistics, 2026).
 
-Para estudiar la capacidad de pago también hay que conocer los gastos y obligaciones del hogar. Se identifican restricciones de acceso a vivienda incluso entre personas vinculadas a fondos de pensiones (Shah et al., 2026). El cliente propuesto será, por ello, un hogar pequeño de trabajadores con ingresos documentables, sin presentar el proyecto como solución para toda la población de bajos ingresos.
-
-La Comunidad de África Oriental reúne actualmente ocho Estados. Somalia se incorporó como miembro pleno en marzo de 2024. La EAC favorece un marco de cooperación económica cuya relación con el proyecto sería indirecta: actividad empresarial, inversión y movilidad. El mercado residencial de la promoción seguirá siendo local (East African Community, s. f.).
+La Comunidad de África Oriental reúne actualmente ocho Estados. Somalia se incorporó como miembro pleno en marzo de 2024. Este marco de cooperación económica ofrece posibilidades de actividad empresarial, inversión y movilidad (East African Community, s. f.).
 
 ## 3. Activos productivos y condiciones para invertir
 
-La experiencia en servicios digitales ofrece herramientas para gestionar el alquiler. M-Pesa ilustra el uso de telefonía móvil para transferir dinero, aunque el acceso a estos servicios presenta desigualdades (Banco Mundial, 2020). Para un operador residencial, los pagos digitales pueden facilitar cobros y registros. Se trata de una posible mejora de gestión aunque la solvencia del inquilino dependerá de sus ingresos y obligaciones.
+M-Pesa ilustra el uso de telefonía móvil para transferir dinero, aunque el acceso a estos servicios presenta desigualdades (Banco Mundial, 2020).
 
-Otro activo es la existencia de organizaciones capaces de desarrollar y gestionar vivienda con inversión institucional. Se describen actividades de desarrollo y adquisición de vivienda en Nairobi y otras zonas urbanas, con criterios de eficiencia de recursos y colaboración con promotores (International Finance Corporation, 2024). Este precedente muestra una vía para organizar capital destinado a vivienda. Una nueva operación necesitaría justificar su demanda, sus costes y la modalidad de tenencia.
+El contexto de inversión debe distinguir flujos anuales y capital acumulado. Las entradas de inversión extranjera directa en Kenia alcanzaron 1.503 millones de dólares en 2024, cifra redondeada a 1.500 millones en otra publicación del mismo organismo (United Nations Conference on Trade and Development [UNCTAD], 2025a, 2025b). Se trata de flujos nacionales.
 
-El contexto de inversión debe distinguir flujos anuales y capital acumulado. Las entradas de inversión extranjera directa en Kenia alcanzaron 1.503 millones de dólares en 2024, cifra redondeada a 1.500 millones en otra publicación del mismo organismo (United Nations Conference on Trade and Development [UNCTAD], 2025a, 2025b). Se trata de flujos nacionales, no de recursos disponibles para vivienda.
-
-La iniciativa de Acorn para ampliar el alquiler y el programa de International Housing Solutions muestran precedentes de organización institucional de capital (International Finance Corporation, 2024; Private Infrastructure Development Group, 2025). Su desarrollo es una oportunidad condicionada por demanda y ejecución, no una promesa automática de financiación del proyecto.
-
-El suelo requiere un tratamiento institucional específico. La Constitución establece en su artículo 65 que las personas no ciudadanas pueden disponer de suelo mediante leasehold por un máximo de 99 años, y define cuándo una sociedad se considera ciudadana a estos efectos. Antes de adquirir la parcela habrá que comprobar el título, la duración del derecho y la estructura de propiedad de la sociedad inversora (Constitution of Kenya, 2010).
-
-El funcionamiento de agua, saneamiento, electricidad y transporte condiciona el coste de residencia. Estas condiciones deben verificarse en la ubicación elegida: las capacidades nacionales no aseguran servicios suficientes para una parcela concreta. La evaluación del inmueble incluirá tanto su calidad constructiva como los gastos y las condiciones de uso para sus residentes.
+La Constitución establece en su artículo 65 que las personas no ciudadanas pueden disponer de suelo mediante leasehold por un máximo de 99 años, y define cuándo una sociedad se considera ciudadana a estos efectos (Constitution of Kenya, 2010).
 
 ## 4. Evolución económica y análisis institucional
 
@@ -48,21 +40,19 @@ Desde 1980, Kenia aplicó programas de ajuste estructural que buscaban aumentar 
 
 Estas reformas incluyeron privatizaciones y cambios en el empleo público y el gasto del Estado. Para valorar sus efectos, hay que estudiar cómo afectaron a los distintos grupos sociales. Una mejora de las cuentas públicas puede coexistir con dificultades de algunas familias para acceder a servicios básicos. Por eso, los indicadores económicos no bastan para conocer sus consecuencias sobre el bienestar (*Kenya national human development report 2006*, 2006).
 
-Esto ayuda a entender por qué el salario no basta para calcular cuánto alquiler puede pagar un hogar. Si una familia tiene que destinar más dinero a servicios esenciales, le queda menos para vivienda. Por ello, el proyecto deberá valorar tanto los ingresos como los gastos de sus futuros inquilinos.
-
 ### 4.3. Recuperación, servicios y Africa Rising
 
 La recuperación posterior se apoyó en el dinamismo de los servicios. El diagnóstico del Banco Mundial de 2020 destaca su contribución al crecimiento y, al mismo tiempo, las dificultades de productividad, empleo e inclusión. La experiencia keniana matiza la narrativa de Africa Rising: el crecimiento de los servicios ofrece una trayectoria distinta de la expansión apoyada en un recurso extractivo, pero tampoco asegura por sí mismo una mejora general de las condiciones de vida (Banco Mundial, 2020).
 
-El desarrollo de pagos móviles añade una dimensión institucional: una innovación puede reducir obstáculos para operar en la economía. Sin embargo, extender los medios de pago no distribuye automáticamente la productividad ni elimina las diferencias territoriales. Para defender una inversión residencial se necesita comprobar que existen clientes capaces de mantener el alquiler, y que el proyecto no se limita a atender al segmento con mayores ingresos mientras se presenta como respuesta general al problema urbano.
+El desarrollo de pagos móviles añade una dimensión institucional: una innovación puede reducir obstáculos para operar en la economía. Sin embargo, extender los medios de pago no distribuye automáticamente la productividad ni elimina las diferencias territoriales.
 
 ### 4.4. Pandemia, recuperación y restricciones recientes
 
 La pandemia mostró la vulnerabilidad de los ingresos y la diferencia entre actividad agregada y bienestar. El PIB real se contrajo un 0,3 % en 2020 y creció un 7,6 % en 2021 (Central Bank of Kenya, s. f.; Kenya National Bureau of Statistics, 2026). El repunte reflejó reapertura y recuperación sectorial, por lo que no debe extrapolarse como ritmo permanente (Central Bank of Kenya, s. f.; Kenya National Bureau of Statistics, 2026).
 
-Los shocks climáticos añaden otra limitación. El Economic Update de diciembre de 2024 señala que las inundaciones de ese año afectaron a medios de vida, especialmente urbanos, y limitaron el consumo. Para una promoción de alquiler, drenaje, exposición de la parcela y continuidad de servicios forman parte del análisis económico. Una vivienda físicamente disponible puede ser una mala solución si sus usuarios afrontan interrupciones o costes que no pueden asumir (Banco Mundial, 2024).
+Las inundaciones de 2024 afectaron a medios de vida, especialmente urbanos, y limitaron el consumo, lo que muestra la exposición de la economía a los shocks climáticos (Banco Mundial, 2024).
 
-La situación fiscal exige prudencia con las propuestas públicas. El Budget Review and Outlook Paper de 2025 sitúa la deuda pública bruta en el 68,8 % del PIB para el ejercicio 2024/25, como resultado preliminar; el Economic Update del Banco Mundial de noviembre de 2025 recoge la misma ratio. Su implicación para el plan es evitar que la viabilidad dependa de incentivos fiscales amplios o de infraestructura pública cuya financiación no se haya identificado (Banco Mundial, 2025; The National Treasury, 2025).
+La situación fiscal exige prudencia con las propuestas públicas. El Budget Review and Outlook Paper de 2025 sitúa la deuda pública bruta en el 68,8 % del PIB para el ejercicio 2024/25, como resultado preliminar; el Economic Update del Banco Mundial de noviembre de 2025 recoge la misma ratio. Este endeudamiento limita el margen de actuación del sector público (Banco Mundial, 2025; The National Treasury, 2025).
 
 **Figura 1**
 
@@ -76,13 +66,13 @@ La situación fiscal exige prudencia con las propuestas públicas. El Budget Rev
 
 El marco de Acemoglu y Robinson (2012), desarrollado en *Why nations fail*, permite relacionar estas etapas sin atribuir todos los resultados al colonialismo ni a una única reforma. El análisis considera mecanismos concretos: cuando obtener un título o un permiso depende de contactos y rentas, disminuye la competencia y se concentra el acceso al suelo; cuando las reglas son previsibles y exigibles, más actores pueden invertir y contratar.
 
-Freedom House considera al país parcialmente libre en su edición de 2026 y describe elecciones competitivas junto con problemas de corrupción y actuación de las fuerzas de seguridad. Es una evaluación de derechos y libertades, no una medida directa del riesgo de una promoción ni un sustituto del análisis legal. Sirve para cuestionar la equivalencia entre dinamismo económico y calidad institucional (Freedom House, 2026).
+Freedom House considera al país parcialmente libre en su edición de 2026 y describe elecciones competitivas junto con problemas de corrupción y actuación de las fuerzas de seguridad. Es una evaluación de derechos y libertades. Sirve para cuestionar la equivalencia entre dinamismo económico y calidad institucional (Freedom House, 2026).
 
-La aplicación al proyecto combina protección de la inversión y derechos del inquilino: revisión del suelo, contratación comprensible, competencia entre proveedores y publicidad de los cargos. Una operación que mejore edificios pero desplace a trabajadores o los obligue a un esfuerzo insostenible no demostraría inclusión. El DAFO recoge esa tensión entre capacidades empresariales y restricciones de ingresos, servicios y gobernanza.
+El DAFO recoge la tensión entre capacidades empresariales y restricciones de ingresos, servicios y gobernanza.
 
 ## 5. DAFO de la economía de Kenia
 
-Este DAFO recoge el análisis previo sobre la economía de Kenia, sin aplicarlo al mercado del alquiler.
+Este DAFO recoge el análisis previo sobre la economía de Kenia.
 
 | **Fortalezas** | **Debilidades** |
 |---|---|
@@ -116,7 +106,45 @@ El argumento de Kenia frente a una nueva implantación en Kampala o Kigali es la
 
 Las debilidades del DAFO determinan el diseño: la informalidad y las restricciones presupuestarias obligan a estudiar ingresos y gastos reales, y los problemas de gobernanza exigen revisar suelo y permisos. La existencia de ingresos recurrentes no elimina las dificultades de acceso a vivienda (Shah et al., 2026). Por ello, no se fija todavía una tarifa ni se presenta el producto como asequible para toda la población de bajos ingresos.
 
-### 6.2. Empresas objetivo y elección de Acorn Holdings como cabecera
+### 6.2. Fundamentos y condiciones del proyecto de vivienda
+
+Este trabajo plantea que la construcción de vivienda para alquiler en Nairobi puede atraer inversión y mejorar las condiciones de vida de trabajadores, siempre que el producto sea compatible con sus ingresos y se apoye en suelo jurídicamente seguro, servicios adecuados y contratos previsibles. Se elige Acorn Holdings como empresa principal y se compara con IHS y Fusion Capital.
+
+Para valorar las implicaciones de este crecimiento sobre la demanda de alquiler en Nairobi, es necesario estudiar los ingresos y la estabilidad laboral de los hogares destinatarios.
+
+La concentración de actividad en Nairobi justifica estudiar su mercado residencial. Para diseñar la promoción es necesario identificar qué hogares podrían alquilarla y cómo accederían desde ella a sus centros de trabajo (Kenya National Bureau of Statistics, 2025).
+
+El mercado laboral limita el tamaño de la demanda solvente. El crecimiento agregado resulta insuficiente para estimar la estabilidad de los ingresos de los futuros inquilinos (Kenya National Bureau of Statistics, 2026).
+
+Para estudiar la capacidad de pago también hay que conocer los gastos y obligaciones del hogar. Se identifican restricciones de acceso a vivienda incluso entre personas vinculadas a fondos de pensiones (Shah et al., 2026). El cliente propuesto será, por ello, un hogar pequeño de trabajadores con ingresos documentables, sin presentar el proyecto como solución para toda la población de bajos ingresos.
+
+La relación de la integración regional con el proyecto sería indirecta, a través de actividad empresarial, inversión y movilidad. El mercado residencial de la promoción seguirá siendo local.
+
+La experiencia en servicios digitales ofrece herramientas para gestionar el alquiler. Para un operador residencial, los pagos digitales pueden facilitar cobros y registros. Se trata de una posible mejora de gestión aunque la solvencia del inquilino dependerá de sus ingresos y obligaciones.
+
+Otro activo es la existencia de organizaciones capaces de desarrollar y gestionar vivienda con inversión institucional. Se describen actividades de desarrollo y adquisición de vivienda en Nairobi y otras zonas urbanas, con criterios de eficiencia de recursos y colaboración con promotores (International Finance Corporation, 2024). Este precedente muestra una vía para organizar capital destinado a vivienda. Una nueva operación necesitaría justificar su demanda, sus costes y la modalidad de tenencia.
+
+La iniciativa de Acorn para ampliar el alquiler y el programa de International Housing Solutions muestran precedentes de organización institucional de capital (International Finance Corporation, 2024; Private Infrastructure Development Group, 2025). Su desarrollo es una oportunidad condicionada por demanda y ejecución, no una promesa automática de financiación del proyecto.
+
+Las entradas nacionales de inversión extranjera directa no equivalen a recursos disponibles para financiar esta promoción.
+
+Antes de adquirir la parcela habrá que comprobar el título, la duración del derecho y la estructura de propiedad de la sociedad inversora (Constitution of Kenya, 2010).
+
+El funcionamiento de agua, saneamiento, electricidad y transporte condiciona el coste de residencia. Estas condiciones deben verificarse en la ubicación elegida: las capacidades nacionales no aseguran servicios suficientes para una parcela concreta. La evaluación del inmueble incluirá tanto su calidad constructiva como los gastos y las condiciones de uso para sus residentes.
+
+Esto ayuda a entender por qué el salario no basta para calcular cuánto alquiler puede pagar un hogar. Si una familia tiene que destinar más dinero a servicios esenciales, le queda menos para vivienda. Por ello, el proyecto deberá valorar tanto los ingresos como los gastos de sus futuros inquilinos.
+
+Para defender una inversión residencial se necesita comprobar que existen clientes capaces de mantener el alquiler, y que el proyecto no se limita a atender al segmento con mayores ingresos mientras se presenta como respuesta general al problema urbano.
+
+Para una promoción de alquiler, drenaje, exposición de la parcela y continuidad de servicios forman parte del análisis económico. Una vivienda físicamente disponible puede ser una mala solución si sus usuarios afrontan interrupciones o costes que no pueden asumir.
+
+Las restricciones fiscales aconsejan evitar que la viabilidad del proyecto dependa de incentivos fiscales amplios o de infraestructura pública cuya financiación no se haya identificado (Banco Mundial, 2025; The National Treasury, 2025).
+
+La evaluación de derechos y libertades no es una medida directa del riesgo de una promoción ni un sustituto del análisis legal (Freedom House, 2026).
+
+La aplicación al proyecto combina protección de la inversión y derechos del inquilino: revisión del suelo, contratación comprensible, competencia entre proveedores y publicidad de los cargos. Una operación que mejore edificios pero desplace a trabajadores o los obligue a un esfuerzo insostenible no demostraría inclusión.
+
+### 6.3. Empresas objetivo y elección de Acorn Holdings como cabecera
 
 Se seleccionan tres empresas reales por sus capacidades documentadas en vivienda y gestión de capital. Son candidatas a explorar, no inversores que hayan comprometido recursos para este proyecto.
 
@@ -132,7 +160,7 @@ El mercado objetivo de Acorn serían hogares pequeños que valoren estabilidad r
 
 La decisión es, por tanto, negociar primero con Acorn y utilizar International Housing Solutions y Fusion Capital como alternativas para contrastar condiciones. No se presupone un consorcio entre las tres. Si el coste total solo permite atender a hogares de mayores ingresos, se revisará el producto y su justificación social antes de aprobar la construcción.
 
-### 6.3. Plan de acción 360º: medidas, responsables y plazos
+### 6.4. Plan de acción 360º: medidas, responsables y plazos
 
 El plan convierte las debilidades y amenazas del DAFO en actuaciones verificables. Los plazos se cuentan desde el inicio del estudio y son propuestas del trabajo, no compromisos asumidos por empresas o autoridades. Los meses 0–6 se dedicarían a demanda y parcelas; los meses 6–12, al diseño, las autorizaciones y la financiación. El calendario de obra se aprobaría después de completar esas comprobaciones.
 
@@ -147,7 +175,7 @@ El plan convierte las debilidades y amenazas del DAFO en actuaciones verificable
 
 La coordinación administrativa no sustituye los controles. La aprobación de planos, las inspecciones y el certificado de ocupación son actuaciones distintas y deben verificarse por separado (Nairobi City County Government, 2025). El plan propone mejorar la preparación y el seguimiento de los expedientes; no atribuye al promotor capacidad para cambiar las normas ni garantiza plazos de resolución.
 
-### 6.4. Decisión de inversión y seguimiento
+### 6.5. Decisión de inversión y seguimiento
 
 La primera decisión será seleccionar una parcela y un producto compatibles con los ingresos del público objetivo. La segunda será aprobar un diseño con servicios, costes y permisos comprobados. Solo después se negociará el cierre de la financiación y la contratación de la obra. En cada fase se podrá detener o reformular la operación si no cumple las condiciones mínimas.
 
