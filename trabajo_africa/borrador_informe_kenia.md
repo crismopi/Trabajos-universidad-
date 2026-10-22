@@ -20,7 +20,7 @@ Para estudiar la capacidad de pago también hay que conocer los gastos y obligac
 
 Kenia participa en la integración africana a través de la Unión Africana y de acuerdos continentales y subregionales (InfoTradeKenya, s. f.). La Comunidad de África Oriental reúne actualmente ocho Estados. Somalia se incorporó como miembro pleno en marzo de 2024. La EAC favorece un marco de cooperación económica cuya relación con el proyecto sería indirecta: actividad empresarial, inversión y movilidad. El mercado residencial de la promoción seguirá siendo local (East African Community, s. f.).
 
-Kenia también participa en la AfCFTA. El portal oficial de comercio distingue la entrada en vigor del acuerdo, en mayo de 2019, del inicio del comercio en enero de 2021. Su aplicación gradual exige distinguir la pertenencia al acuerdo de las condiciones efectivas de acceso a cada mercado. Para una vivienda situada en Nairobi, sus efectos deben analizarse mediante empleo, proveedores e inversión, sin atribuirle una demanda residencial garantizada (InfoTradeKenya, s. f.).
+Kenia también participa en la AfCFTA. El portal oficial de comercio distingue la entrada en vigor del acuerdo, en mayo de 2019, del inicio del comercio en enero de 2021. Su aplicación gradual exige distinguir la pertenencia al acuerdo de las condiciones efectivas de acceso a cada mercado. Para el proyecto de vivienda en Nairobi, el acuerdo podría generar oportunidades si favorece la inversión y la creación de empleo. Sin embargo, estos posibles efectos no garantizan que exista demanda para los alquileres propuestos (InfoTradeKenya, s. f.).
 
 ## 3. Activos productivos y condiciones para invertir
 
