@@ -4,7 +4,7 @@
 
 ## 1. Introducción
 
-Kenia alcanzó la independencia en 1963 con una economía y unas relaciones de acceso a la tierra marcadas por el dominio colonial. La expansión de la pequeña agricultura y la intervención pública dieron paso, desde los años ochenta, a reformas de liberalización y a una mayor participación privada (Gamba & Kibaara, 2007). El crecimiento posterior de los servicios y la innovación ha convivido con diferencias de acceso al empleo y a las oportunidades. Este trabajo plantea que la construcción de vivienda para alquiler en Nairobi puede atraer inversión y mejorar las condiciones de vida de trabajadores, siempre que el producto sea compatible con sus ingresos y se apoye en suelo jurídicamente seguro, servicios adecuados y contratos previsibles. El marco de instituciones inclusivas y extractivas de Acemoglu y Robinson permitirá examinar quién accede a esas oportunidades y cómo se distribuyen los beneficios. Se elige Acorn Holdings como empresa de cabecera y se compara con IHS y Fusion Capital.
+Kenia alcanzó la independencia en 1963 con una economía y unas relaciones de acceso a la tierra marcadas por el dominio colonial. La expansión de la pequeña agricultura y la intervención pública dieron paso, desde los años ochenta, a reformas de liberalización y a una mayor participación privada (Gamba & Kibaara, 2007). El crecimiento posterior de los servicios y la innovación ha convivido con diferencias de acceso al empleo y a las oportunidades. Este trabajo plantea que la construcción de vivienda para alquiler en Nairobi puede atraer inversión y mejorar las condiciones de vida de trabajadores, siempre que el producto sea compatible con sus ingresos y se apoye en suelo jurídicamente seguro, servicios adecuados y contratos previsibles. El marco de instituciones inclusivas y extractivas de Acemoglu y Robinson permitirá examinar quién accede a esas oportunidades y cómo se distribuyen los beneficios. Se elige Acorn Holdings como empresa de cabecera y se compara con Fusion Capital.
 
 ## 2. Características del mercado e integración regional
 
@@ -26,11 +26,9 @@ Kenia también participa en la AfCFTA. El portal oficial de comercio distingue l
 
 La experiencia en servicios digitales ofrece herramientas para gestionar el alquiler. M-Pesa ilustra el uso de telefonía móvil para transferir dinero, aunque el acceso a estos servicios presenta desigualdades (Banco Mundial, 2020). Para un operador residencial, los pagos digitales pueden facilitar cobros y registros. Se trata de una posible mejora de gestión aunque la solvencia del inquilino dependerá de sus ingresos y obligaciones.
 
-Otro activo es la existencia de organizaciones capaces de desarrollar y gestionar vivienda con inversión institucional. La ficha de IFC sobre IHS describe desarrollo y adquisición de vivienda en Nairobi y otras zonas urbanas, con criterios de eficiencia de recursos y colaboración con promotores. Este precedente muestra una vía para organizar capital destinado a vivienda. Una nueva operación necesitaría justificar su demanda, sus costes y la modalidad de tenencia (International Finance Corporation, 2024).
-
 El contexto de inversión debe distinguir flujos anuales y capital acumulado. La ficha keniana del *World Investment Report 2025* de UNCTAD registra entradas de IED de 1.503 millones de dólares en 2024; su informe COMESA 2025 las redondea a 1.500 millones. Se trata de flujos nacionales, no de recursos disponibles para vivienda. Ambas publicaciones comparten la base de UNCTAD: su coincidencia permite contrastar la cifra, pero no constituye una medición independiente. El dato corresponde a 2024 según la edición 2025 (UNCTAD, 2025a, 2025b).
 
-La iniciativa de Acorn para ampliar el alquiler y el programa de IHS muestran precedentes de organización institucional de capital. Su desarrollo es una oportunidad condicionada por demanda y ejecución, no una promesa automática de financiación del proyecto (Private Infrastructure Development Group, 2025).
+La iniciativa de Acorn para ampliar el alquiler muestra un precedente de organización institucional de capital. Su desarrollo es una oportunidad condicionada por demanda y ejecución, no una promesa automática de financiación del proyecto (Private Infrastructure Development Group, 2025).
 
 El suelo requiere un tratamiento institucional específico. La Constitución establece en su artículo 65 que las personas no ciudadanas pueden disponer de suelo mediante leasehold por un máximo de 99 años, y define cuándo una sociedad se considera ciudadana a estos efectos. Antes de adquirir la parcela habrá que comprobar el título, la duración del derecho y la estructura de propiedad de la sociedad inversora (Constitution of Kenya, 2010).
 
@@ -88,7 +86,7 @@ El DAFO relaciona los hallazgos anteriores con las condiciones que deberá reuni
 
 | Mirada interna | Mirada externa |
 |---|---|
-| **Fortalezas:** concentración de actividad en Nairobi; experiencia en servicios y pagos digitales; presencia de promotores y vehículos institucionales de vivienda. Estas capacidades permiten estudiar una oferta de alquiler gestionada profesionalmente (§§ 2–3). | **Oportunidades:** integración regional y posibilidades de captar capital de largo plazo, ilustradas por el programa de IHS y la iniciativa de Acorn. Su aprovechamiento exige convertir los marcos y compromisos en proyectos ejecutables (§§ 2–3). |
+| **Fortalezas:** concentración de actividad en Nairobi; experiencia en servicios y pagos digitales; presencia de promotores y vehículos institucionales de vivienda. Estas capacidades permiten estudiar una oferta de alquiler gestionada profesionalmente (§§ 2–3). | **Oportunidades:** integración regional y posibilidades de captar capital de largo plazo, ilustradas por la iniciativa de Acorn. Su aprovechamiento exige convertir los marcos y compromisos en proyectos ejecutables (§§ 2–3). |
 | **Debilidades:** creación insuficiente de empleo formal, restricciones de capacidad de pago y problemas de gobernanza. El suelo y los servicios requieren comprobación local. La necesidad residencial no equivale a demanda solvente (§§ 2–4). | **Amenazas:** shocks climáticos, dificultades de financiación y volatilidad económica. La presión fiscal limita la capacidad de respaldar inversiones y los hogares pueden perder margen de gasto durante una crisis (§ 4.4). |
 
 Las fortalezas y oportunidades justifican explorar el proyecto, mientras las debilidades y amenazas condicionan su diseño. La respuesta a ingresos limitados debe ser ajustar producto y costes; la respuesta a riesgos climáticos, escoger y diseñar bien la parcela; y la respuesta a incertidumbre institucional, asegurar trazabilidad y reglas contractuales. Estas condiciones guían el plan de inversión.
@@ -107,7 +105,7 @@ La capacidad de pago se evaluará sobre ingreso neto del hogar, alquiler, servic
 
 La modalidad propuesta sería capital de largo plazo asociado a un promotor-operador local, con propiedad y gestión unificadas durante la explotación. Esto permite responsabilizar a un mismo proyecto de conservación, cobros y servicio al inquilino. La entrada de un inversor extranjero podría canalizarse mediante una participación en el vehículo propietario, sujeta a la estructura legal y financiera aplicable; no toda suscripción de un producto financiero constituye automáticamente IED.
 
-Frente a estudiar una nueva implantación en Kampala o Kigali, se prioriza aprovechar las capacidades kenianas ya documentadas de Acorn e IHS. Esta elección reduce el número de capacidades que habría que construir desde cero y permite concentrar el análisis en producto y clientes. Es una ventaja de ejecución propuesta, no una superioridad demostrada de Nairobi en rentabilidad o costes.
+Frente a estudiar una nueva implantación en Kampala o Kigali, se prioriza aprovechar las capacidades kenianas ya documentadas de Acorn. Esta elección reduce el número de capacidades que habría que construir desde cero y permite concentrar el análisis en producto y clientes. Es una ventaja de ejecución propuesta, no una superioridad demostrada de Nairobi en rentabilidad o costes.
 
 ### 6.2. Empresas objetivo y empresa de cabecera
 
@@ -121,9 +119,7 @@ El mercado potencial de Acorn comprende hogares que valoren estabilidad, servici
 
 La continuidad de Acorn como cabecera estará condicionada al ajuste entre costes e ingresos. Un producto que solo resulte viable para hogares de mayor poder adquisitivo requeriría redefinir su alcance. La profesionalización aportará inclusión si mejora estabilidad y servicios a un coste asumible; su contribución debe verificarse mediante resultados de los residentes.
 
-**International Housing Solutions (IHS)** es una segunda empresa objetivo por su experiencia en fondos de vivienda y su programa keniano. La documentación de IFC contempla alquiler, venta y alquiler con opción de compra; por ello, habría que acordar expresamente una operación destinada a alquiler permanente. Se estudiaría como alternativa para captar y gestionar capital, sin presumir que dispone de fondos comprometidos para esta promoción (International Finance Corporation, 2024).
-
-**Fusion Capital** es la alternativa regional por su experiencia documentada de vivienda de alquiler. El estudio de Reall sobre sus inquilinos permite observar mejoras residenciales junto con dificultades de asequibilidad, aunque su muestra no representa a toda Nairobi. Aporta una comparación útil sobre cómo equilibrar calidad y precio. No se propone que las tres empresas formen un consorcio: se selecciona Acorn y se explican las alternativas (Robinson et al., 2025).
+**Fusion Capital** es la alternativa regional por su experiencia documentada de vivienda de alquiler. El estudio de Reall sobre sus inquilinos permite observar mejoras residenciales junto con dificultades de asequibilidad, aunque su muestra no representa a toda Nairobi. Aporta una comparación útil sobre cómo equilibrar calidad y precio. Se selecciona Acorn como cabecera y se presenta Fusion Capital como alternativa (Robinson et al., 2025).
 
 ### 6.3. Plan 360º: responsables, plazos e indicadores
 
@@ -153,7 +149,7 @@ El seguimiento combinará ocupación y cobro con calidad del servicio, resoluci�
 
 Kenia ofrece capacidades empresariales y urbanas que hacen razonable estudiar inversión residencial de largo plazo en Nairobi. Sin embargo, su evolución económica muestra que crecimiento, innovación y mejora del bienestar no avanzan necesariamente al mismo ritmo. La informalidad, las restricciones fiscales y la desigualdad de acceso a oportunidades condicionan tanto la necesidad de vivienda como la capacidad efectiva de pagarla.
 
-La propuesta elige construcción para alquiler, Acorn como cabecera y Riruta como ubicación de estudio. La decisión se apoya en capacidades existentes y una estrategia empresarial compatible, mientras IHS y Fusion permiten contrastar otras formas de organizar capital y operación. No demuestra todavía una rentabilidad ni una demanda garantizadas; plantea una actuación cuya aprobación depende de pruebas de mercado y viabilidad.
+La propuesta elige construcción para alquiler, Acorn como cabecera y Riruta como ubicación de estudio. La decisión se apoya en capacidades existentes y una estrategia empresarial compatible, mientras Fusion Capital permite contrastar otra forma de organizar capital y operación. No demuestra todavía una rentabilidad ni una demanda garantizadas; plantea una actuación cuya aprobación depende de pruebas de mercado y viabilidad.
 
 Desde Acemoglu y Robinson, el criterio decisivo es cómo se organizan los derechos y las oportunidades. Contratos claros, suelo seguro, servicios y financiación deben proteger al inversor y hacer posible una residencia estable para el trabajador. El plan asigna responsabilidades para comprobar esas condiciones. La evaluación deberá atender a la sostenibilidad del negocio y a la mejora residencial que ofrece a los trabajadores.
 
@@ -182,8 +178,6 @@ Freedom House (2026). *Freedom in the world 2026: Kenya*. https://freedomhouse.o
 Gamba, P., & Kibaara, B. (2007). *Structural implications of economic liberalization on agriculture and rural development: RuralStruc program, phase I*. Egerton University, Tegemeo Institute. https://documents1.worldbank.org/curated/en/886221468048846460/pdf/779820WP0KENYA00Box377319B00PUBLIC0.pdf
 
 InfoTradeKenya (s. f.). *AfCFTA market requirements*. Recuperado el 21 de octubre de 2026, de https://infotradekenya.go.ke/menu/895
-
-International Finance Corporation (2024). *IHS Kenya: Environmental and social review summary (Project 47136)*. https://disclosures.ifc.org/project-detail/ESRS/47136/co
 
 Kenya National Bureau of Statistics (2025). *Gross County Product 2025*. https://www.knbs.or.ke/wp-content/uploads/2025/12/2025-Gross-County-Product.pdf
 
