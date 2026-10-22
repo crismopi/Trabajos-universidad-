@@ -80,16 +80,25 @@ Freedom House considera al país parcialmente libre en su edición de 2026 y des
 
 La aplicación al proyecto combina protección de la inversión y derechos del inquilino: revisión del suelo, contratación comprensible, competencia entre proveedores y publicidad de los cargos. Una operación que mejore edificios pero desplace a trabajadores o los obligue a un esfuerzo insostenible no demostraría inclusión. El DAFO recoge esa tensión entre capacidades empresariales y restricciones de ingresos, servicios y gobernanza.
 
-## 5. DAFO de la economía aplicado a la vivienda de alquiler
+## 5. DAFO de la economía de Kenia
 
-El DAFO relaciona los hallazgos anteriores con las condiciones que deberá reunir la inversión.
+Este DAFO recoge el análisis previo sobre la economía de Kenia, sin aplicarlo al mercado del alquiler.
 
-| Mirada interna | Mirada externa |
+| **Fortalezas** | **Debilidades** |
 |---|---|
-| **Fortalezas:** concentración de actividad en Nairobi; experiencia en servicios y pagos digitales; presencia de promotores y vehículos institucionales de vivienda. Estas capacidades permiten estudiar una oferta de alquiler gestionada profesionalmente (§§ 2–3). | **Oportunidades:** integración regional y posibilidades de captar capital de largo plazo, ilustradas por el programa de IHS y la iniciativa de Acorn. Su aprovechamiento exige convertir los marcos y compromisos en proyectos ejecutables (§§ 2–3). |
-| **Debilidades:** creación insuficiente de empleo formal, restricciones de capacidad de pago y problemas de gobernanza. El suelo y los servicios requieren comprobación local. La necesidad residencial no equivale a demanda solvente (§§ 2–4). | **Amenazas:** shocks climáticos, dificultades de financiación y volatilidad económica. La presión fiscal limita la capacidad de respaldar inversiones y los hogares pueden perder margen de gasto durante una crisis (§ 4.4). |
+| Diversidad de actividades económicas. La presencia de agricultura, comercio, finanzas, transporte y servicios de información ofrece distintas fuentes de producción e ingresos. | Elevada informalidad laboral. El crecimiento económico no se traduce necesariamente en empleo estable, protección social y mejoras de ingresos para toda la población. |
+| Desarrollo de servicios e innovación financiera. La experiencia en pagos móviles facilita transacciones y ofrece herramientas para ampliar la participación en la economía. | Desigualdad de acceso a las oportunidades. Persisten diferencias en el acceso al empleo, la financiación, la tierra y los servicios básicos, que limitan la distribución de los beneficios del crecimiento. |
+| Concentración de actividad empresarial en Nairobi. La capital reúne empresas y servicios que pueden facilitar la inversión y las relaciones comerciales. | Restricciones fiscales. El elevado endeudamiento reduce el margen del Estado para financiar servicios, infraestructura y medidas de apoyo durante las crisis. |
+| Capacidad para atraer inversión extranjera. Las entradas de inversión documentadas muestran vínculos con capital internacional que pueden contribuir al desarrollo productivo. | Problemas de gobernanza y seguridad jurídica. La corrupción y la falta de previsibilidad de determinados procedimientos pueden dificultar la competencia y elevar los costes de inversión. |
 
-Las fortalezas y oportunidades justifican explorar el proyecto, mientras las debilidades y amenazas condicionan su diseño. La respuesta a ingresos limitados debe ser ajustar producto y costes; la respuesta a riesgos climáticos, escoger y diseñar bien la parcela; y la respuesta a incertidumbre institucional, asegurar trazabilidad y reglas contractuales. Estas condiciones guían el plan de inversión.
+| **Oportunidades** | **Amenazas** |
+|---|---|
+| Integración regional. La participación en la Comunidad de África Oriental ofrece posibilidades de ampliar mercados y fortalecer las relaciones comerciales y empresariales. | Fenómenos climáticos extremos. Las inundaciones y otros episodios pueden dañar infraestructura, afectar a la producción agrícola e interrumpir la actividad económica. |
+| Expansión de servicios digitales. Su desarrollo puede mejorar la gestión empresarial, facilitar pagos y ampliar el acceso a servicios financieros. | Cambios desfavorables en la financiación internacional. Un encarecimiento o una menor disponibilidad de capital puede dificultar la inversión y aumentar las presiones sobre las finanzas públicas. |
+| Inversión orientada a diversificar y modernizar la producción. La captación de capital puede apoyar infraestructura, tecnología y actividades de mayor valor añadido, si existen condiciones adecuadas de ejecución. | Crisis económicas y sanitarias externas. La pandemia mostró que estas perturbaciones pueden reducir la actividad y los ingresos, incluso después de etapas de crecimiento. |
+| Aprovechamiento de una población joven. Una mayor incorporación al empleo productivo puede ampliar la capacidad económica del país, siempre que vaya acompañada de formación y oportunidades laborales. | Incertidumbre política y tensiones sociales. Los problemas institucionales y las dificultades económicas pueden afectar a la confianza y a la continuidad de la actividad empresarial. |
+
+El análisis muestra una economía con capacidades en servicios, innovación y atracción de inversión, pero con dificultades para convertir el crecimiento en bienestar generalizado. Su evolución dependerá de la creación de empleo productivo, la mejora institucional y la capacidad para afrontar las restricciones fiscales y los riesgos climáticos.
 
 ## 6. Propuesta de inversión y plan de acción
 
