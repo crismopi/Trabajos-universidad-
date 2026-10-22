@@ -18,9 +18,7 @@ Por lo tanto, se puede dilucidar que el mercado laboral limita el tamaño de la 
 
 Para estudiar la capacidad de pago también hay que conocer los gastos y obligaciones del hogar. Un estudio de Zamara, CAHF y FSD Kenya publicado en 2026 identifica restricciones de acceso a vivienda incluso entre personas vinculadas a fondos de pensiones. El cliente propuesto será, por ello, un hogar pequeño de trabajadores con ingresos documentables, sin presentar el proyecto como solución para toda la población de bajos ingresos (Shah et al., 2026).
 
-Kenia participa en la integración africana a través de la Unión Africana y de acuerdos continentales y subregionales (InfoTradeKenya, s. f.). La Comunidad de África Oriental reúne actualmente ocho Estados. Somalia se incorporó como miembro pleno en marzo de 2024. La EAC favorece un marco de cooperación económica cuya relación con el proyecto sería indirecta: actividad empresarial, inversión y movilidad. El mercado residencial de la promoción seguirá siendo local (East African Community, s. f.).
-
-Kenia también participa en la AfCFTA. El portal oficial de comercio distingue la entrada en vigor del acuerdo, en mayo de 2019, del inicio del comercio en enero de 2021. Su aplicación gradual exige distinguir la pertenencia al acuerdo de las condiciones efectivas de acceso a cada mercado. Para el proyecto de vivienda en Nairobi, el acuerdo podría generar oportunidades si favorece la inversión y la creación de empleo. Sin embargo, estos posibles efectos no garantizan que exista demanda para los alquileres propuestos (InfoTradeKenya, s. f.).
+La Comunidad de África Oriental reúne actualmente ocho Estados. Somalia se incorporó como miembro pleno en marzo de 2024. La EAC favorece un marco de cooperación económica cuya relación con el proyecto sería indirecta: actividad empresarial, inversión y movilidad. El mercado residencial de la promoción seguirá siendo local (East African Community, s. f.).
 
 ## 3. Activos productivos y condiciones para invertir
 
@@ -180,8 +178,6 @@ East African Community (s. f.). *EAC at a glance*. Recuperado el 21 de octubre d
 Freedom House (2026). *Freedom in the world 2026: Kenya*. https://freedomhouse.org/country/kenya/freedom-world/2026
 
 Gamba, P., & Kibaara, B. (2007). *Structural implications of economic liberalization on agriculture and rural development: RuralStruc program, phase I*. Egerton University, Tegemeo Institute. https://documents1.worldbank.org/curated/en/886221468048846460/pdf/779820WP0KENYA00Box377319B00PUBLIC0.pdf
-
-InfoTradeKenya (s. f.). *AfCFTA market requirements*. Recuperado el 21 de octubre de 2026, de https://infotradekenya.go.ke/menu/895
 
 International Finance Corporation (2024). *IHS Kenya: Environmental and social review summary (Project 47136)*. https://disclosures.ifc.org/project-detail/ESRS/47136/co
 
