@@ -58,7 +58,7 @@ El desarrollo de pagos móviles añade una dimensión institucional: una innovac
 
 ### 4.4. Pandemia, recuperación y restricciones recientes
 
-La pandemia mostró la vulnerabilidad de los ingresos y la diferencia entre actividad agregada y bienestar. La serie de KNBS publicada en 2026 y la tabla de PIB anual del CBK sitúan la contracción de 2020 en el 0,3 % y el rebote de 2021 en el 7,6 %. Esta edición revisa el 7,5 % de publicaciones anteriores. El repunte reflejó reapertura y recuperación sectorial, por lo que no debe extrapolarse como ritmo permanente. Además, que ambas instituciones reproduzcan la serie nacional no constituye una estimación independiente (Central Bank of Kenya, s. f.; Kenya National Bureau of Statistics, 2026).
+La pandemia mostró la vulnerabilidad de los ingresos y la diferencia entre actividad agregada y bienestar. La serie de KNBS publicada en 2026 y la tabla de PIB anual del CBK sitúan la contracción de 2020 en el 0,3 % y el rebote de 2021 en el 7,6 %. El repunte reflejó reapertura y recuperación sectorial, por lo que no debe extrapolarse como ritmo permanente (Central Bank of Kenya, s. f.; Kenya National Bureau of Statistics, 2026).
 
 Los shocks climáticos añaden otra limitación. El Economic Update de diciembre de 2024 señala que las inundaciones de ese año afectaron a medios de vida, especialmente urbanos, y limitaron el consumo. Para una promoción de alquiler, drenaje, exposición de la parcela y continuidad de servicios forman parte del análisis económico. Una vivienda físicamente disponible puede ser una mala solución si sus usuarios afrontan interrupciones o costes que no pueden asumir (Banco Mundial, 2024).
 
