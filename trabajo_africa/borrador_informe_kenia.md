@@ -74,7 +74,7 @@ La situación fiscal exige prudencia con las propuestas públicas. El Budget Rev
 
 ### 4.5. Instituciones y transformación del crecimiento en bienestar
 
-El marco de Acemoglu y Robinson, desarrollado en *Why Nations Fail* (2012), permite relacionar estas etapas sin atribuir todos los resultados al colonialismo ni a una única reforma. El análisis considera mecanismos concretos: cuando obtener un título o un permiso depende de contactos y rentas, disminuye la competencia y se concentra el acceso al suelo; cuando las reglas son previsibles y exigibles, más actores pueden invertir y contratar. Estos mecanismos son hipótesis interpretativas que deben contrastarse con el caso, no efectos medidos por este informe (Acemoglu & Robinson, 2012). Este enfoque permite examinar diferencias entre ámbitos institucionales de Kenia, sin clasificar al país de forma uniforme como inclusivo o extractivo.
+El marco de Acemoglu y Robinson, desarrollado en *Why Nations Fail* (2012), permite relacionar estas etapas sin atribuir todos los resultados al colonialismo ni a una única reforma. El análisis considera mecanismos concretos: cuando obtener un título o un permiso depende de contactos y rentas, disminuye la competencia y se concentra el acceso al suelo; cuando las reglas son previsibles y exigibles, más actores pueden invertir y contratar.
 
 Freedom House considera al país parcialmente libre en su edición de 2026 y describe elecciones competitivas junto con problemas de corrupción y actuación de las fuerzas de seguridad. Es una evaluación de derechos y libertades, no una medida directa del riesgo de una promoción ni un sustituto del análisis legal. Sirve para cuestionar la equivalencia entre dinamismo económico y calidad institucional (Freedom House, 2026).
 
