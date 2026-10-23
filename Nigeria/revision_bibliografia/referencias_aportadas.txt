@@ -1,0 +1,73 @@
+1. World Central Bank (2025): fuente identificada y ya incluida en tu bibliografía
+
+Las tres cifras aparecen juntas en el documento KE-Affordable Housing Finance Project 2: déficit superior a dos millones, aumento de la demanda de unos 250.000 hogares anuales y oferta media inferior a 50.000 viviendas. Están en la página numerada 3, párrafo 3. Por tanto, cambia la cita por (World Bank, 2025); no necesitas añadir otra referencia si conservas la que ya tienes. documents1.worldbank.org
+
+World Bank. (2025). KE-Affordable Housing Finance Project 2 (P513352): Project information document—Concept stage. Documento
+
+2. President of the Republic of Kenya (2024): fuente probable localizada, pero la afirmación es incorrecta
+
+La noticia oficial del 17 de febrero de 2024 anuncia que Ruto fue designado responsable de impulsar la reforma institucional de la Unión Africana —Champion for Institutional Reform—. No acredita que fuera presidente de la UA. president.go.ke
+
+Puedes sustituir esa frase por: «Kenia participa activamente en la Unión Africana, donde William Ruto fue designado en febrero de 2024 para liderar el proceso de reforma institucional».
+
+President of the Republic of Kenya. (2024, 17 de febrero). AU appoints President Ruto the champion for institutional reform. Noticia oficial
+
+3. Kenya Revenue Authority (s. f.): coincidencia exacta
+
+Su página de preguntas frecuentes confirma que el primer envío a Ghana bajo el AfCFTA se realizó el 5 de octubre de 2022, dentro de la iniciativa guiada. Puedes mantener la cita actual. KRA
+
+Kenya Revenue Authority. (s. f.). Has KRA already implemented AfCFTA? Página oficial
+
+4. International Energy Agency (2025): fuente identificada
+
+El informe se titula Kenya 2024, pero se publicó el 14 de abril de 2025: el año de tu cita es correcto. Su resumen explica el predominio de la generación renovable y recoge geotermia, hidroelectricidad, viento y solar. IEA
+
+International Energy Agency. (2025). Kenya 2024: Energy policy review. Informe
+
+5. International Trade Administration (2024a): fuente que encaja directamente
+
+La sección sobre sistemas eléctricos de su guía comercial describe los recursos y la generación eléctrica de Kenia. La página está fechada el 5 de julio de 2024. Puedes conservar 2024a si la otra publicación es la indicada en el punto 9. Energy-Electrical Power Systems
+
+International Trade Administration. (2024a, 5 de julio). Kenya—Energy-electrical power systems. Guía comercial
+
+6. Kenya Ports Authority (s. f.): fuente adecuada para Mombasa y su conexión regional
+
+La página oficial del puerto de Mombasa confirma su conexión mediante transporte multimodal con Uganda, Ruanda, Burundi y el este de la República Democrática del Congo, entre otros territorios. Respalda esa parte de tu frase; para la denominación y el trazado concreto del Corredor Norte, conviene conservar una fuente específica adicional. Kenya Ports Authority
+
+Kenya Ports Authority. (s. f.). Port of Mombasa. Página oficial
+
+7. International Finance Corporation (2026): coincidencia exacta para varias afirmaciones
+
+He localizado el Kenya: Country private sector diagnostic, de septiembre de 2026. Su resumen ejecutivo contiene:
+- Página iv: trabajadores relativamente cualificados y conectividad regional.
+- Página v: modernización del transporte, tarifas eléctricas elevadas, cortes frecuentes en el 75 % de las empresas y restricciones de agua.
+- Páginas vi–viii y capítulo 3: oportunidades en aguacate y mango.
+Es una coincidencia muy clara con tu apartado 3 y permite mantener las citas de 2026. La referencia sobre IHS de 2024 debe seguir como publicación independiente. ifc.org
+
+International Finance Corporation. (2026). Kenya: Country private sector diagnostic. Informe completo
+
+8. InvestKenya (s. f.): fuente institucional adecuada, aunque no puedo asegurar que fuera la original
+
+La página Agriculture and livestock presenta el aguacate entre las fortalezas agrícolas exportadoras y recoge oportunidades de inversión en el sector. Sirve para tu afirmación general; para un análisis detallado de la cadena de valor, el informe de IFC anterior es más específico. investkenya.go.ke
+
+InvestKenya. (s. f.). Agriculture and livestock. Página institucional
+
+9. International Trade Administration (2024b): fuente muy probable
+
+La página Kenya—Market overview destaca expresamente su población joven y formada, sus capacidades tecnológicas y su función como centro económico, comercial, financiero y logístico regional. Coincide con las dos ideas de tu párrafo. Market Overview
+
+International Trade Administration. (2024b, 5 de julio). Kenya—Market overview. Guía comercial
+
+10. African Development Bank (2025): fuente que encaja directamente
+
+El Country focus report 2025: Kenya, en la página 20, apartado 3.4, aborda las deficiencias en la ejecución de contratos, la lentitud de los litigios y sus efectos sobre la inversión. Es una fuente precisa para tu afirmación sobre seguridad jurídica. vcda.afdb.org
+
+African Development Bank. (2025). Country focus report 2025: Kenya. Informe
+
+11. World Bank (2004): coincidencia exacta
+
+Aunque su título trata sobre educación, el informe incluye un diagnóstico económico inicial con todas las cifras de tu párrafo: crecimiento del 6,6 % en 1963–1972, del 4,3 % en 1980–1989 y del 2,2 % en 1990–2001, junto con la caída del ingreso real por habitante. Aparecen en los párrafos 1.3–1.4 y la tabla 1.1, en la página 23 del archivo PDF. documents.worldbank.org
+
+World Bank. (2004). Strengthening the foundation of education and training in Kenya: Opportunities and challenges in primary and general secondary education (Report No. 28064-KE). Informe
+
+Al incorporarlas, unifica «Banco Mundial» y «World Bank» en todo el trabajo. Si eliges «World Bank», las dos publicaciones de 2025 quedarían como 2025a para KE-Affordable Housing Finance Project 2 y 2025b para Kenya economic update 32, según el orden alfabético de sus títulos. Actualiza también esas letras en las citas del texto.
