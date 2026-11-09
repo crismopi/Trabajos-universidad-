@@ -1,1 +1,1 @@
-
+los pdfs son las sesiones de clase, quiero estudiar para el examen. quiero que me hagas resumenes con todo lo que consideres relevante de cara a un examen, no quiero que quites demasiada información. 
